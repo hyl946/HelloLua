@@ -1,0 +1,1 @@
+LastPayTimeCondition = class(UserTagAutomationCoditionBean)

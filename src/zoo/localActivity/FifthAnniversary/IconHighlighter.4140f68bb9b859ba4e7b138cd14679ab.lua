@@ -1,0 +1,1 @@
+return require "zoo.localActivity.PigYear.IconHighlighter"

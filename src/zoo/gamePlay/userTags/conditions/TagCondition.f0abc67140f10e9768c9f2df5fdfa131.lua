@@ -1,0 +1,1 @@
+TagCondition = class(UserTagAutomationCoditionBean)

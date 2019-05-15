@@ -1,0 +1,1 @@
+DigTimeMode = class(ClassicMode)

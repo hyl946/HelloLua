@@ -1,0 +1,1 @@
+PlatformRangeCondition = class(UserTagAutomationCoditionBean)

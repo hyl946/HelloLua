@@ -1,0 +1,2161 @@
+local example = {
+	[1] = {
+		mockData = {
+			--必须
+			logicVer = 4,				--标签算法版本号
+			uid = "50093",				--暂时没用
+			topLevelId = 184, 			--玩家所在topLevel
+			maxLevelId = 2055,			--主藤曼开到的最高关卡数
+			topLevelFailCounts = 5,		--失败次数，即logicalFailCount
+			diff = 3 ,					--关卡的平均难度
+		},	
+		result = { diffTag = 1 },		--期望的结果，1-5表示1阶到5阶，10低难，11中难
+	},
+}
+
+
+--	参数说明：
+--	logicVer	标签算法版本号
+--	uid			暂时没用
+--	topLevelId	玩家所在topLevel
+--	maxLevelId	开到的最高关卡数
+--	topLevelFailCounts	失败次数，即logicalFailCount
+--	diff 		关卡的平均难度
+--	result		期望的结果，1-5表示1阶到5阶，11表示其它
+
+--	用例编号规范：
+--  0_400_d2_a1中：
+--	0 	表示关卡段的下边界，
+--	400 表示关卡段的上边界
+--	d2 	表示期望结果是2阶(1-5表示1阶到5阶，0表示其它)
+--	a1 	a表示关卡下边界和平均难度下边界，c表示关卡下边界和平均难度上边界，b表示关卡上边界和平均难度下边界，d表示关卡上边界和平均难度上边界
+
+
+local Config = {
+    -- A17, 0-400关，平均难度≤3	
+	["0_400_d0_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 2,	
+			diff = 1 ,	
+		},
+		result = { diffTag = 11 },
+	},
+	["0_400_d1_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 3,	
+			diff = 1 ,	
+		},
+		result = { diffTag = 1 },
+	},
+	["0_400_d0_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 4,	
+			diff = 3,	
+		},
+		result = { diffTag = 11 },
+	},
+	["0_400_d1_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 5,	
+			diff = 3,	
+		},
+		result = { diffTag = 1 },
+	},
+	["0_400_d2_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 3,	
+		},
+		result = { diffTag = 2 },
+	},
+	["0_400_d3_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 3,	
+		},
+		result = { diffTag = 3 },
+	},
+	["0_400_d3_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 3,	
+		},
+		result = { diffTag = 3 },
+	},
+	["0_400_d4_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 3,	
+		},
+		result = { diffTag = 4 },
+	},
+		["0_400_d4_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 3,	
+		},
+		result = { diffTag = 4 },
+	},
+		["0_400_d5_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 3,	
+		},
+		result = { diffTag = 5 },
+	},
+    -- A17, 0-400关，平均难度>3	
+		["0_400_d0_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 4,	
+			diff = 4,	
+		},
+		result = { diffTag = 11 },
+	},
+		["0_400_d1_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 5,	
+			diff = 4,	
+		},
+		result = { diffTag = 1 },
+	},
+		["0_400_d2_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 4,	
+		},
+		result = { diffTag = 2 },
+	},
+		["0_400_d3_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 4,	
+		},
+		result = { diffTag = 3 },
+	},
+		["0_400_d3_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 4,	
+		},
+		result = { diffTag = 3 },
+	},
+		["0_400_d4_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 4,	
+		},
+		result = { diffTag = 4 },
+	},
+		["0_400_d4_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 4,	
+		},
+		result = { diffTag = 4 },
+	},
+		["0_400_d5_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 400, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 4,	
+		},
+		result = { diffTag = 5 },
+	},
+	-- A17, 401-800关，平均难度≤4	
+		["401_800_d0_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 5,	
+			diff = 4,	
+		},
+		result = { diffTag = 11 },
+	},
+		["401_800_d1_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 4,	
+		},
+		result = { diffTag = 1 },
+	},
+		["401_800_d2_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 4,	
+		},
+		result = { diffTag = 2 },
+	},
+		["401_800_d2_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 4,	
+		},
+		result = { diffTag = 3 },
+	},
+		["401_800_d4_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 4,	
+		},
+		result = { diffTag = 4 },
+	},
+		["401_800_d5_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 4,	
+		},
+		result = { diffTag = 5 },
+	},
+		["401_800_d0_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 5,	
+			diff = 4,	
+		},
+		result = { diffTag = 11 },
+	},
+		["401_800_d1_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 4,	
+		},
+		result = { diffTag = 1 },
+	},
+		["401_800_d2_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 4,	
+		},
+		result = { diffTag = 2 },
+	},
+		["401_800_d2_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 4,	
+		},
+		result = { diffTag = 3 },
+	},
+		["401_800_d4_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 4,	
+		},
+		result = { diffTag = 4 },
+	},
+		["401_800_d5_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 4,	
+		},
+		result = { diffTag = 5 },
+	},
+	-- A17, 401-800关，平均难度>4
+		["401_800_d0_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 5,	
+			diff = 5,	
+		},
+		result = { diffTag = 11 },
+	},
+		["401_800_d1_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 5,	
+		},
+		result = { diffTag = 1 },
+	},
+		["401_800_d2_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 5,	
+		},
+		result = { diffTag = 2 },
+	},
+		["401_800_d2_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 5,	
+		},
+		result = { diffTag = 2 },
+	},
+		["401_800_d3_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 5,	
+		},
+		result = { diffTag = 3 },
+	},
+		["401_800_d3_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 5,	
+		},
+		result = { diffTag = 3 },
+	},
+		["401_800_d4_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 5,	
+		},
+		result = { diffTag = 4 },
+	},
+		["401_800_d4_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 5,	
+		},
+		result = { diffTag = 4 },
+	},
+		["401_800_d5_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 401, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 5,	
+		},
+		result = { diffTag = 5 },
+	},
+		["401_800_d0_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 5,	
+			diff = 5,	
+		},
+		result = { diffTag = 11 },
+	},
+		["401_800_d1_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 5,	
+		},
+		result = { diffTag = 1 },
+	},
+		["401_800_d2_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 5,	
+		},
+		result = { diffTag = 2 },
+	},
+		["401_800_d2_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 5,	
+		},
+		result = { diffTag = 2 },
+	},
+		["401_800_d3_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 5,	
+		},
+		result = { diffTag = 3 },
+	},
+		["401_800_d3_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 5,	
+		},
+		result = { diffTag = 3 },
+	},
+		["401_800_d4_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 5,	
+		},
+		result = { diffTag = 4 },
+	},
+		["401_800_d4_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 5,	
+		},
+		result = { diffTag = 4 },
+	},
+		["401_800_d5_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 800, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 5,	
+		},
+		result = { diffTag = 5 },
+	},
+	-- A17, 801_1200关，平均难度≤5
+		["801_1200_d0_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 5,	
+		},
+		result = { diffTag = 11 },
+	},	
+		["801_1200_d1_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 5,	
+		},
+		result = { diffTag = 1 },
+	},	
+	["801_1200_d2_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 5,	
+		},
+		result = { diffTag = 2 },
+	},	
+	["801_1200_d2_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 5,	
+		},
+		result = { diffTag = 2 },
+	},	
+	["801_1200_d3_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 5,	
+		},
+		result = { diffTag = 3 },
+	},	
+	["801_1200_d3_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 5,	
+		},
+		result = { diffTag = 3 },
+	},	
+	["801_1200_d4_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 5,	
+		},
+		result = { diffTag = 4 },
+	},	
+	["801_1200_d4_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 5,	
+		},
+		result = { diffTag = 4 },
+	},	
+	["801_1200_d5_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 5,	
+		},
+		result = { diffTag = 5 },
+	},	
+	["801_1200_d0_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 5,	
+		},
+		result = { diffTag = 11 },
+	},	
+		["801_1200_d1_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 5,	
+		},
+		result = { diffTag = 1 },
+	},	
+	["801_1200_d2_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 5,	
+		},
+		result = { diffTag = 2 },
+	},	
+	["801_1200_d2_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 5,	
+		},
+		result = { diffTag = 2 },
+	},	
+	["801_1200_d3_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 5,	
+		},
+		result = { diffTag = 3 },
+	},	
+	["801_1200_d3_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 5,	
+		},
+		result = { diffTag = 3 },
+	},	
+	["801_1200_d4_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 5,	
+		},
+		result = { diffTag = 4 },
+	},	
+	["801_1200_d4_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 5,	
+		},
+		result = { diffTag = 4 },
+	},	
+	["801_1200_d5_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 5,	
+		},
+		result = { diffTag = 5 },
+	},	
+	-- A17, 801_1200关，平均难度>5
+	["801_1200_d0_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 6,	
+		},
+		result = { diffTag = 11 },
+	},
+	["801_1200_d1_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 6,	
+		},
+		result = { diffTag = 1 },
+	},
+	["801_1200_d2_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 6,	
+		},
+		result = { diffTag = 2 },
+	},
+	["801_1200_d2_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 6,	
+		},
+		result = { diffTag = 2 },
+	},
+	["801_1200_d3_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 6,	
+		},
+		result = { diffTag = 3 },
+	},
+	["801_1200_d3_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 6,	
+		},
+		result = { diffTag = 3 },
+	},
+	["801_1200_d4_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 6,	
+		},
+		result = { diffTag = 4 },
+	},
+	["801_1200_d4_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 6,	
+		},
+		result = { diffTag = 4 },
+	},
+	["801_1200_d5_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 801, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 6,	
+		},
+		result = { diffTag = 5 },
+	},
+	["801_1200_d0_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 6,	
+			diff = 6,	
+		},
+		result = { diffTag = 11 },
+	},
+	["801_1200_d1_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 6,	
+		},
+		result = { diffTag = 1 },
+	},
+	["801_1200_d2_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 6,	
+		},
+		result = { diffTag = 2 },
+	},
+	["801_1200_d2_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 6,	
+		},
+		result = { diffTag = 2 },
+	},
+	["801_1200_d3_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 6,	
+		},
+		result = { diffTag = 3 },
+	},
+	["801_1200_d3_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 6,	
+		},
+		result = { diffTag = 3 },
+	},
+	["801_1200_d4_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 6,	
+		},
+		result = { diffTag = 4 },
+	},
+	["801_1200_d4_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 6,	
+		},
+		result = { diffTag = 4 },
+	},
+	["801_1200_d5_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1200, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 6,	
+		},
+		result = { diffTag = 5 },
+	},
+	-- A17, 1201_1600关，平均难度≤6	
+	["1201_1600_d0_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 6,	
+		},
+		result = { diffTag = 11 },
+	},
+	["1201_1600_d1_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 6,	
+		},
+		result = { diffTag = 1 },
+	},
+	["1201_1600_d2_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 6,	
+		},
+		result = { diffTag = 2 },
+	},
+	["1201_1600_d2_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 6,	
+		},
+		result = { diffTag = 2 },
+	},
+	["1201_1600_d3_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 6,	
+		},
+		result = { diffTag = 3 },
+	},
+	["1201_1600_d3_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 6,	
+		},
+		result = { diffTag = 3 },
+	},
+	["1201_1600_d4_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 14,	
+			diff = 6,	
+		},
+		result = { diffTag = 4 },
+	},
+	["1201_1600_d4_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 6,	
+		},
+		result = { diffTag = 4 },
+	},
+	["1201_1600_d5_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 17,	
+			diff = 6,	
+		},
+		result = { diffTag = 5 },
+	},
+	["1201_1600_d0_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 6,	
+		},
+		result = { diffTag = 11 },
+	},
+	["1201_1600_d1_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 6,	
+		},
+		result = { diffTag = 1 },
+	},
+	["1201_1600_d2_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 6,	
+		},
+		result = { diffTag = 2 },
+	},
+	["1201_1600_d2_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 6,	
+		},
+		result = { diffTag = 2 },
+	},
+	["1201_1600_d3_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 6,	
+		},
+		result = { diffTag = 3 },
+	},
+	["1201_1600_d3_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 6,	
+		},
+		result = { diffTag = 3 },
+	},
+	["1201_1600_d4_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 14,	
+			diff = 6,	
+		},
+		result = { diffTag = 4 },
+	},
+	["1201_1600_d4_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 6,	
+		},
+		result = { diffTag = 4 },
+	},
+	["1201_1600_d5_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 17,	
+			diff = 6,	
+		},
+		result = { diffTag = 5 },
+	},
+	-- A17, 1201_1600关，平均难度>6	
+	["1201_1600_d0_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 7,	
+		},
+		result = { diffTag = 11 },
+	},
+	["1201_1600_d1_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 7,	
+		},
+		result = { diffTag = 1 },
+	},
+	["1201_1600_d2_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 7,	
+		},
+		result = { diffTag = 2 },
+	},
+	["1201_1600_d2_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 7,	
+		},
+		result = { diffTag = 2 },
+	},
+	["1201_1600_d3_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 7,	
+		},
+		result = { diffTag = 3 },
+	},
+	["1201_1600_d3_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 7,	
+		},
+		result = { diffTag = 3 },
+	},
+	["1201_1600_d4_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 14,	
+			diff = 7,	
+		},
+		result = { diffTag = 4 },
+	},
+	["1201_1600_d4_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 7,	
+		},
+		result = { diffTag = 4 },
+	},
+	["1201_1600_d5_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1201, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 17,	
+			diff = 7,	
+		},
+		result = { diffTag = 5 },
+	},
+	["1201_1600_d0_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 7,	
+			diff = 7,	
+		},
+		result = { diffTag = 11 },
+	},
+	["1201_1600_d1_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 8,	
+			diff = 7,	
+		},
+		result = { diffTag = 1 },
+	},
+	["1201_1600_d2_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 7,	
+		},
+		result = { diffTag = 2 },
+	},
+	["1201_1600_d2_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 7,	
+		},
+		result = { diffTag = 2 },
+	},
+	["1201_1600_d3_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 7,	
+		},
+		result = { diffTag = 3 },
+	},
+	["1201_1600_d3_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 7,	
+		},
+		result = { diffTag = 3 },
+	},
+	["1201_1600_d4_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 14,	
+			diff = 7,	
+		},
+		result = { diffTag = 4 },
+	},
+	["1201_1600_d4_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 7,	
+		},
+		result = { diffTag = 4 },
+	},
+	["1201_1600_d5_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1600, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 17,	
+			diff = 7,	
+		},
+		result = { diffTag = 5 },
+	},
+    -- A17, 1601-满级-60关，平均难度≤8
+   	["1601_top60_d0_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 8,	
+		},
+		result = { diffTag = 11 },
+	},
+   	["1601_top60_d1_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 8,	
+		},
+		result = { diffTag = 1 },
+	},
+   	["1601_top60_d2_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 8,	
+		},
+		result = { diffTag = 2 },
+	},
+   	["1601_top60_d2_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 8,	
+		},
+		result = { diffTag = 2 },
+	},
+   	["1601_top60_d3_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 8,	
+		},
+		result = { diffTag = 3 },
+	},
+   	["1601_top60_d3_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 8,	
+		},
+		result = { diffTag = 3 },
+	},
+   	["1601_top60_d4_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 8,	
+		},
+		result = { diffTag = 4 },
+	},
+   	["1601_top60_d4_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 18,	
+			diff = 8,	
+		},
+		result = { diffTag = 4 },
+	},
+   	["1601_top60_d5_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 19,	
+			diff = 8,	
+		},
+		result = { diffTag = 5 },
+	},
+ 	["1601_top60_d0_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 8,	
+		},
+		result = { diffTag = 11 },
+	},
+   	["1601_top60_d1_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 8,	
+		},
+		result = { diffTag = 1 },
+	},
+   	["1601_top60_d2_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 8,	
+		},
+		result = { diffTag = 2 },
+	},
+   	["1601_top60_d2_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 8,	
+		},
+		result = { diffTag = 2 },
+	},
+   	["1601_top60_d3_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 8,	
+		},
+		result = { diffTag = 3 },
+	},
+   	["1601_top60_d3_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 8,	
+		},
+		result = { diffTag = 3 },
+	},
+   	["1601_top60_d4_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 8,	
+		},
+		result = { diffTag = 4 },
+	},
+   	["1601_top60_d4_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 18,	
+			diff = 8,	
+		},
+		result = { diffTag = 4 },
+	},
+   	["1601_top60_d5_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 19,	
+			diff = 8,	
+		},
+		result = { diffTag = 5 },
+	},
+	 -- A17, 1601-满级-60关，平均难度>8
+   	["1601_top60_d0_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 9,	
+		},
+		result = { diffTag = 11 },
+	},
+   	["1601_top60_d1_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 9,	
+		},
+		result = { diffTag = 1 },
+	},
+   	["1601_top60_d2_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 9,	
+		},
+		result = { diffTag = 2 },
+	},
+   	["1601_top60_d2_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 9,	
+		},
+		result = { diffTag = 2 },
+	},
+   	["1601_top60_d3_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 9,	
+		},
+		result = { diffTag = 3 },
+	},
+   	["1601_top60_d3_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 9,	
+		},
+		result = { diffTag = 3 },
+	},
+   	["1601_top60_d4_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 9,	
+		},
+		result = { diffTag = 4 },
+	},
+   	["1601_top60_d4_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 18,	
+			diff = 9,	
+		},
+		result = { diffTag = 4 },
+	},
+   	["1601_top60_d5_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1601, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 19,	
+			diff = 9,	
+		},
+		result = { diffTag = 5 },
+	},
+["1601_top60_d0_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 9,	
+			diff = 9,	
+		},
+		result = { diffTag = 11 },
+	},
+   	["1601_top60_d1_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 10,	
+			diff = 9,	
+		},
+		result = { diffTag = 1 },
+	},
+   	["1601_top60_d2_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 11,	
+			diff = 9,	
+		},
+		result = { diffTag = 2 },
+	},
+   	["1601_top60_d2_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 12,	
+			diff = 9,	
+		},
+		result = { diffTag = 2 },
+	},
+   	["1601_top60_d3_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 9,	
+		},
+		result = { diffTag = 3 },
+	},
+   	["1601_top60_d3_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 9,	
+		},
+		result = { diffTag = 3 },
+	},
+   	["1601_top60_d4_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 9,	
+		},
+		result = { diffTag = 4 },
+	},
+   	["1601_top60_d4_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 18,	
+			diff = 9,	
+		},
+		result = { diffTag = 4 },
+	},
+   	["1601_top60_d5_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1940, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 19,	
+			diff = 9,	
+		},
+		result = { diffTag = 5 },
+	},
+	-- A17, 满级60关以内，平均难度≤10
+   	["top60_max_d0_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 10,	
+		},
+		result = { diffTag = 11 },
+	},	
+   	["top60_max_d1_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 14,	
+			diff = 10,	
+		},
+		result = { diffTag = 1 },
+	},	
+   	["top60_max_d2_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 10,	
+		},
+		result = { diffTag = 2 },
+	},	
+   	["top60_max_d2_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 10,	
+		},
+		result = { diffTag = 2 },
+	},	
+   	["top60_max_d3_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 17,	
+			diff = 10,	
+		},
+		result = { diffTag = 3 },
+	},	
+   	["top60_max_d3_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 20,	
+			diff = 10,	
+		},
+		result = { diffTag = 3 },
+	},	
+   	["top60_max_d4_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 21,	
+			diff = 10,	
+		},
+		result = { diffTag = 4 },
+	},	
+   	["top60_max_d4_a2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 25,	
+			diff = 10,	
+		},
+		result = { diffTag = 4 },
+	},	
+   	["top60_max_d5_a1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 26,	
+			diff = 10,	
+		},
+		result = { diffTag = 5 },
+	},	
+ 	["top60_max_d0_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 10,	
+		},
+		result = { diffTag = 11 },
+	},	
+   	["top60_max_d1_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 14,	
+			diff = 10,	
+		},
+		result = { diffTag = 1 },
+	},	
+   	["top60_max_d2_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 10,	
+		},
+		result = { diffTag = 2 },
+	},	
+   	["top60_max_d2_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 10,	
+		},
+		result = { diffTag = 2 },
+	},	
+   	["top60_max_d3_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 17,	
+			diff = 10,	
+		},
+		result = { diffTag = 3 },
+	},	
+   	["top60_max_d3_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 20,	
+			diff = 10,	
+		},
+		result = { diffTag = 3 },
+	},	
+   	["top60_max_d4_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 21,	
+			diff = 10,	
+		},
+		result = { diffTag = 4 },
+	},	
+   	["top60_max_d4_c2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 25,	
+			diff = 10,	
+		},
+		result = { diffTag = 4 },
+	},	
+   	["top60_max_d5_c1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 26,	
+			diff = 10,	
+		},
+		result = { diffTag = 5 },
+	},	
+	-- A17, 满级60关以内，平均难度>10
+   	["top60_max_d0_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 11,	
+		},
+		result = { diffTag = 11 },
+	},	
+   	["top60_max_d1_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 14,	
+			diff = 11,	
+		},
+		result = { diffTag = 1 },
+	},	
+  	["top60_max_d2_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 11,	
+		},
+		result = { diffTag = 2 },
+	},	
+  	["top60_max_d2_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 11,	
+		},
+		result = { diffTag = 2 },
+	},	
+  	["top60_max_d3_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 17,	
+			diff = 11,	
+		},
+		result = { diffTag = 3 },
+	},
+  	["top60_max_d3_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 20,	
+			diff = 11,	
+		},
+		result = { diffTag = 3 },
+	},
+  	["top60_max_d4_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 21,	
+			diff = 11,	
+		},
+		result = { diffTag = 4 },
+	},
+  	["top60_max_d4_b2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 25,	
+			diff = 11,	
+		},
+		result = { diffTag = 4 },
+	},
+  	["top60_max_d5_b1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 1941, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 26,	
+			diff = 11,	
+		},
+		result = { diffTag = 5 },
+	},
+ 	["top60_max_d0_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 13,	
+			diff = 11,	
+		},
+		result = { diffTag = 11 },
+	},	
+   	["top60_max_d1_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 14,	
+			diff = 11,	
+		},
+		result = { diffTag = 1 },
+	},	
+  	["top60_max_d2_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 15,	
+			diff = 11,	
+		},
+		result = { diffTag = 2 },
+	},	
+  	["top60_max_d2_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 16,	
+			diff = 11,	
+		},
+		result = { diffTag = 2 },
+	},	
+  	["top60_max_d3_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 17,	
+			diff = 11,	
+		},
+		result = { diffTag = 3 },
+	},
+  	["top60_max_d3_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 20,	
+			diff = 11,	
+		},
+		result = { diffTag = 3 },
+	},
+  	["top60_max_d4_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 21,	
+			diff = 11,	
+		},
+		result = { diffTag = 4 },
+	},
+  	["top60_max_d4_d2"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 25,	
+			diff = 11,	
+		},
+		result = { diffTag = 4 },
+	},
+  	["top60_max_d5_d1"] = {
+		mockData = {
+			logicVer = 4,
+			uid = "53128",		
+			topLevelId = 2000, 
+			maxLevelId = 2000,			
+			topLevelFailCounts = 26,	
+			diff = 11,	
+		},
+		result = { diffTag = 5 },
+	},
+}
+
+return Config

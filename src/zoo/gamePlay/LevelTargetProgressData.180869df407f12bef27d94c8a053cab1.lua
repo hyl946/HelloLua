@@ -1,0 +1,1 @@
+LevelTargetProgressData = class()

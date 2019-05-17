@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f7a43001bd9d67c77293dc068528c17f:c1889bb322a46ddba3a3d35994aee3b8:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="share_20_2_animation/__resource/cloud1" x="939" y="130" width="553" height="162" frameX="0" frameY="0" frameWidth="555" frameHeight="162"/>
+    <SubTexture name="share_20_2_animation/__resource/cloud2" x="2" y="1311" width="935" height="333" frameX="-26" frameY="-39" frameWidth="961" frameHeight="389"/>
+    <SubTexture name="share_20_2_animation/__resource/ertert3" x="1623" y="129" width="19" height="19" frameX="-1" frameY="-1" frameWidth="23" frameHeight="23"/>
+    <SubTexture name="share_20_2_animation/__resource/flower1" x="1494" y="234" width="101" height="165" frameX="-22" frameY="-12" frameWidth="145" frameHeight="209"/>
+    <SubTexture name="share_20_2_animation/__resource/frge" x="723" y="187" width="181" height="233" frameX="-39" frameY="-34" frameWidth="265" frameHeight="299"/>
+    <SubTexture name="share_20_2_animation/__resource/getgtr" x="1494" y="194" width="103" height="38" frameX="-7" frameY="-22" frameWidth="123" frameHeight="78"/>
+    <SubTexture name="share_20_2_animation/__resource/ggthte" x="2" y="2" width="719" height="1307" frameX="-2" frameY="0" frameWidth="721" frameHeight="1307"/>
+    <SubTexture name="share_20_2_animation/__resource/hippoeye" x="723" y="422" width="169" height="85"/>
+    <SubTexture name="share_20_2_animation/__resource/hippohappy" x="723" y="881" width="351" height="401" frameX="-30" frameY="-15" frameWidth="419" frameHeight="443"/>
+    <SubTexture name="share_20_2_animation/__resource/huangguan 副本" x="723" y="2" width="205" height="183" frameX="-21" frameY="-61" frameWidth="293" frameHeight="291"/>
+    <SubTexture name="share_20_2_animation/__resource/huangguan" x="723" y="509" width="164" height="138" frameX="-3" frameY="-35" frameWidth="204" frameHeight="202"/>
+    <SubTexture name="share_20_2_animation/__resource/xingguang" x="821" y="649" width="71" height="69"/>
+    <SubTexture name="share_20_2_animation/__resource/渐变黄" x="723" y="649" width="96" height="96"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/hongdai 副本 2" x="939" y="294" width="537" height="119"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/htyjhyu 副本 3" x="906" y="187" width="25" height="26"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/htyjhyu 副本 4" x="906" y="265" width="22" height="23"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/htyjhyu 副本 5" x="906" y="240" width="22" height="23"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/htyjhyu 副本 6" x="906" y="215" width="22" height="23"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/sefrth" x="1504" y="129" width="117" height="63" frameX="-4" frameY="0" frameWidth="121" frameHeight="63"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/sgtrhy" x="939" y="2" width="563" height="126" frameX="0" frameY="-1" frameWidth="567" frameHeight="130"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/txt 副本" x="1478" y="401" width="165" height="35" frameX="-2" frameY="-10" frameWidth="175" frameHeight="59"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/位图 1 副本" x="939" y="415" width="465" height="464" frameX="-21" frameY="-22" frameWidth="511" frameHeight="512"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/元件 1 副本" x="1504" y="2" width="125" height="125" frameX="-5" frameY="-5" frameWidth="135" frameHeight="135"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/元件 26 副本 5" x="1631" y="14" width="9" height="8" frameX="0" frameY="-1" frameWidth="9" frameHeight="10"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/元件 27 副本 3" x="930" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="4" frameHeight="4"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/元件 28 副本 3" x="1631" y="2" width="10" height="10"/>
+    <SubTexture name="share_20_2_animation/__resource/重复项目文件夹/星星旋转动画" x="1623" y="150" width="14" height="23" frameX="0" frameY="-1" frameWidth="14" frameHeight="27"/>
+</TextureAtlas>

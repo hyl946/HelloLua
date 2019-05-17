@@ -1,0 +1,31 @@
+<TextureAtlas name="BuffInitFlyInAnimation" imagePath="texture.png">
+ <SubTexture name="元件 23" x="224" y="704" width="210" height="161"/>
+ <SubTexture name="元件 24" x="0" y="524" width="221" height="224"/>
+ <SubTexture name="BuffInitFlyInAnimationResOthers/重复项目文件夹/元件 33" x="519" y="342" width="41" height="20"/>
+ <SubTexture name="元件 26" x="305" y="0" width="258" height="339"/>
+ <SubTexture name="元件 27" x="0" y="797" width="169" height="59"/>
+ <SubTexture name="元件 25" x="151" y="868" width="159" height="24"/>
+ <SubTexture name="H1" x="814" y="0" width="193" height="193"/>
+ <SubTexture name="元件 21" x="0" y="752" width="210" height="42"/>
+ <SubTexture name="元件 29" x="567" y="0" width="244" height="284"/>
+ <SubTexture name="1A" x="802" y="329" width="210" height="210"/>
+ <SubTexture name="元件 1" x="1010" y="36" width="5" height="5"/>
+ <SubTexture name="BuffInitFlyInAnimationResOthers/重复项目文件夹/元件 28 副本 10" x="284" y="303" width="14" height="14"/>
+ <SubTexture name="BuffInitFlyInAnimationResOthers/重复项目文件夹/rgeth 副本 9" x="437" y="704" width="64" height="64"/>
+ <SubTexture name="BuffInitFlyInAnimationResOthers/重复项目文件夹/grthy 副本 9" x="1010" y="0" width="10" height="10"/>
+ <SubTexture name="sdghy" x="0" y="0" width="302" height="300"/>
+ <SubTexture name="重复项目文件夹/元件 9 副本" x="243" y="303" width="38" height="38"/>
+ <SubTexture name="H2" x="567" y="287" width="232" height="232"/>
+ <SubTexture name="2A" x="754" y="543" width="218" height="198"/>
+ <SubTexture name="H3" x="284" y="342" width="232" height="218"/>
+ <SubTexture name="3A" x="814" y="196" width="206" height="130"/>
+ <SubTexture name="H4" x="519" y="522" width="232" height="218"/>
+ <SubTexture name="4A" x="504" y="743" width="224" height="144"/>
+ <SubTexture name="H5" x="0" y="303" width="240" height="218"/>
+ <SubTexture name="5A" x="224" y="563" width="240" height="138"/>
+ <SubTexture name="重复项目文件夹/OOOvghj" x="731" y="744" width="143" height="143"/>
+ <SubTexture name="重复项目文件夹/OOOqtykj" x="1010" y="25" width="8" height="8"/>
+ <SubTexture name="重复项目文件夹/OOOyysa" x="1010" y="14" width="8" height="8"/>
+ <SubTexture name="重复项目文件夹/OOObvnm" x="877" y="744" width="128" height="127"/>
+ <SubTexture name="BuffInitFlyInAnimationResOthers/元件 1" x="0" y="859" width="147" height="70"/>
+</TextureAtlas>

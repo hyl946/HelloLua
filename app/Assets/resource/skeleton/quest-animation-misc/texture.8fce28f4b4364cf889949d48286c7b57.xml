@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b6f183776922e7290d6895df012bfc8a:eff87096aaa30ff8418b7e378a857bfd:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="quest-animation-misc/rse/PVP连胜领奖连胜弹窗/star2" x="568" y="135" width="66" height="65"/>
+    <SubTexture name="quest-animation-misc/rse/b" x="2" y="2" width="570" height="131" frameX="0" frameY="0" frameWidth="574" frameHeight="133"/>
+    <SubTexture name="quest-animation-misc/rse/bnc" x="368" y="417" width="112" height="112" frameX="-96" frameY="-104" frameWidth="318" frameHeight="316"/>
+    <SubTexture name="quest-animation-misc/rse/cvb-A" x="2" y="276" width="564" height="139" frameX="-11" frameY="-7" frameWidth="586" frameHeight="155"/>
+    <SubTexture name="quest-animation-misc/rse/cvbb" x="2" y="135" width="564" height="139" frameX="-11" frameY="-7" frameWidth="586" frameHeight="155"/>
+    <SubTexture name="quest-animation-misc/rse/dfgg" x="568" y="202" width="65" height="67" frameX="0" frameY="-4" frameWidth="67" frameHeight="71"/>
+    <SubTexture name="quest-animation-misc/rse/ffffffffff" x="620" y="21" width="1" height="1" frameX="0" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="quest-animation-misc/rse/fggg" x="482" y="417" width="101" height="107" frameX="-160" frameY="-171" frameWidth="443" frameHeight="443"/>
+    <SubTexture name="quest-animation-misc/rse/quan" x="620" y="2" width="17" height="17"/>
+    <SubTexture name="quest-animation-misc/rse/yy" x="2" y="417" width="364" height="117" frameX="-116" frameY="-20" frameWidth="586" frameHeight="155"/>
+    <SubTexture name="quest-animation-misc/rse/yy2" x="2" y="536" width="395" height="101" frameX="-5" frameY="-2" frameWidth="405" frameHeight="107"/>
+    <SubTexture name="quest-animation-misc/rse/元件 137" x="574" y="49" width="24" height="24"/>
+    <SubTexture name="quest-animation-misc/rse/元件 71" x="574" y="2" width="44" height="45" frameX="0" frameY="0" frameWidth="46" frameHeight="49"/>
+</TextureAtlas>

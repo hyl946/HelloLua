@@ -1,0 +1,59 @@
+{
+	"image": "ShareButtonIcon.png",
+	"config": "ShareButtonIcon.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"btnGrop": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 46,
+				"height": 51,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "1",
+				"image": "share_btn_icon/sbi_qq",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 57,
+				"y": 0,
+				"width": 41.7,
+				"height": 37.1,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "2",
+				"image": "share_btn_icon/sbi_mi",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 112,
+				"y": 0,
+				"width": 43.05,
+				"height": 36.6,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 2,
+				"id": "3",
+				"image": "share_btn_icon/sbi_wx",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

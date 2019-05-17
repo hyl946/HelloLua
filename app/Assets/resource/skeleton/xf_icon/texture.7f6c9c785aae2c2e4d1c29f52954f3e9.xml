@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7b4d478a10acc6953c5790e3c83f5d54:f8940b101f7cc8ee43097dcbfbf97754:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="xf_icon/assert/xige" x="2" y="128" width="123" height="130" frameX="-5" frameY="-4" frameWidth="143" frameHeight="144"/>
+    <SubTexture name="xf_icon/assert/xzi" x="250" y="239" width="70" height="22" frameX="-2" frameY="-5" frameWidth="78" frameHeight="34"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/bubble" x="2" y="2" width="130" height="124" frameX="-26" frameY="-22" frameWidth="184" frameHeight="172"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/iconbasic" x="266" y="2" width="73" height="73" frameX="0" frameY="-6" frameWidth="77" frameHeight="79"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/leaf" x="127" y="196" width="121" height="72"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/light" x="2" y="260" width="78" height="83"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/light1" x="260" y="284" width="11" height="6"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/shadow" x="171" y="270" width="87" height="70"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/重复项目文件夹/bubble" x="134" y="2" width="130" height="118"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/重复项目文件夹/iconbasic" x="266" y="77" width="71" height="74" frameX="0" frameY="-2" frameWidth="71" frameHeight="76"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/重复项目文件夹/leaf" x="134" y="122" width="121" height="72"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/重复项目文件夹/light" x="257" y="153" width="79" height="84"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/重复项目文件夹/light1" x="82" y="260" width="11" height="7"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/重复项目文件夹/shadow" x="82" y="270" width="87" height="70"/>
+    <SubTexture name="xf_icon/assert/未命名文件夹 1/重复项目文件夹/xzi" x="260" y="263" width="65" height="19"/>
+</TextureAtlas>

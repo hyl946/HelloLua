@@ -1,0 +1,25 @@
+info face="MicrosoftYaHei-Bold" size=35 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=47 base=37 scaleW=256 scaleH=128 pages=1 packed=0
+page id=0 file="pay_name.png"
+chars count=20
+char id=32     x=241   y=85    width=0     height=0     xoffset=0     yoffset=38    xadvance=10    page=0 chnl=0 letter="space"
+char id=48     x=191   y=85    width=24    height=33    xoffset=1     yoffset=5     xadvance=22    page=0 chnl=0 letter="0"
+char id=51     x=217   y=85    width=22    height=33    xoffset=3     yoffset=5     xadvance=22    page=0 chnl=0 letter="3"
+char id=54     x=165   y=85    width=24    height=33    xoffset=2     yoffset=5     xadvance=22    page=0 chnl=0 letter="6"
+char id=81     x=128   y=2     width=33    height=40    xoffset=1     yoffset=6     xadvance=29    page=0 chnl=0 letter="Q"
+char id=20026  x=43    y=85    width=38    height=39    xoffset=1     yoffset=4     xadvance=35    page=0 chnl=0 letter="为"
+char id=20184  x=205   y=2     width=40    height=39    xoffset=1     yoffset=3     xadvance=35    page=0 chnl=0 letter="付"
+char id=20449  x=44    y=44    width=39    height=39    xoffset=0     yoffset=4     xadvance=35    page=0 chnl=0 letter="信"
+char id=21253  x=208   y=44    width=39    height=39    xoffset=1     yoffset=3     xadvance=35    page=0 chnl=0 letter="包"
+char id=21326  x=2     y=2     width=40    height=40    xoffset=1     yoffset=3     xadvance=35    page=0 chnl=0 letter="华"
+char id=23453  x=83    y=85    width=39    height=38    xoffset=1     yoffset=3     xadvance=35    page=0 chnl=0 letter="宝"
+char id=24494  x=163   y=2     width=40    height=39    xoffset=0     yoffset=4     xadvance=35    page=0 chnl=0 letter="微"
+char id=24555  x=167   y=44    width=39    height=39    xoffset=0     yoffset=4     xadvance=35    page=0 chnl=0 letter="快"
+char id=25903  x=85    y=44    width=39    height=39    xoffset=0     yoffset=4     xadvance=35    page=0 chnl=0 letter="支"
+char id=33150  x=2     y=44    width=40    height=39    xoffset=1     yoffset=4     xadvance=35    page=0 chnl=0 letter="腾"
+char id=33626  x=126   y=44    width=39    height=39    xoffset=1     yoffset=4     xadvance=35    page=0 chnl=0 letter="荚"
+char id=35759  x=2     y=85    width=39    height=39    xoffset=1     yoffset=4     xadvance=35    page=0 chnl=0 letter="讯"
+char id=35910  x=124   y=85    width=39    height=36    xoffset=1     yoffset=5     xadvance=35    page=0 chnl=0 letter="豆"
+char id=35916  x=44    y=2     width=40    height=40    xoffset=0     yoffset=3     xadvance=35    page=0 chnl=0 letter="豌"
+char id=38065  x=86    y=2     width=40    height=40    xoffset=0     yoffset=3     xadvance=35    page=0 chnl=0 letter="钱"
+kernings count=0

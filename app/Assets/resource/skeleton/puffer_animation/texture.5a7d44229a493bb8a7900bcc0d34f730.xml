@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1e405b7586effc0ca514eed4309010d3:ad30dcd3e2ce74702870ab46d90a0e69:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="body__uk__2" x="182" y="2" width="69" height="64" frameX="-3" frameY="-2" frameWidth="73" frameHeight="66"/>
+    <SubTexture name="dfdgtf 副本 6" x="245" y="113" width="8" height="5"/>
+    <SubTexture name="dfgdthrhy" x="253" y="2" width="5" height="8"/>
+    <SubTexture name="dfgr 副本" x="182" y="68" width="61" height="56"/>
+    <SubTexture name="dfrdh" x="243" y="128" width="15" height="10" frameX="-1" frameY="-1" frameWidth="17" frameHeight="12"/>
+    <SubTexture name="efddh" x="245" y="82" width="13" height="9" frameX="-1" frameY="-1" frameWidth="15" frameHeight="11"/>
+    <SubTexture name="estryg" x="253" y="12" width="5" height="4"/>
+    <SubTexture name="eye" x="182" y="151" width="20" height="19"/>
+    <SubTexture name="eye2__uk__2" x="245" y="104" width="8" height="7"/>
+    <SubTexture name="frh" x="218" y="126" width="23" height="23"/>
+    <SubTexture name="gthhf" x="2" y="2" width="178" height="168" frameX="0" frameY="-1" frameWidth="178" frameHeight="170"/>
+    <SubTexture name="mouth" x="245" y="68" width="14" height="12"/>
+    <SubTexture name="mouth2" x="245" y="120" width="7" height="6"/>
+    <SubTexture name="poo" x="182" y="126" width="34" height="23"/>
+    <SubTexture name="sfgewgrg" x="245" y="93" width="11" height="9"/>
+    <SubTexture name="重复项目文件夹/元件 13" x="2" y="172" width="97" height="87" frameX="0" frameY="0" frameWidth="101" frameHeight="87"/>
+</TextureAtlas>

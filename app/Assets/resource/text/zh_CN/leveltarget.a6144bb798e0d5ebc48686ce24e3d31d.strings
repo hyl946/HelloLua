@@ -1,0 +1,9 @@
+"level.help.require.swipe" = "没有可以消除的小动物了。";
+"level.target.bean" = "拿到足够的金豆荚";
+"level.target.effect.move" = "引爆指定数量的下列特效";
+"level.target.exchange.effect.move" = "交换指定种类的特效";
+"level.target.ice" = "消除所有冰块";
+"level.target.move" = "消除要求数量的下列目标";
+"level.target.score" = "获得足够分数";
+"level.target.time" = "在时间用完前获得足够分数";
+"level.target.title" = "目标";

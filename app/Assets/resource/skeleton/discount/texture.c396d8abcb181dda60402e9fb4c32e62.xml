@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9d7d1bab680e7599a144daa3d3d83e67:3e908a57cfe19283602732e1531884d4:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="tks/元件 25" x="165" y="2" width="41" height="62"/>
+    <SubTexture name="tks/元件 29" x="2" y="2" width="161" height="157" frameX="-29" frameY="-30" frameWidth="207" frameHeight="207"/>
+    <SubTexture name="tks/元件 30" x="165" y="66" width="11" height="132"/>
+    <SubTexture name="tks/元件 33" x="178" y="66" width="26" height="24" frameX="-7" frameY="-7" frameWidth="40" frameHeight="38"/>
+</TextureAtlas>

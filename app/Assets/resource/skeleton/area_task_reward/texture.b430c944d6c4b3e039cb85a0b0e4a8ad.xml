@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:07466346701a8d86e41cd34715f6b660:6ca12ba05a3c4323505d587ad3870c8e:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="areaTask/assert/_res/重复项目文件夹 副本/元件 2 副本 11" x="2" y="693" width="448" height="417" frameX="-50" frameY="0" frameWidth="542" frameHeight="417"/>
+    <SubTexture name="areaTask/assert/_res/重复项目文件夹 副本/元件 70 副本" x="2" y="2" width="683" height="689" frameX="-5" frameY="-6" frameWidth="697" frameHeight="709"/>
+    <SubTexture name="areaTask/assert/元件 33" x="1083" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="192" frameHeight="192"/>
+    <SubTexture name="areaTask/assert/元件 35" x="1083" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="192" frameHeight="192"/>
+    <SubTexture name="areaTask/assert/元件 37" x="1083" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="192" frameHeight="192"/>
+    <SubTexture name="areaTask/assert/元件 38" x="687" y="126" width="312" height="62" frameX="0" frameY="-1" frameWidth="312" frameHeight="64"/>
+    <SubTexture name="areaTask/assert/元件 40" x="687" y="2" width="394" height="122"/>
+    <SubTexture name="areaTask/assert/元件 42" x="452" y="1060" width="432" height="48"/>
+    <SubTexture name="areaTask/assert/元件 43" x="452" y="693" width="530" height="202" frameX="-2" frameY="0" frameWidth="542" frameHeight="204"/>
+    <SubTexture name="areaTask/assert/元件 50" x="687" y="325" width="269" height="144" frameX="0" frameY="-10" frameWidth="269" frameHeight="154"/>
+    <SubTexture name="areaTask/assert/元件 51" x="452" y="897" width="431" height="161" frameX="-6" frameY="-24" frameWidth="457" frameHeight="213"/>
+    <SubTexture name="areaTask/assert/元件 52" x="687" y="190" width="309" height="133" frameX="-40" frameY="-30" frameWidth="349" frameHeight="167"/>
+    <SubTexture name="areaTask/assert/元件 53" x="1001" y="126" width="53" height="65" frameX="-2" frameY="-2" frameWidth="55" frameHeight="73"/>
+    <SubTexture name="areaTask/assert/元件 54" x="885" y="897" width="148" height="155" frameX="0" frameY="-14" frameWidth="160" frameHeight="179"/>
+    <SubTexture name="areaTask/assert/元件 55" x="998" y="193" width="110" height="110"/>
+    <SubTexture name="areaTask/game_play/transparent" x="1083" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="17" frameHeight="17"/>
+</TextureAtlas>

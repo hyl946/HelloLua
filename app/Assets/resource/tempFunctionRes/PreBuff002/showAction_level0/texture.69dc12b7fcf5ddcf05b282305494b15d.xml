@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:899b8de575a9488710819980303ea651:c3c7bf23103295ff838aad272f6dc41b:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="PreBuffLogic_up/元件 17" x="2" y="78" width="132" height="105" frameX="-2" frameY="-6" frameWidth="142" frameHeight="111"/>
+    <SubTexture name="PreBuffLogic_up/元件 18" x="2" y="2" width="169" height="74" frameX="-1" frameY="0" frameWidth="175" frameHeight="82"/>
+    <SubTexture name="PreBuffLogic_up/元件 19" x="2" y="185" width="102" height="28"/>
+</TextureAtlas>

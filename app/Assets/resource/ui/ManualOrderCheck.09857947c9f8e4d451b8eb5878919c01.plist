@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>manual_order_check/cells/cancelOrderBtn10000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{104,30}}</string>
+                <key>offset</key>
+                <string>{0,-1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{3,6},{104,30}}</string>
+                <key>sourceSize</key>
+                <string>{110,40}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ManualOrderCheck.png</string>
+            <key>size</key>
+            <string>{108,108}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:333a545c26fa3d400571dbc31e28d3cd:662da14f9316e7495aa52f673aae17b1:3749dd2b61c0a157d1152532638f35ac$</string>
+            <key>textureFileName</key>
+            <string>ManualOrderCheck.png</string>
+        </dict>
+    </dict>
+</plist>

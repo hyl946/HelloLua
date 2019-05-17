@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:05de84750f5af563276db16112e1a33e:7ba68c4df4f06eb4a9955fbae7d93de7:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="new.lady.bug.anim/ertert3" x="2" y="134" width="23" height="23" frameX="-3" frameY="-3" frameWidth="31" frameHeight="31"/>
+    <SubTexture name="new.lady.bug.anim/元件 27 副本" x="2" y="225" width="4" height="4"/>
+    <SubTexture name="new.lady.bug.anim/元件 28 副本 2" x="2" y="159" width="10" height="10"/>
+    <SubTexture name="new.lady.bug.anim/元件 36" x="114" y="2" width="115" height="114" frameX="-1" frameY="0" frameWidth="117" frameHeight="118"/>
+    <SubTexture name="new.lady.bug.anim/元件 61 副本 8" x="2" y="2" width="110" height="130" frameX="-5" frameY="0" frameWidth="122" frameHeight="134"/>
+    <SubTexture name="new.lady.bug.anim/渐变黄" x="114" y="118" width="105" height="105" frameX="0" frameY="0" frameWidth="107" frameHeight="107"/>
+</TextureAtlas>

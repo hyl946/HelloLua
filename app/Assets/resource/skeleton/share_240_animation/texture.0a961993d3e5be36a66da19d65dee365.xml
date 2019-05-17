@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e0b7c5a0a3e02b486b4a3fd9874a79a1:f1b301f5cfcaff09f2a65d0710ba598f:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="share_240_animation/__resource/dgrth" x="2" y="2" width="465" height="464" frameX="-21" frameY="-22" frameWidth="511" frameHeight="512"/>
+    <SubTexture name="share_240_animation/__resource/dgtrj" x="2" y="589" width="551" height="172" frameX="-6" frameY="-8" frameWidth="587" frameHeight="192"/>
+    <SubTexture name="share_240_animation/__resource/sefrth" x="2" y="968" width="117" height="63" frameX="-4" frameY="0" frameWidth="121" frameHeight="63"/>
+    <SubTexture name="share_240_animation/__resource/sgtrhy" x="2" y="468" width="639" height="119"/>
+    <SubTexture name="share_240_animation/__resource/txt" x="817" y="407" width="94" height="34" frameX="-1" frameY="-10" frameWidth="104" frameHeight="52"/>
+    <SubTexture name="share_240_animation/__resource/zdfdh" x="1014" y="14" width="14" height="9"/>
+    <SubTexture name="share_240_animation/__resource/元件 1" x="469" y="2" width="346" height="457" frameX="-12" frameY="-5" frameWidth="358" frameHeight="467"/>
+    <SubTexture name="share_240_animation/__resource/元件 26 副本" x="1014" y="25" width="9" height="8" frameX="0" frameY="-1" frameWidth="9" frameHeight="10"/>
+    <SubTexture name="share_240_animation/__resource/元件 27 副本" x="469" y="461" width="4" height="2" frameX="0" frameY="0" frameWidth="4" frameHeight="4"/>
+    <SubTexture name="share_240_animation/__resource/元件 28 副本 2" x="1014" y="2" width="10" height="10"/>
+    <SubTexture name="share_240_animation/__resource/元件 30" x="888" y="443" width="116" height="180" frameX="0" frameY="-2" frameWidth="116" frameHeight="182"/>
+    <SubTexture name="share_240_animation/__resource/元件 36" x="2" y="763" width="453" height="52" frameX="0" frameY="0" frameWidth="461" frameHeight="52"/>
+    <SubTexture name="share_240_animation/__resource/元件 37" x="817" y="2" width="154" height="205" frameX="-113" frameY="-53" frameWidth="278" frameHeight="265"/>
+    <SubTexture name="share_240_animation/__resource/元件 38" x="923" y="870" width="102" height="66" frameX="-6" frameY="0" frameWidth="122" frameHeight="70"/>
+    <SubTexture name="share_240_animation/__resource/元件 39" x="719" y="870" width="202" height="133" frameX="-8" frameY="-2" frameWidth="218" frameHeight="141"/>
+    <SubTexture name="share_240_animation/__resource/元件 42" x="791" y="680" width="213" height="188" frameX="-2" frameY="-2" frameWidth="219" frameHeight="196"/>
+    <SubTexture name="share_240_animation/__resource/元件 44" x="817" y="209" width="177" height="196" frameX="-5" frameY="-6" frameWidth="193" frameHeight="208"/>
+    <SubTexture name="share_240_animation/__resource/渐变黄" x="621" y="847" width="96" height="96"/>
+    <SubTexture name="share_240_animation/__resource/重复项目文件夹/hongdai 副本 3" x="2" y="847" width="617" height="119"/>
+    <SubTexture name="share_240_animation/__resource/重复项目文件夹/元件 39" x="555" y="680" width="234" height="165" frameX="-5" frameY="-9" frameWidth="250" frameHeight="183"/>
+    <SubTexture name="share_240_animation/__resource/重复项目文件夹/元件 42 副本 3" x="973" y="2" width="39" height="41"/>
+    <SubTexture name="share_240_animation/__resource/重复项目文件夹/元件 42 副本" x="973" y="45" width="41" height="31" frameX="0" frameY="-2" frameWidth="43" frameHeight="33"/>
+    <SubTexture name="share_240_animation/__resource/重复项目文件夹/元件 42" x="643" y="461" width="243" height="217" frameX="-13" frameY="-17" frameWidth="269" frameHeight="253"/>
+    <SubTexture name="share_240_animation/__resource/重复项目文件夹/元件 8 副本 3" x="457" y="763" width="71" height="69"/>
+    <SubTexture name="share_240_animation/__resource/重复项目文件夹/元件 8" x="555" y="589" width="71" height="69"/>
+</TextureAtlas>

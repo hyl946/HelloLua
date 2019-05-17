@@ -1,0 +1,111 @@
+{
+	"image": "LevelStrategy.png",
+	"config": "LevelStrategy.plist",
+	"stageHeight": 1000,
+	"stageWidth": 1000,
+	"version": 1,
+	"groups": {
+		"level_strategy/guideTip": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 329,
+				"height": 257,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "level_strategy/cells/guideTipBg",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"level_strategy/playBtn": [
+			{
+				"x": -76,
+				"y": -78,
+				"width": 152,
+				"height": 157,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "level_strategy/cells/playBtnBg",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"level_strategy/ProgressBar": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 391.25,
+				"height": 35.5,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg1",
+				"image": "level_strategy/cells/barBg1",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 3,
+				"y": 3,
+				"width": 385,
+				"height": 31.35,
+				"scaleX": 5.98291015625,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "mask",
+				"image": "level_strategy/cells/bar",
+				"type": 0,
+				"scalingGrid": true
+			},
+			{
+				"x": 3,
+				"y": 3,
+				"width": 385,
+				"height": 31.35,
+				"scaleX": 5.98291015625,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 2,
+				"id": "bar",
+				"image": "level_strategy/cells/bar",
+				"type": 0,
+				"scalingGrid": true
+			},
+			{
+				"x": 5,
+				"y": 2,
+				"width": 385.05,
+				"height": 31.15,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 3,
+				"id": "bg2",
+				"image": "level_strategy/cells/barBg2",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

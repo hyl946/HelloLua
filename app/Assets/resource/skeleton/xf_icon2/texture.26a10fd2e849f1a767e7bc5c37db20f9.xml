@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9967b913b4516b70bdb18c28f9f7156e:684d20dd26d5658b1fad1ca19c15858a:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="xf_icon2/XI" x="2" y="113" width="89" height="74" frameX="-1" frameY="-10" frameWidth="191" frameHeight="96"/>
+    <SubTexture name="xf_icon2/ertert3" x="93" y="165" width="19" height="19" frameX="-5" frameY="-5" frameWidth="31" frameHeight="31"/>
+    <SubTexture name="xf_icon2/sdeferg" x="2" y="2" width="109" height="109"/>
+    <SubTexture name="xf_icon2/vnn" x="93" y="113" width="85" height="25" frameX="-2" frameY="-1" frameWidth="91" frameHeight="31"/>
+    <SubTexture name="xf_icon2/xic" x="93" y="140" width="25" height="23" frameX="0" frameY="-1" frameWidth="25" frameHeight="25"/>
+</TextureAtlas>

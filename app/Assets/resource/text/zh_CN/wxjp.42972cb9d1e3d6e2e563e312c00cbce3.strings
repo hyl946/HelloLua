@@ -1,0 +1,14 @@
+"wxjp.friendlevel.help.tip" = "您的游戏平台暂不支持帮助好友闯关哦~";
+"wxjp.help.notify" = "请求已发送，是否告诉TA？";
+"wxjp.help.notify.message" = "告诉TA";
+"wxjp.help.notify.next" = "下次吧";
+"wxjp.interest.group.loading.tips.fail" = "打开兴趣群失败，请重新登录后再试哦~";
+"wxjp.loading.agreement.layer.text" = "授权失败";
+"wxjp.loading.tips.fail" = "登录失败";
+"wxjp.loading.tips.fail.pay" = "登录失败，请稍后再试或重新登录~";
+"wxjp.loading.tips.preloading.warnning" = "系统检测到您尝试登录的账号与当前游戏账号不一致，确认使用新账号登录么？";
+"wxjp.loading.tips.register.failure" = "登录过期，需要重新登录哦~";
+"wxjp.loading.tips.register.failure.button1" = "确定";
+"wxjp.loading.tips.register.failure.button2" = "取消";
+"wxjp.loading.tips.success" = "登录成功";
+"wxjp.loading.tips.success.pay" = "登录成功，可以重新发起支付啦~";

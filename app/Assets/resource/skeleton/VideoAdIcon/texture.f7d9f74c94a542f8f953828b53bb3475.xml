@@ -1,0 +1,17 @@
+<TextureAtlas name="VideoAdIcon" imagePath="texture.png">
+ <SubTexture name="VideoAd/res.videoIcon/gua" x="0" y="0" width="157" height="157"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 13" x="433" y="181" width="66" height="81"/>
+ <SubTexture name="VideoAd/res.videoIcon/红色" x="466" y="98" width="32" height="32"/>
+ <SubTexture name="VideoAd/res.videoIcon/zp44" x="297" y="0" width="100" height="100"/>
+ <SubTexture name="VideoAd/res.videoIcon/VBNF" x="398" y="0" width="101" height="97"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 1" x="158" y="0" width="137" height="137"/>
+ <SubTexture name="VideoAd/res.videoIcon/gjkk" x="365" y="101" width="18" height="18"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 14" x="0" y="158" width="66" height="81"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 15" x="294" y="184" width="66" height="81"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 16" x="365" y="181" width="66" height="81"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 17" x="297" y="101" width="66" height="81"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 12" x="226" y="139" width="66" height="81"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 18" x="158" y="139" width="66" height="81"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 19" x="398" y="98" width="66" height="81"/>
+ <SubTexture name="VideoAd/res.videoIcon/位图 20" x="68" y="158" width="66" height="81"/>
+</TextureAtlas>

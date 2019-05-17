@@ -1,0 +1,20 @@
+info face="MicrosoftYaHei-Bold" size=26 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=35 base=28 scaleW=128 scaleH=128 pages=1 packed=0
+page id=0 file="timelimit_gift_2.png"
+chars count=15
+char id=32     x=79    y=62    width=0     height=0     xoffset=0     yoffset=28    xadvance=8     page=0 chnl=0 letter="space"
+char id=48     x=100   y=2     width=20    height=26    xoffset=1     yoffset=2     xadvance=16    page=0 chnl=0 letter="0"
+char id=49     x=65    y=34    width=18    height=26    xoffset=2     yoffset=2     xadvance=16    page=0 chnl=0 letter="1"
+char id=50     x=45    y=62    width=18    height=25    xoffset=1     yoffset=3     xadvance=16    page=0 chnl=0 letter="2"
+char id=51     x=85    y=34    width=18    height=26    xoffset=2     yoffset=2     xadvance=16    page=0 chnl=0 letter="3"
+char id=52     x=2     y=62    width=20    height=25    xoffset=1     yoffset=3     xadvance=16    page=0 chnl=0 letter="4"
+char id=53     x=105   y=34    width=18    height=26    xoffset=2     yoffset=2     xadvance=16    page=0 chnl=0 letter="5"
+char id=54     x=2     y=34    width=19    height=26    xoffset=1     yoffset=2     xadvance=16    page=0 chnl=0 letter="6"
+char id=55     x=24    y=62    width=19    height=25    xoffset=1     yoffset=3     xadvance=16    page=0 chnl=0 letter="7"
+char id=56     x=23    y=34    width=19    height=26    xoffset=1     yoffset=2     xadvance=16    page=0 chnl=0 letter="8"
+char id=57     x=44    y=34    width=19    height=26    xoffset=1     yoffset=2     xadvance=16    page=0 chnl=0 letter="9"
+char id=58     x=65    y=62    width=10    height=20    xoffset=1     yoffset=8     xadvance=7     page=0 chnl=0 letter=":"
+char id=21097  x=35    y=2     width=30    height=30    xoffset=0     yoffset=1     xadvance=26    page=0 chnl=0 letter="剩"
+char id=22825  x=67    y=2     width=31    height=29    xoffset=0     yoffset=3     xadvance=26    page=0 chnl=0 letter="天"
+char id=36824  x=2     y=2     width=31    height=30    xoffset=0     yoffset=1     xadvance=26    page=0 chnl=0 letter="还"
+kernings count=0

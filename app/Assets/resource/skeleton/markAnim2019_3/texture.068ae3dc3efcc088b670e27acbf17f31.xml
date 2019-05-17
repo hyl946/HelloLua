@@ -1,0 +1,25 @@
+<TextureAtlas name="markAnim2019_3" imagePath="texture.png">
+ <SubTexture name="markAnim2019_3/res/元件 25" x="490" y="744" width="364" height="227"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 25" x="975" y="376" width="42" height="58"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 30" x="580" y="529" width="173" height="159"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 29" x="895" y="203" width="99" height="76"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 26" x="895" y="281" width="87" height="83"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 43" x="823" y="398" width="55" height="58"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 37" x="823" y="308" width="68" height="88"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 35" x="895" y="0" width="125" height="116"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 34" x="895" y="117" width="100" height="84"/>
+ <SubTexture name="markAnim2019_3/res/元件 31" x="755" y="654" width="128" height="88"/>
+ <SubTexture name="markAnim2019_3/res/元件 24" x="0" y="0" width="579" height="694"/>
+ <SubTexture name="markAnim2019_3/res/元件 21" x="0" y="695" width="489" height="137"/>
+ <SubTexture name="markAnim2019_3/res/元件 20" x="0" y="833" width="292" height="70"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/元件 24" x="893" y="366" width="80" height="72"/>
+ <SubTexture name="markAnim2019_3/res/元件 6" x="580" y="0" width="314" height="307"/>
+ <SubTexture name="markAnim2019_3/res/元件 26" x="823" y="477" width="175" height="175"/>
+ <SubTexture name="markAnim2019_3/res/元件 30" x="580" y="308" width="242" height="220"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/209-11-conf5 copy" x="996" y="203" width="27" height="34"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/209-11-conf5 copy 副本" x="996" y="238" width="27" height="34"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/209-11-conf2 copy" x="984" y="281" width="36" height="46"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/209-11-conf4 copy" x="984" y="328" width="29" height="47"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/209-11-06-conf1 copy" x="879" y="440" width="28" height="36"/>
+ <SubTexture name="markAnim2019_3/res/重复项目文件夹/209_11_06_Confetti5 copy" x="975" y="435" width="30" height="40"/>
+</TextureAtlas>

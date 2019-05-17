@@ -1,0 +1,59 @@
+{
+	"image": "panel_game_start_add.png",
+	"config": "panel_game_start_add.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"panel_game_start_add/pnglayer": [
+			{
+				"x": 161,
+				"y": 7,
+				"width": 80,
+				"height": 92,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "jump_level_icon_new",
+				"image": "panel_game_start_add/jump_level_icon_new",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 302,
+				"y": 14,
+				"width": 87,
+				"height": 89,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "friendhelpicon_new",
+				"image": "panel_game_start_add/friendhelpicon_new",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"width": 117,
+				"height": 112,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 2,
+				"id": "jump_level_btn",
+				"image": "panel_game_start_add/jump_level_btn",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

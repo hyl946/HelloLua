@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:66ffb184e41456f6efe40a4767da9444:2daff7e73c746568ef398c9b0c1045fb:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="xf_reward_anim/assert/1" x="470" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="268" frameHeight="263"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/元件 9" x="2" y="2" width="301" height="294" frameX="-41" frameY="-39" frameWidth="373" frameHeight="366"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/209-11-06-conf1 copy" x="435" y="126" width="28" height="36"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/209-11-conf2 copy" x="414" y="2" width="36" height="46"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/209-11-conf4 copy" x="404" y="126" width="29" height="38"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/209-11-conf5 copy" x="446" y="84" width="27" height="34"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/209_11_06_Confetti5 copy" x="414" y="84" width="30" height="40"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/ffdd" x="305" y="2" width="107" height="108" frameX="-6" frameY="-6" frameWidth="119" frameHeight="116"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/ge" x="305" y="112" width="97" height="97"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/vbnv" x="2" y="298" width="175" height="175" frameX="0" frameY="0" frameWidth="179" frameHeight="179"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/xingxing" x="452" y="2" width="16" height="15"/>
+    <SubTexture name="xf_reward_anim/assert/xxx/重复项目文件夹/元件 9" x="414" y="50" width="34" height="32" frameX="-1" frameY="-3" frameWidth="38" frameHeight="38"/>
+    <SubTexture name="xf_reward_anim/assert/元件 1" x="470" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="366" frameHeight="86"/>
+</TextureAtlas>

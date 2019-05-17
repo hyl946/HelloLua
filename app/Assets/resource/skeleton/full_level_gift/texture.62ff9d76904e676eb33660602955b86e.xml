@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:161598f6d19a0fa69533212b39c637a1:e0b88ae21563ca8e8fd8eb222076c427:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="FullLevelGift/res/元件 23" x="602" y="161" width="1" height="1" frameX="0" frameY="0" frameWidth="180" frameHeight="189"/>
+    <SubTexture name="FullLevelGift/res/元件 24" x="2" y="664" width="590" height="467"/>
+    <SubTexture name="FullLevelGift/res/元件 27" x="2" y="161" width="598" height="501" frameX="0" frameY="0" frameWidth="608" frameHeight="519"/>
+    <SubTexture name="FullLevelGift/res/元件 29" x="2" y="2" width="603" height="157"/>
+    <SubTexture name="FullLevelGift/res/元件 30" x="602" y="161" width="1" height="1" frameX="0" frameY="0" frameWidth="189" frameHeight="194"/>
+    <SubTexture name="FullLevelGift/res/重复项目文件夹/ffdd" x="784" y="2" width="107" height="108" frameX="-6" frameY="-6" frameWidth="119" frameHeight="116"/>
+    <SubTexture name="FullLevelGift/res/重复项目文件夹/ge" x="893" y="2" width="97" height="97"/>
+    <SubTexture name="FullLevelGift/res/重复项目文件夹/vbnv" x="607" y="2" width="175" height="175" frameX="0" frameY="0" frameWidth="179" frameHeight="179"/>
+    <SubTexture name="FullLevelGift/res/重复项目文件夹/xingxing" x="992" y="2" width="16" height="15"/>
+</TextureAtlas>

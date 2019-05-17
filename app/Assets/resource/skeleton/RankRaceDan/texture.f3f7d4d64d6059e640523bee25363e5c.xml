@@ -1,0 +1,18 @@
+<TextureAtlas name="RankRaceDan" imagePath="texture.png">
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/vbnv" x="569" y="245" width="229" height="229"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/xingxing" x="916" y="108" width="16" height="15"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/209-11-conf5 copy 副本" x="982" y="89" width="27" height="34"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/209-11-conf2 copy 副本" x="916" y="61" width="36" height="46"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/209-11-conf4 copy 副本" x="989" y="0" width="29" height="47"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/209-11-06-conf1 copy 副本" x="953" y="61" width="28" height="36"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/209_11_06_Confetti5 copy 副本" x="989" y="48" width="30" height="40"/>
+ <SubTexture name="rank.race.sk/assert/元件 26 副本" x="0" y="0" width="568" height="553"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/hongdai 副本" x="0" y="686" width="537" height="119"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/sgtrhy" x="0" y="554" width="567" height="130"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/txt" x="818" y="0" width="169" height="59"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/sefrth" x="818" y="159" width="121" height="63"/>
+ <SubTexture name="rank.race.sk/assert/ge" x="818" y="61" width="97" height="97"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/ffdd" x="569" y="476" width="227" height="230"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/星星旋转动画" x="953" y="98" width="14" height="27"/>
+ <SubTexture name="rank.race.sk/assert/重复项目文件夹/元件 6 副本 3" x="569" y="0" width="247" height="243"/>
+</TextureAtlas>

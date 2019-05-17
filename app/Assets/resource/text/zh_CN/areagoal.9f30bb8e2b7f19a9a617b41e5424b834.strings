@@ -1,0 +1,14 @@
+"area.goal.btn" = "去闯关";
+"area.goal.context " = "限时到达指定关卡，领取丰厚奖励！";
+"area.goal.desc1" = "到达{num}关";
+"area.goal.desc2" = "还剩{num}天";
+"area.goal.desc3" = "已过期";
+"area.goal.detail.btn" = "知道了";
+"area.goal.detail.desc1" = "在限时结束前，到达指定目标关卡，可领取对应道具奖励。";
+"area.goal.detail.desc2" = "限时结束后，对应道具奖励无法领取。领取完当前全部奖励，或最后一档奖励也已过期，则当次任务结束。";
+"area.goal.detail.desc3" = "跳关和好友代打通过的关卡也算成功过关哦~";
+"area.goal.detail.title" = "过关目标说明";
+"area.goal.reward.announcement" = "恭喜！成功到达第{num}关，获得了{reward}！限时道具请记得及时使用哦~";
+"area.goal.reward.context" = "恭喜获得如下奖励！请继续加油闯关哦！";
+"area.goal.reward.title" = "区域关卡目标达成！";
+"area.goal.title" = "区域关卡目标";

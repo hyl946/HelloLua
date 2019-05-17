@@ -1,0 +1,6 @@
+"anti.addiction.alert.1hour" = "您连续在线时间已满1小时，祝您游戏愉快！";
+"anti.addiction.alert.2hour" = "您连续在线时间已满2小时，祝您游戏愉快！";
+"anti.addiction.alert.3hour" = "您连续在线时间已满3小时，已进入疲劳游戏时间，精力恢复速度将降为正常值的50%，请您尽快下线休息，做适当身体活动。";
+"anti.addiction.alert.5hour" = "您已进入不健康游戏时间，为了您的健康，请您立即下线休息。您的精力恢复速度已降为零，直到您的累计下线时间满5小时后，才能恢复正常。";
+"anti.addiction.alert.btn" = "确定";
+"anti.addiction.loading.tip" = "合理安排游戏时间，劳逸结合更快乐！";

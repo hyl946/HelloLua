@@ -1,0 +1,33 @@
+<TextureAtlas name="week_bossskill" imagePath="texture.png">
+ <SubTexture name="bossSkill/diamondboxres/元件 37" x="186" y="275" width="80" height="55"/>
+ <SubTexture name="bossSkill/diamondboxres/元件 35" x="93" y="275" width="92" height="45"/>
+ <SubTexture name="bossSkill/重复项目文件夹/元件 37" x="430" y="248" width="80" height="56"/>
+ <SubTexture name="bossSkill/重复项目文件夹/元件 35" x="0" y="275" width="92" height="45"/>
+ <SubTexture name="bossSkill/flylight" x="516" y="0" width="275" height="154"/>
+ <SubTexture name="bossSkill/littleback" x="990" y="0" width="29" height="27"/>
+ <SubTexture name="bossSkill/number9" x="1020" y="3" width="1" height="1"/>
+ <SubTexture name="bossSkill/number8" x="1020" y="0" width="1" height="1"/>
+ <SubTexture name="bossSkill/redbright" x="430" y="305" width="46" height="46"/>
+ <SubTexture name="bossSkill/light" x="516" y="155" width="153" height="153"/>
+ <SubTexture name="bossSkill/round" x="751" y="204" width="129" height="129"/>
+ <SubTexture name="bossSkill/crosssss" x="478" y="310" width="44" height="43"/>
+ <SubTexture name="bossSkill/toolicon1" x="1020" y="6" width="1" height="1"/>
+ <SubTexture name="bossSkill/brightly" x="951" y="204" width="72" height="72"/>
+ <SubTexture name="bossSkill/bright" x="671" y="155" width="79" height="79"/>
+ <SubTexture name="bossSkill/smallmouse_ear" x="1001" y="28" width="19" height="13"/>
+ <SubTexture name="bossSkill/smallmouse_body" x="951" y="277" width="62" height="65"/>
+ <SubTexture name="bossSkill/smallmouse_face" x="671" y="302" width="54" height="56"/>
+ <SubTexture name="bossSkill/smallmouse_noseshadow" x="999" y="56" width="15" height="14"/>
+ <SubTexture name="bossSkill/smallmouse_mouth" x="990" y="28" width="10" height="24"/>
+ <SubTexture name="bossSkill/smallmouse_nose" x="990" y="71" width="17" height="9"/>
+ <SubTexture name="bossSkill/smalleyesall" x="751" y="155" width="36" height="6"/>
+ <SubTexture name="bossSkill/smallmouse_redface" x="990" y="53" width="8" height="3"/>
+ <SubTexture name="bossSkill/smallmouse_hand" x="1001" y="42" width="16" height="13"/>
+ <SubTexture name="bossSkill/brightttt" x="0" y="0" width="274" height="274"/>
+ <SubTexture name="bossSkill/元件 36" x="881" y="291" width="61" height="61"/>
+ <SubTexture name="bossSkill/cdsafd7sa8cujdsa896f78ds6a78fdhsa7v86df7876gfdsgd/vbnv" x="671" y="235" width="65" height="65"/>
+ <SubTexture name="bossSkill/hammershadow" x="275" y="248" width="154" height="90"/>
+ <SubTexture name="bossSkill/hammer" x="792" y="0" width="196" height="202"/>
+ <SubTexture name="bossSkill/whitehammer" x="275" y="0" width="239" height="246"/>
+ <SubTexture name="bossSkill/hammershadow1" x="881" y="204" width="69" height="86"/>
+</TextureAtlas>

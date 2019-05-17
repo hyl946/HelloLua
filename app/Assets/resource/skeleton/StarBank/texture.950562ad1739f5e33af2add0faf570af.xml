@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f3deeae40b6afb4123367f1042983f80:0fa760f577f5057e16a49453231430cb:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="H—H" x="2" y="493" width="277" height="215"/>
+    <SubTexture name="H—J" x="281" y="493" width="268" height="204" frameX="-3" frameY="0" frameWidth="276" frameHeight="214"/>
+    <SubTexture name="H—L" x="516" y="218" width="272" height="210" frameX="0" frameY="0" frameWidth="276" frameHeight="214"/>
+    <SubTexture name="H—LA" x="551" y="430" width="264" height="200" frameX="-5" frameY="0" frameWidth="276" frameHeight="214"/>
+    <SubTexture name="H—Z" x="516" y="2" width="270" height="214" frameX="-1" frameY="0" frameWidth="276" frameHeight="214"/>
+    <SubTexture name="__dbTextures/字动画/图层 39_0" x="488" y="699" width="1" height="1" frameX="0" frameY="0" frameWidth="512" frameHeight="87"/>
+    <SubTexture name="__dbTextures/字动画/图层 39_35" x="488" y="699" width="1" height="1" frameX="0" frameY="0" frameWidth="512" frameHeight="87"/>
+    <SubTexture name="game_play/_res/元件 71" x="788" y="99" width="36" height="38"/>
+    <SubTexture name="game_play/_res/重复项目文件夹 副本/元件 26 副本 3" x="516" y="430" width="18" height="18" frameX="-5" frameY="-6" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="pin" x="2" y="2" width="512" height="489" frameX="0" frameY="0" frameWidth="512" frameHeight="495"/>
+    <SubTexture name="vnbn 副本" x="488" y="702" width="191" height="181" frameX="-92" frameY="-170" frameWidth="349" frameHeight="375"/>
+    <SubTexture name="元件 10" x="2" y="710" width="236" height="136"/>
+    <SubTexture name="元件 15" x="788" y="2" width="95" height="95" frameX="-4" frameY="-2" frameWidth="99" frameHeight="97"/>
+    <SubTexture name="元件 2" x="681" y="702" width="147" height="153" frameX="-1" frameY="-1" frameWidth="151" frameHeight="157"/>
+    <SubTexture name="元件 7" x="551" y="632" width="337" height="68" frameX="-4" frameY="-4" frameWidth="345" frameHeight="76"/>
+    <SubTexture name="恭喜获得" x="281" y="699" width="205" height="57" frameX="0" frameY="-5" frameWidth="209" frameHeight="65"/>
+    <SubTexture name="数" x="240" y="817" width="138" height="52" frameX="-5" frameY="-7" frameWidth="148" frameHeight="66"/>
+    <SubTexture name="风车币" x="240" y="758" width="154" height="57" frameX="-4" frameY="-3" frameWidth="162" frameHeight="65"/>
+</TextureAtlas>

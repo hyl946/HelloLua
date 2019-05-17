@@ -1,0 +1,56 @@
+<dragonBones name="Untitled-2" frameRate="24" version="2.3">
+ <armature name="export/animal_prop_direction">
+  <bone name="图层 3">
+   <transform x="35" y="78.5" skX="180" skY="-180" scX="-1" scY="1"/>
+  </bone>
+  <bone name="图层 1">
+   <transform x="35.55" y="4.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 3" parent="图层 3" z="0">
+    <display name="export/direction/heng" type="image">
+     <transform x="-0.45" y="0.15" skX="0" skY="0" scX="1" scY="1" pX="28.1" pY="15.95"/>
+    </display>
+   </slot>
+   <slot name="图层 1" parent="图层 1" z="1">
+    <display name="export/direction/heng" type="image">
+     <transform x="-0.45" y="0.15" skX="0" skY="0" scX="1" scY="1" pX="28.1" pY="15.95"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="arr" fadeInTime="0.3" duration="20" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 3" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="35" y="78.5" skX="180" skY="-180" scX="-1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="10" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="35" y="82.1" skX="180" skY="-180" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="7">
+     <transform x="35" y="83.7" skX="180" skY="-180" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="35" y="85.1" skX="180" skY="-180" scX="-1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="35.55" y="4.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="10" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="35.55" y="1.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="7">
+     <transform x="35.55" y="-0.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="35.55" y="-1.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

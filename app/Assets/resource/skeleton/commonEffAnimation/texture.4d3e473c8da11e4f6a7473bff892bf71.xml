@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:69a572008382d2ceec0c840a563fbdc9:14b8c07d5d4ecec49e0299f4a613ca11:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="commonEffAnimation/ertert3" x="65" y="146" width="9" height="9"/>
+    <SubTexture name="commonEffAnimation/sdeferg" x="2" y="2" width="109" height="109"/>
+    <SubTexture name="commonEffAnimation/元件 17" x="2" y="113" width="61" height="60" frameX="-3" frameY="-3" frameWidth="67" frameHeight="66"/>
+    <SubTexture name="commonEffAnimation/元件 26 副本 3" x="65" y="134" width="11" height="10"/>
+    <SubTexture name="commonEffAnimationRes/ertert3" x="65" y="113" width="19" height="19" frameX="-1" frameY="-1" frameWidth="23" frameHeight="23"/>
+</TextureAtlas>

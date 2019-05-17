@@ -1,0 +1,10 @@
+"2017chunjie.goal" = "收集星星宝石领好礼！";
+"game.target.tips.order2.1" = "目标：消除{num}个直线特效";
+"game.target.tips.order2.2" = "目标：消除{num}个爆炸特效";
+"game.target.tips.order2.3" = "目标：消除{num}个魔力鸟特效";
+"game.target.tips.order3.1" = "目标：交换{num}次两个直线特效";
+"game.target.tips.order3.2" = "目标：交换{num}次直线特效和爆炸特效";
+"game.target.tips.order3.3" = "目标：交换{num}次魔力鸟和直线特效";
+"game.target.tips.order3.4" = "目标：交换{num}次两个爆炸特效";
+"game.target.tips.order3.5" = "目标：交换{num}次魔力鸟和爆炸特效";
+"game.target.tips.order3.6" = "目标：交换{num}次两个魔力鸟特效";

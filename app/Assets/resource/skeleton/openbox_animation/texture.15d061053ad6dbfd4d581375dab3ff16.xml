@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5fe23f5fdfe50cf52ea0635a181137d4:c9d528f9fbf90a1b3bb98e2ab3ca31b6:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="gu__uk__2" x="2" y="2" width="464" height="464"/>
+    <SubTexture name="vnbn__uk__1" x="2" y="468" width="371" height="371"/>
+    <SubTexture name="vnvn__uk__1" x="672" y="2" width="25" height="25"/>
+    <SubTexture name="xingxing__uk__3" x="699" y="2" width="17" height="15"/>
+    <SubTexture name="重复项目文件夹/rdfg 副本" x="468" y="2" width="202" height="181"/>
+    <SubTexture name="重复项目文件夹/rdfg 副本 FAKE" x="468" y="190" width="202" height="181"/>
+</TextureAtlas>

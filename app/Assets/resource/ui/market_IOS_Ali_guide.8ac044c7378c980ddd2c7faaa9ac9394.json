@@ -1,0 +1,77 @@
+{
+	"image": "market_IOS_Ali_guide.png",
+	"config": "market_IOS_Ali_guide.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"market_ios_ali_guide/tipPanel1": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 415,
+				"height": 126.95,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "market_ios_ali_guide/assert/tip1",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 494,
+				"y": 19,
+				"width": 8,
+				"height": 8,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "animDot",
+				"image": "ui_commons/ui_fontsize_rect",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"market_ios_ali_guide/tipPanel2": [
+			{
+				"x": 0,
+				"y": 7,
+				"width": 328,
+				"height": 105,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "market_ios_ali_guide/assert/tip2",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 400,
+				"y": 8,
+				"width": 8,
+				"height": 8,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "animDot",
+				"image": "ui_commons/ui_fontsize_rect",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

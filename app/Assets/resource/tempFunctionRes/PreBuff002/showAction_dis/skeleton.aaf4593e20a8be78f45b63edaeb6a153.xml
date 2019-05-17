@@ -1,0 +1,35 @@
+<dragonBones name="showAction_dis" frameRate="24" version="2.3">
+ <armature name="PreBuffLogic_up/showAction_dis">
+  <bone name="png1">
+   <transform x="34.95" y="32.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="png1" parent="png1" z="0">
+    <display name="PreBuffLogic_up/元件 23" type="image">
+     <transform x="-34.95" y="-32.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="ui" fadeInTime="0" duration="46" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="png1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="9">
+     <transform x="34.95" y="32.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="34.95" y="32.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="34.95" y="32.85" skX="0" skY="0" scX="1.159973" scY="1.159973" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="34.95" y="32.85" skX="0" skY="0" scX="0.729996" scY="0.729996" pX="0" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="26" displayIndex="-1"/>
+   </timeline>
+   <frame duration="14"/>
+   <frame duration="10"/>
+   <frame duration="22"/>
+  </animation>
+ </armature>
+</dragonBones>

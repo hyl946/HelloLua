@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:756bb1ddc865661144f9c6fa609f2664:930280431054248930004f7cbd136bb1:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="StartGameLadybug_sk/元件 11" x="2" y="2" width="190" height="131" frameX="-5" frameY="-5" frameWidth="202" frameHeight="143"/>
+    <SubTexture name="StartGameLadybug_sk/元件 16" x="194" y="51" width="35" height="44" frameX="0" frameY="0" frameWidth="35" frameHeight="46"/>
+    <SubTexture name="StartGameLadybug_sk/元件 18 副本 2" x="194" y="97" width="35" height="41" frameX="0" frameY="0" frameWidth="37" frameHeight="41"/>
+    <SubTexture name="StartGameLadybug_sk/元件 19 副本 2" x="231" y="61" width="9" height="8" frameX="0" frameY="0" frameWidth="15" frameHeight="16"/>
+    <SubTexture name="StartGameLadybug_sk/元件 20 副本 2" x="2" y="226" width="23" height="17" frameX="-2" frameY="-1" frameWidth="27" frameHeight="21"/>
+    <SubTexture name="StartGameLadybug_sk/元件 21" x="135" y="135" width="32" height="19"/>
+    <SubTexture name="StartGameLadybug_sk/元件 22" x="231" y="51" width="12" height="8" frameX="0" frameY="-1" frameWidth="12" frameHeight="12"/>
+    <SubTexture name="StartGameLadybug_sk/元件 23" x="194" y="2" width="49" height="47"/>
+    <SubTexture name="StartGameLadybug_sk/元件 24" x="135" y="177" width="62" height="66" frameX="0" frameY="0" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="StartGameLadybug_sk/元件 25" x="169" y="135" width="23" height="40" frameX="-3" frameY="0" frameWidth="31" frameHeight="42"/>
+    <SubTexture name="StartGameLadybug_sk/元件 27" x="2" y="140" width="131" height="84" frameX="-3" frameY="-2" frameWidth="139" frameHeight="90"/>
+</TextureAtlas>

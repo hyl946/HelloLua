@@ -1,0 +1,166 @@
+<dragonBones name="rank_race_flag" frameRate="24" version="2.3">
+ <armature name="2018_s1_rank_race_flag/flag">
+  <bone name="e">
+   <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="c">
+   <transform x="0.7" y="13.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="d">
+   <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="b">
+   <transform x="0.7" y="13.95" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="e" parent="e" z="0">
+    <display name="2018_s1_rank_race_flag/other/vhs" type="image">
+     <transform x="-13.4" y="-25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="c" parent="c" z="2">
+    <display name="2018_s1_rank_race_flag/other/qi" type="armature">
+     <transform x="-0.7" y="-13.9" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="d" parent="d" z="1">
+    <display name="2018_s1_rank_race_flag/other/vhs2" type="image">
+     <transform x="-13.4" y="-25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="b" parent="b" z="3">
+    <display name="2018_s1_rank_race_flag/other/qi2" type="armature">
+     <transform x="-0.7" y="-13.9" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="dark" fadeInTime="0.1" duration="20" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="e" scale="1" offset="0">
+    <frame z="0" duration="20">
+     <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="c" scale="1" offset="0">
+    <frame z="2" duration="20">
+     <transform x="0.7" y="13.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="dtol" fadeInTime="0.1" duration="6" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="e" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="11" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="d" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="3">
+     <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="c" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="0.7" y="13.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="0.7" y="13.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="0.7" y="13.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="14" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="b" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="0.7" y="13.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="0.7" y="13.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="light" fadeInTime="0.1" duration="21" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="d" scale="1" offset="0">
+    <frame z="1" duration="21">
+     <transform x="13.4" y="25.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="b" scale="1" offset="0">
+    <frame z="3" duration="21">
+     <transform x="0.7" y="13.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="2018_s1_rank_race_flag/other/qi">
+  <bone name="图层 1">
+   <transform x="0.5" y="13.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="2018_s1_rank_race_flag/other/dfhjhjk" type="image">
+     <transform x="0.15" y="-9.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0.3" duration="20" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="0.5" y="13.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="0.5" y="13.75" skX="0" skY="4.17" scX="1.00267" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="7">
+     <transform x="0.45" y="13.75" skX="0" skY="4.94" scX="1.068008" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="0.5" y="13.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="2018_s1_rank_race_flag/other/qi2">
+  <bone name="图层 1">
+   <transform x="0.5" y="13.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="2018_s1_rank_race_flag/other/dfh2" type="image">
+     <transform x="0.15" y="-9.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0.3" duration="20" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="0.5" y="13.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="0.5" y="13.75" skX="0" skY="4.17" scX="1.00267" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="7">
+     <transform x="0.45" y="13.75" skX="0" skY="4.94" scX="1.068008" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="0.5" y="13.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

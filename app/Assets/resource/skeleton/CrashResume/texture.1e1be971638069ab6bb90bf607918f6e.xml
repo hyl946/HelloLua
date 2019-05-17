@@ -1,0 +1,22 @@
+<TextureAtlas name="CrashResume" imagePath="texture.png">
+ <SubTexture name="CrashResume/款" x="203" y="118" width="140" height="140"/>
+ <SubTexture name="CrashResume/yy" x="0" y="0" width="531" height="77"/>
+ <SubTexture name="CrashResume/quan" x="507" y="96" width="16" height="16"/>
+ <SubTexture name="CrashResume/star2" x="345" y="118" width="65" height="65"/>
+ <SubTexture name="CrashResume/awt6qawzesdgs4wrh/元件 29" x="789" y="0" width="222" height="201"/>
+ <SubTexture name="CrashResume/awt6qawzesdgs4wrh/元件 11" x="507" y="114" width="11" height="11"/>
+ <SubTexture name="CrashResume/元件 33" x="345" y="185" width="30" height="28"/>
+ <SubTexture name="CrashResume/元件 1" x="0" y="78" width="201" height="169"/>
+ <SubTexture name="CrashResume/元件 35" x="470" y="78" width="35" height="77"/>
+ <SubTexture name="CrashResume/元件 34" x="931" y="203" width="83" height="28"/>
+ <SubTexture name="xvdx/he_animal_1_6_2648910989834" x="789" y="203" width="140" height="140"/>
+ <SubTexture name="xvdx/he_animal_1_5_9248910989824" x="203" y="78" width="266" height="39"/>
+ <SubTexture name="xvdx/he_animal_1_4_5348910989815" x="507" y="78" width="16" height="16"/>
+ <SubTexture name="xvdx/he_animal_1_3_4848910989806" x="449" y="157" width="66" height="65"/>
+ <SubTexture name="xvdx/he_animal_1_16_1948910989937" x="430" y="232" width="229" height="48"/>
+ <SubTexture name="xvdx/he_animal_1_15_3248910989926" x="532" y="0" width="255" height="230"/>
+ <SubTexture name="xvdx/he_animal_1_14_8048910989916" x="519" y="114" width="11" height="11"/>
+ <SubTexture name="xvdx/he_animal_1_8_7448910989854" x="376" y="185" width="30" height="28"/>
+ <SubTexture name="xvdx/he_animal_1_11_4448910989887" x="345" y="214" width="83" height="28"/>
+ <SubTexture name="xvdx/he_animal_1_13_448910989906" x="412" y="118" width="35" height="77"/>
+</TextureAtlas>

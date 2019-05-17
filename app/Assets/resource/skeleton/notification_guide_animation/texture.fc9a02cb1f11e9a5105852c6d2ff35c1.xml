@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2e577a27b7ca8015d86a68e2198da014:77c4cebc0dc1f58efa701fa8e93e647d:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="__dbTextures/元件 3/图层 11_6" x="469" y="401" width="28" height="21"/>
+    <SubTexture name="__dbTextures/元件 3/图层 11_8" x="475" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 11_9" x="438" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 12_10" x="351" y="417" width="116" height="40"/>
+    <SubTexture name="__dbTextures/元件 3/图层 12_11" x="148" y="194" width="109" height="18"/>
+    <SubTexture name="__dbTextures/元件 3/图层 12_12" x="128" y="500" width="18" height="7"/>
+    <SubTexture name="__dbTextures/元件 3/图层 12_7" x="206" y="266" width="31" height="23"/>
+    <SubTexture name="__dbTextures/元件 3/图层 12_8" x="438" y="245" width="61" height="41"/>
+    <SubTexture name="__dbTextures/元件 3/图层 12_9" x="148" y="214" width="90" height="50"/>
+    <SubTexture name="__dbTextures/元件 3/图层 14_12" x="469" y="401" width="28" height="21"/>
+    <SubTexture name="__dbTextures/元件 3/图层 14_14" x="475" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 14_15" x="438" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 15_13" x="206" y="266" width="31" height="23"/>
+    <SubTexture name="__dbTextures/元件 3/图层 15_14" x="438" y="245" width="61" height="41"/>
+    <SubTexture name="__dbTextures/元件 3/图层 15_15" x="148" y="214" width="90" height="50"/>
+    <SubTexture name="__dbTextures/元件 3/图层 15_16" x="351" y="417" width="116" height="40"/>
+    <SubTexture name="__dbTextures/元件 3/图层 15_17" x="148" y="194" width="109" height="18"/>
+    <SubTexture name="__dbTextures/元件 3/图层 15_18" x="128" y="500" width="18" height="7"/>
+    <SubTexture name="__dbTextures/元件 3/图层 18_12" x="469" y="401" width="28" height="21"/>
+    <SubTexture name="__dbTextures/元件 3/图层 18_14" x="475" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 18_15" x="438" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 19_13" x="206" y="266" width="31" height="23"/>
+    <SubTexture name="__dbTextures/元件 3/图层 19_14" x="438" y="245" width="61" height="41"/>
+    <SubTexture name="__dbTextures/元件 3/图层 19_15" x="148" y="214" width="90" height="50"/>
+    <SubTexture name="__dbTextures/元件 3/图层 19_16" x="351" y="417" width="116" height="40"/>
+    <SubTexture name="__dbTextures/元件 3/图层 19_17" x="148" y="194" width="109" height="18"/>
+    <SubTexture name="__dbTextures/元件 3/图层 19_18" x="128" y="500" width="18" height="7"/>
+    <SubTexture name="__dbTextures/元件 3/图层 21_0" x="469" y="401" width="28" height="21"/>
+    <SubTexture name="__dbTextures/元件 3/图层 21_2" x="475" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 21_3" x="438" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 22_1" x="206" y="266" width="31" height="23"/>
+    <SubTexture name="__dbTextures/元件 3/图层 22_2" x="438" y="245" width="61" height="41"/>
+    <SubTexture name="__dbTextures/元件 3/图层 22_3" x="148" y="214" width="90" height="50"/>
+    <SubTexture name="__dbTextures/元件 3/图层 22_4" x="351" y="417" width="116" height="40"/>
+    <SubTexture name="__dbTextures/元件 3/图层 22_5" x="148" y="194" width="109" height="18"/>
+    <SubTexture name="__dbTextures/元件 3/图层 22_6" x="128" y="500" width="18" height="7"/>
+    <SubTexture name="__dbTextures/元件 3/图层 24_4" x="469" y="401" width="28" height="21"/>
+    <SubTexture name="__dbTextures/元件 3/图层 24_6" x="475" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 24_7" x="438" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 25_10" x="128" y="500" width="18" height="7"/>
+    <SubTexture name="__dbTextures/元件 3/图层 25_5" x="206" y="266" width="31" height="23"/>
+    <SubTexture name="__dbTextures/元件 3/图层 25_6" x="438" y="245" width="61" height="41"/>
+    <SubTexture name="__dbTextures/元件 3/图层 25_7" x="148" y="214" width="90" height="50"/>
+    <SubTexture name="__dbTextures/元件 3/图层 25_8" x="351" y="417" width="116" height="40"/>
+    <SubTexture name="__dbTextures/元件 3/图层 25_9" x="148" y="194" width="109" height="18"/>
+    <SubTexture name="__dbTextures/元件 3/图层 28_0" x="469" y="401" width="28" height="21"/>
+    <SubTexture name="__dbTextures/元件 3/图层 28_2" x="475" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 28_3" x="438" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 29_1" x="206" y="266" width="31" height="23"/>
+    <SubTexture name="__dbTextures/元件 3/图层 29_2" x="438" y="245" width="61" height="41"/>
+    <SubTexture name="__dbTextures/元件 3/图层 29_3" x="148" y="214" width="90" height="50"/>
+    <SubTexture name="__dbTextures/元件 3/图层 29_4" x="351" y="417" width="116" height="40"/>
+    <SubTexture name="__dbTextures/元件 3/图层 29_5" x="148" y="194" width="109" height="18"/>
+    <SubTexture name="__dbTextures/元件 3/图层 29_6" x="128" y="500" width="18" height="7"/>
+    <SubTexture name="__dbTextures/元件 3/图层 5_10" x="475" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 5_11" x="438" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 5_8" x="469" y="401" width="28" height="21"/>
+    <SubTexture name="__dbTextures/元件 3/图层 6_10" x="438" y="245" width="61" height="41"/>
+    <SubTexture name="__dbTextures/元件 3/图层 6_11" x="148" y="214" width="90" height="50"/>
+    <SubTexture name="__dbTextures/元件 3/图层 6_12" x="351" y="417" width="116" height="40"/>
+    <SubTexture name="__dbTextures/元件 3/图层 6_13" x="148" y="194" width="109" height="18"/>
+    <SubTexture name="__dbTextures/元件 3/图层 6_14" x="128" y="500" width="18" height="7"/>
+    <SubTexture name="__dbTextures/元件 3/图层 6_9" x="206" y="266" width="31" height="23"/>
+    <SubTexture name="__dbTextures/元件 3/图层 8_4" x="469" y="401" width="28" height="21"/>
+    <SubTexture name="__dbTextures/元件 3/图层 8_6" x="475" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 8_7" x="438" y="288" width="35" height="6"/>
+    <SubTexture name="__dbTextures/元件 3/图层 9_10" x="128" y="500" width="18" height="7"/>
+    <SubTexture name="__dbTextures/元件 3/图层 9_5" x="206" y="266" width="31" height="23"/>
+    <SubTexture name="__dbTextures/元件 3/图层 9_6" x="438" y="245" width="61" height="41"/>
+    <SubTexture name="__dbTextures/元件 3/图层 9_7" x="148" y="214" width="90" height="50"/>
+    <SubTexture name="__dbTextures/元件 3/图层 9_8" x="351" y="417" width="116" height="40"/>
+    <SubTexture name="__dbTextures/元件 3/图层 9_9" x="148" y="194" width="109" height="18"/>
+    <SubTexture name="dgdfhgh" x="2" y="2" width="256" height="190"/>
+    <SubTexture name="元件 2 副本" x="139" y="296" width="142" height="124" frameX="-6" frameY="-12" frameWidth="162" frameHeight="156"/>
+    <SubTexture name="元件 2" x="128" y="426" width="91" height="72" frameX="-8" frameY="-7" frameWidth="99" frameHeight="86"/>
+    <SubTexture name="元件 4" x="240" y="245" width="15" height="25"/>
+    <SubTexture name="元件 5 副本" x="221" y="422" width="128" height="88" frameX="-2" frameY="-3" frameWidth="138" frameHeight="98"/>
+    <SubTexture name="元件 5" x="431" y="296" width="77" height="35" frameX="0" frameY="-1" frameWidth="77" frameHeight="37"/>
+    <SubTexture name="重复项目文件夹/bizi" x="494" y="152" width="17" height="10"/>
+    <SubTexture name="重复项目文件夹/body 副本" x="454" y="47" width="46" height="50"/>
+    <SubTexture name="重复项目文件夹/ear 副本 4" x="2" y="296" width="135" height="128" frameX="-3" frameY="-2" frameWidth="143" frameHeight="136"/>
+    <SubTexture name="重复项目文件夹/eye1 副本 4" x="148" y="266" width="29" height="27"/>
+    <SubTexture name="重复项目文件夹/eye2 副本 4" x="179" y="272" width="25" height="22"/>
+    <SubTexture name="重复项目文件夹/eye_shuted 副本 2" x="454" y="152" width="38" height="10"/>
+    <SubTexture name="重复项目文件夹/eyeshadow1 副本 3" x="454" y="99" width="43" height="51"/>
+    <SubTexture name="重复项目文件夹/eyeshadow2 副本 3" x="454" y="2" width="47" height="43"/>
+    <SubTexture name="重复项目文件夹/face 副本 4" x="2" y="194" width="144" height="98" frameX="0" frameY="0" frameWidth="144" frameHeight="108"/>
+    <SubTexture name="重复项目文件夹/face 副本" x="260" y="2" width="192" height="151" frameX="-10" frameY="-2" frameWidth="220" frameHeight="177"/>
+    <SubTexture name="重复项目文件夹/foot 副本 2" x="438" y="166" width="62" height="77" frameX="-3" frameY="-4" frameWidth="72" frameHeight="87"/>
+    <SubTexture name="重复项目文件夹/guang" x="503" y="2" width="7" height="6"/>
+    <SubTexture name="重复项目文件夹/head 副本 4" x="2" y="426" width="124" height="82"/>
+    <SubTexture name="重复项目文件夹/head 副本" x="260" y="155" width="176" height="135" frameX="-2" frameY="-3" frameWidth="184" frameHeight="143"/>
+    <SubTexture name="重复项目文件夹/leg 副本 2" x="469" y="424" width="21" height="15"/>
+    <SubTexture name="重复项目文件夹/leg 副本 3" x="431" y="333" width="74" height="66" frameX="-2" frameY="-3" frameWidth="82" frameHeight="76"/>
+    <SubTexture name="重复项目文件夹/leg 副本" x="431" y="333" width="74" height="66" frameX="-2" frameY="-3" frameWidth="82" frameHeight="76"/>
+    <SubTexture name="重复项目文件夹/lingjie 副本" x="239" y="272" width="19" height="12"/>
+    <SubTexture name="重复项目文件夹/meimao cf" x="499" y="99" width="11" height="9"/>
+    <SubTexture name="重复项目文件夹/meimao 副本 4" x="502" y="47" width="9" height="11"/>
+    <SubTexture name="重复项目文件夹/mouse_huanxiong_sad 副本 2" x="240" y="214" width="18" height="29"/>
+    <SubTexture name="重复项目文件夹/nose 副本 4" x="351" y="459" width="28" height="40"/>
+    <SubTexture name="重复项目文件夹/tail 副本 2" x="283" y="296" width="146" height="119" frameX="-4" frameY="-2" frameWidth="160" frameHeight="127"/>
+    <SubTexture name="重复项目文件夹/tears 副本 2" x="438" y="155" width="14" height="9"/>
+</TextureAtlas>

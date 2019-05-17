@@ -1,0 +1,74 @@
+<dragonBones name="countdown_party_chest" frameRate="24" version="2.3">
+ <armature name="countdown_party_chest/chest">
+  <bone name="图层 1">
+   <transform x="44.85" y="41.9" skX="0" skY="0" scX="0.55" scY="0.55"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="44.5" y="33.55" skX="0" skY="0" scX="0.55" scY="0.55"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="countdown_party_chest/重复项目文件夹/元件 37 副本 6" type="image">
+     <transform x="-39.4" y="-32.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="-11.1"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="1">
+    <display name="countdown_party_chest/重复项目文件夹/元件 35 副本 8" type="image">
+     <transform x="-43.9" y="-24.65" skX="0" skY="0" scX="1" scY="1" pX="3" pY="3"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="box" fadeInTime="0.1" duration="24" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="44.85" y="41.9" skX="0" skY="0" scX="0.55" scY="0.55" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="45.15" y="39.55" skX="0" skY="0" scX="1.04" scY="1.17" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="11">
+     <transform x="45.15" y="42.55" skX="0" skY="0" scX="1.04" scY="1.08" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="45.15" y="42.55" skX="0" skY="0" scX="1.04" scY="1.08" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="45.15" y="39.25" skX="0" skY="0" scX="1.04" scY="1.17" pX="0.1" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="45.15" y="42.6" skX="0" skY="0" scX="1.04" scY="1.07" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="45" y="39.9" skX="0" skY="0" scX="0.73" scY="0.78" pX="0.1" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="3">
+     <transform x="44.5" y="33.55" skX="0" skY="0" scX="0.55" scY="0.55" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="44.5" y="7.5" skX="0" skY="0" scX="1.04" scY="0.57" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="11">
+     <transform x="44.5" y="13" skX="0" skY="0" scX="1.04" scY="0.52" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="44.5" y="13" skX="0" skY="0" scX="1.04" scY="0.52" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="44.5" y="7" skX="0" skY="0" scX="1.04" scY="0.57" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="3">
+     <transform x="44.5" y="26.65" skX="0" skY="0" scX="1.04" scY="1.07" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="44.5" y="28.3" skX="0" skY="0" scX="0.73" scY="0.78" pX="0" pY="-0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <frame duration="23"/>
+   <frame duration="1"/>
+  </animation>
+ </armature>
+</dragonBones>

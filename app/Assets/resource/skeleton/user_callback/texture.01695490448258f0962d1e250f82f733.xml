@@ -1,0 +1,4 @@
+<TextureAtlas name="buff_count_down_intro" imagePath="texture.png">
+ <SubTexture name="buff_count_down_intro/元件 12" x="0" y="0" width="244" height="106"/>
+ <SubTexture name="buff_count_down_intro/text" x="0" y="108" width="10" height="10"/>
+</TextureAtlas>

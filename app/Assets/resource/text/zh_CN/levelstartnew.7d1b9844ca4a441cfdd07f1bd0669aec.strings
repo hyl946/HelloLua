@@ -1,0 +1,15 @@
+"level.start.dig.endless.mode" = "尽力挖掘所有宝石";
+"level.start.dig.step.mode" = "挖出足够数量宝石";
+"level.start.dig.time.mode" = "限时挖出足够宝石";
+"level.start.drop.key.mode" = "收集橡果换取金钥匙";
+"level.start.drop.mode" = "获得足够的金豆荚";
+"level.start.eliminate.effect.mode" = "消除指定数量特效";
+"level.start.ice.mode" = "消除所有冰块";
+"level.start.meadow.mode" = "消除所有荷塘";
+"level.start.mid.autumn" = "快来救玉兔、攒月饼吧~";
+"level.start.national.day" = "快来准备过冬集竹笋吧~";
+"level.start.objective.mode" = "消除足够数量目标";
+"level.start.step.mode" = "获得足够分数";
+"level.start.swap.effect.mode" = "交换指定数量特效";
+"level.start.time.mode" = "限时达到得分";
+"level.target.rabbit.weekly.mode" = "尽力救出更多萌萌兔吧";

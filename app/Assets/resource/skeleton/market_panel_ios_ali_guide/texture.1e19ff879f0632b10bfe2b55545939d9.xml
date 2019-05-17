@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5433027028f55b31e8d6a43e7581d4ec:be0076bd5f48018d3b4e7f3ee007b295:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="market_panel_ios_ali_guide__/arm1_tutorial_moved" x="108" y="284" width="120" height="34"/>
+    <SubTexture name="market_panel_ios_ali_guide__/body2_tutorial_moved" x="2" y="284" width="104" height="102" frameX="-12" frameY="-17" frameWidth="116" frameHeight="120"/>
+    <SubTexture name="market_panel_ios_ali_guide__/eye1_tutorial_moved" x="108" y="320" width="28" height="27"/>
+    <SubTexture name="market_panel_ios_ali_guide__/eye2_tutorial_moved" x="108" y="349" width="25" height="22"/>
+    <SubTexture name="market_panel_ios_ali_guide__/head2_tutorial_moved" x="256" y="2" width="208" height="235" frameX="-3" frameY="-4" frameWidth="232" frameHeight="239"/>
+    <SubTexture name="market_panel_ios_ali_guide__/mouse_tutorial_moved" x="103" y="388" width="30" height="57"/>
+    <SubTexture name="market_panel_ios_ali_guide__/nose_tutorial_moved" x="135" y="349" width="31" height="21"/>
+    <SubTexture name="market_panel_ios_ali_guide__/tail_tutorial_moved" x="2" y="388" width="99" height="66"/>
+    <SubTexture name="market_panel_ios_ali_guide__/元件 66" x="2" y="2" width="252" height="280" frameX="0" frameY="-2" frameWidth="276" frameHeight="282"/>
+</TextureAtlas>

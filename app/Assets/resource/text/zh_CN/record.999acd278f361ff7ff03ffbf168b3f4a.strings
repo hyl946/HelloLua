@@ -1,0 +1,5 @@
+"record.panel.button" = "开始录屏";
+"record.panel.description1" = "点击开始录屏会出现确认面板：";
+"record.panel.description2" = "屏幕录制过程中，再次点击录屏按钮停止录屏，可直接保存或分享视频";
+"record.panel.description3" = "录制时间最长为1分钟，时间到会自动停止屏幕录制哦~";
+"record.time.up.tip" = "屏幕录制时间最长只有1分钟哦~";

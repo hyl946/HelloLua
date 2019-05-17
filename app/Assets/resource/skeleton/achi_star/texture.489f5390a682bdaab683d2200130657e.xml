@@ -1,0 +1,3 @@
+<TextureAtlas name="achi_star" imagePath="texture.png">
+ <SubTexture name="元件 71" x="0" y="0" width="41" height="45"/>
+</TextureAtlas>

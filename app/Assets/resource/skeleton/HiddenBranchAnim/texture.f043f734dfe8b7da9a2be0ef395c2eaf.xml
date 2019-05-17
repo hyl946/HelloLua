@@ -1,0 +1,10 @@
+<TextureAtlas name="HiddenBranchAnim" imagePath="texture.png">
+ <SubTexture name="HiddenBranchAnim/res/元件 1" x="130" y="103" width="111" height="111"/>
+ <SubTexture name="HiddenBranchAnim/res/元件 7" x="0" y="0" width="129" height="129"/>
+ <SubTexture name="HiddenBranchAnim/res/assets/AssetStartPanel/l气泡定版有投影" x="107" y="216" width="62" height="62"/>
+ <SubTexture name="HiddenBranchAnim/res/元件 10" x="0" y="130" width="105" height="105"/>
+ <SubTexture name="HiddenBranchAnim/res/元件 6" x="130" y="0" width="125" height="102"/>
+ <SubTexture name="HiddenBranchAnim/res/star-lid" x="202" y="216" width="33" height="33"/>
+ <SubTexture name="HiddenBranchAnim/res/元件 9" x="170" y="216" width="30" height="40"/>
+ <SubTexture name="HiddenBranchAnim/res/元件 4" x="243" y="103" width="11" height="11"/>
+</TextureAtlas>

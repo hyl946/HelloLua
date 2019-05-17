@@ -1,0 +1,216 @@
+<dragonBones name="ios_promotion_normal" frameRate="24" version="2.3">
+ <armature name="ios_promotion_normal">
+  <bone name="jinbi hou">
+   <transform x="377.55" y="587.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="jinbi">
+   <transform x="206" y="586.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="jinbi_0">
+   <transform x="206.8" y="584.1" skX="-10.44" skY="-10.44" scX="0.8" scY="0.8"/>
+  </bone>
+  <bone name="huanxiong">
+   <transform x="278.65" y="634.85" skX="0" skY="0" scX="1" scY="0.66"/>
+  </bone>
+  <bone name="huli">
+   <transform x="503.9" y="649.5" skX="0" skY="0" scX="1" scY="0.72"/>
+  </bone>
+  <bone name="jinbidui2">
+   <transform x="370.65" y="687.95" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="jinbi_1">
+   <transform x="500.15" y="610.5" skX="-19.21" skY="-19.21" scX="1" scY="0.86"/>
+  </bone>
+  <bone name="jinbi_2">
+   <transform x="206" y="549.45" skX="-10.71" skY="-10.71" scX="1" scY="1"/>
+  </bone>
+  <bone name="jinbi_3">
+   <transform x="328.25" y="614.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="jinbi hou" parent="jinbi hou" z="0">
+    <display name="jinbi hou__uk__1" type="image">
+     <transform x="-305.55" y="-91.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="jinbi" parent="jinbi" z="1">
+    <display name="jinbi__uk__1" type="image">
+     <transform x="-63.35" y="-62.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="jinbi3__uk__1" type="image">
+     <transform x="-61.95" y="-37.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="jinbi_0" parent="jinbi_0" z="2">
+    <display name="jinbi2__uk__1" type="image">
+     <transform x="-72.65" y="-73.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="huanxiong" parent="huanxiong" z="3">
+    <display name="xiaohuanx" type="image">
+     <transform x="-98.55" y="-193.35" skX="0" skY="0" scX="1" scY="1" pX="-5.65" pY="-11.15"/>
+    </display>
+   </slot>
+   <slot name="huli" parent="huli" z="4">
+    <display name="huli__uk__1" type="image">
+     <transform x="-126.7" y="-289" skX="0" skY="0" scX="1" scY="1" pX="-16.75" pY="-13.55"/>
+    </display>
+   </slot>
+   <slot name="jinbidui2" parent="jinbidui2" z="5">
+    <display name="sdfgdfh5e4tgh" type="image">
+     <transform x="-306.05" y="-166.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="jinbi_1" parent="jinbi_1" z="6">
+    <display name="jinbi2__uk__1" type="image">
+     <transform x="-72.8" y="-73.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="jinbi_2" parent="jinbi_2" z="7">
+    <display name="jinbi3__uk__1" type="image">
+     <transform x="-61.95" y="-37.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="jinbi_3" parent="jinbi_3" z="8">
+    <display name="jinbi4__uk__1" type="image">
+     <transform x="-74.6" y="-73.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="ani" fadeInTime="0.3" duration="20" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="jinbi hou" scale="1" offset="0">
+    <frame z="0" duration="6">
+     <transform x="377.55" y="587.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="377.55" y="587.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="377.55" y="582.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="10">
+     <transform x="377.55" y="587.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="jinbi" scale="1" offset="0">
+    <frame z="7" displayIndex="1" duration="5">
+     <transform x="206" y="586.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" displayIndex="1" tweenEasing="0" duration="2">
+     <transform x="206" y="586.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0.57" duration="4">
+     <transform x="579.8" y="630.9" skX="-5.22" skY="-5.22" scX="0.9" scY="0.9" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="7">
+     <transform x="684.55" y="525.65" skX="0" skY="0" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="jinbi_0" scale="1" offset="0">
+    <frame duration="8" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0.57" duration="4">
+     <transform x="206.8" y="584.1" skX="-10.44" skY="-10.44" scX="0.8" scY="0.8" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="8">
+     <transform x="72.7" y="493.75" skX="0" skY="0" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="huanxiong" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0.34" duration="6">
+     <transform x="278.65" y="634.85" skX="0" skY="0" scX="1" scY="0.66" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="278.75" y="450.35" skX="-8.95" skY="-8.95" scX="0.94" scY="1.09" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="278.65" y="576.65" skX="0" skY="0" scX="1.08" scY="0.89" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="278.65" y="567.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="278.65" y="578.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="huli" scale="1" offset="0">
+    <frame duration="4" displayIndex="-1"/>
+    <frame z="4" tweenEasing="0.53" duration="4">
+     <transform x="503.9" y="649.5" skX="0" skY="0" scX="1" scY="0.72" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="503.9" y="545.25" skX="4.45" skY="4.45" scX="1" scY="1.04" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="503.9" y="636.4" skX="0" skY="0" scX="1" scY="0.94" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="503.9" y="626.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="4" duration="4">
+     <transform x="503.9" y="633.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="jinbidui2" scale="1" offset="0">
+    <frame z="5" duration="6">
+     <transform x="370.65" y="687.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="2">
+     <transform x="370.65" y="687.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="2">
+     <transform x="370.65" y="687.95" skX="0" skY="0" scX="1" scY="1.08" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="10">
+     <transform x="370.65" y="687.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="jinbi_1" scale="1" offset="0">
+    <frame duration="7" displayIndex="-1"/>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="500.15" y="610.5" skX="-19.21" skY="-19.21" scX="1" scY="0.86" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="6">
+     <transform x="446.6" y="459.25" skX="-19.21" skY="-19.21" scX="1" scY="0.86" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="2">
+     <transform x="425.6" y="641.5" skX="-19.07" skY="-19.07" scX="1" scY="0.86" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="415.1" y="732.55" skX="-19.21" skY="-19.21" scX="1" scY="0.86" pX="0" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="jinbi_2" scale="1" offset="0">
+    <frame duration="7" displayIndex="-1"/>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="206" y="549.45" skX="-10.71" skY="-10.71" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="206" y="591.05" skX="6.72" skY="6.72" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="7" duration="9">
+     <transform x="206" y="586.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="jinbi_3" scale="1" offset="0">
+    <frame z="8" duration="6">
+     <transform x="328.25" y="614.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="328.25" y="614.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="328.25" y="574.25" skX="6.98" skY="6.98" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="328.25" y="619.05" skX="6.98" skY="6.98" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="8">
+     <transform x="328.25" y="614.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

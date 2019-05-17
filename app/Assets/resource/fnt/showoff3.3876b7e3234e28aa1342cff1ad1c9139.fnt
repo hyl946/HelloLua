@@ -1,0 +1,18 @@
+info face="BerlinSansFBDemi-Bold" size=66 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=75 base=61 scaleW=256 scaleH=256 pages=1 packed=0
+page id=0 file="showoff3.png"
+chars count=14
+char id=32     x=112   y=125   width=0     height=0     xoffset=0     yoffset=61    xadvance=17    page=0 chnl=0 letter="space"
+char id=43     x=71    y=125   width=37    height=39    xoffset=1     yoffset=18    xadvance=31    page=0 chnl=0 letter="+"
+char id=47     x=73    y=2     width=28    height=58    xoffset=1     yoffset=7     xadvance=22    page=0 chnl=0 letter="/"
+char id=48     x=2     y=74    width=47    height=49    xoffset=2     yoffset=13    xadvance=42    page=0 chnl=0 letter="0"
+char id=49     x=43    y=125   width=26    height=49    xoffset=0     yoffset=12    xadvance=21    page=0 chnl=0 letter="1"
+char id=50     x=95    y=74    width=41    height=49    xoffset=1     yoffset=13    xadvance=34    page=0 chnl=0 letter="2"
+char id=51     x=179   y=74    width=39    height=49    xoffset=1     yoffset=13    xadvance=32    page=0 chnl=0 letter="3"
+char id=52     x=147   y=2     width=42    height=50    xoffset=1     yoffset=11    xadvance=36    page=0 chnl=0 letter="4"
+char id=53     x=2     y=125   width=39    height=49    xoffset=1     yoffset=13    xadvance=33    page=0 chnl=0 letter="5"
+char id=54     x=51    y=74    width=42    height=49    xoffset=2     yoffset=13    xadvance=37    page=0 chnl=0 letter="6"
+char id=55     x=138   y=74    width=39    height=49    xoffset=0     yoffset=13    xadvance=32    page=0 chnl=0 letter="7"
+char id=56     x=191   y=2     width=39    height=50    xoffset=1     yoffset=12    xadvance=32    page=0 chnl=0 letter="8"
+char id=57     x=103   y=2     width=42    height=50    xoffset=2     yoffset=12    xadvance=37    page=0 chnl=0 letter="9"
+char id=20851  x=2     y=2     width=69    height=70    xoffset=3     yoffset=-2    xadvance=66    page=0 chnl=0 letter="关"

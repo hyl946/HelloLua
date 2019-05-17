@@ -1,0 +1,4 @@
+<TextureAtlas name="countdown_party_chest" imagePath="texture.png">
+ <SubTexture name="countdown_party_chest/重复项目文件夹/元件 37 副本 6" x="0" y="68" width="79" height="55"/>
+ <SubTexture name="countdown_party_chest/重复项目文件夹/元件 35 副本 8" x="0" y="0" width="97" height="66"/>
+</TextureAtlas>

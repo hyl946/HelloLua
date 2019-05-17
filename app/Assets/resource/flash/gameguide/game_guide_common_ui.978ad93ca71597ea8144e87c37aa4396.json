@@ -1,0 +1,109 @@
+{
+	"image": "game_guide_common_ui.png",
+	"config": "game_guide_common_ui.plist",
+	"stageHeight": 2000,
+	"stageWidth": 2000,
+	"version": 1,
+	"groups": {
+		"ui_guide_export/_images": [
+			{
+				"x": 0,
+				"y": 2,
+				"width": 190,
+				"height": 232,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "ui_guide_images/guide_npc_raccoon_1",
+				"image": "ui_guide_images/guide_npc_raccoon_1",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 256,
+				"y": 2,
+				"width": 215,
+				"height": 220,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "ui_guide_images/guide_npc_raccoon_3",
+				"image": "ui_guide_images/guide_npc_raccoon_3",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 537,
+				"y": 2,
+				"width": 188,
+				"height": 215,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 2,
+				"id": "ui_guide_images/guide_npc_raccoon_4",
+				"image": "ui_guide_images/guide_npc_raccoon_4",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"ui_guide_export/_scale9": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 104.55,
+				"height": 104.75,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "ui_guide_scale9/guide_scale9_bg_1",
+				"image": "ui_guide_scale9/guide_scale9_bg_1",
+				"type": 0,
+				"scalingGrid": true
+			},
+			{
+				"x": 150,
+				"y": 0,
+				"width": 120,
+				"height": 120,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "ui_guide_scale9/guide_scale9_bg_2",
+				"image": "ui_guide_scale9/guide_scale9_bg_2",
+				"type": 0,
+				"scalingGrid": true
+			},
+			{
+				"x": 302,
+				"y": 0,
+				"width": 385,
+				"height": 110,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 2,
+				"id": "ui_guide_scale9/guide_scale9_bg_3",
+				"image": "ui_guide_scale9/guide_scale9_bg_3",
+				"type": 0,
+				"scalingGrid": true
+			}
+		]
+	}
+}

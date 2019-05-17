@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e4f3c205450ba492dadb9d015339d926:e1f45104c8b669749f740294bc4bd677:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/star-li 副本 3" x="177" y="498" width="25" height="25"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/star-li 副本 4" x="177" y="498" width="25" height="25"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/star-li 副本 5" x="177" y="498" width="25" height="25"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/star-li 副本" x="177" y="498" width="25" height="25"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/star-li" x="177" y="498" width="25" height="25"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 19 副本 3" x="2" y="2" width="239" height="251"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 19 副本 4" x="2" y="255" width="237" height="241"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 19 副本 6" x="2" y="255" width="237" height="241"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 4 副本 4" x="616" y="145" width="166" height="140"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 4 副本 6" x="241" y="271" width="165" height="155"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 4 副本 66" x="2" y="498" width="173" height="151"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 4 副本" x="177" y="645" width="157" height="114"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 4" x="2" y="651" width="159" height="131"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 61 副本 4" x="243" y="2" width="182" height="147"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 61 副本" x="243" y="2" width="182" height="147"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 65" x="500" y="563" width="139" height="136"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 66 副本 4" x="436" y="146" width="178" height="142"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 66 副本" x="427" y="2" width="178" height="142"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 6_3" x="616" y="287" width="156" height="123"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 7" x="592" y="414" width="156" height="147"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 8 副本 10" x="241" y="428" width="191" height="118"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 8 副本 11" x="408" y="290" width="194" height="122"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 8 副本 6" x="243" y="151" width="191" height="118"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 8 副本" x="641" y="563" width="135" height="106"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 8" x="177" y="548" width="170" height="95"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 9 副本" x="434" y="414" width="156" height="147"/>
+    <SubTexture name="rank_race_reward_box_ani/重复项目文件夹/元件 9" x="607" y="2" width="167" height="141"/>
+    <SubTexture name="重复项目文件夹/star-li 副本" x="177" y="498" width="25" height="25"/>
+    <SubTexture name="重复项目文件夹/元件 9 副本" x="349" y="563" width="149" height="129"/>
+</TextureAtlas>

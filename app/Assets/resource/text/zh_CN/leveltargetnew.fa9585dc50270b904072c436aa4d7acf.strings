@@ -1,0 +1,11 @@
+"level.target.dig.endless.mode" = "尽力挖掘所有宝石";
+"level.target.dig.step.mode" = "挖出足够数量的宝石";
+"level.target.dig.time.mode" = "规定时间内挖出足够宝石";
+"level.target.drop.mode" = "获得足够的金豆荚";
+"level.target.eliminate.effect.mode" = "消除指定数量的下列特效";
+"level.target.ice.mode" = "消除所有冰块";
+"level.target.meadow.mode" = "消除所有荷塘";
+"level.target.objective.mode" = "消除足够数量的下列目标";
+"level.target.step.mode" = "获得足够分数";
+"level.target.swap.effect.mode" = "交换下列特效足够次数";
+"level.target.time.mode" = "规定时间内获得足够分数";

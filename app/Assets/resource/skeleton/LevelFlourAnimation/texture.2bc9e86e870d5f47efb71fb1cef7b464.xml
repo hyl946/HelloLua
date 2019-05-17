@@ -1,0 +1,112 @@
+<TextureAtlas name="LevelFlourAnimation" imagePath="texture.png">
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/sgdrgettr 副本" x="494" y="0" width="242" height="258"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/sdeferg" x="1930" y="320" width="109" height="109"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/ertert3" x="2035" y="12" width="9" height="9"/>
+ <SubTexture name="ChannelUp/res/元件 17" x="1409" y="242" width="67" height="66"/>
+ <SubTexture name="ChannelUp/res/_/重复项目文件夹/元件 26 副本 3" x="2035" y="0" width="11" height="10"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/efertg" x="1725" y="0" width="242" height="241"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/rgtr6hy" x="1969" y="0" width="65" height="79"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/htyj" x="1518" y="795" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/hu67" x="690" y="658" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/rydh7ki8" x="1489" y="657" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/esg46htu" x="828" y="658" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/gd5juyio" x="138" y="1085" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/erh6tjil" x="552" y="796" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/esfrgtrh45u6j7" x="276" y="949" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/egf76ij7yo" x="876" y="244" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/g56hjuyki" x="552" y="934" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/rgt56u68i" x="1654" y="243" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/eh76i98o" x="138" y="395" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/fg6ju88" x="738" y="244" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/gfyhu" x="1656" y="933" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/rg75u86ikp9" x="276" y="397" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/efrth56jutuk" x="690" y="934" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/dfgtryh65y" x="1656" y="1071" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/rdgtrj76jhf" x="0" y="673" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/grhju7ujyi" x="276" y="535" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/dg6tr6tju7" x="276" y="1087" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/rdghtyhjyu" x="1792" y="243" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/grtr6hy56ju" x="414" y="1087" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/gu67" x="966" y="658" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/fbgtrjuy" x="1104" y="745" width="137" height="137"/>
+ <SubTexture name="ChannelUp/res/FlowerEffectRes/efertg 副本" x="1479" y="0" width="244" height="240"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/efertg" x="1477" y="242" width="176" height="176"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/rgtr6hy" x="1969" y="80" width="65" height="79"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/htyj" x="414" y="949" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/hu67" x="1794" y="795" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/rydh7ki8" x="966" y="796" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/esg46htu" x="1903" y="657" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/gd5juyio" x="1794" y="1071" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/erh6tjil" x="1794" y="933" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/esfrgtrh45u6j7" x="138" y="809" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/egf76ij7yo" x="966" y="934" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/g56hjuyki" x="1627" y="657" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/rgt56u68i" x="1380" y="795" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/eh76i98o" x="138" y="671" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/fg6ju88" x="1518" y="933" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/gfyhu" x="1104" y="1159" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/rg75u86ikp9" x="1104" y="1021" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/efrth56jutuk" x="1104" y="883" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/dfgtryh65y" x="1104" y="607" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/rdgtrj76jhf" x="552" y="520" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/grhju7ujyi" x="1075" y="382" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/dg6tr6tju7" x="1351" y="557" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/rdghtyhjyu" x="1380" y="1209" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/grtr6hy56ju" x="0" y="1087" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/gu67" x="828" y="934" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/fbgtrjuy" x="937" y="382" width="137" height="137"/>
+ <SubTexture name="Halloween2017/LevelFlourAnimation/asfdhe5jtdrnawErhy1q234wbrf/重复项目文件夹/sgdrgettr 副本" x="1232" y="242" width="176" height="226"/>
+ <SubTexture name="Halloween2018/位图 1" x="738" y="0" width="245" height="242"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/efertg" x="985" y="0" width="245" height="242"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/rgtr6hy" x="1969" y="160" width="65" height="79"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/htyj" x="276" y="673" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/hu67" x="552" y="1072" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/rydh7ki8" x="385" y="259" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/esg46htu" x="1409" y="419" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/gd5juyio" x="799" y="382" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/erh6tjil" x="966" y="1072" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/esfrgtrh45u6j7" x="1518" y="1071" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/egf76ij7yo" x="414" y="673" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/g56hjuyki" x="0" y="397" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/rgt56u68i" x="1242" y="695" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/eh76i98o" x="1792" y="381" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/fg6ju88" x="1685" y="519" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/gfyhu" x="276" y="811" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/rg75u86ikp9" x="0" y="811" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/efrth56jutuk" x="1656" y="795" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/dfgtryh65y" x="523" y="259" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/rdgtrj76jhf" x="1242" y="833" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/grhju7ujyi" x="1654" y="381" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/dg6tr6tju7" x="1547" y="519" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/rdghtyhjyu" x="828" y="1072" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/grtr6hy56ju" x="690" y="1072" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/gu67" x="0" y="949" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/fbgtrjuy" x="690" y="796" width="137" height="137"/>
+ <SubTexture name="Halloween2018/重复项目文件夹/sgdrgettr 副本" x="0" y="0" width="245" height="258"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/sgdrgettr 副本 5" x="247" y="0" width="245" height="256"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/efertg 副本" x="1232" y="0" width="245" height="240"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/htyj" x="1242" y="971" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/hu67" x="247" y="257" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/rydh7ki8" x="0" y="535" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/esg46htu" x="1014" y="244" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/gd5juyio" x="0" y="259" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/erh6tjil" x="966" y="520" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/esfrgtrh45u6j7" x="414" y="811" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/egf76ij7yo" x="138" y="947" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/g56hjuyki" x="690" y="520" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/rgt56u68i" x="552" y="658" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/eh76i98o" x="1380" y="933" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/fg6ju88" x="828" y="796" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/gfyhu" x="1242" y="1109" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/rg75u86ikp9" x="828" y="520" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/efrth56jutuk" x="138" y="533" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/dfgtryh65y" x="414" y="397" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/rdgtrj76jhf" x="1765" y="657" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/grhju7ujyi" x="414" y="535" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/dg6tr6tju7" x="1380" y="1071" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/rdghtyhjyu" x="661" y="382" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/grtr6hy56ju" x="1213" y="469" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/gu67" x="1823" y="519" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/fbgtrjuy" x="1518" y="1209" width="137" height="137"/>
+ <SubTexture name="RewardActivityNDJ/res/FlowerEffectRes/rgtr6hy" x="1969" y="240" width="65" height="79"/>
+</TextureAtlas>

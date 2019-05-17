@@ -1,0 +1,13 @@
+info face="DFHaiBaoW12" size=42 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=0,0
+common lineHeight=54 base=36 scaleW=256 scaleH=128 pages=1 packed=0
+page id=0 file="bling.png"
+chars count=9
+char id=32     x=210   y=54    width=0     height=0     xoffset=0     yoffset=48    xadvance=26    page=0 chnl=0 letter="space"
+char id=20139  x=54    y=0     width=51    height=54    xoffset=3     yoffset=-2    xadvance=46    page=0 chnl=0 letter="享"
+char id=21160  x=159   y=0     width=54    height=52    xoffset=2     yoffset=-1    xadvance=46    page=0 chnl=0 letter="动"
+char id=24320  x=105   y=54    width=52    height=52    xoffset=3     yoffset=-2    xadvance=46    page=0 chnl=0 letter="开"
+char id=24425  x=105   y=0     width=54    height=53    xoffset=2     yoffset=-2    xadvance=46    page=0 chnl=0 letter="彩"
+char id=24515  x=157   y=54    width=53    height=51    xoffset=1     yoffset=0     xadvance=46    page=0 chnl=0 letter="心"
+char id=27963  x=53    y=54    width=52    height=52    xoffset=3     yoffset=-1    xadvance=46    page=0 chnl=0 letter="活"
+char id=30021  x=0     y=54    width=53    height=52    xoffset=2     yoffset=0     xadvance=46    page=0 chnl=0 letter="畅"
+char id=31934  x=0     y=0     width=54    height=54    xoffset=1     yoffset=-2    xadvance=46    page=0 chnl=0 letter="精"

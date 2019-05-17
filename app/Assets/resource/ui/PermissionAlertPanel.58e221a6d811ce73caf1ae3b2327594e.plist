@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>permission_alert_panel/title0000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{188,52}}</string>
+                <key>offset</key>
+                <string>{-3,-1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{1,12},{188,52}}</string>
+                <key>sourceSize</key>
+                <string>{196,74}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>PermissionAlertPanel.png</string>
+            <key>size</key>
+            <string>{192,56}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:98e6fd002f947a793d0acf8f5aa7cc59:a655c40dab784336072bf374eddbc4ef:0c5b6f4879ac0af91124032fd11df9fb$</string>
+            <key>textureFileName</key>
+            <string>PermissionAlertPanel.png</string>
+        </dict>
+    </dict>
+</plist>

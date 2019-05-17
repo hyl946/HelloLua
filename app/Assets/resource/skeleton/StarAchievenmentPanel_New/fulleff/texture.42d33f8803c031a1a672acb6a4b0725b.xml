@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:841497b95ecbcfac5425aff0a736a1a6:1823a6b7e62274bc568a4a5587ec84a8:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="StarAchievenmentPanel_New/元件 4 副本" x="2" y="2" width="53" height="55" frameX="-4" frameY="-1" frameWidth="61" frameHeight="61"/>
+</TextureAtlas>

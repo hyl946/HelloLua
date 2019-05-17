@@ -1,0 +1,15 @@
+"classic.move.objective" = "得到足够的分数";
+"classic.objective" = "限时达到得分";
+"dig.move.objective" = "挖到足够的宝石";
+"dig.time.objective" = "挖地时间模式";
+"drop.down.objective" = "获得足够金豆荚";
+"level.info.panel.start.level.failed" = "非常抱歉，游戏出错，请尝试重启游戏。";
+"light.up.objective" = "消除所有冰块";
+"order.objective" = "收集下列目标";
+"star.reward.panel.reward.des" = "获得{star_number}颗星星可领取：";
+"star.reward.panel.reward.des.new" = "再获得{num}颗星星可领奖";
+"star.reward.panel.reward.get.fail" = "对不起，领取奖励需要连接无线网络。";
+"start.game.panel.choose.item.title" = "请选择道具";
+"start.game.panel.preprop.item.selected" = "已选中";
+"start.game.panel.start.btn.txt" = "开始";
+"start.game.panel.title_di" = "第";

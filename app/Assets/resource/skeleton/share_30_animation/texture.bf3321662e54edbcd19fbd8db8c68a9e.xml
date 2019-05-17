@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ce0383fc86a8bb52e256c9237e7ed42b:ef8c6119d910c98fa3732e271166f7e0:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/dghtrh" x="173" y="602" width="151" height="207" frameX="-19" frameY="-29" frameWidth="177" frameHeight="237"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/dgrh" x="633" y="679" width="172" height="130" frameX="0" frameY="-3" frameWidth="172" frameHeight="142"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/dgrth" x="2" y="136" width="465" height="464" frameX="-21" frameY="-22" frameWidth="511" frameHeight="512"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/dgtrhr" x="469" y="152" width="324" height="368" frameX="-21" frameY="-15" frameWidth="370" frameHeight="410"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/dgvrdhd" x="326" y="602" width="134" height="199" frameX="-7" frameY="-2" frameWidth="142" frameHeight="201"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/fbgtyjfr" x="599" y="2" width="172" height="148" frameX="0" frameY="-11" frameWidth="194" frameHeight="162"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/fhty" x="548" y="522" width="99" height="155" frameX="-3" frameY="-9" frameWidth="119" frameHeight="173"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/gfrth" x="556" y="679" width="75" height="139" frameX="-1" frameY="-1" frameWidth="83" frameHeight="143"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/gtth" x="462" y="602" width="84" height="156" frameX="-5" frameY="-4" frameWidth="100" frameHeight="166"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/sdgerth" x="2" y="602" width="169" height="212" frameX="-20" frameY="-9" frameWidth="205" frameHeight="224"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/txt" x="462" y="760" width="92" height="33"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/元件 26 副本" x="773" y="2" width="9" height="8" frameX="0" frameY="-1" frameWidth="9" frameHeight="10"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/渐变黄" x="649" y="522" width="96" height="96"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/重复项目文件夹/hongdai 副本" x="2" y="2" width="595" height="132"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/重复项目文件夹/元件 61" x="469" y="522" width="77" height="75"/>
+    <SubTexture name="cdsadfsa896c9dhs7a5f76ds45a5764fd76s5af67dsafds/重复项目文件夹/元件 8" x="747" y="522" width="71" height="69"/>
+</TextureAtlas>

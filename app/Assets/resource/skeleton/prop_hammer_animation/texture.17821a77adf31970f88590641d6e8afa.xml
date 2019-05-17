@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:019ead5e9a52f0e91df5c2413aa4a5c1:7c2e3f5615bba2bad07d02b707e59f1d:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="prop_hammer_animation/O1" x="2" y="302" width="160" height="160"/>
+    <SubTexture name="prop_hammer_animation/O3" x="302" y="223" width="213" height="225" frameX="-11" frameY="-12" frameWidth="237" frameHeight="237"/>
+    <SubTexture name="prop_hammer_animation/O5" x="2" y="2" width="298" height="298" frameX="-35" frameY="-30" frameWidth="358" frameHeight="358"/>
+    <SubTexture name="prop_hammer_animation/beiguan" x="302" y="2" width="220" height="219" frameX="-32" frameY="-33" frameWidth="290" frameHeight="283"/>
+    <SubTexture name="prop_hammer_animation/cvop" x="2" y="464" width="95" height="95"/>
+    <SubTexture name="prop_hammer_animation/cvop3" x="164" y="302" width="131" height="130" frameX="0" frameY="-7" frameWidth="133" frameHeight="140"/>
+    <SubTexture name="prop_hammer_animation/gnk" x="547" y="239" width="38" height="14"/>
+    <SubTexture name="prop_hammer_animation/gun2" x="524" y="169" width="21" height="73"/>
+    <SubTexture name="prop_hammer_animation/gun3" x="524" y="2" width="62" height="105" frameX="0" frameY="0" frameWidth="70" frameHeight="113"/>
+    <SubTexture name="prop_hammer_animation/quan" x="448" y="450" width="91" height="91" frameX="-1" frameY="-1" frameWidth="93" frameHeight="93"/>
+    <SubTexture name="prop_hammer_animation/quan3" x="164" y="434" width="127" height="126" frameX="-3" frameY="-4" frameWidth="133" frameHeight="140"/>
+    <SubTexture name="prop_hammer_animation/sdv" x="293" y="450" width="153" height="144" frameX="0" frameY="-2" frameWidth="153" frameHeight="148"/>
+    <SubTexture name="prop_hammer_animation/vbny" x="579" y="207" width="13" height="14"/>
+    <SubTexture name="prop_hammer_animation/xin" x="547" y="207" width="30" height="30" frameX="-3" frameY="-4" frameWidth="36" frameHeight="38"/>
+    <SubTexture name="prop_hammer_animation/xinNN" x="547" y="169" width="36" height="36" frameX="-26" frameY="-20" frameWidth="86" frameHeight="86"/>
+    <SubTexture name="prop_hammer_animation/xinggu" x="524" y="109" width="61" height="58"/>
+    <SubTexture name="prop_hammer_animation/xinguan" x="517" y="337" width="75" height="73"/>
+    <SubTexture name="prop_hammer_animation/zac" x="517" y="255" width="80" height="80"/>
+</TextureAtlas>

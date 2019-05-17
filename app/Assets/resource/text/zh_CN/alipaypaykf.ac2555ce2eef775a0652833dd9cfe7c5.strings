@@ -1,0 +1,14 @@
+"alipay.kf.buy.desc" = "通过支付宝免密支付";
+"alipay.kf.desc.1" = "开通后，小额支付无需输入密码，方便又安全。";
+"alipay.kf.desc.2" = "1.免密仅限小额支付，安全有保障。";
+"alipay.kf.desc.3" = "2.此处操作仅授权给开心消消乐。";
+"alipay.kf.help.1" = "支付宝免密支付是？";
+"alipay.kf.help.2" = "开通支付宝免密支付后，每次小额支付时不再需要反复输入密码，方便安全。";
+"alipay.kf.help.3" = "1.安全保障，仅限小额支付";
+"alipay.kf.help.4" = "2.此操作仅授权给开心消消乐";
+"alipay.pay.kf.confirm" = "支付宝免密";
+"alipay.pay.kf.confirm1" = "支付宝";
+"alipay.pay.kf.confirm2" = "通过支付宝免密支付 {num}";
+"alipay.pay.kf.fail0" = "支付失败";
+"alipay.pay.kf.fail1" = "您的余额宝不足";
+"alipay.pay.kf.fail2" = "请检查您的网络设置";

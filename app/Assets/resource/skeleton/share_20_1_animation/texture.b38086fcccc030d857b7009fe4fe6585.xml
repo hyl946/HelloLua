@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5617d2d2916056053a8ecd0381996a57:69cb3b613e7abf1239067711ced1bc65:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="share_20_1_animation/_resource/0--20" x="212" y="611" width="44" height="69" frameX="-1" frameY="-2" frameWidth="50" frameHeight="81"/>
+    <SubTexture name="share_20_1_animation/_resource/0--222" x="210" y="738" width="48" height="73" frameX="-4" frameY="0" frameWidth="56" frameHeight="79"/>
+    <SubTexture name="share_20_1_animation/_resource/0-1" x="212" y="682" width="44" height="54" frameX="-1" frameY="0" frameWidth="50" frameHeight="58"/>
+    <SubTexture name="share_20_1_animation/_resource/1" x="1086" y="1044" width="177" height="172" frameX="-9" frameY="-6" frameWidth="195" frameHeight="190"/>
+    <SubTexture name="share_20_1_animation/_resource/11" x="2" y="928" width="186" height="264" frameX="-2" frameY="-8" frameWidth="202" frameHeight="276"/>
+    <SubTexture name="share_20_1_animation/_resource/13" x="391" y="923" width="176" height="245"/>
+    <SubTexture name="share_20_1_animation/_resource/14" x="396" y="619" width="171" height="235" frameX="0" frameY="-1" frameWidth="177" frameHeight="237"/>
+    <SubTexture name="share_20_1_animation/_resource/15" x="569" y="611" width="175" height="231"/>
+    <SubTexture name="share_20_1_animation/_resource/2" x="590" y="1125" width="179" height="181" frameX="-9" frameY="-6" frameWidth="197" frameHeight="199"/>
+    <SubTexture name="share_20_1_animation/_resource/3" x="1088" y="476" width="194" height="200" frameX="-10" frameY="0" frameWidth="204" frameHeight="214"/>
+    <SubTexture name="share_20_1_animation/_resource/4" x="947" y="807" width="184" height="202" frameX="-13" frameY="-10" frameWidth="210" frameHeight="228"/>
+    <SubTexture name="share_20_1_animation/_resource/5" x="771" y="1084" width="188" height="213" frameX="-14" frameY="-11" frameWidth="216" frameHeight="241"/>
+    <SubTexture name="share_20_1_animation/_resource/6" x="746" y="609" width="191" height="220" frameX="-16" frameY="-13" frameWidth="223" frameHeight="252"/>
+    <SubTexture name="share_20_1_animation/_resource/7" x="569" y="895" width="194" height="228" frameX="-18" frameY="-14" frameWidth="230" frameHeight="262"/>
+    <SubTexture name="share_20_1_animation/_resource/8" x="190" y="928" width="199" height="256" frameX="-19" frameY="-16" frameWidth="237" frameHeight="272"/>
+    <SubTexture name="share_20_1_animation/_resource/9" x="1106" y="2" width="203" height="242" frameX="-20" frameY="-17" frameWidth="243" frameHeight="282"/>
+    <SubTexture name="share_20_1_animation/_resource/B-star" x="342" y="1281" width="31" height="23" frameX="-10" frameY="0" frameWidth="41" frameHeight="29"/>
+    <SubTexture name="share_20_1_animation/_resource/F-star" x="261" y="406" width="23" height="19" frameX="-8" frameY="-5" frameWidth="41" frameHeight="29"/>
+    <SubTexture name="share_20_1_animation/_resource/L-star" x="261" y="502" width="21" height="18" frameX="-10" frameY="-6" frameWidth="41" frameHeight="30"/>
+    <SubTexture name="share_20_1_animation/_resource/LV-star" x="261" y="522" width="21" height="17" frameX="-9" frameY="-6" frameWidth="41" frameHeight="29"/>
+    <SubTexture name="share_20_1_animation/_resource/b0" x="299" y="1281" width="41" height="23"/>
+    <SubTexture name="share_20_1_animation/_resource/body2" x="210" y="813" width="44" height="48" frameX="-7" frameY="-4" frameWidth="52" frameHeight="58"/>
+    <SubTexture name="share_20_1_animation/_resource/cvcc0" x="261" y="558" width="19" height="298" frameX="-1" frameY="0" frameWidth="21" frameHeight="300"/>
+    <SubTexture name="share_20_1_animation/_resource/ffdd" x="291" y="130" width="274" height="273" frameX="-19" frameY="-23" frameWidth="314" frameHeight="311"/>
+    <SubTexture name="share_20_1_animation/_resource/hongdai3" x="567" y="2" width="537" height="119"/>
+    <SubTexture name="share_20_1_animation/_resource/htyjhyu 6" x="261" y="477" width="22" height="23"/>
+    <SubTexture name="share_20_1_animation/_resource/htyjhyu3" x="261" y="378" width="25" height="26"/>
+    <SubTexture name="share_20_1_animation/_resource/htyjhyu4" x="261" y="452" width="22" height="23"/>
+    <SubTexture name="share_20_1_animation/_resource/htyjhyu5" x="261" y="427" width="22" height="23"/>
+    <SubTexture name="share_20_1_animation/_resource/jj2" x="496" y="856" width="38" height="38"/>
+    <SubTexture name="share_20_1_animation/_resource/mouse0" x="464" y="856" width="30" height="57"/>
+    <SubTexture name="share_20_1_animation/_resource/nose0" x="498" y="595" width="31" height="21"/>
+    <SubTexture name="share_20_1_animation/_resource/sdvfsdf0" x="2" y="362" width="257" height="247"/>
+    <SubTexture name="share_20_1_animation/_resource/sefrth" x="210" y="863" width="119" height="63" frameX="-2" frameY="0" frameWidth="121" frameHeight="63"/>
+    <SubTexture name="share_20_1_animation/_resource/sgtr0" x="261" y="362" width="26" height="14"/>
+    <SubTexture name="share_20_1_animation/_resource/sgtrhy" x="2" y="2" width="563" height="126" frameX="0" frameY="-1" frameWidth="567" frameHeight="130"/>
+    <SubTexture name="share_20_1_animation/_resource/txt" x="581" y="844" width="165" height="35" frameX="-2" frameY="-10" frameWidth="175" frameHeight="59"/>
+    <SubTexture name="share_20_1_animation/_resource/uuuuu12" x="893" y="271" width="3" height="137"/>
+    <SubTexture name="share_20_1_animation/_resource/xingxing" x="531" y="595" width="19" height="19"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 101" x="498" y="533" width="64" height="60" frameX="0" frameY="-13" frameWidth="64" frameHeight="76"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 110" x="285" y="467" width="211" height="150" frameX="-1" frameY="0" frameWidth="215" frameHeight="154"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 1260" x="788" y="410" width="58" height="91" frameX="-6" frameY="-12" frameWidth="70" frameHeight="103"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 13" x="1272" y="331" width="29" height="67"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 132" x="819" y="831" width="87" height="33" frameX="0" frameY="0" frameWidth="87" frameHeight="35"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 134" x="959" y="498" width="127" height="72" frameX="-2" frameY="-2" frameWidth="135" frameHeight="78"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 140" x="139" y="1194" width="158" height="103" frameX="0" frameY="0" frameWidth="162" frameHeight="105"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 143" x="1073" y="331" width="197" height="143" frameX="-2" frameY="0" frameWidth="201" frameHeight="145"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 15000" x="299" y="1186" width="95" height="93" frameX="0" frameY="0" frameWidth="95" frameHeight="95"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 16" x="1133" y="856" width="154" height="186" frameX="-5" frameY="-3" frameWidth="164" frameHeight="192"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 160" x="1157" y="678" width="146" height="176" frameX="-3" frameY="0" frameWidth="154" frameHeight="176"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 163" x="765" y="867" width="180" height="215" frameX="-8" frameY="-1" frameWidth="192" frameHeight="225"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 1700" x="961" y="1146" width="85" height="154" frameX="-4" frameY="-6" frameWidth="89" frameHeight="160"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 174" x="848" y="410" width="109" height="189" frameX="-8" frameY="0" frameWidth="125" frameHeight="195"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 18 副本" x="396" y="1170" width="192" height="135" frameX="-7" frameY="0" frameWidth="200" frameHeight="139"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 18" x="684" y="515" width="160" height="92" frameX="0" frameY="0" frameWidth="162" frameHeight="96"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 27 副本" x="898" y="123" width="206" height="206"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 27" x="2" y="722" width="206" height="204" frameX="0" frameY="0" frameWidth="206" frameHeight="206"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 3500" x="567" y="515" width="115" height="94"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 39 副本 2" x="788" y="271" width="103" height="73" frameX="-10" frameY="-11" frameWidth="113" frameHeight="89"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 39 副本" x="2" y="1194" width="135" height="109" frameX="0" frameY="-3" frameWidth="135" frameHeight="117"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 39" x="788" y="346" width="103" height="62" frameX="-13" frameY="-29" frameWidth="121" frameHeight="106"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 4000" x="1021" y="678" width="134" height="124" frameX="-12" frameY="0" frameWidth="146" frameHeight="138"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 540" x="282" y="619" width="112" height="240" frameX="-1" frameY="-1" frameWidth="114" frameHeight="244"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 5400" x="939" y="601" width="80" height="204" frameX="-19" frameY="0" frameWidth="106" frameHeight="208"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 5700" x="536" y="856" width="43" height="37"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 5800" x="748" y="831" width="69" height="34"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 62" x="1106" y="246" width="200" height="83" frameX="-1" frameY="-1" frameWidth="202" frameHeight="89"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 63" x="331" y="861" width="131" height="60" frameX="-6" frameY="-3" frameWidth="145" frameHeight="72"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 64" x="567" y="123" width="329" height="146" frameX="-12" frameY="-9" frameWidth="355" frameHeight="166"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 65" x="898" y="331" width="173" height="73" frameX="0" frameY="-1" frameWidth="175" frameHeight="79"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 66" x="567" y="271" width="219" height="121" frameX="-2" frameY="0" frameWidth="225" frameHeight="125"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 69" x="2" y="251" width="283" height="109" frameX="-8" frameY="-4" frameWidth="301" frameHeight="129"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 7.00" x="961" y="1011" width="123" height="133" frameX="-10" frameY="-8" frameWidth="145" frameHeight="153"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 70" x="567" y="394" width="219" height="119" frameX="-1" frameY="0" frameWidth="225" frameHeight="125"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 71" x="2" y="130" width="287" height="119" frameX="-2" frameY="0" frameWidth="295" frameHeight="123"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 72" x="288" y="405" width="212" height="60" frameX="-10" frameY="-3" frameWidth="234" frameHeight="72"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 74" x="2" y="611" width="208" height="109" frameX="-9" frameY="-11" frameWidth="232" frameHeight="139"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 8.00" x="959" y="406" width="92" height="90"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 84" x="261" y="541" width="21" height="15"/>
+    <SubTexture name="share_20_1_animation/_resource/元件 900" x="502" y="405" width="59" height="61" frameX="-3" frameY="-1" frameWidth="67" frameHeight="63"/>
+    <SubTexture name="share_20_1_animation/_resource/星星旋转动画" x="375" y="1281" width="14" height="23" frameX="0" frameY="-1" frameWidth="14" frameHeight="27"/>
+    <SubTexture name="share_20_1_animation/_resource/苔古石文斑5" x="498" y="468" width="67" height="63" frameX="-1" frameY="0" frameWidth="69" frameHeight="63"/>
+</TextureAtlas>

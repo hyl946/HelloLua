@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d2b0c311c6c74ae5872dc9204ba361e0:cb79c981427c4a7ff8f7c1856ed0c77c:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="jump_level_btn_animation/leaf_left_1" x="2" y="2" width="158" height="130" frameX="-3" frameY="-2" frameWidth="170" frameHeight="142"/>
+    <SubTexture name="jump_level_btn_animation/skipbubble" x="2" y="134" width="121" height="117" frameX="-24" frameY="-21" frameWidth="175" frameHeight="163"/>
+    <SubTexture name="jump_level_btn_animation/锁 副本" x="162" y="2" width="69" height="80" frameX="0" frameY="0" frameWidth="73" frameHeight="84"/>
+</TextureAtlas>

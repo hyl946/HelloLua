@@ -1,0 +1,10 @@
+"polling.panel.button1" = "重新获取道具";
+"polling.panel.button2" = "联系客服";
+"polling.panel.button3" = "重新获取中…";
+"polling.panel.desc1" = "购买道具信息获取失败，请您重试哦~";
+"polling.panel.desc2" = "（重试不会扣费）";
+"polling.panel.desc3" = "购买道具信息获取失败，建议您联系客服，帮您解决问题哟~";
+"polling.panel.tip1" = "道具获取成功！";
+"polling.panel.tip2" = "道具信息获取失败~";
+"polling.panel.tip3" = "重新查询已取消，您可与客服联系解决哦~";
+"polling.panel.title" = "当前网络不稳定";

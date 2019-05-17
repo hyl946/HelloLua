@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8be89df5c59ee3732807f8c7f9dfd45d:bce3fe360744bfc112e95a413180448c:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="biao_bright" x="451" y="2" width="158" height="394"/>
+    <SubTexture name="clock" x="2" y="320" width="447" height="316" frameX="0" frameY="-1" frameWidth="455" frameHeight="324"/>
+    <SubTexture name="clock_white" x="2" y="2" width="447" height="316" frameX="0" frameY="0" frameWidth="455" frameHeight="324"/>
+    <SubTexture name="miaozhen" x="451" y="398" width="26" height="77"/>
+</TextureAtlas>

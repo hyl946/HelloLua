@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a68562482db881fbc659c65799ba49a2:daa919090dbc5d211a5b87ac4d387307:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="bearrrr" x="496" y="325" width="166" height="149" frameX="-9" frameY="-19" frameWidth="204" frameHeight="217"/>
+    <SubTexture name="edgtttr" x="213" y="325" width="281" height="319" frameX="-1" frameY="-7" frameWidth="291" frameHeight="331"/>
+    <SubTexture name="foxxxx" x="2" y="325" width="209" height="335" frameX="-9" frameY="-3" frameWidth="229" frameHeight="351"/>
+    <SubTexture name="frghr56" x="2" y="2" width="613" height="153" frameX="-2" frameY="-40" frameWidth="627" frameHeight="193"/>
+    <SubTexture name="jinbi hou__uk__2" x="2" y="157" width="606" height="166" frameX="0" frameY="-8" frameWidth="614" frameHeight="184"/>
+    <SubTexture name="jinbi2__uk__2" x="496" y="548" width="108" height="109" frameX="-20" frameY="-19" frameWidth="146" frameHeight="147"/>
+    <SubTexture name="jinbi3__uk__2" x="496" y="476" width="118" height="70" frameX="-2" frameY="-2" frameWidth="124" frameHeight="76"/>
+    <SubTexture name="jinbi4__uk__2" x="606" y="548" width="108" height="101" frameX="-20" frameY="-23" frameWidth="150" frameHeight="147"/>
+    <SubTexture name="jinbi__uk__2" x="610" y="157" width="99" height="96" frameX="-14" frameY="-15" frameWidth="127" frameHeight="126"/>
+</TextureAtlas>

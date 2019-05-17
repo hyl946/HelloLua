@@ -1,0 +1,3 @@
+<TextureAtlas name="FifthAnniversary_starBoom" imagePath="texture.png">
+ <SubTexture name="FifthAnniversary_starBoom/res/star1" x="0" y="0" width="35" height="35"/>
+</TextureAtlas>

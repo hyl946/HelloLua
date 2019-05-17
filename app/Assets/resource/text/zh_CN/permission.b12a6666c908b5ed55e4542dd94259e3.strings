@@ -1,0 +1,5 @@
+"permission.desc.access_fine_location" = "想使用该功能，需要您在系统设置中，开启开心消消乐的位置信息权限~";
+"permission.desc.camera" = "想使用该功能，需要您在系统设置中，开启开心消消乐的相机权限~";
+"permission.desc.read_contacts" = "想使用该功能，需要您在系统设置中，开启开心消消乐的通讯录权限~";
+"permission.desc.record_audio" = "想使用该功能，需要您在系统设置中，开启开心消消乐的麦克风权限~";
+"permission.desc.send_sms" = "想使用该功能，需要您在系统设置中，开启开心消消乐的短信权限~";

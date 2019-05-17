@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cf4f594339aa241fc39e535259fb85b9:066a90b97e1c0f1e2418d5b2d55c17c6:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="user.review.anim.res/重复项目文件夹/b 副本 8" x="396" y="200" width="47" height="28" frameX="0" frameY="-1" frameWidth="51" frameHeight="32"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/fff 副本 5" x="385" y="345" width="56" height="35"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/ggg 副本 5" x="305" y="117" width="89" height="117"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/hh 副本 9" x="187" y="117" width="116" height="117" frameX="-1" frameY="-1" frameWidth="118" frameHeight="121"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/vcbb 副本 6" x="385" y="309" width="67" height="34"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 17 副本 16" x="214" y="357" width="65" height="68" frameX="-2" frameY="-9" frameWidth="73" frameHeight="80"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 18 副本 10" x="366" y="382" width="40" height="38"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 21 副本 14" x="135" y="426" width="73" height="23" frameX="0" frameY="-2" frameWidth="73" frameHeight="25"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 21 副本 15" x="2" y="240" width="167" height="113"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 22 副本 7" x="210" y="427" width="37" height="25" frameX="-1" frameY="-4" frameWidth="39" frameHeight="37"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 23 副本 13" x="396" y="98" width="39" height="59"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 25 副本 14" x="135" y="357" width="77" height="67" frameX="-2" frameY="-8" frameWidth="87" frameHeight="89"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 26 副本 7" x="2" y="121" width="183" height="117"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 27 副本 18" x="385" y="236" width="71" height="71" frameX="-2" frameY="0" frameWidth="75" frameHeight="71"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 31 副本 6" x="281" y="373" width="83" height="47" frameX="0" frameY="0" frameWidth="83" frameHeight="51"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 32 副本 11" x="290" y="347" width="92" height="24"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/元件 82 副本 5" x="2" y="355" width="131" height="83" frameX="-4" frameY="-10" frameWidth="139" frameHeight="103"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/b 副本 2" x="396" y="200" width="47" height="28" frameX="0" frameY="-1" frameWidth="51" frameHeight="32"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/bnn" x="356" y="2" width="100" height="94" frameX="-5" frameY="0" frameWidth="106" frameHeight="94"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/fff" x="385" y="345" width="56" height="35"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/hh 副本 4" x="187" y="117" width="116" height="117" frameX="-1" frameY="-1" frameWidth="118" frameHeight="121"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/hh 副本" x="171" y="240" width="117" height="115" frameX="-1" frameY="0" frameWidth="121" frameHeight="119"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/vcbb 副本" x="385" y="309" width="67" height="34"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 13 副本 4" x="290" y="236" width="93" height="109" frameX="0" frameY="-10" frameWidth="99" frameHeight="119"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 14 副本 6" x="281" y="422" width="34" height="32"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 17 副本 5" x="214" y="357" width="65" height="68" frameX="-2" frameY="-9" frameWidth="73" frameHeight="80"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 18 副本 5" x="408" y="382" width="39" height="38"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 21 副本 4" x="187" y="2" width="167" height="113"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 21 副本 5" x="135" y="426" width="73" height="23" frameX="0" frameY="-2" frameWidth="73" frameHeight="25"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 22 副本 3" x="210" y="427" width="37" height="25" frameX="-1" frameY="-4" frameWidth="39" frameHeight="37"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 23 副本 7" x="396" y="98" width="39" height="59"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 25 副本 2" x="135" y="357" width="77" height="67" frameX="-2" frameY="-8" frameWidth="87" frameHeight="89"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 26 副本 2" x="2" y="2" width="183" height="117"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 27 副本 13" x="385" y="236" width="71" height="71" frameX="-2" frameY="0" frameWidth="75" frameHeight="71"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 30 副本 2" x="2" y="440" width="17" height="11"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/元件 82" x="2" y="355" width="131" height="83" frameX="-4" frameY="-10" frameWidth="139" frameHeight="103"/>
+    <SubTexture name="user.review.anim.res/重复项目文件夹/重复项目文件夹/补间 2 副本 2" x="396" y="159" width="39" height="39"/>
+</TextureAtlas>

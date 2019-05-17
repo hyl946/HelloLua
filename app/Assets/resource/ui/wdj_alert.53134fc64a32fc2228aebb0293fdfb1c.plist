@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>wdj_alert_un_connect/元件 10000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{325,76}}</string>
+                <key>offset</key>
+                <string>{-5,2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,4},{325,76}}</string>
+                <key>sourceSize</key>
+                <string>{335,88}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>wdj_alert.png</string>
+            <key>size</key>
+            <string>{329,80}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:14e158a2cf06a29412033ba6d494a0b4:e69298121f195d487d45aaa2ed9df5dd:a6b41e532df999d94565b109246110c7$</string>
+            <key>textureFileName</key>
+            <string>wdj_alert.png</string>
+        </dict>
+    </dict>
+</plist>

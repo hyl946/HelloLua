@@ -1,0 +1,12 @@
+"level.fail.classic" = "分数不够啊…";
+"level.fail.classic.move" = "分数不够啊…";
+"level.fail.dig.move" = "宝石数量不够啊…";
+"level.fail.dig.time" = "挖地时间模式";
+"level.fail.drop.down" = "拿到的金豆荚不够啊…";
+"level.fail.drop.key.mode" = "拿到的橡果不够啊…";
+"level.fail.light.up" = "还有冰块没清除啊..";
+"level.fail.order" = "目标消除的数量不够啊…";
+"level.fail.replay.button.label.txt" = "再试一次";
+"level.fail.score.not.reached" = "虽然任务完成，但分数不够一星啊…";
+"level.fail.score.txt" = "分数";
+"level.fail.title" = "第{level_id}关";

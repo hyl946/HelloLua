@@ -1,0 +1,39 @@
+<TextureAtlas name="markAnim2019_2" imagePath="texture.png">
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/元件 9" x="315" y="268" width="218" height="230"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/元件 9 副本" x="935" y="142" width="38" height="38"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/F-s" x="423" y="785" width="215" height="223"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf5 copy 副本 2" x="904" y="226" width="27" height="34"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf2 copy 副本 2" x="965" y="47" width="36" height="46"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf4 copy 副本 2" x="875" y="137" width="29" height="47"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-06-conf1 copy 副本 2" x="935" y="222" width="28" height="36"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209_11_06_Confetti5 copy 副本 2" x="935" y="181" width="30" height="40"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/F-ff2" x="597" y="0" width="276" height="261"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/cvv" x="0" y="0" width="313" height="358"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/a" x="640" y="785" width="218" height="218"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/奖励 副本" x="875" y="0" width="89" height="89"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/vbn 副本" x="499" y="661" width="414" height="69"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/F-s 副本" x="210" y="733" width="211" height="228"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf5 copy 副本" x="875" y="259" width="27" height="34"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf2 copy 副本" x="875" y="90" width="36" height="46"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf4 copy 副本" x="949" y="94" width="29" height="47"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-06-conf1 copy 副本" x="964" y="224" width="28" height="36"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209_11_06_Confetti5 copy 副本" x="966" y="183" width="30" height="40"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/F-ff2 副本" x="315" y="0" width="281" height="267"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/vbn" x="499" y="590" width="440" height="69"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/F-s 副本 2" x="0" y="614" width="209" height="235"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf5 copy 副本 3" x="932" y="259" width="27" height="34"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf2 copy 副本 3" x="912" y="90" width="36" height="46"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf4 copy 副本 3" x="905" y="137" width="29" height="47"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-06-conf1 copy 副本 3" x="875" y="222" width="28" height="36"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209_11_06_Confetti5 copy 副本 3" x="904" y="185" width="30" height="40"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/F-ff2 副本 3" x="0" y="360" width="282" height="253"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/vbn 副本 2" x="499" y="519" width="440" height="69"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/F-s 副本 3" x="283" y="499" width="214" height="233"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf5 copy 副本 4" x="993" y="224" width="27" height="34"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf2 copy 副本 4" x="965" y="0" width="36" height="46"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-conf4 copy 副本 4" x="979" y="94" width="29" height="47"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209-11-06-conf1 copy 副本 4" x="875" y="185" width="28" height="36"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/209_11_06_Confetti5 copy 副本 4" x="974" y="142" width="30" height="40"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/F-ff2 副本 4" x="597" y="263" width="261" height="255"/>
+ <SubTexture name="markAnim2019_2/res/重复项目文件夹/vbn 副本 3" x="499" y="732" width="421" height="52"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:adaf29765cd5420b1e557e13a50796d9:8c178df4a8dfc4a90205e95614f86233:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="PreBuffLogic_up/元件 23" x="2" y="2" width="70" height="56" frameX="0" frameY="-4" frameWidth="70" frameHeight="66"/>
+</TextureAtlas>

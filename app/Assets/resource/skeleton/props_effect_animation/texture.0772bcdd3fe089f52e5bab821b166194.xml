@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:22bd3d5e93efd701c8ae2846cfaaff0a:3a22f375c89e275d9771135e068abca7:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="+1/inner" x="808" y="571" width="91" height="111" frameX="-16" frameY="0" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="+15/inner" x="393" y="626" width="105" height="105" frameX="-9" frameY="-6" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="+2/inner" x="502" y="733" width="95" height="103" frameX="-16" frameY="-7" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="+3/+3 副本" x="500" y="626" width="95" height="105" frameX="-12" frameY="-5" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="+3Effect/i[" x="414" y="516" width="108" height="108"/>
+    <SubTexture name="+3Effect/star1" x="162" y="820" width="30" height="28" frameX="-1" frameY="-2" frameWidth="36" frameHeight="36"/>
+    <SubTexture name="+5/+5 副本" x="599" y="669" width="97" height="107" frameX="-13" frameY="-3" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="addToBarEffect/Pguang2" x="599" y="229" width="167" height="169" frameX="-15" frameY="-13" frameWidth="197" frameHeight="197"/>
+    <SubTexture name="addToBarEffect/PguangSS" x="299" y="302" width="159" height="163" frameX="-19" frameY="-15" frameWidth="197" frameHeight="197"/>
+    <SubTexture name="addToBarEffect/guanS" x="302" y="2" width="295" height="295" frameX="-32" frameY="-34" frameWidth="359" frameHeight="359"/>
+    <SubTexture name="addToBarEffect/xin" x="737" y="400" width="26" height="27" frameX="0" frameY="-1" frameWidth="26" frameHeight="29"/>
+    <SubTexture name="forceSwapEffect/元件 30 副本" x="850" y="462" width="59" height="104" frameX="0" frameY="-26" frameWidth="61" frameHeight="140"/>
+    <SubTexture name="lineEffect/重复项目文件夹/OOObvnm 副本" x="698" y="676" width="104" height="103" frameX="-12" frameY="-12" frameWidth="128" frameHeight="127"/>
+    <SubTexture name="lineEffect/重复项目文件夹/OOOimnb 副本" x="302" y="299" width="1" height="1" frameX="0" frameY="0" frameWidth="5" frameHeight="6"/>
+    <SubTexture name="lineEffect/重复项目文件夹/OOOvghj 副本" x="460" y="299" width="110" height="110" frameX="0" frameY="-6" frameWidth="116" frameHeight="116"/>
+    <SubTexture name="lineEffect/重复项目文件夹/OOOxvhg 副本" x="572" y="299" width="10" height="10"/>
+    <SubTexture name="lineEffect/重复项目文件夹/OOOyysa 副本" x="897" y="236" width="8" height="6" frameX="0" frameY="-1" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="refresh/jihS" x="460" y="411" width="113" height="103" frameX="-14" frameY="-12" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="selectEffect/he_animal_1_2_493195858203" x="2" y="302" width="295" height="295" frameX="-32" frameY="-34" frameWidth="359" frameHeight="359"/>
+    <SubTexture name="selectEffect/he_animal_1_5_63195858267" x="299" y="302" width="159" height="163" frameX="-19" frameY="-15" frameWidth="197" frameHeight="197"/>
+    <SubTexture name="selectEffect/he_animal_1_7_763195858310" x="224" y="599" width="167" height="169" frameX="-15" frameY="-13" frameWidth="197" frameHeight="197"/>
+    <SubTexture name="wrap/O1" x="575" y="400" width="160" height="160"/>
+    <SubTexture name="wrap/O3" x="599" y="2" width="213" height="225" frameX="-11" frameY="-12" frameWidth="237" frameHeight="237"/>
+    <SubTexture name="wrap/O5" x="2" y="2" width="298" height="298" frameX="-35" frameY="-30" frameWidth="358" frameHeight="358"/>
+    <SubTexture name="wrap/beiguan" x="2" y="599" width="220" height="219" frameX="-32" frameY="-33" frameWidth="290" frameHeight="283"/>
+    <SubTexture name="wrap/jiho" x="737" y="462" width="111" height="107" frameX="-8" frameY="-8" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jiho2" x="768" y="353" width="113" height="107" frameX="-7" frameY="-8" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jiho2A 副本 2" x="803" y="789" width="93" height="111" frameX="-18" frameY="-3" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jiho2A 副本 3" x="75" y="820" width="85" height="79" frameX="-22" frameY="-15" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jiho2A 副本" x="299" y="467" width="113" height="113" frameX="-8" frameY="-2" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jiho2A" x="698" y="781" width="103" height="103" frameX="-12" frameY="-9" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jiho2Z" x="814" y="119" width="105" height="115" frameX="-11" frameY="0" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jihoA 副本 2" x="2" y="820" width="71" height="95" frameX="-29" frameY="-9" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jihoA 副本 3" x="393" y="733" width="107" height="103" frameX="-9" frameY="-6" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jihoA 副本" x="768" y="236" width="127" height="115"/>
+    <SubTexture name="wrap/jihoA" x="804" y="684" width="103" height="103" frameX="-12" frameY="-9" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/jihoZ" x="814" y="2" width="105" height="115" frameX="-11" frameY="0" frameWidth="127" frameHeight="115"/>
+    <SubTexture name="wrap/sdv" x="224" y="770" width="153" height="144" frameX="0" frameY="-2" frameWidth="153" frameHeight="148"/>
+    <SubTexture name="wrap/xinNN" x="194" y="820" width="28" height="28" frameX="-29" frameY="-23" frameWidth="86" frameHeight="86"/>
+    <SubTexture name="wrapEffect/OOObvnm" x="702" y="571" width="104" height="103" frameX="-12" frameY="-12" frameWidth="128" frameHeight="127"/>
+    <SubTexture name="wrapEffect/OOOimnb" x="302" y="299" width="1" height="1" frameX="0" frameY="0" frameWidth="5" frameHeight="6"/>
+    <SubTexture name="wrapEffect/OOOvghj" x="597" y="562" width="103" height="105" frameX="-20" frameY="-18" frameWidth="143" frameHeight="143"/>
+    <SubTexture name="wrapEffect/OOOxvhg" x="572" y="299" width="10" height="10"/>
+    <SubTexture name="wrapEffect/OOOyysa" x="75" y="901" width="8" height="6" frameX="0" frameY="-1" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="元件 5" x="599" y="778" width="97" height="105" frameX="-30" frameY="0" frameWidth="127" frameHeight="115"/>
+</TextureAtlas>

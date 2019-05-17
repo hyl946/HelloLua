@@ -1,0 +1,85 @@
+<dragonBones name="biscuit-sk" frameRate="24" version="2.3">
+ <armature name="biscuit-sk/apper">
+  <bone name="图层 1">
+   <transform x="19.5" y="-0.45" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 6">
+   <transform x="-1.15" y="-19.4" skX="0" skY="0" scX="0.368454" scY="0.368454"/>
+  </bone>
+  <bone name="图层 11">
+   <transform x="2.35" y="47" skX="0" skY="0" scX="0.295395" scY="0.074005"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="__dbTextures/biscuit-sk/apper/图层 1_0" type="image">
+     <transform x="-88.5" y="-75.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 6" parent="图层 6" z="1">
+    <display name="biscuit-sk/res/元件 16 副本 51" type="armature">
+     <transform x="-360.3" y="-333.15" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="图层 11" parent="图层 11" z="2">
+    <display name="biscuit-sk/res/元件 112 副本" type="image">
+     <transform x="-74.3" y="-126.35" skX="0" skY="0" scX="1" scY="1" pX="21.25" pY="2.75"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="END" fadeInTime="0" duration="38" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="NaN" duration="38">
+     <transform x="19.5" y="-0.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 6" scale="1" offset="0">
+    <frame duration="9" displayIndex="-1"/>
+    <frame z="1" tweenEasing="1" duration="3">
+     <transform x="-1.15" y="-19.4" skX="0" skY="0" scX="0.368454" scY="0.368454" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="87" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" duration="26">
+     <transform x="1.2" y="-2.65" skX="0" skY="0" scX="0.963394" scY="0.963394" pX="0" pY="-1.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="87" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 11" scale="1" offset="0">
+    <frame z="2" tweenEasing="1" duration="6">
+     <transform x="2.35" y="47" skX="0" skY="0" scX="0.295395" scY="0.074005" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="17" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" tweenEasing="1" duration="6">
+     <transform x="4.35" y="-53.65" skX="0" skY="0" scX="0.62236" scY="1.069336" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="2" tweenEasing="1" duration="3">
+     <transform x="0.85" y="52" skX="0" skY="0" scX="1.020691" scY="0.967377" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="2" duration="23">
+     <transform x="0.8" y="51.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="biscuit-sk/res/元件 16 副本 51">
+  <bone name="图层 1">
+   <transform x="359.15" y="332.35" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="biscuit-sk/res/元件 122" type="image">
+     <transform x="-184.05" y="-175.3" skX="0" skY="0" scX="1" scY="1" pX="-3.25" pY="5.45"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="51" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="50">
+     <transform x="359.15" y="332.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="359.15" y="332.35" skX="149.56" skY="149.56" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

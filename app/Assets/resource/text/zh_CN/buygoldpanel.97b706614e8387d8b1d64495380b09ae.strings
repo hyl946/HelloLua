@@ -1,0 +1,11 @@
+"buy.gold.panel.btn.free.text" = "免费获取";
+"buy.gold.panel.buy.timeout" = "苹果商店支付交易超时，请确认网络连接情况";
+"buy.gold.panel.discount" = "折";
+"buy.gold.panel.err.undefined" = "本次支付失败";
+"buy.gold.panel.free.sign" = "免费";
+"buy.gold.panel.get.list.fail" = "读取苹果商店信息失败，请检查网络情况";
+"buy.gold.panel.get.list.timeout" = "连接到苹果商店失败，请确认网络连接情况";
+"buy.gold.panel.money.mark" = "￥";
+"buy.gold.panel.success" = "风车币购买成功！";
+"buy.gold.panel.tip" = "若未及时到账，再次点击该额度或联网重进即可修复。（无需再次支付）";
+"buy.gold.panel.title" = "购买风车币";

@@ -1,0 +1,1 @@
+texturepacker --png-opt-level 0 --texture-format png --force-squared --format sparrow --data texture.xml --algorithm MaxRects  --size-constraints AnySize --max-width 4096 --max-height 4096 --sheet texture.png texture

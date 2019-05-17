@@ -1,0 +1,9 @@
+"apple.paycode.panel.btn.buy" = "购买";
+"apple.paycode.panel.btn.buy.num" = "￥{num}";
+"apple.paycode.panel.btn.refresh" = "刷新礼包";
+"apple.paycode.panel.buy.cancel" = "您放弃了新春礼包抢购";
+"apple.paycode.panel.buy.fail" = "新春礼包购买失败了~";
+"apple.paycode.panel.buy.success" = "新春礼包抢购成功";
+"apple.paycode.panel.text1" = "抢购时间还剩：";
+"apple.paycode.panel.text2" = "{h}:{m}:{s}";
+"apple.paycode.panel.text3" = "原价:￥{num}";

@@ -1,0 +1,21 @@
+info face="DFHaiBaoW12" size=50 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=50 base=43 scaleW=256 scaleH=128 pages=1 packed=0
+page id=0 file="actioncenter.png"
+chars count=17
+char id=32     x=18    y=91    width=0     height=0     xoffset=0     yoffset=43    xadvance=26    page=0 chnl=0 letter="space"
+char id=37     x=147   y=2     width=25    height=39    xoffset=0     yoffset=4     xadvance=26    page=0 chnl=0 letter="%"
+char id=46     x=2     y=91    width=12    height=12    xoffset=7     yoffset=31    xadvance=26    page=0 chnl=0 letter="."
+char id=48     x=167   y=51    width=25    height=38    xoffset=0     yoffset=5     xadvance=26    page=0 chnl=0 letter="0"
+char id=49     x=194   y=51    width=11    height=38    xoffset=8     yoffset=5     xadvance=26    page=0 chnl=0 letter="1"
+char id=50     x=174   y=2     width=26    height=38    xoffset=0     yoffset=5     xadvance=26    page=0 chnl=0 letter="2"
+char id=51     x=202   y=2     width=26    height=38    xoffset=0     yoffset=5     xadvance=26    page=0 chnl=0 letter="3"
+char id=52     x=86    y=51    width=25    height=38    xoffset=0     yoffset=5     xadvance=26    page=0 chnl=0 letter="4"
+char id=53     x=2     y=51    width=26    height=38    xoffset=0     yoffset=5     xadvance=26    page=0 chnl=0 letter="5"
+char id=54     x=30    y=51    width=26    height=38    xoffset=0     yoffset=5     xadvance=26    page=0 chnl=0 letter="6"
+char id=55     x=113   y=51    width=25    height=38    xoffset=1     yoffset=5     xadvance=26    page=0 chnl=0 letter="7"
+char id=56     x=58    y=51    width=26    height=38    xoffset=0     yoffset=5     xadvance=26    page=0 chnl=0 letter="8"
+char id=57     x=140   y=51    width=25    height=38    xoffset=0     yoffset=5     xadvance=26    page=0 chnl=0 letter="9"
+char id=8230   x=207   y=51    width=45    height=12    xoffset=3     yoffset=18    xadvance=50    page=0 chnl=0 letter="…"
+char id=20013  x=51    y=2     width=45    height=46    xoffset=3     yoffset=1     xadvance=50    page=0 chnl=0 letter="中"
+char id=21152  x=98    y=2     width=47    height=45    xoffset=2     yoffset=2     xadvance=50    page=0 chnl=0 letter="加"
+char id=36733  x=2     y=2     width=47    height=47    xoffset=2     yoffset=1     xadvance=50    page=0 chnl=0 letter="载"

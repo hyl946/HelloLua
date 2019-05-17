@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:caf16e12a7a24bab03bc3650c4b13991:6b772d9affdd3dfadc0ab0ee9bc71d8b:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="Fb" x="988" y="1259" width="11" height="5"/>
+    <SubTexture name="Fs2" x="1181" y="1208" width="45" height="38"/>
+    <SubTexture name="Fst" x="1228" y="1208" width="32" height="38" frameX="0" frameY="0" frameWidth="34" frameHeight="46"/>
+    <SubTexture name="Ftx" x="171" y="1224" width="90" height="75" frameX="0" frameY="0" frameWidth="92" frameHeight="77"/>
+    <SubTexture name="Fybx" x="1067" y="200" width="25" height="23"/>
+    <SubTexture name="Fzui" x="1183" y="878" width="72" height="16"/>
+    <SubTexture name="Fzui2" x="938" y="1266" width="63" height="34"/>
+    <SubTexture name="game_play/_res/元件 135" x="291" y="1173" width="224" height="94" frameX="-3" frameY="-2" frameWidth="236" frameHeight="102"/>
+    <SubTexture name="game_play/_res/元件 137" x="349" y="936" width="249" height="98" frameX="-2" frameY="-2" frameWidth="259" frameHeight="106"/>
+    <SubTexture name="game_play/_res/元件 141" x="685" y="447" width="335" height="110" frameX="-3" frameY="-2" frameWidth="349" frameHeight="118"/>
+    <SubTexture name="game_play/_res/元件 73 副本 2" x="1203" y="686" width="51" height="49" frameX="-1" frameY="-1" frameWidth="61" frameHeight="59"/>
+    <SubTexture name="game_play/_res/元件 73 副本 3" x="1173" y="899" width="41" height="39"/>
+    <SubTexture name="game_play/_res/元件 73 副本" x="1203" y="635" width="51" height="49" frameX="-1" frameY="-1" frameWidth="61" frameHeight="59"/>
+    <SubTexture name="game_play/_res/元件 73" x="1130" y="1250" width="51" height="49" frameX="-1" frameY="-1" frameWidth="57" frameHeight="55"/>
+    <SubTexture name="game_play/_res/重复项目文件夹 副本/元件 26 副本 3" x="1092" y="362" width="18" height="18" frameX="-5" frameY="-6" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="game_play/_res/重复项目文件夹 副本/元件 26 副本 4" x="511" y="1269" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="game_play/_res/重复项目文件夹 副本/元件 26 副本 5" x="479" y="1269" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="game_play/_res/重复项目文件夹 副本/元件 26 副本 6" x="447" y="1269" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="game_play/_res/重复项目文件夹 副本/元件 26 副本 7" x="415" y="1269" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="game_play/_res/重复项目文件夹 副本/元件 26 副本" x="383" y="1269" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/444 副本 5" x="1048" y="935" width="20" height="17"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/77元件 11" x="764" y="840" width="204" height="92" frameX="-58" frameY="-15" frameWidth="322" frameHeight="126"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/chiken-hair 副本 3" x="1092" y="340" width="18" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="24"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/fog-face-wen 副本 2" x="1063" y="786" width="8" height="5"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 100" x="1144" y="534" width="80" height="40" frameX="0" frameY="-2" frameWidth="80" frameHeight="42"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 101" x="988" y="1183" width="52" height="74"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 102" x="970" y="825" width="101" height="108"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 104" x="1146" y="395" width="80" height="54" frameX="-2" frameY="-4" frameWidth="88" frameHeight="62"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 106 副本" x="1218" y="324" width="82" height="41" frameX="-6" frameY="0" frameWidth="98" frameHeight="45"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 107" x="1246" y="737" width="36" height="32" frameX="-4" frameY="-7" frameWidth="44" frameHeight="46"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 108" x="1020" y="661" width="9" height="8"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 110 副本 2" x="1187" y="1094" width="49" height="57" frameX="-3" frameY="-3" frameWidth="63" frameHeight="77"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 110 副本" x="1173" y="940" width="46" height="54" frameX="-1" frameY="-1" frameWidth="54" frameHeight="68"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 111" x="1218" y="1032" width="25" height="30" frameX="0" frameY="0" frameWidth="27" frameHeight="32"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 112" x="726" y="1240" width="121" height="60" frameX="-5" frameY="-1" frameWidth="133" frameHeight="66"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 113 副本 2" x="615" y="1028" width="142" height="121" frameX="-1" frameY="-2" frameWidth="152" frameHeight="131"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 113 副本" x="904" y="1063" width="138" height="118" frameX="0" frameY="0" frameWidth="142" frameHeight="122"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 114" x="1190" y="1153" width="46" height="53" frameX="-1" frameY="-3" frameWidth="56" frameHeight="69"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 115" x="931" y="671" width="130" height="152" frameX="-3" frameY="-1" frameWidth="146" frameHeight="160"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 116" x="852" y="1180" width="49" height="79"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 117" x="1022" y="447" width="120" height="110"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 119" x="726" y="1180" width="124" height="58" frameX="-1" frameY="-1" frameWidth="130" frameHeight="64"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 121" x="560" y="740" width="202" height="171" frameX="-2" frameY="-1" frameWidth="208" frameHeight="181"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 124" x="1144" y="451" width="84" height="81" frameX="0" frameY="0" frameWidth="88" frameHeight="85"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 126" x="1112" y="200" width="188" height="122" frameX="0" frameY="0" frameWidth="192" frameHeight="126"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 128" x="547" y="1036" width="66" height="137" frameX="0" frameY="-1" frameWidth="70" frameHeight="143"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 134 副本 2" x="263" y="1224" width="26" height="25"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 15 副本 2" x="573" y="1269" width="28" height="28" frameX="0" frameY="-4" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 16 副本 5" x="1250" y="998" width="24" height="29"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 2 副本 11" x="2" y="445" width="345" height="589" frameX="-4" frameY="-42" frameWidth="355" frameHeight="675"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 2 副本 4" x="349" y="445" width="172" height="294" frameX="-2" frameY="-22" frameWidth="178" frameHeight="338"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 43 副本 2" x="517" y="1175" width="102" height="92" frameX="-19" frameY="-13" frameWidth="138" frameHeight="130"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 46 副本" x="687" y="340" width="403" height="105" frameX="-1" frameY="-1" frameWidth="411" frameHeight="111"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 70 副本" x="2" y="2" width="683" height="441" frameX="-5" frameY="-4" frameWidth="697" frameHeight="453"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 71 副本" x="1216" y="896" width="36" height="38"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 77 副本 3" x="349" y="741" width="209" height="193" frameX="-2" frameY="-1" frameWidth="217" frameHeight="199"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 79 副本" x="1255" y="974" width="30" height="18" frameX="0" frameY="0" frameWidth="34" frameHeight="22"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 80 副本" x="1218" y="1064" width="24" height="24" frameX="0" frameY="-1" frameWidth="28" frameHeight="28"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 81 副本 3" x="1250" y="1029" width="28" height="19" frameX="0" frameY="0" frameWidth="32" frameHeight="25"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 82 副本 3" x="1221" y="974" width="32" height="22" frameX="-1" frameY="0" frameWidth="34" frameHeight="22"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 83 副本 3" x="1183" y="1248" width="46" height="52" frameX="-3" frameY="-4" frameWidth="60" frameHeight="68"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 84 副本 2" x="1138" y="1169" width="50" height="15" frameX="0" frameY="0" frameWidth="54" frameHeight="19"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 85 副本" x="685" y="559" width="333" height="110" frameX="-2" frameY="-2" frameWidth="343" frameHeight="118"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 85" x="1231" y="1248" width="40" height="39" frameX="0" frameY="0" frameWidth="46" frameHeight="47"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 87" x="523" y="607" width="141" height="131" frameX="-11" frameY="-10" frameWidth="163" frameHeight="153"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 88" x="1183" y="786" width="84" height="90" frameX="-5" frameY="-5" frameWidth="94" frameHeight="106"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 89" x="1073" y="786" width="108" height="111" frameX="-5" frameY="-7" frameWidth="118" frameHeight="125"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 91 副本 2" x="1212" y="576" width="53" height="57" frameX="0" frameY="-7" frameWidth="59" frameHeight="67"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 93 副本 2" x="1256" y="681" width="40" height="52" frameX="-1" frameY="0" frameWidth="50" frameHeight="58"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 95 副本 2" x="263" y="1269" width="43" height="31"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 96 副本 2" x="1136" y="576" width="74" height="54" frameX="0" frameY="0" frameWidth="78" frameHeight="58"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 98 副本 2" x="1073" y="899" width="98" height="95" frameX="-2" frameY="-1" frameWidth="104" frameHeight="101"/>
+    <SubTexture name="game_play/_res/重复项目文件夹/元件 99 副本 2" x="621" y="1249" width="65" height="51" frameX="0" frameY="0" frameWidth="69" frameHeight="55"/>
+    <SubTexture name="game_play/transparent" x="666" y="737" width="1" height="1" frameX="0" frameY="0" frameWidth="17" frameHeight="17"/>
+    <SubTexture name="game_play/元件 8" x="687" y="225" width="423" height="113" frameX="-2" frameY="-1" frameWidth="439" frameHeight="125"/>
+    <SubTexture name="game_play/重复项目文件夹/chiken-hair 副本 3" x="1092" y="340" width="18" height="20" frameX="0" frameY="0" frameWidth="20" frameHeight="24"/>
+    <SubTexture name="game_play/重复项目文件夹/元件 110 副本 2" x="1187" y="1094" width="49" height="57" frameX="-3" frameY="-3" frameWidth="63" frameHeight="77"/>
+    <SubTexture name="game_play/重复项目文件夹/元件 110 副本" x="1120" y="1186" width="59" height="62" frameX="0" frameY="-5" frameWidth="67" frameHeight="72"/>
+    <SubTexture name="game_play/重复项目文件夹/元件 111" x="1218" y="1032" width="25" height="30" frameX="0" frameY="0" frameWidth="27" frameHeight="32"/>
+    <SubTexture name="game_play/重复项目文件夹/元件 112" x="726" y="1240" width="121" height="60" frameX="-5" frameY="-1" frameWidth="133" frameHeight="66"/>
+    <SubTexture name="game_play/重复项目文件夹/元件 113 副本 2" x="905" y="935" width="141" height="126" frameX="-6" frameY="-3" frameWidth="153" frameHeight="136"/>
+    <SubTexture name="game_play/重复项目文件夹/元件 113 副本" x="1063" y="661" width="138" height="123" frameX="-5" frameY="-1" frameWidth="144" frameHeight="127"/>
+    <SubTexture name="game_play/重复项目文件夹/元件 114" x="1257" y="878" width="43" height="60" frameX="-2" frameY="-4" frameWidth="59" frameHeight="80"/>
+    <SubTexture name="game_play/重复项目文件夹/元件 134 副本 2" x="263" y="1224" width="26" height="25"/>
+    <SubTexture name="star_starsystembright" x="523" y="445" width="160" height="160"/>
+    <SubTexture name="star_starsystemglow01" x="1256" y="635" width="44" height="44"/>
+    <SubTexture name="元件 104" x="1042" y="1186" width="76" height="68" frameX="-5" frameY="-10" frameWidth="82" frameHeight="82"/>
+    <SubTexture name="元件 105" x="1145" y="996" width="71" height="96" frameX="-6" frameY="0" frameWidth="77" frameHeight="96"/>
+    <SubTexture name="元件 107" x="1230" y="443" width="51" height="82" frameX="-11" frameY="-1" frameWidth="71" frameHeight="90"/>
+    <SubTexture name="元件 110" x="2" y="1224" width="167" height="76" frameX="-6" frameY="-1" frameWidth="175" frameHeight="78"/>
+    <SubTexture name="元件 111" x="1218" y="998" width="30" height="32" frameX="-1" frameY="-2" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="元件 112" x="308" y="1269" width="33" height="31" frameX="-1" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="元件 131" x="1030" y="200" width="35" height="23" frameX="-1" frameY="0" frameWidth="37" frameHeight="23"/>
+    <SubTexture name="元件 132" x="666" y="607" width="11" height="7" frameX="0" frameY="-1" frameWidth="11" frameHeight="9"/>
+    <SubTexture name="元件 133" x="1246" y="771" width="18" height="13" frameX="0" frameY="0" frameWidth="20" frameHeight="13"/>
+    <SubTexture name="元件 134" x="931" y="825" width="32" height="13"/>
+    <SubTexture name="元件 135" x="543" y="1269" width="28" height="30"/>
+    <SubTexture name="元件 136" x="560" y="913" width="36" height="18" frameX="0" frameY="0" frameWidth="40" frameHeight="22"/>
+    <SubTexture name="元件 137" x="1267" y="616" width="26" height="17"/>
+    <SubTexture name="元件 138" x="1230" y="527" width="46" height="47" frameX="0" frameY="0" frameWidth="52" frameHeight="53"/>
+    <SubTexture name="元件 139" x="1208" y="367" width="18" height="12" frameX="0" frameY="0" frameWidth="20" frameHeight="16"/>
+    <SubTexture name="元件 140" x="1203" y="737" width="41" height="43" frameX="-3" frameY="-3" frameWidth="45" frameHeight="49"/>
+    <SubTexture name="元件 141" x="759" y="1050" width="143" height="128" frameX="0" frameY="-4" frameWidth="147" frameHeight="134"/>
+    <SubTexture name="元件 142" x="1238" y="940" width="62" height="32" frameX="0" frameY="0" frameWidth="66" frameHeight="36"/>
+    <SubTexture name="元件 144" x="1258" y="126" width="36" height="70" frameX="0" frameY="-1" frameWidth="38" frameHeight="74"/>
+    <SubTexture name="元件 145" x="1112" y="324" width="94" height="69" frameX="0" frameY="0" frameWidth="98" frameHeight="71"/>
+    <SubTexture name="元件 146" x="903" y="1183" width="83" height="81" frameX="0" frameY="0" frameWidth="87" frameHeight="83"/>
+    <SubTexture name="元件 148" x="1258" y="2" width="42" height="51" frameX="-3" frameY="0" frameWidth="46" frameHeight="51"/>
+    <SubTexture name="元件 149" x="1267" y="576" width="28" height="38" frameX="-2" frameY="0" frameWidth="34" frameHeight="44"/>
+    <SubTexture name="元件 150 副本" x="263" y="1251" width="20" height="15" frameX="0" frameY="-1" frameWidth="22" frameHeight="19"/>
+    <SubTexture name="元件 150" x="1003" y="1285" width="20" height="15" frameX="0" frameY="-1" frameWidth="22" frameHeight="19"/>
+    <SubTexture name="元件 151" x="726" y="1151" width="28" height="25" frameX="0" frameY="0" frameWidth="28" frameHeight="27"/>
+    <SubTexture name="元件 152" x="343" y="1269" width="38" height="30"/>
+    <SubTexture name="元件 153" x="1044" y="1097" width="92" height="87" frameX="0" frameY="-1" frameWidth="94" frameHeight="91"/>
+    <SubTexture name="元件 154" x="666" y="671" width="77" height="64"/>
+    <SubTexture name="元件 159" x="1136" y="632" width="53" height="19" frameX="0" frameY="-8" frameWidth="53" frameHeight="37"/>
+    <SubTexture name="元件 160" x="1003" y="1259" width="37" height="24" frameX="-1" frameY="-3" frameWidth="39" frameHeight="30"/>
+    <SubTexture name="元件 162" x="1258" y="55" width="40" height="69" frameX="-1" frameY="-1" frameWidth="48" frameHeight="75"/>
+    <SubTexture name="元件 163" x="600" y="1028" width="8" height="6" frameX="-1" frameY="-1" frameWidth="10" frameHeight="8"/>
+    <SubTexture name="元件 164" x="745" y="671" width="9" height="5" frameX="0" frameY="-1" frameWidth="9" frameHeight="7"/>
+    <SubTexture name="元件 165" x="759" y="934" width="144" height="114" frameX="-1" frameY="-3" frameWidth="154" frameHeight="120"/>
+    <SubTexture name="元件 166" x="1048" y="996" width="95" height="99" frameX="0" frameY="-2" frameWidth="103" frameHeight="105"/>
+    <SubTexture name="元件 167" x="1228" y="367" width="69" height="74" frameX="-6" frameY="-2" frameWidth="77" frameHeight="76"/>
+    <SubTexture name="元件 168" x="849" y="1266" width="87" height="34"/>
+    <SubTexture name="元件 169" x="1042" y="1256" width="86" height="44" frameX="-3" frameY="-2" frameWidth="92" frameHeight="46"/>
+    <SubTexture name="元件 170" x="1138" y="1097" width="47" height="70" frameX="-3" frameY="0" frameWidth="51" frameHeight="70"/>
+    <SubTexture name="元件 171" x="600" y="913" width="157" height="113" frameX="-8" frameY="-7" frameWidth="171" frameHeight="125"/>
+    <SubTexture name="元件 46" x="687" y="340" width="403" height="105" frameX="-1" frameY="-1" frameWidth="411" frameHeight="111"/>
+    <SubTexture name="元件 70" x="687" y="2" width="341" height="221" frameX="-3" frameY="-2" frameWidth="349" frameHeight="227"/>
+    <SubTexture name="元件 71" x="688" y="1249" width="36" height="38"/>
+    <SubTexture name="元件 77" x="621" y="1151" width="103" height="96" frameX="-2" frameY="-1" frameWidth="109" frameHeight="100"/>
+    <SubTexture name="补间 3" x="1030" y="2" width="226" height="196" frameX="-4" frameY="-1" frameWidth="234" frameHeight="202"/>
+    <SubTexture name="补间 5 副本" x="764" y="671" width="165" height="167"/>
+    <SubTexture name="重复项目文件夹/77元件 11" x="764" y="840" width="204" height="92" frameX="-58" frameY="-15" frameWidth="322" frameHeight="126"/>
+    <SubTexture name="重复项目文件夹/元件 115 副本 3" x="931" y="671" width="130" height="152" frameX="-3" frameY="-1" frameWidth="146" frameHeight="160"/>
+    <SubTexture name="重复项目文件夹/元件 116 副本 2" x="852" y="1180" width="49" height="79"/>
+    <SubTexture name="重复项目文件夹/元件 117 副本 2" x="1020" y="559" width="114" height="100"/>
+    <SubTexture name="重复项目文件夹/元件 74" x="1092" y="395" width="52" height="50" frameX="0" frameY="0" frameWidth="56" frameHeight="54"/>
+    <SubTexture name="重复项目文件夹/元件 97 副本 4" x="2" y="1036" width="287" height="186" frameX="-2" frameY="-4" frameWidth="297" frameHeight="192"/>
+    <SubTexture name="重复项目文件夹/元件 97 副本 6" x="291" y="1036" width="254" height="135" frameX="-5" frameY="-10" frameWidth="268" frameHeight="147"/>
+</TextureAtlas>

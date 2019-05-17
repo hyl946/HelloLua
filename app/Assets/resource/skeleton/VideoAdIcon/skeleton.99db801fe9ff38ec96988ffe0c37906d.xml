@@ -1,0 +1,469 @@
+<dragonBones name="VideoAdIcon" frameRate="24" version="2.3">
+ <armature name="VideoAd/icon">
+  <bone name="元件 25 副本">
+   <transform x="48.25" y="41.65" skX="0" skY="0" scX="-0.76" scY="0.76"/>
+  </bone>
+  <bone name="cbbm2">
+   <transform x="10.25" y="38.05" skX="5.96" skY="5.96" scX="-0.73" scY="0.73"/>
+  </bone>
+  <bone name="cbbm2_0">
+   <transform x="88.05" y="38.1" skX="-5.96" skY="-5.96" scX="0.73" scY="0.73"/>
+  </bone>
+  <bone name="元件 3">
+   <transform x="49.25" y="39.4" skX="0" skY="0" scX="0.85" scY="0.85"/>
+  </bone>
+  <bone name="reddot">
+   <transform x="80.6" y="3.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="元件 25 副本" parent="元件 25 副本" z="0">
+    <display name="VideoAd/res.videoIcon/gua" type="image">
+     <transform x="-78" y="-78.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="cbbm2" parent="cbbm2" z="1">
+    <display name="VideoAd/res.videoIcon/cb" type="armature">
+     <transform x="-0.05" y="-23.9" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 13" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="cbbm2_0" parent="cbbm2_0" z="2">
+    <display name="VideoAd/res.videoIcon/cb" type="armature">
+     <transform x="0" y="-23.95" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 13" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 3" parent="元件 3" z="3">
+    <display name="VideoAd/res.videoIcon/zpe" type="armature">
+     <transform x="-49.8" y="-49.8" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/bhig" type="armature">
+     <transform x="-49.8" y="-49.8" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="reddot" parent="reddot" z="7">
+    <display name="VideoAd/res.videoIcon/红色" type="image">
+     <transform x="-15.95" y="-16" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0" duration="54" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="元件 25 副本" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="26">
+     <transform x="48.25" y="41.65" skX="0" skY="0" scX="-0.76" scY="0.76" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="38" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="27">
+     <transform x="48.25" y="34" skX="0" skY="0" scX="-0.83" scY="0.83" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="80" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="48.25" y="41.65" skX="0" skY="0" scX="-0.76" scY="0.76" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="38" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="cbbm2" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="26">
+     <transform x="10.25" y="38.05" skX="5.96" skY="5.96" scX="-0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="27">
+     <transform x="10.25" y="31.7" skX="5.96" skY="5.96" scX="-0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="10.25" y="38.05" skX="5.96" skY="5.96" scX="-0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="cbbm2_0" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="26">
+     <transform x="88.05" y="38.1" skX="-5.96" skY="-5.96" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="27">
+     <transform x="88.05" y="31.75" skX="-5.96" skY="-5.96" scX="0.73" scY="0.73" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="88.05" y="38.1" skX="-5.96" skY="-5.96" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 3" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="26">
+     <transform x="49.25" y="39.4" skX="0" skY="0" scX="0.85" scY="0.85" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="27">
+     <transform x="49.25" y="31.75" skX="0" skY="0" scX="0.85" scY="0.85" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="49.25" y="39.4" skX="0" skY="0" scX="0.85" scY="0.85" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="reddot" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="26">
+     <transform x="80.6" y="3.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="27">
+     <transform x="80.6" y="-3.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="80.6" y="3.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="B" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="cbbm2" scale="1" offset="0">
+    <frame z="4" displayIndex="1" duration="1">
+     <transform x="-5.65" y="41.55" skX="5.96" skY="5.96" scX="-0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="cbbm2_0" scale="1" offset="0">
+    <frame z="5" displayIndex="1" duration="1">
+     <transform x="104" y="41.6" skX="-5.96" skY="-5.96" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 3" scale="1" offset="0">
+    <frame z="6" displayIndex="1" duration="1">
+     <transform x="49.25" y="39.4" skX="0" skY="0" scX="0.85" scY="0.85" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="VideoAd/res.videoIcon/bhig">
+  <bone name="图层 1">
+   <transform x="49.35" y="48.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="50.7" y="49.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="VideoAd/res.videoIcon/zp44" type="image">
+     <transform x="-47.4" y="-47.4" skX="0" skY="0" scX="1" scY="1" pX="1.95" pY="1.2"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="1">
+    <display name="VideoAd/res.videoIcon/VBNF" type="image">
+     <transform x="-50.45" y="-48.45" skX="0" skY="0" scX="1" scY="1" pX="-0.8" pY="-0.9"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="34" scale="1" loop="1" autoTween="NaN" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" duration="34">
+     <transform x="49.35" y="48.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="1" duration="34">
+     <transform x="50.7" y="49.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="VideoAd/res.videoIcon/zpe">
+  <bone name="图层 1">
+   <transform x="51.5" y="51.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="50.7" y="49.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="nvnaa">
+   <transform x="90.6" y="30.35" skX="-6.44" skY="0" scX="1" scY="1.01"/>
+  </bone>
+  <bone name="nvnaa_0">
+   <transform x="65.6" y="8.6" skX="-6.44" skY="0" scX="1" scY="1.01"/>
+  </bone>
+  <bone name="nvnaa_1">
+   <transform x="34.1" y="8.7" skX="-6.44" skY="0" scX="1" scY="1.01"/>
+  </bone>
+  <bone name="nvnaa_2">
+   <transform x="8.1" y="31.9" skX="-6.44" skY="0" scX="1" scY="1.01"/>
+  </bone>
+  <bone name="nvnaa_3">
+   <transform x="9.15" y="65.05" skX="-6.44" skY="0" scX="1" scY="1.01"/>
+  </bone>
+  <bone name="nvnaa_4">
+   <transform x="29.6" y="88.65" skX="-6.44" skY="0" scX="1" scY="1.01"/>
+  </bone>
+  <bone name="nvnaa_5">
+   <transform x="71.2" y="86.85" skX="-6.44" skY="0" scX="1" scY="1.01"/>
+  </bone>
+  <bone name="nvnaa_6">
+   <transform x="89.7" y="64.6" skX="-6.44" skY="0" scX="1" scY="1.01"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="VideoAd/res.videoIcon/位图 1" type="image">
+     <transform x="-68.5" y="-68.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="1">
+    <display name="VideoAd/res.videoIcon/VBNF" type="image">
+     <transform x="-50.45" y="-48.45" skX="0" skY="0" scX="1" scY="1" pX="-0.8" pY="-0.9"/>
+    </display>
+   </slot>
+   <slot name="nvnaa" parent="nvnaa" z="2">
+    <display name="VideoAd/res.videoIcon/gjkk" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="2.55" pY="2.35"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_0" parent="nvnaa_0" z="3">
+    <display name="VideoAd/res.videoIcon/gjkk" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="2.55" pY="2.35"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_1" parent="nvnaa_1" z="4">
+    <display name="VideoAd/res.videoIcon/gjkk" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="2.55" pY="2.35"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_2" parent="nvnaa_2" z="5">
+    <display name="VideoAd/res.videoIcon/gjkk" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="2.55" pY="2.35"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_3" parent="nvnaa_3" z="6">
+    <display name="VideoAd/res.videoIcon/gjkk" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="2.55" pY="2.35"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_4" parent="nvnaa_4" z="7">
+    <display name="VideoAd/res.videoIcon/gjkk" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="2.55" pY="2.35"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_5" parent="nvnaa_5" z="8">
+    <display name="VideoAd/res.videoIcon/gjkk" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="2.55" pY="2.35"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_6" parent="nvnaa_6" z="9">
+    <display name="VideoAd/res.videoIcon/gjkk" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="2.55" pY="2.35"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0" duration="34" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" duration="34">
+     <transform x="51.5" y="51.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="1" duration="34">
+     <transform x="50.7" y="49.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa" scale="1" offset="0">
+    <frame duration="17" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="90.6" y="30.35" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" duration="10">
+     <transform x="90.6" y="30.35" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="90.6" y="30.35" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="90.6" y="30.35" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_0" scale="1" offset="0">
+    <frame duration="13" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="65.6" y="8.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" duration="11">
+     <transform x="65.6" y="8.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="65.6" y="8.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="65.6" y="8.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_1" scale="1" offset="0">
+    <frame duration="9" displayIndex="-1"/>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="34.1" y="8.7" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="4" duration="11">
+     <transform x="34.1" y="8.7" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="34.1" y="8.7" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="8">
+     <transform x="34.1" y="8.7" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_2" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="8.1" y="31.9" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="5" duration="11">
+     <transform x="8.1" y="31.9" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="8.1" y="31.9" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="12">
+     <transform x="8.1" y="31.9" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_3" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="9.15" y="65.05" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="6" duration="12">
+     <transform x="9.15" y="65.05" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="9.15" y="65.05" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="15">
+     <transform x="9.15" y="65.05" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_4" scale="1" offset="0">
+    <frame z="7" duration="12">
+     <transform x="29.6" y="88.65" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="3">
+     <transform x="29.6" y="88.65" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="15">
+     <transform x="29.6" y="88.65" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="3">
+     <transform x="29.6" y="88.65" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="29.6" y="88.65" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_5" scale="1" offset="0">
+    <frame z="8" duration="9">
+     <transform x="71.2" y="86.85" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="71.2" y="86.85" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="15">
+     <transform x="71.2" y="86.85" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="71.2" y="86.85" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="71.2" y="86.85" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_6" scale="1" offset="0">
+    <frame z="9" duration="6">
+     <transform x="89.7" y="64.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="89.7" y="64.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="15">
+     <transform x="89.7" y="64.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="89.7" y="64.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="9" duration="7">
+     <transform x="89.7" y="64.6" skX="-6.44" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="VideoAd/res.videoIcon/cb">
+  <bone name="图层 1">
+   <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="VideoAd/res.videoIcon/位图 13" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 14" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 15" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 16" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 17" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 12" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 18" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 19" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="VideoAd/res.videoIcon/位图 20" type="image">
+     <transform x="-33" y="-40.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0" duration="27" scale="1" loop="0" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" displayIndex="1" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" displayIndex="2" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" displayIndex="3" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" displayIndex="4" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" displayIndex="5" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" displayIndex="6" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" displayIndex="7" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" displayIndex="8" duration="3">
+     <transform x="21.2" y="30.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

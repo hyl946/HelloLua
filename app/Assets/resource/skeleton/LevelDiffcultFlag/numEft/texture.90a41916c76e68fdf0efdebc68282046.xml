@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:439d2d2d4106ed55832d0f9d6a2af5c8:f9249f9730166ea407629ece806c3196:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="addnumber" x="2" y="60" width="62" height="26" frameX="0" frameY="-9" frameWidth="82" frameHeight="36"/>
+    <SubTexture name="crosssss" x="60" y="2" width="33" height="33"/>
+    <SubTexture name="littlelight" x="95" y="2" width="17" height="75"/>
+    <SubTexture name="littleround" x="94" y="79" width="7" height="25"/>
+    <SubTexture name="number 副本" x="2" y="88" width="51" height="25" frameX="0" frameY="-4" frameWidth="63" frameHeight="29"/>
+    <SubTexture name="number" x="55" y="88" width="37" height="25" frameX="0" frameY="-4" frameWidth="51" frameHeight="29"/>
+    <SubTexture name="round" x="2" y="2" width="56" height="56" frameX="-2" frameY="-1" frameWidth="58" frameHeight="58"/>
+</TextureAtlas>

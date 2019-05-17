@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b054f097e3e0aa6c86868a6799ce8537:3dc2adda2527b0b10de6a825c9c22e38:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="__dbTextures/圣诞节诶高级奖励弹窗/元件 3 副本 2/图层 3_1" x="903" y="721" width="256" height="203"/>
+    <SubTexture name="__dbTextures/圣诞节诶高级奖励弹窗/元件 3 副本 2/图层 3_11" x="2" y="911" width="269" height="297"/>
+    <SubTexture name="__dbTextures/圣诞节诶高级奖励弹窗/元件 3 副本 2/图层 3_14" x="635" y="442" width="266" height="284"/>
+    <SubTexture name="__dbTextures/圣诞节诶高级奖励弹窗/元件 3 副本 2/图层 3_19" x="903" y="449" width="267" height="270"/>
+    <SubTexture name="__dbTextures/圣诞节诶高级奖励弹窗/元件 3 副本 2/图层 3_24" x="524" y="969" width="254" height="253"/>
+    <SubTexture name="__dbTextures/圣诞节诶高级奖励弹窗/元件 3 副本 2/图层 3_3" x="635" y="728" width="259" height="239"/>
+    <SubTexture name="__dbTextures/圣诞节诶高级奖励弹窗/元件 3 副本 2/图层 3_5" x="780" y="969" width="257" height="248"/>
+    <SubTexture name="__dbTextures/圣诞节诶高级奖励弹窗/元件 3 副本 2/图层 3_9" x="273" y="911" width="249" height="265"/>
+    <SubTexture name="fgrtjy6" x="404" y="509" width="229" height="296" frameX="0" frameY="0" frameWidth="239" frameHeight="296"/>
+    <SubTexture name="hongdai__uk__2" x="600" y="2" width="597" height="119"/>
+    <SubTexture name="vbnv__uk__2" x="600" y="123" width="317" height="317" frameX="-25" frameY="-15" frameWidth="365" frameHeight="349"/>
+    <SubTexture name="元件 1" x="2" y="2" width="596" height="505"/>
+    <SubTexture name="元件 46 副本 2" x="1039" y="926" width="112" height="105"/>
+    <SubTexture name="重复项目文件夹/xinguang" x="2" y="509" width="400" height="400" frameX="-46" frameY="-78" frameWidth="506" frameHeight="506"/>
+    <SubTexture name="重复项目文件夹/xingxing__uk__1" x="1199" y="2" width="17" height="15"/>
+    <SubTexture name="重复项目文件夹/元件 8 副本" x="919" y="123" width="266" height="324" frameX="-14" frameY="-16" frameWidth="294" frameHeight="358"/>
+    <SubTexture name="重复项目文件夹/元件 8" x="404" y="807" width="71" height="69"/>
+</TextureAtlas>

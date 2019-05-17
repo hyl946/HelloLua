@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d7c6fcc29b588f6630631f2584cde13a:a63687e9424cc8b488fd71ee81032a05:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="tipanime" x="2" y="2" width="371" height="47"/>
+</TextureAtlas>

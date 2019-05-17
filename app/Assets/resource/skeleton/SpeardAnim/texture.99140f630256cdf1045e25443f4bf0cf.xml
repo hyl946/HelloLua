@@ -1,0 +1,17 @@
+<TextureAtlas name="SpeardAnim" imagePath="texture.png">
+ <SubTexture name="jasSpeard_anim/res/beiguan" x="359" y="0" width="290" height="283"/>
+ <SubTexture name="jasSpeard_anim/res/O1" x="650" y="238" width="160" height="160"/>
+ <SubTexture name="jasSpeard_anim/res/O3" x="650" y="0" width="237" height="237"/>
+ <SubTexture name="jasSpeard_anim/res/O5" x="0" y="0" width="358" height="358"/>
+ <SubTexture name="jasSpeard_anim/res/xinNN" x="552" y="284" width="86" height="86"/>
+ <SubTexture name="jasSpeard_anim/res/sdv_yuanjian" x="862" y="282" width="153" height="148"/>
+ <SubTexture name="jasSpeard_anim/res/cvop3" x="888" y="0" width="133" height="140"/>
+ <SubTexture name="jasSpeard_anim/res/gun3" x="359" y="284" width="97" height="120"/>
+ <SubTexture name="jasSpeard_anim/res/quan3" x="888" y="141" width="133" height="140"/>
+ <SubTexture name="jasSpeard_anim/res/cvop" x="0" y="359" width="84" height="84"/>
+ <SubTexture name="jasSpeard_anim/res/zac" x="458" y="284" width="93" height="119"/>
+ <SubTexture name="jasSpeard_anim/res/gun2" x="811" y="238" width="50" height="73"/>
+ <SubTexture name="jasSpeard_anim/res/gnk" x="168" y="359" width="73" height="38"/>
+ <SubTexture name="jasSpeard_anim/res/quan" x="85" y="359" width="82" height="82"/>
+ <SubTexture name="jasSpeard_anim/res/xin" x="811" y="312" width="36" height="38"/>
+</TextureAtlas>

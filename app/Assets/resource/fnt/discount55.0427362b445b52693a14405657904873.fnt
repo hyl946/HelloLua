@@ -1,0 +1,20 @@
+info face="BerlinSansFB-Reg" size=107 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=118 base=96 scaleW=256 scaleH=256 pages=1 packed=0
+page id=0 file="discount55.png"
+chars count=16
+char id=32     x=184   y=154   width=0     height=0     xoffset=0     yoffset=96    xadvance=27    page=0 chnl=0 letter="space"
+char id=43     x=28    y=154   width=41    height=45    xoffset=2     yoffset=42    xadvance=43    page=0 chnl=0 letter="+"
+char id=45     x=143   y=154   width=37    height=15    xoffset=3     yoffset=56    xadvance=41    page=0 chnl=0 letter="-"
+char id=46     x=124   y=154   width=17    height=19    xoffset=4     yoffset=78    xadvance=23    page=0 chnl=0 letter="."
+char id=47     x=2     y=2     width=29    height=81    xoffset=2     yoffset=21    xadvance=31    page=0 chnl=0 letter="/"
+char id=48     x=135   y=2     width=59    height=67    xoffset=3     yoffset=30    xadvance=64    page=0 chnl=0 letter="0"
+char id=49     x=2     y=154   width=24    height=66    xoffset=1     yoffset=30    xadvance=30    page=0 chnl=0 letter="1"
+char id=50     x=2     y=85    width=51    height=67    xoffset=1     yoffset=30    xadvance=52    page=0 chnl=0 letter="2"
+char id=51     x=107   y=85    width=47    height=67    xoffset=2     yoffset=30    xadvance=50    page=0 chnl=0 letter="3"
+char id=52     x=196   y=2     width=52    height=67    xoffset=1     yoffset=30    xadvance=54    page=0 chnl=0 letter="4"
+char id=53     x=156   y=85    width=47    height=66    xoffset=1     yoffset=31    xadvance=51    page=0 chnl=0 letter="5"
+char id=54     x=55    y=85    width=50    height=67    xoffset=4     yoffset=30    xadvance=55    page=0 chnl=0 letter="6"
+char id=55     x=205   y=85    width=46    height=66    xoffset=1     yoffset=31    xadvance=47    page=0 chnl=0 letter="7"
+char id=56     x=85    y=2     width=48    height=68    xoffset=1     yoffset=30    xadvance=49    page=0 chnl=0 letter="8"
+char id=57     x=33    y=2     width=50    height=69    xoffset=3     yoffset=30    xadvance=55    page=0 chnl=0 letter="9"
+char id=126    x=71    y=154   width=51    height=20    xoffset=2     yoffset=54    xadvance=52    page=0 chnl=0 letter="~"

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>2016_10_26newObstacleIconAnimal_</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{120,119}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{1,0},{120,119}}</string>
+                <key>sourceSize</key>
+                <string>{122,119}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>newObstacleIconAnimal.png</string>
+            <key>size</key>
+            <string>{124,124}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:5d3261acc46d9771857a64b350dc2636:7ffb136b9782aac76f3224ef20a7556f:8dfe78bcb6d0d4e7e31819ce39134d0f$</string>
+            <key>textureFileName</key>
+            <string>newObstacleIconAnimal.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bcab912f30599ee1bc8a2e93164e7a95:14d4512ace61b128c0e0be385eb52296:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="add_five_step_animation_act/res/元件 17 副本" x="186" y="342" width="79" height="76" frameX="-5" frameY="-11" frameWidth="97" frameHeight="98"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 17" x="2" y="2" width="506" height="202" frameX="-2" frameY="-49" frameWidth="544" frameHeight="260"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 18" x="2" y="468" width="38" height="38" frameX="-3" frameY="-2" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 19" x="205" y="446" width="68" height="57" frameX="-1" frameY="-5" frameWidth="72" frameHeight="69"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 20" x="161" y="487" width="42" height="20" frameX="-1" frameY="0" frameWidth="44" frameHeight="22"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 21" x="327" y="416" width="46" height="17" frameX="-1" frameY="-7" frameWidth="48" frameHeight="31"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 22" x="186" y="420" width="41" height="24" frameX="0" frameY="-6" frameWidth="45" frameHeight="38"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 23" x="275" y="445" width="38" height="57" frameX="-10" frameY="-5" frameWidth="54" frameHeight="65"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 24" x="2" y="206" width="176" height="141" frameX="-16" frameY="-22" frameWidth="198" frameHeight="187"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 25" x="267" y="342" width="77" height="72" frameX="-4" frameY="-5" frameWidth="85" frameHeight="86"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 26" x="180" y="206" width="94" height="100" frameX="-15" frameY="-3" frameWidth="118" frameHeight="120"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 27" x="2" y="349" width="83" height="117" frameX="-5" frameY="-4" frameWidth="99" frameHeight="121"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 28" x="87" y="349" width="97" height="101" frameX="-21" frameY="-11" frameWidth="145" frameHeight="135"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 31" x="180" y="308" width="86" height="32"/>
+    <SubTexture name="add_five_step_animation_act/res/元件 32" x="229" y="420" width="96" height="23"/>
+    <SubTexture name="add_five_step_animation_act/res/重复项目文件夹/b 副本 5" x="268" y="308" width="41" height="23"/>
+    <SubTexture name="add_five_step_animation_act/res/重复项目文件夹/元件 15 副本 2" x="42" y="468" width="58" height="36" frameX="-1" frameY="0" frameWidth="60" frameHeight="36"/>
+    <SubTexture name="add_five_step_animation_act/res/重复项目文件夹/元件 16 副本" x="102" y="452" width="57" height="44" frameX="-3" frameY="-5" frameWidth="63" frameHeight="52"/>
+    <SubTexture name="add_five_step_animation_act/res/重复项目文件夹/元件 27 副本 4" x="87" y="452" width="13" height="13" frameX="-2" frameY="-2" frameWidth="19" frameHeight="19"/>
+    <SubTexture name="add_five_step_animation_act/res/重复项目文件夹/元件 28 副本 2" x="315" y="445" width="25" height="23" frameX="-2" frameY="-2" frameWidth="33" frameHeight="31"/>
+    <SubTexture name="add_five_step_animation_act/res/重复项目文件夹/元件 6 副本 7" x="161" y="452" width="33" height="33"/>
+</TextureAtlas>

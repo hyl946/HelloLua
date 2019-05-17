@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0600036727747f4adb7004d092fa41b4:154c47f4cb3663490a25364d7dbcb57f:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="xingguang" x="2" y="2" width="71" height="69"/>
+</TextureAtlas>

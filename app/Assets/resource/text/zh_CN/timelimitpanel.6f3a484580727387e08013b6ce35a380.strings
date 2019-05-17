@@ -1,0 +1,4 @@
+"timeLimit.panel.buy.text" = "购买";
+"timeLimit.panel.sendValue" = "价值￥{n}";
+"timeLimit.panel.title" = "限时抢购";
+"timeLimit.panel.totalValue" = "总价值：{n}元";

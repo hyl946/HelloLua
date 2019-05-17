@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9726d1f7ea977b914a262a25061fde6e:d977c25be10c8db0ae4c33eea42c5752:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/vbmvv" x="539" y="801" width="94" height="77"/>
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/vnncc" x="567" y="2" width="353" height="406" frameX="-2" frameY="0" frameWidth="355" frameHeight="406"/>
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/重复项目文件夹/hongdai 副本" x="2" y="680" width="537" height="119"/>
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/重复项目文件夹/sefrth" x="614" y="729" width="117" height="63" frameX="-4" frameY="0" frameWidth="121" frameHeight="63"/>
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/重复项目文件夹/sgtrhy" x="2" y="2" width="563" height="126" frameX="0" frameY="-1" frameWidth="567" frameHeight="130"/>
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/重复项目文件夹/txt" x="922" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="405" frameHeight="59"/>
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/重复项目文件夹/元件 6 副本 3" x="922" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="263" frameHeight="259"/>
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/重复项目文件夹/元件 8" x="541" y="729" width="71" height="69"/>
+    <SubTexture name="rank.race.passlevel.share/assert/assert2/重复项目文件夹/星星旋转动画" x="447" y="894" width="14" height="23" frameX="0" frameY="-1" frameWidth="14" frameHeight="27"/>
+    <SubTexture name="rank.race.passlevel.share/assert/bmm" x="447" y="801" width="90" height="91" frameX="-15" frameY="-13" frameWidth="118" frameHeight="117"/>
+    <SubTexture name="rank.race.passlevel.share/assert/cdsafd7sa8cujdsa896f78ds6a78fdhsa7v86df7876gfdsgd/ffdd" x="2" y="130" width="550" height="548" frameX="-37" frameY="-44" frameWidth="628" frameHeight="616"/>
+    <SubTexture name="rank.race.passlevel.share/assert/cdsafd7sa8cujdsa896f78ds6a78fdhsa7v86df7876gfdsgd/vbnv" x="554" y="410" width="317" height="317" frameX="-25" frameY="-15" frameWidth="365" frameHeight="349"/>
+    <SubTexture name="rank.race.passlevel.share/assert/cdsafd7sa8cujdsa896f78ds6a78fdhsa7v86df7876gfdsgd/xingxing" x="463" y="894" width="17" height="15"/>
+    <SubTexture name="rank.race.passlevel.share/assert/m33" x="2" y="801" width="443" height="128" frameX="-7" frameY="-12" frameWidth="457" frameHeight="144"/>
+    <SubTexture name="rank.race.passlevel.share/assert/nvn" x="922" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="223" frameHeight="221"/>
+    <SubTexture name="rank.race.passlevel.share/assert/元件 1" x="922" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="88" frameHeight="64"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5c7e8b97845f32c18e06c752976fac24:1ea0c50fe61b1510b87d25697fc7f331:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="pre_prop_mix/1111" x="1068" y="46" width="55" height="53"/>
+    <SubTexture name="pre_prop_mix/1234" x="1068" y="246" width="27" height="24"/>
+    <SubTexture name="pre_prop_mix/123456/hh" x="1068" y="137" width="30" height="41" frameX="0" frameY="0" frameWidth="34" frameHeight="43"/>
+    <SubTexture name="pre_prop_mix/123456/元件 124 副本 5" x="1068" y="2" width="32" height="42"/>
+    <SubTexture name="pre_prop_mix/123456/元件 9" x="1068" y="180" width="34" height="32" frameX="-1" frameY="-3" frameWidth="38" frameHeight="38"/>
+    <SubTexture name="pre_prop_mix/2" x="1068" y="101" width="51" height="34" frameX="-2" frameY="-10" frameWidth="73" frameHeight="58"/>
+    <SubTexture name="pre_prop_mix/222222" x="900" y="1010" width="123" height="113" frameX="-15" frameY="-15" frameWidth="147" frameHeight="147"/>
+    <SubTexture name="pre_prop_mix/3" x="1068" y="101" width="51" height="34" frameX="-2" frameY="-10" frameWidth="73" frameHeight="58"/>
+    <SubTexture name="pre_prop_mix/b0" x="1111" y="2" width="13" height="13"/>
+    <SubTexture name="pre_prop_mix/cdsafd7sa8cujdsa896f78ds6a78fdhsa7v86df7876gfdsgd/ffdd" x="2" y="2" width="546" height="546" frameX="-39" frameY="-45" frameWidth="628" frameHeight="616"/>
+    <SubTexture name="pre_prop_mix/cloud" x="2" y="890" width="315" height="146" frameX="-2" frameY="-5" frameWidth="323" frameHeight="160"/>
+    <SubTexture name="pre_prop_mix/o1" x="1102" y="17" width="8" height="8"/>
+    <SubTexture name="pre_prop_mix/xin" x="1068" y="214" width="30" height="30" frameX="-3" frameY="-4" frameWidth="36" frameHeight="38"/>
+    <SubTexture name="pre_prop_mix/元件 1" x="2" y="550" width="605" height="338" frameX="-14" frameY="-6" frameWidth="635" frameHeight="358"/>
+    <SubTexture name="pre_prop_mix/元件 15" x="550" y="2" width="516" height="375" frameX="-42" frameY="-10" frameWidth="592" frameHeight="385"/>
+    <SubTexture name="pre_prop_mix/元件 16" x="2" y="1038" width="452" height="83"/>
+    <SubTexture name="pre_prop_mix/元件 2" x="900" y="839" width="177" height="169" frameX="-7" frameY="-4" frameWidth="185" frameHeight="175"/>
+    <SubTexture name="pre_prop_mix/元件 20" x="609" y="545" width="292" height="292"/>
+    <SubTexture name="pre_prop_mix/元件 22" x="1025" y="1010" width="65" height="64" frameX="-8" frameY="-9" frameWidth="83" frameHeight="82"/>
+    <SubTexture name="pre_prop_mix/元件 2gg" x="550" y="379" width="559" height="164" frameX="-8" frameY="-11" frameWidth="567" frameHeight="180"/>
+    <SubTexture name="pre_prop_mix/元件 33" x="903" y="545" width="158" height="150" frameX="-3" frameY="-9" frameWidth="168" frameHeight="172"/>
+    <SubTexture name="pre_prop_mix/元件 37" x="1068" y="272" width="30" height="19"/>
+    <SubTexture name="pre_prop_mix/元件 38" x="903" y="697" width="147" height="57" frameX="0" frameY="-2" frameWidth="147" frameHeight="67"/>
+    <SubTexture name="pre_prop_mix/元件 5" x="456" y="890" width="123" height="141" frameX="-9" frameY="-1" frameWidth="147" frameHeight="147"/>
+    <SubTexture name="pre_prop_mix/元件 6" x="1068" y="101" width="51" height="34" frameX="-2" frameY="-10" frameWidth="73" frameHeight="58"/>
+    <SubTexture name="pre_prop_mix/元件 9" x="609" y="839" width="289" height="286"/>
+</TextureAtlas>

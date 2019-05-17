@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>export_ph_game_guide_panels_3_bg0000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{5,5}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{5,5}}</string>
+                <key>sourceSize</key>
+                <string>{5,5}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>game_guide_panels_3.png</string>
+            <key>size</key>
+            <string>{9,9}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:882fd834a6021ac5d7b821b7824577df:988af401c1d20a5e6283ab8d9bb475c7:78849769d98bb584362c083d34f9d4a8$</string>
+            <key>textureFileName</key>
+            <string>game_guide_panels_3.png</string>
+        </dict>
+    </dict>
+</plist>

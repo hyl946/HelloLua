@@ -1,0 +1,68 @@
+<TextureAtlas name="markAnim2019" imagePath="texture.png">
+ <SubTexture name="MarkAnim/bollomRes/交换-icon" x="429" y="603" width="87" height="84"/>
+ <SubTexture name="MarkAnim/bollomRes/bnn" x="517" y="379" width="28" height="18"/>
+ <SubTexture name="MarkAnim/bollomRes/元件 1" x="0" y="610" width="125" height="50"/>
+ <SubTexture name="MarkAnim/bollomRes/vgh" x="286" y="702" width="76" height="62"/>
+ <SubTexture name="MarkAnim/bollomRes/bnm2" x="140" y="718" width="64" height="58"/>
+ <SubTexture name="MarkAnim/bollomRes/bnnv" x="387" y="689" width="76" height="68"/>
+ <SubTexture name="MarkAnim/bollomRes/vbnn" x="592" y="675" width="70" height="76"/>
+ <SubTexture name="MarkAnim/bollomRes/fgh" x="302" y="614" width="84" height="87"/>
+ <SubTexture name="MarkAnim/bollomRes/bmh" x="999" y="373" width="22" height="30"/>
+ <SubTexture name="ui_commons/ui_fontsize_rect" x="1003" y="17" width="8" height="8"/>
+ <SubTexture name="__dbTextures/MarkAnim/bollomRes/bs/图层 4_0" x="552" y="126" width="184" height="194"/>
+ <SubTexture name="__dbTextures/MarkAnim/bollomRes/bs/图层 2_0" x="161" y="342" width="168" height="150"/>
+ <SubTexture name="MarkAnim/bollomRes/fgf" x="552" y="321" width="178" height="178"/>
+ <SubTexture name="MarkAnim/bollomRes/元件 17" x="0" y="0" width="340" height="340"/>
+ <SubTexture name="MarkAnim/bollomRes/hj1" x="737" y="280" width="44" height="40"/>
+ <SubTexture name="MarkAnim/bollomRes/l1" x="731" y="322" width="54" height="74"/>
+ <SubTexture name="MarkAnim/bollomRes/l2" x="933" y="396" width="27" height="18"/>
+ <SubTexture name="MarkAnim/bollomRes/l3" x="1003" y="0" width="14" height="16"/>
+ <SubTexture name="MarkAnim/bollomRes/h2" x="974" y="373" width="23" height="37"/>
+ <SubTexture name="MarkAnim/bollomRes/h3" x="517" y="398" width="23" height="18"/>
+ <SubTexture name="MarkAnim/bollomRes/l4" x="517" y="336" width="31" height="41"/>
+ <SubTexture name="MarkAnim/bollomRes/star-li 副本 3" x="974" y="209" width="46" height="46"/>
+ <SubTexture name="MarkAnim/bollomRes/dfdf" x="342" y="126" width="209" height="209"/>
+ <SubTexture name="MarkAnim/bollomRes/guanq" x="788" y="0" width="214" height="208"/>
+ <SubTexture name="MarkAnim/bollomRes/O1" x="0" y="342" width="160" height="160"/>
+ <SubTexture name="MarkAnim/bollomRes/GQ" x="787" y="396" width="145" height="145"/>
+ <SubTexture name="MarkAnim/bollomRes/gb" x="787" y="209" width="186" height="186"/>
+ <SubTexture name="MarkAnim/bollomRes/xbn" x="974" y="339" width="33" height="33"/>
+ <SubTexture name="MarkAnim/boxopenAnimRes/元件 22" x="962" y="412" width="58" height="62"/>
+ <SubTexture name="MarkAnim/boxopenAnimRes/元件 23" x="934" y="733" width="66" height="55"/>
+ <SubTexture name="MarkAnim/boxopenAnimRes/bnn1" x="0" y="661" width="70" height="80"/>
+ <SubTexture name="MarkAnim/boxopenAnimRes/lb2" x="732" y="725" width="63" height="41"/>
+ <SubTexture name="MarkAnim/boxopenAnimRes/bvnn" x="206" y="634" width="79" height="79"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 25" x="737" y="126" width="42" height="58"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 30" x="342" y="336" width="173" height="159"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 29" x="529" y="590" width="99" height="76"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 26" x="630" y="590" width="87" height="83"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 43" x="731" y="398" width="55" height="58"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 37" x="659" y="500" width="68" height="88"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 35" x="302" y="497" width="125" height="116"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 34" x="826" y="542" width="100" height="84"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 31" x="529" y="500" width="128" height="88"/>
+ <SubTexture name="MarkAnim/res/元件 21" x="517" y="668" width="73" height="75"/>
+ <SubTexture name="MarkAnim/res/元件 21 副本" x="928" y="565" width="91" height="93"/>
+ <SubTexture name="MarkAnim/res/元件 22" x="974" y="256" width="47" height="41"/>
+ <SubTexture name="MarkAnim/res/元件 25" x="127" y="634" width="77" height="82"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 21 副本 2" x="729" y="542" width="95" height="100"/>
+ <SubTexture name="MarkAnim/res/元件 26" x="99" y="503" width="60" height="41"/>
+ <SubTexture name="MarkAnim/res/元件 32" x="826" y="628" width="80" height="88"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 21 副本 3" x="0" y="503" width="97" height="105"/>
+ <SubTexture name="MarkAnim/res/元件 31" x="731" y="457" width="50" height="27"/>
+ <SubTexture name="MarkAnim/res/元件 37" x="933" y="475" width="83" height="88"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 21 副本 4" x="429" y="497" width="98" height="104"/>
+ <SubTexture name="MarkAnim/res/元件 35" x="731" y="486" width="49" height="26"/>
+ <SubTexture name="MarkAnim/res/元件 1 副本 8" x="719" y="644" width="77" height="79"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 61" x="161" y="493" width="139" height="139"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 30 副本" x="737" y="185" width="49" height="48"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/新的十字星" x="974" y="299" width="38" height="38"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 67" x="342" y="0" width="444" height="124"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 66" x="72" y="718" width="66" height="66"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 65" x="664" y="725" width="66" height="66"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 64" x="866" y="733" width="66" height="66"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 63" x="798" y="718" width="66" height="66"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 62" x="206" y="714" width="66" height="66"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 24" x="908" y="660" width="80" height="72"/>
+ <SubTexture name="MarkAnim/res/重复项目文件夹/元件 32" x="737" y="234" width="45" height="44"/>
+</TextureAtlas>

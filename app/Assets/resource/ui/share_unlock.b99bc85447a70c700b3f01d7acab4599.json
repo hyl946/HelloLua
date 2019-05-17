@@ -1,0 +1,43 @@
+{
+	"image": "share_unlock.png",
+	"config": "share_unlock.plist",
+	"stageHeight": 2000,
+	"stageWidth": 2000,
+	"version": 1,
+	"groups": {
+		"unlock_share_group": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 719.45,
+				"height": 719.45,
+				"scaleX": 89.93409729003906,
+				"scaleY": 89.93409729003906,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "ui_commons/ui_fontsize_rect",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 494,
+				"y": 291,
+				"width": 242.35,
+				"height": 242.35,
+				"scaleX": 24.7252197265625,
+				"scaleY": 24.7252197265625,
+				"skewX": 15.024215698242188,
+				"skewY": 15.024215698242188,
+				"rotation": 15.024215698242188,
+				"index": 1,
+				"id": "codePh",
+				"image": "ui_commons/ui_fontsize_rect",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

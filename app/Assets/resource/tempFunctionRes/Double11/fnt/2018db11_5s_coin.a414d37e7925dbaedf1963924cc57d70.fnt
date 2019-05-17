@@ -1,0 +1,15 @@
+info face="BerlinSansFBDemi-Bold" size=45 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=51 base=42 scaleW=128 scaleH=128 pages=1 packed=0
+page id=0 file="2018db11_5s_coin.png"
+chars count=11
+char id=32     x=115   y=77    width=0     height=0     xoffset=0     yoffset=42    xadvance=11    page=0 chnl=0 letter="space"
+char id=48     x=2     y=40    width=34    height=35    xoffset=1     yoffset=8     xadvance=28    page=0 chnl=0 letter="0"
+char id=49     x=92    y=77    width=19    height=35    xoffset=0     yoffset=7     xadvance=14    page=0 chnl=0 letter="1"
+char id=50     x=71    y=40    width=30    height=35    xoffset=0     yoffset=8     xadvance=23    page=0 chnl=0 letter="2"
+char id=51     x=2     y=77    width=28    height=35    xoffset=1     yoffset=8     xadvance=22    page=0 chnl=0 letter="3"
+char id=52     x=2     y=2     width=31    height=36    xoffset=1     yoffset=6     xadvance=25    page=0 chnl=0 letter="4"
+char id=53     x=32    y=77    width=28    height=35    xoffset=1     yoffset=8     xadvance=23    page=0 chnl=0 letter="5"
+char id=54     x=38    y=40    width=31    height=35    xoffset=1     yoffset=8     xadvance=25    page=0 chnl=0 letter="6"
+char id=55     x=62    y=77    width=28    height=35    xoffset=0     yoffset=8     xadvance=22    page=0 chnl=0 letter="7"
+char id=56     x=68    y=2     width=29    height=36    xoffset=0     yoffset=7     xadvance=22    page=0 chnl=0 letter="8"
+char id=57     x=35    y=2     width=31    height=36    xoffset=1     yoffset=7     xadvance=25    page=0 chnl=0 letter="9"

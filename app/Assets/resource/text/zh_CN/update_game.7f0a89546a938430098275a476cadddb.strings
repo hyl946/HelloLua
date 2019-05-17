@@ -1,0 +1,6 @@
+" update_game_remind_1" = "版本更新不会影响您正常游戏，马上去闯关吧！";
+"update_game_4G_TEXT" = "当前为3G/4G网络，是否消耗流量下载更新？";
+"update_game_ASK_TEXT" = "好消息！现在可以下载新版本了。";
+"update_game_ASK_TITLE" = "发现更新啦！";
+"update_game_ask_install" = "版本已下载完成，是否安装？";
+"update_game_wifiremind" = "您已连接无线网络，当前有版本更新，需要下载 {num}MB,下载过程不影响正常游戏。";

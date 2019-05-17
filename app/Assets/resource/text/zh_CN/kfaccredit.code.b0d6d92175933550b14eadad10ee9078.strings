@@ -1,0 +1,6 @@
+"accredit.code.button.1" = "取消";
+"accredit.code.button.2" = "验证";
+"accredit.code.result.1" = "验证成功";
+"accredit.code.result.2" = "验证失败";
+"accredit.code.text" = "短信验证码已发送到您的手机上.";
+"accredit.code.verify" = "验证支付信息";

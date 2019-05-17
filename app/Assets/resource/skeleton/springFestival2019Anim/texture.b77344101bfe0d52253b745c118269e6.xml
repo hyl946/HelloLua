@@ -1,0 +1,24 @@
+<TextureAtlas name="springFestival2019Anim" imagePath="texture.png">
+ <SubTexture name="SpringFestival2019_anim/ani1res/ani1_元件 11" x="1193" y="352" width="137" height="137"/>
+ <SubTexture name="SpringFestival2019_anim/ani1res/ani1_sdghy" x="282" y="480" width="100" height="100"/>
+ <SubTexture name="SpringFestival2019_anim/ani2res/ani2g" x="130" y="480" width="150" height="54"/>
+ <SubTexture name="SpringFestival2019_anim/ani2res/ani2_sdghy" x="1332" y="352" width="100" height="100"/>
+ <SubTexture name="SpringFestival2019_anim/ani3res/ani3_sdghy 副本 2" x="1332" y="454" width="100" height="100"/>
+ <SubTexture name="SpringFestival2019_anim/ani3res/ani3_ertert3" x="1004" y="261" width="29" height="29"/>
+ <SubTexture name="SpringFestival2019_anim/ani4res/ani4_元件 2" x="480" y="0" width="601" height="201"/>
+ <SubTexture name="SpringFestival2019_anim/ani4res/ani4_元件 8 副本 4" x="2031" y="0" width="10" height="9"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_渐变黄 副本" x="0" y="0" width="478" height="478"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_元件 8 副本 10" x="1083" y="0" width="350" height="350"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_vbnv" x="1435" y="0" width="321" height="321"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_xingxing 副本" x="1035" y="261" width="16" height="15"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_guang" x="0" y="480" width="129" height="129"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_元件 1 副本 7" x="384" y="480" width="93" height="95"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_位图 8" x="749" y="203" width="253" height="277"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_位图 7" x="1758" y="0" width="271" height="285"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_位图 6" x="1758" y="287" width="253" height="275"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_位图 1" x="480" y="203" width="267" height="280"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_位图 2" x="1435" y="323" width="239" height="244"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_位图 3" x="1004" y="352" width="187" height="175"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_位图 4" x="749" y="482" width="90" height="86"/>
+ <SubTexture name="SpringFestival2019_anim/ani5res/ani5_位图 5" x="1004" y="203" width="60" height="56"/>
+</TextureAtlas>

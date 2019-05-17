@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:001c502baa31d1e9cee81004caa20928:14cd2fab8d0a55617c6bb68d1819d8af:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="area_task.liusha/元件 15023 副本" x="15" y="2" width="20" height="20"/>
+    <SubTexture name="area_task.liusha/元件 2" x="2" y="2" width="11" height="66" frameX="0" frameY="0" frameWidth="11" frameHeight="68"/>
+    <SubTexture name="area_task.liusha/重复项目文件夹/元件 15023 副本" x="37" y="2" width="11" height="11"/>
+</TextureAtlas>

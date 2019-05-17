@@ -1,0 +1,4 @@
+"yingyongbao.task.limit.tip1" = "今日免费风车币领取已达上限（{num}个），更多任务将于明天再开启哦~";
+"yingyongbao.task.limit.tip2" = "本月免费风车币领取已达上限（{num}个），更多任务将于下月开启哦~";
+"yingyongbao.task.text" = "完成积分任务~获得：";
+"yingyongbao.task.title" = "赢取免费风车币";

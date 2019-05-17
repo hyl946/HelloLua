@@ -1,0 +1,10 @@
+"activity.scene.error1" = "您的网络出现问题，请检查后重新进入";
+"activity.scene.loading.text" = "请稍等";
+"activity.scene.message.text1" = "{n}个新消息";
+"activity.scene.message.text2" = "您在非wifi状态下，是否用手机流量下载此活动？需要{n}哦~";
+"activity.scene.push.button1" = "去看看";
+"activity.scene.push.button2" = "去看看";
+"activity.scene.push.text1" = "闯关失败不是问题，安装新游戏得闯关道具，让你闯关不再是问题！";
+"activity.scene.push.text2" = "精力不足不用愁，安装新游戏即可得精力啦！";
+"activity.scene.title" = "精彩活动 开心畅享";
+"activityscene.percent.text" = "活动正在下载中，请稍候…{n}%";

@@ -1,0 +1,129 @@
+{
+	"image": "xf_homescene_icon.png",
+	"config": "xf_homescene_icon.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"xf_homescene_icon/redDot": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 23,
+				"height": 25.5,
+				"scaleX": 0.638885498046875,
+				"scaleY": 0.6374969482421875,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "图层 1",
+				"image": "xf_homescene_icon/accountTipDot__uk__2",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"xf_homescene_icon/xf_race_icon": [
+			{
+				"x": -54,
+				"y": -51,
+				"width": 109,
+				"height": 96,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "week_race_notice_icon_c",
+				"image": "xf_homescene_icon/xf_btn_icon_res_icon2018",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"xf_homescene_icon/xfBtn": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 100,
+				"height": 100,
+				"scaleX": 12.501144409179688,
+				"scaleY": 12.501144409179688,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "wrapperSize",
+				"image": "ui_commons/ui_fontsize_rect",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 46,
+				"y": 46,
+				"width": 109,
+				"height": 96,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "wrapper",
+				"image": "xf_homescene_icon/xfBtnWrapper",
+				"type": 2,
+				"scalingGrid": false
+			},
+			{
+				"x": 1,
+				"y": 65,
+				"width": 102,
+				"height": 42,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 2,
+				"id": "week_race_lable",
+				"image": "xf_homescene_icon/xf_label_res_2018",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"xf_homescene_icon/xfBtnWrapper": [
+			{
+				"x": 5,
+				"y": -5,
+				"width": 109,
+				"height": 96,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "xf_homescene_icon/xf_race_icon",
+				"type": 2,
+				"scalingGrid": false
+			},
+			{
+				"x": 21,
+				"y": -42,
+				"width": 23,
+				"height": 25.5,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "redDot",
+				"image": "xf_homescene_icon/redDot",
+				"type": 2,
+				"scalingGrid": false
+			}
+		]
+	}
+}

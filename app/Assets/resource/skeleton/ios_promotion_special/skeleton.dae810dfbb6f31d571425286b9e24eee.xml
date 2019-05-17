@@ -1,0 +1,229 @@
+<dragonBones name="ios_promotion_special" frameRate="24" version="2.3">
+ <armature name="ios_promotion_special">
+  <bone name="bear">
+   <transform x="457.6" y="539.8" skX="0" skY="0" scX="1" scY="0.73"/>
+  </bone>
+  <bone name="4tresw">
+   <transform x="377.55" y="621.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="hx">
+   <transform x="523" y="629.5" skX="0" skY="6.56" scX="0.9" scY="0.71"/>
+  </bone>
+  <bone name="fox">
+   <transform x="237.1" y="603" skX="0" skY="0" scX="1" scY="0.56"/>
+  </bone>
+  <bone name="afwertw">
+   <transform x="572.65" y="508.2" skX="-5.22" skY="-5.22" scX="0.9" scY="0.9"/>
+  </bone>
+  <bone name="afr323">
+   <transform x="206.8" y="622.1" skX="-10.44" skY="-10.44" scX="0.8" scY="0.8"/>
+  </bone>
+  <bone name="rgh65">
+   <transform x="373.3" y="726.2" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="asf32">
+   <transform x="206" y="624.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="fdety4">
+   <transform x="328.25" y="652.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="sdgfe5645">
+   <transform x="500.15" y="648.5" skX="-19.21" skY="-19.21" scX="1" scY="0.86"/>
+  </bone>
+  <skin name="default">
+   <slot name="bear" parent="bear" z="0">
+    <display name="bearrrr" type="image">
+     <transform x="-123.65" y="-123.65" skX="0" skY="0" scX="1" scY="1" pX="-19.85" pY="-15.7"/>
+    </display>
+   </slot>
+   <slot name="4tresw" parent="4tresw" z="1">
+    <display name="jinbi hou__uk__2" type="image">
+     <transform x="-305.55" y="-91.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="-0.55"/>
+    </display>
+   </slot>
+   <slot name="hx" parent="hx" z="2">
+    <display name="edgtttr" type="image">
+     <transform x="-160.5" y="-210.25" skX="0" skY="0" scX="1" scY="1" pX="-26.65" pY="-6.3"/>
+    </display>
+   </slot>
+   <slot name="fox" parent="fox" z="3">
+    <display name="foxxxx" type="image">
+     <transform x="-193.25" y="-217.75" skX="0" skY="0" scX="1" scY="1" pX="-84.25" pY="-47.1"/>
+    </display>
+   </slot>
+   <slot name="afwertw" parent="afwertw" z="4">
+    <display name="jinbi__uk__2" type="image">
+     <transform x="-63.4" y="-62.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="afr323" parent="afr323" z="5">
+    <display name="jinbi2__uk__2" type="image">
+     <transform x="-72.65" y="-73.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="rgh65" parent="rgh65" z="6">
+    <display name="frghr56" type="image">
+     <transform x="-313.05" y="-193" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="asf32" parent="asf32" z="7">
+    <display name="jinbi3__uk__2" type="image">
+     <transform x="-61.95" y="-37.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="fdety4" parent="fdety4" z="8">
+    <display name="jinbi4__uk__2" type="image">
+     <transform x="-74.6" y="-73.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="sdgfe5645" parent="sdgfe5645" z="9">
+    <display name="jinbi2__uk__2" type="image">
+     <transform x="-72.75" y="-73.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="pobing2" fadeInTime="0.3" duration="24" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="bear" scale="1" offset="0">
+    <frame duration="13" displayIndex="-1"/>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="457.6" y="539.8" skX="0" skY="0" scX="1" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="431.55" y="459.75" skX="-7.04" skY="0" scX="1.06" scY="1.19" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="433.55" y="517.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="431.55" y="511.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="4tresw" scale="1" offset="0">
+    <frame z="1" duration="6">
+     <transform x="377.55" y="621.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="377.55" y="621.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="377.55" y="616.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="14">
+     <transform x="377.55" y="621.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="hx" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="523" y="629.5" skX="0" skY="6.56" scX="0.9" scY="0.71" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="5">
+     <transform x="538.45" y="495.5" skX="7.23" skY="7.23" scX="1" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="540.45" y="603.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="8">
+     <transform x="540.45" y="593.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="fox" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="6">
+     <transform x="237.1" y="603" skX="0" skY="0" scX="1" scY="0.56" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="5">
+     <transform x="229.1" y="379.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="229.1" y="569.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="3" duration="5">
+     <transform x="229.1" y="557.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="afwertw" scale="1" offset="0">
+    <frame duration="9" displayIndex="-1"/>
+    <frame z="4" tweenEasing="0.57" duration="4">
+     <transform x="572.65" y="508.2" skX="-5.22" skY="-5.22" scX="0.9" scY="0.9" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="11">
+     <transform x="677.4" y="402.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="afr323" scale="1" offset="0">
+    <frame duration="8" displayIndex="-1"/>
+    <frame z="5" tweenEasing="0.57" duration="4">
+     <transform x="206.8" y="622.1" skX="-10.44" skY="-10.44" scX="0.8" scY="0.8" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="12">
+     <transform x="72.7" y="531.75" skX="0" skY="0" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="rgh65" scale="1" offset="0">
+    <frame z="6" duration="6">
+     <transform x="373.3" y="726.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="2">
+     <transform x="373.3" y="726.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="2">
+     <transform x="373.3" y="726.2" skX="0" skY="0" scX="1" scY="1.04" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="14">
+     <transform x="373.3" y="726.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="asf32" scale="1" offset="0">
+    <frame z="7" duration="5">
+     <transform x="206" y="624.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="206" y="624.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="206" y="587.45" skX="-10.71" skY="-10.71" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="206" y="629.05" skX="6.72" skY="6.72" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="7" duration="13">
+     <transform x="206" y="624.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="fdety4" scale="1" offset="0">
+    <frame z="8" duration="6">
+     <transform x="328.25" y="652.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="328.25" y="652.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="328.25" y="612.25" skX="6.98" skY="6.98" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="328.25" y="657.05" skX="6.98" skY="6.98" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="8" duration="12">
+     <transform x="328.25" y="652.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="sdgfe5645" scale="1" offset="0">
+    <frame duration="7" displayIndex="-1"/>
+    <frame z="9" tweenEasing="0" duration="6">
+     <transform x="500.15" y="648.5" skX="-19.21" skY="-19.21" scX="1" scY="0.86" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="402.6" y="483.25" skX="-19.21" skY="-19.21" scX="1" scY="0.86" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="2">
+     <transform x="402.9" y="652.25" skX="-19.07" skY="-19.07" scX="1" scY="0.86" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="9" duration="6">
+     <transform x="389.05" y="698.7" skX="-19.21" skY="-19.21" scX="1" scY="0.86" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

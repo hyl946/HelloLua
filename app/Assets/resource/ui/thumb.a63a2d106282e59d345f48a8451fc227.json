@@ -1,0 +1,43 @@
+{
+	"image": "thumb.png",
+	"config": "thumb.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"component_ui_thumb/c_thumb": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 83,
+				"height": 38,
+				"scaleX": 2.19866943359375,
+				"scaleY": 1.006622314453125,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "component_ui_thumb/cells/labelBg1",
+				"type": 0,
+				"scalingGrid": true
+			},
+			{
+				"x": 5,
+				"y": 5,
+				"width": 30,
+				"height": 28,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "icon",
+				"image": "component_ui_thumb/cells/thumb",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

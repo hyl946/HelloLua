@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e33622033495493548c21c2c65865ec3:593a0d253f20274982932166583b7d4b:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="share_290/bg" x="2" y="2" width="540" height="191"/>
+    <SubTexture name="share_290/bvbnv" x="468" y="195" width="40" height="38" frameX="0" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="share_290/dfdf" x="468" y="321" width="323" height="438" frameX="-69" frameY="-38" frameWidth="469" frameHeight="492"/>
+    <SubTexture name="share_290/gu" x="2" y="195" width="464" height="464" frameX="-19" frameY="-19" frameWidth="502" frameHeight="502"/>
+    <SubTexture name="share_290/h" x="151" y="761" width="157" height="54" frameX="-36" frameY="-11" frameWidth="231" frameHeight="80"/>
+    <SubTexture name="share_290/vbnv" x="544" y="2" width="317" height="317" frameX="-25" frameY="-15" frameWidth="365" frameHeight="349"/>
+    <SubTexture name="share_290/xingxing" x="510" y="216" width="17" height="15"/>
+    <SubTexture name="share_290/重复项目文件夹/ddd 副本 2" x="2" y="661" width="147" height="149" frameX="-3" frameY="-4" frameWidth="153" frameHeight="153"/>
+    <SubTexture name="share_290/重复项目文件夹/xingxing" x="510" y="195" width="19" height="19" frameX="-2" frameY="-2" frameWidth="23" frameHeight="23"/>
+</TextureAtlas>

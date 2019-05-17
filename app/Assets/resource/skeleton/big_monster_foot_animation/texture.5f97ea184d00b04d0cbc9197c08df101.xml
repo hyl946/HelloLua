@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:74381941679ee69359495e146dc62bc7:7658a92d06d315ce3f471835bc4ea89c:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="circle2" x="171" y="623" width="90" height="90"/>
+    <SubTexture name="e44t4w" x="2" y="355" width="266" height="266"/>
+    <SubTexture name="egbbjhj" x="629" y="2" width="163" height="179"/>
+    <SubTexture name="erehe" x="453" y="511" width="176" height="186"/>
+    <SubTexture name="erer" x="270" y="551" width="181" height="181" frameX="-3" frameY="-3" frameWidth="187" frameHeight="187"/>
+    <SubTexture name="fdsf67iu76i" x="2" y="2" width="385" height="351"/>
+    <SubTexture name="fdsfd444d" x="453" y="699" width="76" height="69"/>
+    <SubTexture name="ff7852" x="171" y="715" width="81" height="74" frameX="0" frameY="0" frameWidth="85" frameHeight="78"/>
+    <SubTexture name="fs5/tttttt" x="764" y="183" width="17" height="42" frameX="-1" frameY="-3" frameWidth="21" frameHeight="48"/>
+    <SubTexture name="fsfd896" x="631" y="640" width="111" height="111" frameX="0" frameY="-1" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="jjy" x="389" y="2" width="238" height="158"/>
+    <SubTexture name="rgb" x="270" y="355" width="177" height="194"/>
+    <SubTexture name="round" x="631" y="314" width="138" height="176" frameX="-79" frameY="-9" frameWidth="234" frameHeight="222"/>
+    <SubTexture name="rthnfg" x="2" y="623" width="167" height="171"/>
+    <SubTexture name="rty45" x="631" y="492" width="156" height="146"/>
+    <SubTexture name="rtyhrt" x="449" y="320" width="180" height="189"/>
+    <SubTexture name="rtyrty" x="627" y="183" width="135" height="129"/>
+    <SubTexture name="xiaoguo" x="389" y="162" width="236" height="156" frameX="0" frameY="0" frameWidth="238" frameHeight="158"/>
+</TextureAtlas>

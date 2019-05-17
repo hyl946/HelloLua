@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9c784eb935b59d126240097f9be29415:ea1afe2714afd896068672318ea3ed2e:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="bb" x="122" y="636" width="86" height="90"/>
+    <SubTexture name="bear-ear" x="350" y="746" width="16" height="16"/>
+    <SubTexture name="beer-highlight" x="736" y="613" width="24" height="11"/>
+    <SubTexture name="beer-light" x="546" y="733" width="48" height="27"/>
+    <SubTexture name="blank_2017_lll" x="424" y="512" width="64" height="68"/>
+    <SubTexture name="cvbnnn" x="423" y="374" width="67" height="66"/>
+    <SubTexture name="f" x="713" y="713" width="26" height="21"/>
+    <SubTexture name="fail_new/元件 11" x="713" y="736" width="23" height="20"/>
+    <SubTexture name="fail_new/元件 13" x="2" y="398" width="130" height="115"/>
+    <SubTexture name="fail_new/元件 16" x="306" y="708" width="22" height="22"/>
+    <SubTexture name="fail_new/元件 2" x="615" y="636" width="40" height="41"/>
+    <SubTexture name="fail_new/元件 4" x="622" y="161" width="42" height="11"/>
+    <SubTexture name="fff" x="180" y="728" width="56" height="35"/>
+    <SubTexture name="fox" x="449" y="2" width="111" height="107"/>
+    <SubTexture name="g" x="677" y="607" width="33" height="20"/>
+    <SubTexture name="g2" x="562" y="104" width="58" height="70"/>
+    <SubTexture name="ge" x="499" y="737" width="45" height="25"/>
+    <SubTexture name="gsa" x="585" y="517" width="37" height="33"/>
+    <SubTexture name="hema" x="490" y="521" width="73" height="77"/>
+    <SubTexture name="hy1" x="667" y="676" width="38" height="38"/>
+    <SubTexture name="ios_huanxiong/eye" x="327" y="733" width="38" height="11"/>
+    <SubTexture name="maotouying6" x="679" y="147" width="73" height="59"/>
+    <SubTexture name="o" x="243" y="566" width="5" height="5"/>
+    <SubTexture name="re" x="729" y="285" width="34" height="35"/>
+    <SubTexture name="shitou" x="2" y="103" width="282" height="59"/>
+    <SubTexture name="shou" x="443" y="636" width="52" height="46"/>
+    <SubTexture name="vbnddd" x="330" y="686" width="51" height="45"/>
+    <SubTexture name="yan_hua/g" x="342" y="460" width="80" height="80"/>
+    <SubTexture name="yan_hua/huan1" x="238" y="387" width="102" height="100"/>
+    <SubTexture name="yan_hua/huan1hh" x="496" y="278" width="102" height="100"/>
+    <SubTexture name="yan_hua/huan1lv" x="392" y="272" width="102" height="100"/>
+    <SubTexture name="yan_hua/huan2" x="288" y="261" width="102" height="100"/>
+    <SubTexture name="yan_hua/huan2l" x="134" y="398" width="102" height="100"/>
+    <SubTexture name="yan_hua/huanfebn" x="500" y="176" width="102" height="100"/>
+    <SubTexture name="yan_hua/huanfebnll" x="288" y="159" width="102" height="100"/>
+    <SubTexture name="yan_hua/huanff" x="171" y="285" width="102" height="100"/>
+    <SubTexture name="zhuazi" x="306" y="732" width="19" height="24"/>
+    <SubTexture name="元件 1" x="171" y="387" width="26" height="9"/>
+    <SubTexture name="元件 12" x="383" y="729" width="31" height="34"/>
+    <SubTexture name="元件 15" x="729" y="382" width="7" height="6"/>
+    <SubTexture name="元件 17" x="339" y="363" width="23" height="9"/>
+    <SubTexture name="元件 17jj" x="199" y="387" width="23" height="9"/>
+    <SubTexture name="元件 19" x="608" y="607" width="38" height="27"/>
+    <SubTexture name="元件 21" x="339" y="542" width="83" height="36"/>
+    <SubTexture name="元件 23" x="728" y="441" width="14" height="7"/>
+    <SubTexture name="元件 24" x="671" y="511" width="44" height="43"/>
+    <SubTexture name="元件 27" x="565" y="533" width="18" height="14"/>
+    <SubTexture name="元件 28" x="741" y="684" width="16" height="14"/>
+    <SubTexture name="元件 3" x="2" y="2" width="304" height="99"/>
+    <SubTexture name="元件 30" x="630" y="720" width="40" height="39"/>
+    <SubTexture name="元件 34" x="642" y="393" width="31" height="61"/>
+    <SubTexture name="元件 36" x="667" y="346" width="60" height="42"/>
+    <SubTexture name="元件 4" x="327" y="746" width="21" height="17"/>
+    <SubTexture name="元件 43" x="736" y="574" width="27" height="37"/>
+    <SubTexture name="元件 44" x="286" y="107" width="121" height="50"/>
+    <SubTexture name="元件 47" x="729" y="356" width="34" height="24"/>
+    <SubTexture name="元件 48" x="738" y="650" width="20" height="15"/>
+    <SubTexture name="元件 52" x="298" y="637" width="30" height="69"/>
+    <SubTexture name="元件 54" x="219" y="566" width="22" height="12"/>
+    <SubTexture name="元件 55" x="600" y="353" width="65" height="38"/>
+    <SubTexture name="元件 7" x="568" y="454" width="54" height="61"/>
+    <SubTexture name="元件 71" x="397" y="582" width="67" height="50"/>
+    <SubTexture name="元件 72" x="409" y="111" width="135" height="63"/>
+    <SubTexture name="元件 73" x="565" y="552" width="44" height="40"/>
+    <SubTexture name="元件 75" x="443" y="684" width="47" height="45"/>
+    <SubTexture name="元件 77" x="383" y="687" width="58" height="40"/>
+    <SubTexture name="元件 78" x="728" y="390" width="35" height="49"/>
+    <SubTexture name="元件 8" x="389" y="634" width="52" height="51"/>
+    <SubTexture name="元件 80" x="238" y="716" width="66" height="45"/>
+    <SubTexture name="元件 81" x="663" y="285" width="64" height="59"/>
+    <SubTexture name="元件 82" x="308" y="2" width="139" height="103"/>
+    <SubTexture name="元件 83" x="219" y="580" width="91" height="55"/>
+    <SubTexture name="元件 85 副本" x="717" y="531" width="42" height="41"/>
+    <SubTexture name="元件 85" x="492" y="380" width="85" height="66"/>
+    <SubTexture name="元件 87" x="624" y="456" width="57" height="52"/>
+    <SubTexture name="元件 89" x="497" y="636" width="47" height="46"/>
+    <SubTexture name="元件 90" x="579" y="393" width="61" height="59"/>
+    <SubTexture name="元件 92" x="210" y="637" width="86" height="77"/>
+    <SubTexture name="元件 93" x="125" y="566" width="92" height="68"/>
+    <SubTexture name="元件 95" x="624" y="510" width="45" height="33"/>
+    <SubTexture name="元件 96" x="568" y="517" width="15" height="14"/>
+    <SubTexture name="元件 97" x="367" y="733" width="13" height="11"/>
+    <SubTexture name="补间 1" x="585" y="683" width="38" height="43"/>
+    <SubTexture name="补间 2" x="724" y="450" width="39" height="39"/>
+    <SubTexture name="补间 31" x="562" y="2" width="109" height="100"/>
+    <SubTexture name="重复项目文件夹/FGDG 副本 2" x="675" y="390" width="51" height="58"/>
+    <SubTexture name="重复项目文件夹/b 副本" x="416" y="731" width="51" height="32"/>
+    <SubTexture name="重复项目文件夹/bnn" x="392" y="176" width="106" height="94"/>
+    <SubTexture name="重复项目文件夹/chicken_foot 副本" x="738" y="626" width="20" height="22"/>
+    <SubTexture name="重复项目文件夹/chicken_hat 副本" x="539" y="686" width="44" height="45"/>
+    <SubTexture name="重复项目文件夹/chicken_mouse 副本" x="134" y="500" width="114" height="64"/>
+    <SubTexture name="重复项目文件夹/chicken_wings1 副本" x="576" y="636" width="37" height="45"/>
+    <SubTexture name="重复项目文件夹/chicken_wings2 副本" x="492" y="684" width="45" height="51"/>
+    <SubTexture name="重复项目文件夹/dfsfsd 副本 2" x="679" y="208" width="73" height="46"/>
+    <SubTexture name="重复项目文件夹/ear 副本" x="342" y="374" width="79" height="84"/>
+    <SubTexture name="重复项目文件夹/eye3 副本" x="741" y="713" width="20" height="12"/>
+    <SubTexture name="重复项目文件夹/eye4" x="712" y="607" width="22" height="14"/>
+    <SubTexture name="重复项目文件夹/eye_shuted 副本" x="707" y="701" width="38" height="10"/>
+    <SubTexture name="重复项目文件夹/fff 副本" x="122" y="728" width="56" height="35"/>
+    <SubTexture name="重复项目文件夹/fff" x="180" y="728" width="56" height="35"/>
+    <SubTexture name="重复项目文件夹/ggg 副本 2" x="673" y="2" width="89" height="117"/>
+    <SubTexture name="重复项目文件夹/hand1 副本 2" x="469" y="737" width="28" height="26"/>
+    <SubTexture name="重复项目文件夹/hand1 副本" x="694" y="574" width="40" height="31"/>
+    <SubTexture name="重复项目文件夹/hand_a 副本" x="596" y="728" width="32" height="33"/>
+    <SubTexture name="重复项目文件夹/hh 副本 2" x="2" y="515" width="121" height="119"/>
+    <SubTexture name="重复项目文件夹/hh 副本 3" x="2" y="636" width="118" height="121"/>
+    <SubTexture name="重复项目文件夹/hxarm2" x="679" y="256" width="72" height="27"/>
+    <SubTexture name="重复项目文件夹/hxeyebowl1" x="741" y="667" width="17" height="15"/>
+    <SubTexture name="重复项目文件夹/jj 副本 2" x="657" y="636" width="38" height="38"/>
+    <SubTexture name="重复项目文件夹/jj 副本 7" x="568" y="594" width="38" height="40"/>
+    <SubTexture name="重复项目文件夹/jj 副本" x="654" y="567" width="38" height="38"/>
+    <SubTexture name="重复项目文件夹/meimao 副本" x="275" y="363" width="62" height="17"/>
+    <SubTexture name="重复项目文件夹/nose 副本" x="707" y="668" width="32" height="31"/>
+    <SubTexture name="重复项目文件夹/tears 副本" x="364" y="363" width="14" height="9"/>
+    <SubTexture name="重复项目文件夹/vcbb" x="466" y="600" width="67" height="34"/>
+    <SubTexture name="重复项目文件夹/元件 1 副本" x="424" y="442" width="65" height="68"/>
+    <SubTexture name="重复项目文件夹/元件 13 副本 3" x="187" y="164" width="99" height="119"/>
+    <SubTexture name="重复项目文件夹/元件 14" x="729" y="322" width="34" height="32"/>
+    <SubTexture name="重复项目文件夹/元件 17 副本 2" x="694" y="556" width="16" height="16"/>
+    <SubTexture name="重复项目文件夹/元件 17 副本 4" x="604" y="176" width="73" height="80"/>
+    <SubTexture name="重复项目文件夹/元件 18 副本 3" x="672" y="716" width="39" height="38"/>
+    <SubTexture name="重复项目文件夹/元件 18 副本" x="724" y="491" width="39" height="38"/>
+    <SubTexture name="重复项目文件夹/元件 18" x="672" y="716" width="39" height="38"/>
+    <SubTexture name="重复项目文件夹/元件 20" x="466" y="582" width="20" height="16"/>
+    <SubTexture name="重复项目文件夹/元件 21 副本 3" x="2" y="283" width="167" height="113"/>
+    <SubTexture name="重复项目文件夹/元件 21 副本 4" x="625" y="545" width="44" height="20"/>
+    <SubTexture name="重复项目文件夹/元件 21 副本 5" x="604" y="258" width="73" height="25"/>
+    <SubTexture name="重复项目文件夹/元件 21" x="604" y="258" width="73" height="25"/>
+    <SubTexture name="重复项目文件夹/元件 22 副本 3" x="697" y="629" width="39" height="37"/>
+    <SubTexture name="重复项目文件夹/元件 22 副本" x="697" y="629" width="39" height="37"/>
+    <SubTexture name="重复项目文件夹/元件 23 副本 2" x="683" y="450" width="39" height="59"/>
+    <SubTexture name="重复项目文件夹/元件 23 副本" x="535" y="600" width="31" height="34"/>
+    <SubTexture name="重复项目文件夹/元件 24 副本" x="392" y="159" width="15" height="14"/>
+    <SubTexture name="重复项目文件夹/元件 25 副本 5" x="250" y="489" width="87" height="89"/>
+    <SubTexture name="重复项目文件夹/元件 26" x="2" y="164" width="183" height="117"/>
+    <SubTexture name="重复项目文件夹/元件 27 副本 2" x="491" y="448" width="75" height="71"/>
+    <SubTexture name="重复项目文件夹/元件 28 副本 5" x="546" y="636" width="28" height="48"/>
+    <SubTexture name="重复项目文件夹/元件 28 副本" x="622" y="104" width="45" height="55"/>
+    <SubTexture name="重复项目文件夹/元件 29" x="625" y="679" width="40" height="39"/>
+    <SubTexture name="重复项目文件夹/元件 30 副本" x="579" y="380" width="17" height="11"/>
+    <SubTexture name="重复项目文件夹/元件 31" x="312" y="580" width="83" height="51"/>
+    <SubTexture name="重复项目文件夹/元件 32" x="669" y="121" width="92" height="24"/>
+    <SubTexture name="重复项目文件夹/元件 44" x="611" y="567" width="41" height="38"/>
+    <SubTexture name="重复项目文件夹/元件 45" x="648" y="607" width="27" height="27"/>
+    <SubTexture name="重复项目文件夹/元件 50" x="600" y="285" width="61" height="66"/>
+    <SubTexture name="重复项目文件夹/元件 51" x="330" y="633" width="57" height="51"/>
+</TextureAtlas>

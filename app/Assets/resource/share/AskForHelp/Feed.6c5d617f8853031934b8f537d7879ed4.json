@@ -1,0 +1,161 @@
+{
+	"image": "Feed.png",
+	"config": "Feed.plist",
+	"stageHeight": 2000,
+	"stageWidth": 2000,
+	"version": 1,
+	"groups": {
+		"AsKForHelplFeed/interface/askForHelp": [
+			{
+				"x": 111,
+				"y": 471,
+				"width": 177.05,
+				"height": 177.85,
+				"scaleX": 20.767303466796875,
+				"scaleY": 20.538726806640625,
+				"skewX": -4.01416015625,
+				"skewY": -4.8154449462890625,
+				"rotation": null,
+				"index": 0,
+				"id": "code",
+				"image": "ui_commons/ui_fontsize_rect",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"width": 720,
+				"height": 720,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "bg",
+				"image": "AsKForHelplFeed/res/AskForHelpBG",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"AsKForHelplFeed/interface/getNewHeadFrame": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 720,
+				"height": 720,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "AsKForHelplFeed/res/bgs/GetNewHeadFrame",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 178,
+				"y": 210,
+				"width": 237,
+				"height": 255,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "headIcon",
+				"image": "AsKForHelplFeed/res/head/headIcon",
+				"type": 2,
+				"scalingGrid": false
+			},
+			{
+				"x": 26,
+				"y": 507,
+				"width": 180,
+				"height": 182,
+				"scaleX": 22.491104125976562,
+				"scaleY": 22.7523193359375,
+				"skewX": -0.0157318115234375,
+				"skewY": 0,
+				"rotation": null,
+				"index": 2,
+				"id": "code",
+				"image": "ui_commons/ui_fontsize_rect",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"AsKForHelplFeed/res/head/headIcon": [
+			{
+				"x": -42,
+				"y": -25,
+				"width": 167.8,
+				"height": 167.85,
+				"scaleX": 1.8819427490234375,
+				"scaleY": 1.882904052734375,
+				"skewX": -7.0001678466796875,
+				"skewY": -7.0010223388671875,
+				"rotation": -7.0010223388671875,
+				"index": 0,
+				"id": "holder",
+				"image": "AsKForHelplFeed/res/head/HeadIcon.bgMC",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": -82,
+				"y": -83,
+				"width": 237,
+				"height": 255,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "t1",
+				"image": "AsKForHelplFeed/res/head/HeadFrameMC",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"AsKForHelplFeed/interface/passLevel": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 720,
+				"height": 720,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "AsKForHelplFeed/res/passLevelBG",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 28,
+				"y": 525,
+				"width": 156.75,
+				"height": 152,
+				"scaleX": 19.585906982421875,
+				"scaleY": 19.00189208984375,
+				"skewX": -0.0166168212890625,
+				"skewY": 0,
+				"rotation": null,
+				"index": 1,
+				"id": "code",
+				"image": "ui_commons/ui_fontsize_rect",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

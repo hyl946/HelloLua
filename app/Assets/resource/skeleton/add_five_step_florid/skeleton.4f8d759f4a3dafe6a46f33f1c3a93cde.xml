@@ -1,0 +1,776 @@
+<dragonBones name="add_five_step_florid" frameRate="24" version="2.3">
+ <armature name="florid.add.5/bubble_a">
+  <bone name="气泡">
+   <transform x="223.35" y="220.25" skX="0" skY="0" scX="0.479965" scY="0.479965"/>
+  </bone>
+  <bone name="content">
+   <transform x="244.95" y="240.25" skX="0" skY="0" scX="0.479965" scY="0.479965"/>
+  </bone>
+  <skin name="default">
+   <slot name="气泡" parent="气泡" z="0">
+    <display name="florid.add.5/AASERT/重复项目文件夹/gtry 副本 2" type="image">
+     <transform x="-301.8" y="-58.65" skX="0" skY="0" scX="1" scY="1" pX="-0.85" pY="3.5"/>
+    </display>
+   </slot>
+   <slot name="content" parent="content" z="1">
+    <display name="florid.add.5/label" type="image">
+     <transform x="-301.8" y="-58.65" skX="0" skY="0" scX="1" scY="1" pX="-22.75" pY="14.8"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0" duration="13" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="气泡" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="223.35" y="220.25" skX="0" skY="0" scX="0.479965" scY="0.479965" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="4" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="380.5" y="80.8" skX="0" skY="0" scX="1.199997" scY="1.199997" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="357" y="70.95" skX="0" skY="0" scX="0.899994" scY="0.899994" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="356.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="content" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="244.95" y="240.25" skX="0" skY="0" scX="0.479965" scY="0.479965" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="4" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="402.5" y="115.8" skX="0" skY="0" scX="1.199997" scY="1.199997" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="379" y="105.95" skX="0" skY="0" scX="0.899994" scY="0.899994" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="florid.add.5/bubble_a3">
+  <bone name="气泡">
+   <transform x="223.35" y="220.25" skX="0" skY="0" scX="0.479965" scY="0.479965"/>
+  </bone>
+  <bone name="content">
+   <transform x="244.95" y="240.25" skX="0" skY="0" scX="0.479965" scY="0.479965"/>
+  </bone>
+  <skin name="default">
+   <slot name="气泡" parent="气泡" z="0">
+    <display name="florid.add.5/florid.add.5/AASERT/重复项目文件夹/gtry 副本 2" type="image">
+     <transform x="-301.8" y="-58.65" skX="0" skY="0" scX="1" scY="1" pX="6.65" pY="9.6"/>
+    </display>
+   </slot>
+   <slot name="content" parent="content" z="1">
+    <display name="florid.add.5/florid.add.5/label" type="image">
+     <transform x="-301.8" y="-58.65" skX="0" skY="0" scX="1" scY="1" pX="-22.75" pY="14.8"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0" duration="13" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="气泡" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="223.35" y="220.25" skX="0" skY="0" scX="0.479965" scY="0.479965" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="4" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="380.5" y="80.8" skX="0" skY="0" scX="1.199997" scY="1.199997" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="357" y="70.95" skX="0" skY="0" scX="0.899994" scY="0.899994" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="356.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="content" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="244.95" y="240.25" skX="0" skY="0" scX="0.479965" scY="0.479965" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="4" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="402.5" y="115.8" skX="0" skY="0" scX="1.199997" scY="1.199997" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="379" y="105.95" skX="0" skY="0" scX="0.899994" scY="0.899994" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="florid.add.5/bubble_b">
+  <bone name="气泡">
+   <transform x="356.9" y="74.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="content">
+   <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="气泡" parent="气泡" z="0">
+    <display name="florid.add.5/AASERT/重复项目文件夹/gtry 副本 2" type="image">
+     <transform x="-301.8" y="-58.6" skX="0" skY="0" scX="1" scY="1" pX="-0.85" pY="3.5"/>
+    </display>
+   </slot>
+   <slot name="content" parent="content" z="1">
+    <display name="florid.add.5/label" type="image">
+     <transform x="-301.8" y="-58.6" skX="0" skY="0" scX="1" scY="1" pX="-22.75" pY="14.8"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="B" fadeInTime="0" duration="27" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="气泡" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="356.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="342.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="375.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="334.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="383.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="334.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="366.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="356.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="356.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="356.8" y="78.8" skX="0" skY="0" scX="1.099976" scY="1.099976" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="356.8" y="78.8" skX="0" skY="0" scX="1.099976" scY="1.099976" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="223.35" y="220.25" skX="0" skY="0" scX="0.479965" scY="0.479965" pX="0" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="4" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="content" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="364.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="397.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="356.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="397.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="356.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="388.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="378.8" y="113.8" skX="0" skY="0" scX="1.099976" scY="1.099976" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="378.8" y="113.8" skX="0" skY="0" scX="1.099976" scY="1.099976" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="244.95" y="240.25" skX="0" skY="0" scX="0.479965" scY="0.479965" pX="0" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="4" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="florid.add.5/bubble_b2">
+  <bone name="气泡">
+   <transform x="379.35" y="64.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="气泡特效">
+   <transform x="356.95" y="75.15" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="content">
+   <transform x="372.9" y="109.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="气泡" parent="气泡" z="0">
+    <display name="florid.add.5/未命名文件夹 2/未命名文件夹 1/元件 1" type="image">
+     <transform x="-325.3" y="-52.35" skX="0" skY="0" scX="1" scY="1" pX="3.15" pY="4"/>
+    </display>
+   </slot>
+   <slot name="气泡特效" parent="气泡特效" z="1">
+    <display name="florid.add.5/未命名文件夹 2/未命名文件夹 1/重复项目文件夹/gtry 副本" type="image">
+     <transform x="-301.8" y="-58.6" skX="0" skY="0" scX="1" scY="1" pX="15.75" pY="18.5"/>
+    </display>
+   </slot>
+   <slot name="content" parent="content" z="2">
+    <display name="florid.add.5/未命名文件夹 2/未命名文件夹 1/重复项目文件夹/gtry 副本 4" type="image">
+     <transform x="-301.8" y="-58.6" skX="0" skY="0" scX="1" scY="1" pX="-22.75" pY="14.8"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="B" fadeInTime="0" duration="12" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="气泡" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="379.35" y="64.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="379.35" y="64.85" skX="0" skY="0" scX="1.019196" scY="1.019196" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="379.35" y="64.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="379.35" y="64.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="气泡特效" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="5">
+     <transform x="356.95" y="75.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="30" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="5">
+     <transform x="356.95" y="77.5" skX="0" skY="0" scX="1.029968" scY="1.143494" pX="0" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="44" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="356.9" y="80.55" skX="0" skY="0" scX="1.076782" scY="1.38475" pX="0" pY="0.15"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="content" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="372.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="378.9" y="110.65" skX="0" skY="0" scX="1.019196" scY="1.019196" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="5">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="florid.add.5/bubble_c">
+  <bone name="气泡">
+   <transform x="218.6" y="191.55" skX="0" skY="0" scX="0.479965" scY="0.290543"/>
+  </bone>
+  <bone name="气泡特效">
+   <transform x="357.4" y="75.15" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="content">
+   <transform x="240.2" y="203.65" skX="0" skY="0" scX="0.479965" scY="0.290543"/>
+  </bone>
+  <skin name="default">
+   <slot name="气泡" parent="气泡" z="0">
+    <display name="florid.add.5/AASERT/重复项目文件夹/gtry 副本 2" type="image">
+     <transform x="-301.8" y="-58.7" skX="0" skY="0" scX="1" scY="1" pX="-0.85" pY="3.5"/>
+    </display>
+   </slot>
+   <slot name="气泡特效" parent="气泡特效" z="1">
+    <display name="florid.add.5/AASERT/重复项目文件夹/gtry 副本 3" type="image">
+     <transform x="-301.8" y="-58.6" skX="0" skY="0" scX="1" scY="1" pX="21.7" pY="21.6"/>
+    </display>
+   </slot>
+   <slot name="content" parent="content" z="2">
+    <display name="florid.add.5/label" type="image">
+     <transform x="-301.8" y="-58.7" skX="0" skY="0" scX="1" scY="1" pX="-22.75" pY="14.8"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="C" fadeInTime="0" duration="74" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="气泡" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="218.6" y="191.55" skX="0" skY="0" scX="0.479965" scY="0.290543" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="4" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="273.4" y="197.25" skX="0" skY="0" scX="0.749985" scY="0.249283" pX="0" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="40" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="356.75" y="82.4" skX="0" skY="0" scX="1.199997" scY="1.199997" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="357" y="70.95" skX="0" skY="0" scX="0.899994" scY="0.899994" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="0" duration="59">
+     <transform x="356.9" y="74.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="气泡特效" scale="1" offset="0">
+    <frame duration="22" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="11">
+     <transform x="357.4" y="75.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="13">
+     <transform x="357.4" y="75.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="13">
+     <transform x="357.4" y="75.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="13">
+     <transform x="357.4" y="75.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="357.4" y="75.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="content" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="240.2" y="203.65" skX="0" skY="0" scX="0.479965" scY="0.290543" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="4" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="6">
+     <transform x="295.15" y="205.75" skX="0" skY="0" scX="0.749985" scY="0.249283" pX="0" pY="0.15"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="378.75" y="117.4" skX="0" skY="0" scX="1.199997" scY="1.199997" pX="0.05" pY="0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="379" y="105.95" skX="0" skY="0" scX="0.899994" scY="0.899994" pX="0.05" pY="0.15"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="55" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" duration="59">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="florid.add.5/bubble_c2">
+  <bone name="气泡">
+   <transform x="379.35" y="64.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="气泡特效">
+   <transform x="356.95" y="77.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="content">
+   <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="气泡" parent="气泡" z="0">
+    <display name="florid.add.5/未命名文件夹 2/未命名文件夹 1/元件 1" type="image">
+     <transform x="-325.3" y="-52.35" skX="0" skY="0" scX="1" scY="1" pX="3.15" pY="4"/>
+    </display>
+   </slot>
+   <slot name="气泡特效" parent="气泡特效" z="1">
+    <display name="florid.add.5/未命名文件夹 2/未命名文件夹 1/重复项目文件夹/gtry 副本" type="image">
+     <transform x="-301.8" y="-58.6" skX="0" skY="0" scX="1" scY="1" pX="15.75" pY="18.5"/>
+    </display>
+   </slot>
+   <slot name="content" parent="content" z="2">
+    <display name="florid.add.5/未命名文件夹 2/未命名文件夹 1/重复项目文件夹/gtry 副本 4" type="image">
+     <transform x="-301.8" y="-58.6" skX="0" skY="0" scX="1" scY="1" pX="-22.75" pY="14.8"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="C" fadeInTime="0" duration="74" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="气泡" scale="1" offset="0">
+    <frame z="0" duration="74">
+     <transform x="379.35" y="64.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="气泡特效" scale="1" offset="0">
+    <frame duration="7" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="356.95" y="77.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="5">
+     <transform x="356.95" y="77.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="55" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="13">
+     <transform x="356.95" y="77.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="13">
+     <transform x="356.95" y="77.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="13">
+     <transform x="356.95" y="77.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="17">
+     <transform x="356.95" y="77.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="content" scale="1" offset="0">
+    <frame z="2" duration="74">
+     <transform x="378.9" y="109.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="florid.add.5/bubble_d">
+  <bone name="奖励">
+   <transform x="-1.25" y="4" skX="0" skY="0" scX="0.937454" scY="0.937454"/>
+  </bone>
+  <skin name="default">
+   <slot name="奖励" parent="奖励" z="0">
+    <display name="florid.add.5/AASERT/重复项目文件夹/元件 5" type="image">
+     <transform x="-179.95" y="-63.25" skX="0" skY="0" scX="1" scY="1" pX="-104.65" pY="19.65"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="C" fadeInTime="0" duration="59" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="奖励" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="-1.25" y="4" skX="0" skY="0" scX="0.937454" scY="0.937454" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-14.75" y="-1.85" skX="0" skY="0" scX="0.485184" scY="0.485184" pX="26.8" pY="6.25"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-26.4" y="-1.95" skX="0" skY="0" scX="0.871155" scY="0.871155" pX="26.85" pY="6.4"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-17.65" y="-1.85" skX="0" skY="0" scX="0.571045" scY="0.571045" pX="26.8" pY="6.25"/>
+    </frame>
+    <frame z="0" duration="6">
+     <transform x="-23.45" y="-1.9" skX="0" skY="0" scX="0.684921" scY="0.684921" pX="26.8" pY="6.3"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-22" y="-1.9" skX="0" skY="0" scX="0.684921" scY="0.684921" pX="26.75" pY="6.3"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-23.45" y="-1.9" skX="0" skY="0" scX="0.753403" scY="0.753403" pX="26.8" pY="6.3"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-22" y="-1.9" skX="0" skY="0" scX="0.684921" scY="0.684921" pX="26.75" pY="6.3"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-23.45" y="-1.9" skX="0" skY="0" scX="0.753403" scY="0.753403" pX="26.8" pY="6.3"/>
+    </frame>
+    <frame z="0" duration="28">
+     <transform x="-22" y="-1.9" skX="0" skY="0" scX="0.684921" scY="0.684921" pX="26.75" pY="6.3"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="florid.add.5/ZP">
+  <bone name="图层 1">
+   <transform x="3.05" y="1.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="1.15" y="-0.35" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 4">
+   <transform x="3.25" y="2.35" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="florid.add.5/florid.add.5/bnn" type="image">
+     <transform x="-34" y="-34.75" skX="0" skY="0" scX="1" scY="1" pX="7.95" pY="7.05"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="1">
+    <display name="florid.add.5/未命名文件夹 2/YQ" type="image">
+     <transform x="-33.95" y="-33.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 4" parent="图层 4" z="2">
+    <display name="florid.add.5/未命名文件夹 2/zpB" type="armature">
+     <transform x="-42.15" y="-42.55" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="3.05" y="1.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="1.15" y="-0.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="B" fadeInTime="0" duration="32" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 4" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="10">
+     <transform x="3.25" y="2.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="11">
+     <transform x="3.25" y="-4.05" skX="0" skY="0" scX="1" scY="1.037598" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="10">
+     <transform x="3.25" y="5.55" skX="0" skY="0" scX="1.014221" scY="0.92009" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="3.25" y="2.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="florid.add.5/未命名文件夹 2/zpB">
+  <bone name="图层 1">
+   <transform x="41.95" y="41.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 10">
+   <transform x="40.1" y="39.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="nvnaa">
+   <transform x="66.45" y="25.6" skX="-6.44" skY="0" scX="1" scY="1.006363"/>
+  </bone>
+  <bone name="nvnaa_0">
+   <transform x="51.1" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363"/>
+  </bone>
+  <bone name="nvnaa_1">
+   <transform x="28.95" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363"/>
+  </bone>
+  <bone name="nvnaa_2">
+   <transform x="12.35" y="28.1" skX="-6.44" skY="0" scX="1" scY="1.006363"/>
+  </bone>
+  <bone name="nvnaa_3">
+   <transform x="12.3" y="53.15" skX="-6.44" skY="0" scX="1" scY="1.006363"/>
+  </bone>
+  <bone name="nvnaa_4">
+   <transform x="24.7" y="67.4" skX="-6.44" skY="0" scX="1" scY="1.006363"/>
+  </bone>
+  <bone name="nvnaa_5">
+   <transform x="52.9" y="68" skX="-6.44" skY="0" scX="1" scY="1.006363"/>
+  </bone>
+  <bone name="nvnaa_6">
+   <transform x="68.2" y="49.35" skX="-6.44" skY="0" scX="1" scY="1.006363"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="florid.add.5/florid.add.5/bnn" type="image">
+     <transform x="-34" y="-34.75" skX="0" skY="0" scX="1" scY="1" pX="7.95" pY="7.05"/>
+    </display>
+   </slot>
+   <slot name="图层 10" parent="图层 10" z="1">
+    <display name="florid.add.5/未命名文件夹 2/YQ" type="image">
+     <transform x="-33.95" y="-33.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="nvnaa" parent="nvnaa" z="2">
+    <display name="florid.add.5/未命名文件夹 2/nvnaa" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="1.65" pY="0.7"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_0" parent="nvnaa_0" z="3">
+    <display name="florid.add.5/未命名文件夹 2/nvnaa" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="1.65" pY="0.7"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_1" parent="nvnaa_1" z="4">
+    <display name="florid.add.5/未命名文件夹 2/nvnaa" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="1.65" pY="0.7"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_2" parent="nvnaa_2" z="5">
+    <display name="florid.add.5/未命名文件夹 2/nvnaa" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="1.65" pY="0.7"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_3" parent="nvnaa_3" z="6">
+    <display name="florid.add.5/未命名文件夹 2/nvnaa" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="1.65" pY="0.7"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_4" parent="nvnaa_4" z="7">
+    <display name="florid.add.5/未命名文件夹 2/nvnaa" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="1.65" pY="0.7"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_5" parent="nvnaa_5" z="8">
+    <display name="florid.add.5/未命名文件夹 2/nvnaa" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="1.65" pY="0.7"/>
+    </display>
+   </slot>
+   <slot name="nvnaa_6" parent="nvnaa_6" z="9">
+    <display name="florid.add.5/未命名文件夹 2/nvnaa" type="image">
+     <transform x="-6.05" y="-6.2" skX="0" skY="0" scX="1" scY="1" pX="1.65" pY="0.7"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="ui" fadeInTime="0" duration="32" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" duration="32">
+     <transform x="41.95" y="41.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 10" scale="1" offset="0">
+    <frame z="1" duration="32">
+     <transform x="40.1" y="39.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa" scale="1" offset="0">
+    <frame duration="14" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="66.45" y="25.6" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" duration="11">
+     <transform x="66.45" y="25.6" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="66.45" y="25.6" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="66.45" y="25.6" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_0" scale="1" offset="0">
+    <frame duration="11" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="51.1" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" duration="11">
+     <transform x="51.1" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="51.1" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="51.1" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_1" scale="1" offset="0">
+    <frame duration="8" displayIndex="-1"/>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="28.95" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="4" duration="11">
+     <transform x="28.95" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="28.95" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="7">
+     <transform x="28.95" y="11.45" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_2" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="12.35" y="28.1" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="5" duration="11">
+     <transform x="12.35" y="28.1" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="3">
+     <transform x="12.35" y="28.1" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="10">
+     <transform x="12.35" y="28.1" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_3" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="12.3" y="53.15" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="6" duration="12">
+     <transform x="12.3" y="53.15" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="12.3" y="53.15" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="13">
+     <transform x="12.3" y="53.15" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_4" scale="1" offset="0">
+    <frame z="7" duration="13">
+     <transform x="24.7" y="67.4" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="3">
+     <transform x="24.7" y="67.4" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="11">
+     <transform x="24.7" y="67.4" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="3">
+     <transform x="24.7" y="67.4" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="8" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="24.7" y="67.4" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_5" scale="1" offset="0">
+    <frame z="8" duration="10">
+     <transform x="52.9" y="68" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="52.9" y="68" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="11">
+     <transform x="52.9" y="68" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="3">
+     <transform x="52.9" y="68" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="8" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="8" duration="5">
+     <transform x="52.9" y="68" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="nvnaa_6" scale="1" offset="0">
+    <frame z="9" duration="7">
+     <transform x="68.2" y="49.35" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="68.2" y="49.35" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="11">
+     <transform x="68.2" y="49.35" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="16" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="3">
+     <transform x="68.2" y="49.35" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="8" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="9" duration="8">
+     <transform x="68.2" y="49.35" skX="-6.44" skY="0" scX="1" scY="1.006363" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

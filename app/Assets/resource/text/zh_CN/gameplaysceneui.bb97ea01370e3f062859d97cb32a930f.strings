@@ -1,0 +1,6 @@
+"level.number.label.txt" = "第{level_number}关";
+"move.or.time.counter.next.stage" = "{num}阶段";
+"move.or.time.counter.step.txt" = "剩余步数";
+"move.or.time.counter.time.txt" = "剩余时间";
+"move.or.time.counter.tip.endless.stage" = "无尽";
+"request.message.panel.zero.unlock.tip" = "你目前没有能帮忙解锁的好友哦~";

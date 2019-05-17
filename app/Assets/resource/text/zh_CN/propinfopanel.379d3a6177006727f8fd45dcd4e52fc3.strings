@@ -1,0 +1,15 @@
+"prop.info.panel.anim.play" = "查看演示";
+"prop.info.panel.close.txt" = "关闭";
+"prop.info.panel.common" = "普通道具";
+"prop.info.panel.common.desc" = "永久有效";
+"prop.info.panel.gift" = "礼盒,前置道具";
+"prop.info.panel.gift.desc" = "当局有效";
+"prop.info.panel.limit" = "限时道具";
+"prop.info.panel.limit.desc" = "领取后24小时内有效";
+"prop.info.panel.list1" = "以下道具只能在关卡开始前购买，并只能在本次闯关时使用。";
+"prop.info.panel.list2" = "金色气泡中的道具只能在当前关卡使用。";
+"prop.info.panel.list3" = "有绿色标记的泡泡为普通道具，永久有效。";
+"prop.info.panel.list4" = "有黄色标记的泡泡为临时道具，当局有效。";
+"prop.info.panel.prop.full" = "普通";
+"prop.info.panel.prop.temp" = "临时";
+"prop.info.panel.title" = "道具说明";

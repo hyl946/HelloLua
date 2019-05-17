@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e8a7ecf1e972d66b841c416d9787905f:08e39f85c151ee4792384a1669591510:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="lady_skeleton" x="159" y="2" width="48" height="58" frameX="-1" frameY="0" frameWidth="54" frameHeight="66"/>
+    <SubTexture name="paizi_skete" x="2" y="2" width="155" height="227" frameX="0" frameY="0" frameWidth="157" frameHeight="229"/>
+</TextureAtlas>

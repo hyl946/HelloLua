@@ -1,0 +1,8 @@
+info face="DFHaiBaoW12" size=28 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=28 base=24 scaleW=64 scaleH=64 pages=1 packed=0
+page id=0 file="shengdanguan.png"
+chars count=4
+char id=32     x=32    y=32    width=0     height=0     xoffset=0     yoffset=24    xadvance=14    page=0 chnl=0 letter="space"
+char id=20851  x=30    y=2     width=26    height=28    xoffset=2     yoffset=-2    xadvance=28    page=0 chnl=0 letter="关"
+char id=22307  x=2     y=2     width=26    height=28    xoffset=3     yoffset=-1    xadvance=28    page=0 chnl=0 letter="圣"
+char id=35806  x=2     y=32    width=28    height=27    xoffset=2     yoffset=-1    xadvance=28    page=0 chnl=0 letter="诞"

@@ -1,0 +1,40 @@
+<dragonBones name="showAction_tips" frameRate="30" version="2.3">
+ <armature name="PreBuffLogic_up/upeff3">
+  <bone name="图层 5">
+   <transform x="122.6" y="-45.35" skX="0" skY="0" scX="0.049988" scY="0.069931"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 5" parent="图层 5" z="0">
+    <display name="PreBuffLogic_up/元件 74 副本" type="image">
+     <transform x="-57" y="-158" skX="0" skY="0" scX="1" scY="1" pX="24.75" pY="-29.2"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="rtip2" fadeInTime="0" duration="85" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 5" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="122.6" y="-45.35" skX="0" skY="0" scX="0.049988" scY="0.069931" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="122.6" y="-45.35" skX="0" skY="0" scX="1.096176" scY="1" pX="1.25" pY="-0.15"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="122.6" y="-45.35" skX="0" skY="0" scX="1.060104" scY="1.06958" pX="1.3" pY="-0.15"/>
+    </frame>
+    <frame z="0" duration="61">
+     <transform x="122.6" y="-45.35" skX="0" skY="0" scX="1" scY="1" pX="1.25" pY="-0.15"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="122.6" y="-45.35" skX="0" skY="0" scX="1" scY="1" pX="1.25" pY="-0.15"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="122.55" y="-45.3" skX="0" skY="0" scX="0.97522" scY="1.139374" pX="1.35" pY="-0.15"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="50.6" y="-70.3" skX="0" skY="0" scX="0.285721" scY="0.009949" pX="73.099" pY="22.35"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

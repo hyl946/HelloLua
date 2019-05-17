@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b433aa72568098b58b8cd9cd33f46911:c5b6d0cba2c9a57e583d04d5a6bcf4a5:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="incite/vbnv" x="351" y="2" width="312" height="312"/>
+    <SubTexture name="incite/xingguang" x="322" y="521" width="71" height="69"/>
+    <SubTexture name="incite/xingxing" x="351" y="316" width="17" height="15"/>
+    <SubTexture name="incite/重复项目文件夹/元件 16" x="322" y="349" width="153" height="170" frameX="-14" frameY="0" frameWidth="167" frameHeight="180"/>
+    <SubTexture name="incite/重复项目文件夹/元件 8 副本 6" x="2" y="349" width="318" height="318" frameX="-16" frameY="-16" frameWidth="350" frameHeight="350"/>
+    <SubTexture name="incite/重复项目文件夹/渐变黄" x="2" y="2" width="347" height="345" frameX="0" frameY="-2" frameWidth="347" frameHeight="347"/>
+</TextureAtlas>

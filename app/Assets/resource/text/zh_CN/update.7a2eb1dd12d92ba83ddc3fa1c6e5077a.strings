@@ -1,0 +1,12 @@
+"wifi.update.feature.btn" = "知道了";
+"wifi.update.feature.desc" = "再也不怕错过游戏新版本啦~";
+"wifi.update.feature.desc1" = "❤游戏新版本自动更新仅会在WiFi 环境下触发，切换网络会中断自动 更新。";
+"wifi.update.feature.desc2" = "❤功能已开启，可在";
+"wifi.update.feature.desc3" = "中关闭。";
+"wifi.update.feature.title" = "开启WiFi自动更新";
+"wifi.update.success.panel.btn" = "退出并安装";
+"wifi.update.success.panel.btn.cancel" = "取消";
+"wifi.update.success.panel.desc" = "新版本已下载完成，可以安装领奖励啦~";
+"wifi.update.success.panel.desc1" = "退出游戏后，就要开始安装新版本啦~";
+"wifi.update.success.panel.desc2" = "已完成下载，现在安装不消耗流量~";
+"wifi.update.success.panel.title" = "版本下载成功！";

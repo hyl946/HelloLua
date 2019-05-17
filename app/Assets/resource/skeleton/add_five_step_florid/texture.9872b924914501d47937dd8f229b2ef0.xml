@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:70c02043b8be20736612fa90fb552142:71c668adc9325012eeb0327330b9db2f:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="florid.add.5/AASERT/重复项目文件夹/gtry 副本 2" x="2" y="534" width="648" height="120" frameX="0" frameY="0" frameWidth="652" frameHeight="120"/>
+    <SubTexture name="florid.add.5/AASERT/重复项目文件夹/gtry 副本 3" x="2" y="127" width="671" height="143" frameX="-9" frameY="-4" frameWidth="685" frameHeight="153"/>
+    <SubTexture name="florid.add.5/AASERT/重复项目文件夹/元件 5" x="696" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="159" frameHeight="162"/>
+    <SubTexture name="florid.add.5/florid.add.5/AASERT/重复项目文件夹/gtry 副本 2" x="2" y="272" width="661" height="133" frameX="0" frameY="0" frameWidth="663" frameHeight="137"/>
+    <SubTexture name="florid.add.5/florid.add.5/bnn" x="652" y="534" width="73" height="74" frameX="-5" frameY="-5" frameWidth="85" frameHeight="86"/>
+    <SubTexture name="florid.add.5/florid.add.5/label" x="696" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="574" frameHeight="54"/>
+    <SubTexture name="florid.add.5/label" x="696" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="574" frameHeight="54"/>
+    <SubTexture name="florid.add.5/未命名文件夹 2/YQ" x="659" y="407" width="64" height="66" frameX="-2" frameY="0" frameWidth="68" frameHeight="68"/>
+    <SubTexture name="florid.add.5/未命名文件夹 2/nvnaa" x="678" y="2" width="16" height="15"/>
+    <SubTexture name="florid.add.5/未命名文件夹 2/未命名文件夹 1/元件 1" x="2" y="407" width="655" height="125" frameX="0" frameY="0" frameWidth="657" frameHeight="129"/>
+    <SubTexture name="florid.add.5/未命名文件夹 2/未命名文件夹 1/重复项目文件夹/gtry 副本 4" x="696" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="574" frameHeight="54"/>
+    <SubTexture name="florid.add.5/未命名文件夹 2/未命名文件夹 1/重复项目文件夹/gtry 副本" x="2" y="2" width="674" height="123" frameX="-1" frameY="-1" frameWidth="680" frameHeight="129"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<TextureAtlas name="pig_year_start_top" imagePath="texture.png">
+ <SubTexture name="_res.pigYearStartTop/元件 9" x="0" y="0" width="372" height="158"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/元件 92" x="0" y="279" width="96" height="79"/>
+ <SubTexture name="pigYearStartTop/res/元件 93" x="374" y="0" width="132" height="135"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/ggg 副本 2" x="185" y="274" width="89" height="117"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/hh 副本" x="374" y="136" width="118" height="121"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/元件 25 副本 2" x="353" y="258" width="96" height="115"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/元件 21 副本" x="185" y="160" width="167" height="113"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/元件 26 副本" x="0" y="160" width="183" height="117"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/元件 21 副本 5" x="275" y="346" width="73" height="25"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/元件 27 副本" x="275" y="274" width="75" height="71"/>
+ <SubTexture name="pigYearStartTop/res/元件 90" x="450" y="258" width="61" height="59"/>
+ <SubTexture name="pigYearStartTop/res/元件 89" x="137" y="347" width="47" height="46"/>
+ <SubTexture name="_res.pigYearStartTop/重复项目文件夹/元件 23 副本" x="97" y="347" width="39" height="59"/>
+ <SubTexture name="pigYearStartTop/res/元件 87" x="450" y="318" width="57" height="52"/>
+ <SubTexture name="pigYearStartTop/res/元件 85" x="97" y="279" width="85" height="66"/>
+</TextureAtlas>

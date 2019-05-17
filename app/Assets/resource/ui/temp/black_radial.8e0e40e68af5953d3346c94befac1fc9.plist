@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>blackRadial/black_part0000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{822,318}}</string>
+                <key>offset</key>
+                <string>{0,8}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{822,318}}</string>
+                <key>sourceSize</key>
+                <string>{822,334}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>black_radial.png</string>
+            <key>size</key>
+            <string>{826,826}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:6eb8c1e217d70de00ea42cbd164840ed:698c521dd72bf2d9998676c0db0f874b:ed5ed4e99d113b625de8c56d8a712a82$</string>
+            <key>textureFileName</key>
+            <string>black_radial.png</string>
+        </dict>
+    </dict>
+</plist>

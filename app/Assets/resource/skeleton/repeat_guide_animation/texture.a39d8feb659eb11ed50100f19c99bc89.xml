@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:faaef5a528268c40efc131bb11829a9b:417e2992a085403b7521ad136d368fe6:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="bbb" x="2" y="2" width="107" height="74"/>
+    <SubTexture name="zi" x="2" y="160" width="89" height="30" frameX="-2" frameY="-1" frameWidth="97" frameHeight="38"/>
+    <SubTexture name="元件 104" x="108" y="139" width="82" height="30"/>
+    <SubTexture name="元件 97" x="108" y="78" width="83" height="59" frameX="0" frameY="0" frameWidth="85" frameHeight="63"/>
+    <SubTexture name="元件 98" x="2" y="78" width="104" height="80" frameX="0" frameY="0" frameWidth="104" frameHeight="84"/>
+    <SubTexture name="元件 99" x="111" y="2" width="68" height="46" frameX="-1" frameY="0" frameWidth="72" frameHeight="50"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+<TextureAtlas name="timely_hammer_guide" imagePath="texture.png">
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/重复项目文件夹/o" x="459" y="0" width="141" height="141"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/重复项目文件夹/元件 4" x="790" y="0" width="188" height="47"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_1" x="115" y="388" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_2" x="905" y="121" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_3" x="115" y="273" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_4" x="460" y="282" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_5" x="345" y="258" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_6" x="891" y="351" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_7" x="316" y="143" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_8" x="717" y="164" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_9" x="602" y="52" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_10" x="790" y="49" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_11" x="0" y="503" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_12" x="690" y="466" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_13" x="431" y="143" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble/图层 4_14" x="460" y="397" width="114" height="114"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/重复项目文件夹/元件 33" x="979" y="0" width="39" height="38"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/重复项目文件夹/元件 8" x="115" y="503" width="110" height="110"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/重复项目文件夹/元件 6" x="230" y="158" width="80" height="80"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/重复项目文件夹/元sdf件 1" x="717" y="52" width="15" height="12"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/target/d_0" x="905" y="49" width="70" height="70"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/重复项目文件夹/元件 12" x="0" y="0" width="156" height="156"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/o" x="316" y="0" width="141" height="141"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/元件 4" x="602" y="0" width="186" height="51"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_0" x="230" y="258" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_1" x="661" y="279" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_2" x="0" y="388" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_3" x="575" y="394" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_4" x="805" y="466" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_5" x="345" y="373" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_6" x="776" y="351" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_7" x="0" y="273" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_8" x="345" y="488" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_9" x="832" y="236" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_10" x="0" y="158" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_11" x="230" y="373" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_12" x="115" y="158" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_13" x="230" y="488" width="114" height="114"/>
+ <SubTexture name="__dbTextures/timely_hammer_guide/bubble2/图层 4_14" x="546" y="167" width="114" height="114"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/元件 33" x="979" y="40" width="39" height="38"/>
+ <SubTexture name="timely_hammer_guide/重复项目文件夹/元件 12" x="158" y="0" width="156" height="156"/>
+</TextureAtlas>

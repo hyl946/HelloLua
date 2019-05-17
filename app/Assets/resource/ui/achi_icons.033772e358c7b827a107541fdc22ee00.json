@@ -1,0 +1,693 @@
+{
+	"image": "achi_icons.png",
+	"config": "achi_icons.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"achievement/achi_icon_10": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_10",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_50": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_50",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_90": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_90",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_140": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_140",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_150": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_150",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_160": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_160",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_170": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_170",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_180": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_180",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_200": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_200",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_240": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_240",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_300": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_300",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_310": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_310",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_320": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_320",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_330": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_330",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_340": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_340",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_350": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_350",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_360": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_360",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_370": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_370",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_380": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_380",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_390": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_390",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_400": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_400",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_410": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_410",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_420": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_420",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_430": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_430",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_440": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_440",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_450": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_450",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_460": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_460",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_470": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_470",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_480": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_480",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_490": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_490",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_500": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_500",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_510": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_510",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_icon_520": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 140,
+				"height": 140,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "icon",
+				"image": "achievement/icon/icon_520",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_grade_2": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 67,
+				"height": 80,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "图层 1",
+				"image": "achievement/achi_grade_2_mc",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_grade_3": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 67,
+				"height": 82,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "图层 1",
+				"image": "achievement/achi_grade_3_mc",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_grade_4": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 89,
+				"height": 83,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "图层 1",
+				"image": "achievement/achi_grade_4_mc",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_grade_5": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 98,
+				"height": 100,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "图层 1",
+				"image": "achievement/achi_grade_5_mc",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"achievement/achi_grade_6": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 104,
+				"height": 99,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "图层 1",
+				"image": "achievement/achi_grade_6_mc",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

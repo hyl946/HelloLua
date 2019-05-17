@@ -1,0 +1,62 @@
+<dragonBones name="ladybug_four_star_guide_animation" frameRate="24" version="2.3">
+ <armature name="rgtr">
+  <bone name="paizi_ske">
+   <transform x="0.3" y="-224.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="ladybug_ske">
+   <transform x="-3.4" y="-38.55" skX="-175.1" skY="-175.1" scX="1.28" scY="1.28"/>
+  </bone>
+  <skin name="default">
+   <slot name="paizi_ske" parent="paizi_ske" z="0">
+    <display name="paizi_skete" type="image">
+     <transform x="-73.8" y="-2.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="ladybug_ske" parent="ladybug_ske" z="1">
+    <display name="lady_skeleton" type="image">
+     <transform x="-21.4" y="-26.35" skX="0" skY="0" scX="1" scY="1" pX="4.95" pY="2.35"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="mp" fadeInTime="0.3" duration="26" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="paizi_ske" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="0.3" y="-224.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="0.3" y="0.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="0.3" y="0.25" skX="0" skY="0" scX="0.94" scY="1.14" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="0.3" y="0.25" skX="0" skY="0" scX="1.11" scY="0.77" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="0.3" y="0.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="0.3" y="0.3" skX="0" skY="0" scX="1.05" scY="1.06" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="0" duration="8">
+     <transform x="0.3" y="0.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="ladybug_ske" scale="1" offset="0">
+    <frame duration="7" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="8">
+     <transform x="-3.4" y="-38.55" skX="-175.1" skY="-175.1" scX="1.28" scY="1.28" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="-3.4" y="115.45" skX="-179.16" skY="-179.16" scX="1.28" scY="1.28" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="-3.35" y="99.7" skX="-126.66" skY="-126.66" scX="1.28" scY="1.28" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="1" duration="7">
+     <transform x="-3.35" y="99.7" skX="-105.45" skY="-105.45" scX="1.28" scY="1.28" pX="0" pY="0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

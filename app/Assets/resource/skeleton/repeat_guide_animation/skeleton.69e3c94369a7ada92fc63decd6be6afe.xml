@@ -1,0 +1,157 @@
+<dragonBones name="repeat_guide_animation" frameRate="24" version="2.3">
+ <armature name="repeat_guide_button">
+  <bone name="元件 104">
+   <transform x="157.85" y="46.2" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="元件 99">
+   <transform x="34.45" y="19.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="元件 97">
+   <transform x="89.1" y="17.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="元件 98">
+   <transform x="59.7" y="6.65" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="bbb">
+   <transform x="52" y="41.2" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 7">
+   <transform x="71.65" y="18.45" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="元件 104" parent="元件 104" z="0">
+    <display name="元件 104" type="image">
+     <transform x="-78.8" y="-42.3" skX="0" skY="0" scX="1" scY="1" pX="-1.6" pY="-18.6"/>
+    </display>
+   </slot>
+   <slot name="元件 99" parent="元件 99" z="1">
+    <display name="元件 99" type="image">
+     <transform x="-54.3" y="-13.35" skX="0" skY="0" scX="1" scY="1" pX="4" pY="4"/>
+    </display>
+   </slot>
+   <slot name="元件 97" parent="元件 97" z="2">
+    <display name="元件 97" type="image">
+     <transform x="-34.95" y="-18.3" skX="0" skY="0" scX="1" scY="1" pX="-2.45" pY="-13.35"/>
+    </display>
+   </slot>
+   <slot name="元件 98" parent="元件 98" z="3">
+    <display name="元件 98" type="image">
+     <transform x="-57" y="-10.35" skX="0" skY="0" scX="1" scY="1" pX="-2.45" pY="2.3"/>
+    </display>
+   </slot>
+   <slot name="bbb" parent="bbb" z="4">
+    <display name="bbb" type="image">
+     <transform x="-50.65" y="-51.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 7" parent="图层 7" z="5">
+    <display name="zi" type="image">
+     <transform x="-61.15" y="-14.7" skX="0" skY="0" scX="1" scY="1" pX="5.6" pY="-1.85"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="普通状态" fadeInTime="0" duration="29" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="元件 104" scale="1" offset="0">
+    <frame z="0" duration="29">
+     <transform x="157.85" y="46.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 99" scale="1" offset="0">
+    <frame z="1" duration="29">
+     <transform x="34.45" y="19.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 97" scale="1" offset="0">
+    <frame z="2" duration="29">
+     <transform x="89.1" y="17.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 98" scale="1" offset="0">
+    <frame z="3" duration="29">
+     <transform x="59.7" y="6.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="bbb" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="14">
+     <transform x="52" y="41.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="15">
+     <transform x="52" y="41.2" skX="0" skY="0" scX="0.99" scY="1.05" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 7" scale="1" offset="0">
+    <frame z="5" duration="29">
+     <transform x="71.65" y="18.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="收回" fadeInTime="0.3" duration="23" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="元件 104" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="157.85" y="46.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="16">
+     <transform x="157.85" y="46.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="3">
+     <transform x="283.85" y="44.95" skX="20.98" skY="20.98" scX="0.66" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 99" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="34.45" y="19.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="16">
+     <transform x="34.45" y="19.8" skX="-18.73" skY="-18.73" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="1" duration="3">
+     <transform x="216.75" y="-9.15" skX="46.45" skY="46.45" scX="0.66" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 97" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="89.1" y="17.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="16">
+     <transform x="89.15" y="17.55" skX="7.72" skY="7.72" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="2" duration="3">
+     <transform x="251.4" y="1.8" skX="-7.51" skY="-7.51" scX="0.66" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 98" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="59.7" y="6.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="16">
+     <transform x="59.7" y="6.65" skX="-11.18" skY="-11.18" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="3" duration="3">
+     <transform x="233.4" y="-16" skX="36.47" skY="36.47" scX="0.66" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="bbb" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="4">
+     <transform x="52" y="41.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="16">
+     <transform x="54.45" y="38.25" skX="0" skY="0" scX="1.04" scY="0.73" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="4" duration="3">
+     <transform x="217.1" y="14.5" skX="20.98" skY="20.98" scX="0.66" scY="1" pX="0" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 7" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="71.65" y="18.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="16">
+     <transform x="73.3" y="19.8" skX="0" skY="0" scX="0.96" scY="0.92" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="5" duration="3">
+     <transform x="237.4" y="-1.95" skX="20.98" skY="20.98" scX="0.66" scY="1" pX="0" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

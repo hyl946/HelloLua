@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:24b54a847c6c61f9fea6e43cf8a7cec6:8b7182feacaacc0eaeee5a96f7745c87:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="xf_share/assert/aaa1" x="227" y="546" width="121" height="189"/>
+    <SubTexture name="xf_share/assert/aaa2" x="350" y="546" width="79" height="132"/>
+    <SubTexture name="xf_share/assert/bear" x="541" y="425" width="213" height="267" frameX="-12" frameY="-10" frameWidth="233" frameHeight="283"/>
+    <SubTexture name="xf_share/assert/chick" x="510" y="2" width="241" height="244" frameX="-18" frameY="-4" frameWidth="263" frameHeight="262"/>
+    <SubTexture name="xf_share/assert/credit" x="529" y="546" width="1" height="1" frameX="0" frameY="0" frameWidth="243" frameHeight="242"/>
+    <SubTexture name="xf_share/assert/materials" x="2" y="2" width="506" height="293"/>
+    <SubTexture name="xf_share/assert/元件 9" x="510" y="248" width="42" height="42"/>
+    <SubTexture name="xf_share/assert/元件 91" x="640" y="248" width="40" height="40"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/1 副本 8" x="567" y="319" width="43" height="49" frameX="-5" frameY="-2" frameWidth="53" frameHeight="53"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/hongdai 副本 2" x="2" y="425" width="537" height="119"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/sefrth" x="350" y="680" width="117" height="63" frameX="-4" frameY="0" frameWidth="121" frameHeight="63"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/sgtrhy" x="2" y="297" width="563" height="126" frameX="0" frameY="-1" frameWidth="567" frameHeight="130"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/txt" x="529" y="546" width="1" height="1" frameX="0" frameY="0" frameWidth="309" frameHeight="58"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/vbnv" x="2" y="546" width="223" height="223" frameX="-1" frameY="-1" frameWidth="229" frameHeight="229"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/元件 8 副本" x="567" y="248" width="71" height="69"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/加星闪光 副本" x="227" y="737" width="25" height="25" frameX="-1" frameY="-1" frameWidth="27" frameHeight="27"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/星星旋转动画 副本" x="753" y="2" width="14" height="23" frameX="0" frameY="-1" frameWidth="14" frameHeight="27"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/渐变黄 副本 2" x="431" y="546" width="96" height="96"/>
+    <SubTexture name="xf_share/assert/重复项目文件夹/渐变黄 副本" x="431" y="546" width="96" height="96"/>
+</TextureAtlas>

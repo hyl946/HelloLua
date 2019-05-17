@@ -1,0 +1,17 @@
+<TextureAtlas name="advise_open_notification" imagePath="texture.png">
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 26" x="953" y="167" width="59" height="56"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 22" x="953" y="225" width="55" height="50"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 27" x="645" y="0" width="307" height="274"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 25" x="831" y="359" width="181" height="90"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 24" x="0" y="360" width="216" height="108"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 23" x="953" y="0" width="50" height="98"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 21" x="953" y="99" width="66" height="67"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 20" x="217" y="360" width="124" height="134"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 19" x="342" y="360" width="126" height="120"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 16" x="645" y="275" width="185" height="163"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 13" x="0" y="0" width="644" height="359"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 31" x="905" y="275" width="26" height="73"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 29" x="932" y="276" width="64" height="30"/>
+ <SubTexture name="AdviseOpenNotification/res/Avatar/元件 28" x="831" y="275" width="73" height="83"/>
+ <SubTexture name="__dbTextures/AdviseOpenNotification/interface/Avatar/图层 13_18" x="932" y="308" width="32" height="32"/>
+</TextureAtlas>

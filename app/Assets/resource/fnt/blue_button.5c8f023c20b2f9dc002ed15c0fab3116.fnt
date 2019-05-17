@@ -1,0 +1,13 @@
+info face="DroidSansFallback" size=45 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=59 base=47 scaleW=256 scaleH=128 pages=1 packed=0
+page id=0 file="blue_button.png"
+chars count=8
+char id=32     x=168   y=58    width=0     height=0     xoffset=0     yoffset=47    xadvance=16    page=0 chnl=0 letter="space"
+char id=21161  x=2     y=58    width=53    height=54    xoffset=2     yoffset=-3    xadvance=49    page=0 chnl=0 letter="助"
+char id=21451  x=114   y=2     width=54    height=54    xoffset=2     yoffset=-3    xadvance=49    page=0 chnl=0 letter="友"
+char id=22909  x=58    y=2     width=54    height=54    xoffset=2     yoffset=-3    xadvance=49    page=0 chnl=0 letter="好"
+char id=26032  x=170   y=2     width=54    height=54    xoffset=2     yoffset=-3    xadvance=49    page=0 chnl=0 letter="新"
+char id=27714  x=2     y=2     width=54    height=54    xoffset=2     yoffset=-3    xadvance=49    page=0 chnl=0 letter="求"
+char id=29609  x=57    y=58    width=54    height=52    xoffset=2     yoffset=-1    xadvance=49    page=0 chnl=0 letter="玩"
+char id=37325  x=113   y=58    width=53    height=52    xoffset=2     yoffset=-2    xadvance=49    page=0 chnl=0 letter="重"
+kernings count=0

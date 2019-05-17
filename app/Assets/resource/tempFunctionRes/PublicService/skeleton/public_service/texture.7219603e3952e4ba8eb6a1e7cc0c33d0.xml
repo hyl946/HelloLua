@@ -1,0 +1,8 @@
+<TextureAtlas name="public_service" imagePath="texture.png">
+ <SubTexture name="public_service/body" x="189" y="0" width="61" height="60"/>
+ <SubTexture name="public_service/head" x="0" y="0" width="188" height="158"/>
+ <SubTexture name="public_service/head 副本" x="0" y="159" width="101" height="36"/>
+ <SubTexture name="public_service/closeeyes" x="102" y="159" width="100" height="18"/>
+ <SubTexture name="public_service/arm-1" x="231" y="61" width="24" height="37"/>
+ <SubTexture name="public_service/hand-1" x="189" y="61" width="41" height="36"/>
+</TextureAtlas>

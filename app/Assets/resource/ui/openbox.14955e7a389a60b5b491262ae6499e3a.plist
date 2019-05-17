@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>openbox_halo0000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{185,186}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{10,9},{185,186}}</string>
+                <key>sourceSize</key>
+                <string>{205,204}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>openbox.png</string>
+            <key>size</key>
+            <string>{190,190}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:fa2e8fef9e4b397de4fabc973fe5518d:a7fb429ac3903fc5a9b2bbfbb97e973e:d6daaf3d224317df3832f19d2a2c47c3$</string>
+            <key>textureFileName</key>
+            <string>openbox.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,9 @@
+"crash.resume.NationalDay2018.not.ready" = "活动正在加载中，请稍候重试~";
+"crash.resume.btn.not.success" = "知道了";
+"crash.resume.btn.start" = "确认恢复";
+"crash.resume.failed" = "/(ㄒoㄒ)/~~数据出错了，进度无法恢复！";
+"crash.resume.has.no.login" = "需先登录才能恢复哦~";
+"crash.resume.has.no.net" = "该功能需要联网哦，请联网重试~";
+"crash.resume.tip.inprogress" = "进度恢复中{curr}/{total}";
+"crash.resume.tip.not.success" = "/(ㄒoㄒ)/~~进度恢复失败了！";
+"crash.resume.tip.start" = "检测到你上次在{level}意外退出关卡，是否恢复进度继续？";

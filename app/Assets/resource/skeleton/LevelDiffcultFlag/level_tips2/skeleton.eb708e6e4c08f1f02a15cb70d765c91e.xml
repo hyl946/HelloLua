@@ -1,0 +1,33 @@
+<dragonBones name="LevelDiffcultFlag_Tips_2" frameRate="24" version="2.3">
+ <armature name="level_tips">
+  <bone name="图层 16">
+   <transform x="-0.25" y="28.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 16" parent="图层 16" z="0">
+    <display name="tipanime" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="185.25" pY="23.15"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="ui" fadeInTime="0" duration="87" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 16" scale="1" offset="0">
+    <frame z="0" tweenEasing="1" duration="16">
+     <transform x="-0.25" y="28.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" duration="18">
+     <transform x="-0.25" y="8.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="-1" duration="10">
+     <transform x="-0.25" y="8.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="-0.25" y="-18.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="42" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

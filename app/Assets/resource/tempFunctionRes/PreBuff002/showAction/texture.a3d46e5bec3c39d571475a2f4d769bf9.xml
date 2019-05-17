@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4a251742829e3cd84fb6b4b355b84ff1:d82f8138ec888fdc4ddc186763c3dc78:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="PreBuffLogic_up/____resouces/he_bubble_15551417401319633" x="151" y="2" width="6" height="7"/>
+    <SubTexture name="PreBuffLogic_up/__resources/he_bubble_1179531433397685334" x="2" y="2" width="108" height="108"/>
+    <SubTexture name="PreBuffLogic_up/元件 13" x="79" y="112" width="70" height="56" frameX="0" frameY="-4" frameWidth="70" frameHeight="66"/>
+    <SubTexture name="PreBuffLogic_up/元件 14" x="2" y="112" width="75" height="57" frameX="0" frameY="-4" frameWidth="75" frameHeight="61"/>
+</TextureAtlas>

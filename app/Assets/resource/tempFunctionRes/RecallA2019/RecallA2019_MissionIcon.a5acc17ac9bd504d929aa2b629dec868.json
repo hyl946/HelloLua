@@ -1,0 +1,27 @@
+{
+	"image": "RecallA2019_MissionIcon.png",
+	"config": "RecallA2019_MissionIcon.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"RecallA2019_MissionIcon/nouse": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 129,
+				"height": 126,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "closeicon",
+				"image": "RecallA2019_MissionIcon/closeIcon",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

@@ -1,0 +1,77 @@
+<dragonBones name="buff_count_down_intro" frameRate="24" version="2.3">
+ <armature name="buff_count_down_intro/buff_count_down_intro">
+  <bone name="bg">
+   <transform x="-3" y="-3" skX="0" skY="0" scX="0.16" scY="0.41"/>
+  </bone>
+  <bone name="text">
+   <transform x="-21.7" y="-4" skX="0" skY="0" scX="0.15" scY="0.4"/>
+  </bone>
+  <skin name="default">
+   <slot name="bg" parent="bg" z="0">
+    <display name="buff_count_down_intro/元件 12" type="image">
+     <transform x="-237.8" y="-45.4" skX="0" skY="0" scX="1" scY="1" pX="-9.95" pY="4"/>
+    </display>
+   </slot>
+   <slot name="text" parent="text" z="1">
+    <display name="buff_count_down_intro/text" type="image">
+     <transform x="-98.35" y="-23.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="p" fadeInTime="0" duration="58" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="bg" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="-3" y="-3" skX="0" skY="0" scX="0.16" scY="0.41" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-3" y="-3" skX="0" skY="0" scX="1.09" scY="1" pX="0.15" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-3" y="-3" skX="0" skY="0" scX="0.97" scY="1" pX="0.15" pY="0"/>
+    </frame>
+    <frame z="0" duration="42">
+     <transform x="-3" y="-3" skX="0" skY="0" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="-3" y="-3" skX="0" skY="0" scX="1" scY="1" pX="0.15" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="-3" y="-3" skX="0" skY="0" scX="1.04" scY="1" pX="0.15" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="-3" y="-3" skX="0" skY="0" scX="0.05" scY="0.32" pX="0.55" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="text" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="-21.7" y="-4" skX="0" skY="0" scX="0.15" scY="0.4" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="3">
+     <transform x="-129.85" y="-5.5" skX="0" skY="0" scX="1.09" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="-116.5" y="-5.5" skX="0" skY="0" scX="0.97" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-118.5" y="-5.5" skX="0" skY="0" scX="0.99" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="42">
+     <transform x="-119.5" y="-5.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="2">
+     <transform x="-119.5" y="-5.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="3">
+     <transform x="-124.25" y="-5.5" skX="0" skY="0" scX="1.04" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="-8.85" y="-3.25" skX="0" skY="0" scX="0.05" scY="0.31" pX="-0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

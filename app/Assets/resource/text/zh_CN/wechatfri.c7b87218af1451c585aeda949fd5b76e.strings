@@ -1,0 +1,10 @@
+"wechatfri.detail.panel.desc1" = "1.每次请求需在24小时内支付。好友成功支付后，您联网回到游戏即可收到商品。如有多个好友帮忙付款，您将收到多笔订单商品。";
+"wechatfri.detail.panel.desc2" = "2.订单超过24小时未支付自动失效，不会产生任何费用。";
+"wechatfri.detail.panel.desc3" = "3.好友需使用微信支付完成此请求。如发生退款，钱款将退还至付款人的微信账户。";
+"wechatfri.detail.panel.pop" = "购买风车币不成功时，可请求微信好友帮忙付~";
+"wechatfri.detail.panel.tip1" = "请求发送成功！订单24小时内有效，请及时通知好友哟~";
+"wechatfri.detail.panel.tip2" = "您已取消发送代付请求~";
+"wechatfri.detail.panel.title" = "什么是微信好友代付？";
+"wechatfri.panel.btn" = "好友代付";
+"wechatfri.panel.pop" = "当前支付不畅通？也可以请好友代付救救急哦~";
+"wechatfri.panel.title" = "支付失败";

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:43e1c0d78f52abae1345a1cee0d23ac2:ff3b46b78c892fb48f2b4df8ddd367f1:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="tks/元件 33" x="2" y="2" width="26" height="24" frameX="-7" frameY="-7" frameWidth="40" frameHeight="38"/>
+</TextureAtlas>

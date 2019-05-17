@@ -1,0 +1,111 @@
+{
+	"image": "panel_limit_guide.png",
+	"config": "panel_limit_guide.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"LimitItemGuidePanel/shine": [
+			{
+				"x": -124,
+				"y": -124,
+				"width": 248,
+				"height": 248,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "2",
+				"image": "LimitItemGuidePanel/shine2",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": -115,
+				"y": -116,
+				"width": 231,
+				"height": 231,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "1",
+				"image": "LimitItemGuidePanel/shine1",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": -44,
+				"y": -44,
+				"width": 87.35,
+				"height": 87.35,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 2,
+				"id": "3",
+				"image": "LimitItemGuidePanel/shine3",
+				"type": 0,
+				"scalingGrid": false
+			}
+		],
+		"panel": [
+			{
+				"x": -1,
+				"y": -135,
+				"width": 248,
+				"height": 248,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "shine",
+				"image": "LimitItemGuidePanel/shine",
+				"type": 2,
+				"scalingGrid": false
+			},
+			{
+				"x": 0,
+				"y": -135,
+				"width": 201.7,
+				"height": 206.2,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "bubble",
+				"image": "LimitItemGuidePanel/bubble",
+				"type": 2,
+				"scalingGrid": false
+			}
+		],
+		"LimitItemGuidePanel/bubble": [
+			{
+				"x": -90,
+				"y": -84,
+				"width": 201.7,
+				"height": 206.2,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "bg",
+				"image": "LimitItemGuidePanel/元件 1",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

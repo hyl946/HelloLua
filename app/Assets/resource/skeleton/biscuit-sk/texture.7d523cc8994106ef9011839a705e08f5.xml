@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:94ac485c7afcb24146153a387e8a1f07:5415cd21e22eceb8208e9c103c89423e:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="__dbTextures/biscuit-sk/apper/图层 1_0" x="332" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="178" frameHeight="152"/>
+    <SubTexture name="biscuit-sk/res/元件 112 副本" x="2" y="331" width="180" height="139" frameX="-6" frameY="0" frameWidth="198" frameHeight="139"/>
+    <SubTexture name="biscuit-sk/res/元件 122" x="2" y="2" width="328" height="327" frameX="-17" frameY="-17" frameWidth="362" frameHeight="361"/>
+</TextureAtlas>

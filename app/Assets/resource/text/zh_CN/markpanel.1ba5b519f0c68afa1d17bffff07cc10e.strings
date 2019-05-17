@@ -1,0 +1,15 @@
+"mark.panel.btn.has.sign.tip" = "有签到奖励可以领取~";
+"mark.panel.cant.mark" = "签到数据已过期，请稍后重试";
+"mark.panel.cant.remark" = "补签数据已过期，请稍后重试";
+"mark.panel.clear.label" = "天后清空签到信息";
+"mark.panel.close.btn.text" = "关闭";
+"mark.panel.mark.btn.text" = "今日签到";
+"mark.panel.mark.fail" = "签到功能需要连接无线网络";
+"mark.panel.remark.btn.text" = "补签";
+"mark.panel.remark.err" = "补签出错了";
+"mark.panel.remark.err.no.gold" = "风车币不足，补签失败";
+"mark.panel.remark.tip" = "已漏签：{n}天";
+"mark.panel.remind.infi.energy.btn2" = "现在签到";
+"mark.panel.remind.infi.energy.text" = "签到宝箱内包含无限精力1小时，领取后会立刻生效哦！";
+"mark.panel.tip.title" = "再签到{mark_number}天可领取";
+"mark.panel.title" = "签到好礼";

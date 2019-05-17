@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3fdbdfd1f79c4422ebcb631ac93b437b:7a99eff40ede69770e34036311fc895f:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="2018_s1_rank_race_flag/other/dfh2" x="45" y="56" width="41" height="20"/>
+    <SubTexture name="2018_s1_rank_race_flag/other/dfhjhjk" x="2" y="56" width="41" height="20"/>
+    <SubTexture name="2018_s1_rank_race_flag/other/vhs" x="31" y="2" width="27" height="52"/>
+    <SubTexture name="2018_s1_rank_race_flag/other/vhs2" x="2" y="2" width="27" height="52"/>
+</TextureAtlas>

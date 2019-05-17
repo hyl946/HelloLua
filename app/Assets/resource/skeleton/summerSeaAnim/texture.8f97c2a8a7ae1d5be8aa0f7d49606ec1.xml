@@ -1,0 +1,27 @@
+<TextureAtlas name="summerSeaAnim" imagePath="texture.png">
+ <SubTexture name="2018SunmerSea/res/GY1" x="367" y="401" width="70" height="70"/>
+ <SubTexture name="2018SunmerSea/res/BT1" x="509" y="398" width="70" height="70"/>
+ <SubTexture name="2018SunmerSea/res/TZ1" x="509" y="326" width="70" height="70"/>
+ <SubTexture name="2018SunmerSea/res/TY2" x="872" y="373" width="141" height="70"/>
+ <SubTexture name="2018SunmerSea/res/BT2" x="367" y="326" width="141" height="74"/>
+ <SubTexture name="2018SunmerSea/res/TZ2" x="0" y="354" width="141" height="70"/>
+ <SubTexture name="2018SunmerSea/res/GY" x="887" y="142" width="70" height="140"/>
+ <SubTexture name="2018SunmerSea/res/GBT" x="941" y="0" width="81" height="140"/>
+ <SubTexture name="2018SunmerSea/res/TZ3" x="295" y="278" width="70" height="140"/>
+ <SubTexture name="2018SunmerSea/res/YZ4" x="0" y="212" width="140" height="140"/>
+ <SubTexture name="2018SunmerSea/res/BT4" x="588" y="263" width="140" height="140"/>
+ <SubTexture name="2018SunmerSea/res/BZ4" x="730" y="263" width="140" height="140"/>
+ <SubTexture name="__dbTextures/2018SunmerSea/sea33/图层 5_0" x="0" y="0" width="210" height="210"/>
+ <SubTexture name="2018SunmerSea/res/元件 8 副本" x="212" y="0" width="247" height="159"/>
+ <SubTexture name="2018SunmerSea/res/元件 94" x="0" y="426" width="232" height="13"/>
+ <SubTexture name="2018SunmerSea/res/元件 92" x="460" y="0" width="193" height="176"/>
+ <SubTexture name="2018SunmerSea/res/元件 95" x="142" y="278" width="152" height="127"/>
+ <SubTexture name="2018SunmerSea/res/元件 93" x="654" y="78" width="232" height="119"/>
+ <SubTexture name="2018SunmerSea/res/元件 86" x="367" y="292" width="203" height="33"/>
+ <SubTexture name="2018SunmerSea/res/元件 87" x="588" y="198" width="233" height="63"/>
+ <SubTexture name="2018SunmerSea/res/元件 88" x="212" y="160" width="187" height="117"/>
+ <SubTexture name="2018SunmerSea/res/bnbm" x="400" y="177" width="187" height="114"/>
+ <SubTexture name="2018SunmerSea/res/元件 2" x="872" y="284" width="147" height="88"/>
+ <SubTexture name="重复项目文件夹/元件 81 副本" x="581" y="405" width="81" height="50"/>
+ <SubTexture name="2018SunmerSea/res/元件 95 副本" x="654" y="0" width="286" height="77"/>
+</TextureAtlas>

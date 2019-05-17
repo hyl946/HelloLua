@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cf4ec8a124b28a1fb0f741583ca71650:ae8acf0861f47cea34bcb381868273b8:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="eye2res" x="145" y="363" width="25" height="22"/>
+    <SubTexture name="flower" x="2" y="2" width="171" height="254" frameX="-9" frameY="0" frameWidth="217" frameHeight="266"/>
+    <SubTexture name="leaf_rightdown" x="175" y="165" width="107" height="89"/>
+    <SubTexture name="miyan" x="105" y="386" width="38" height="15"/>
+    <SubTexture name="mouseres" x="305" y="319" width="30" height="57"/>
+    <SubTexture name="res/ear" x="305" y="233" width="72" height="84"/>
+    <SubTexture name="res/eye" x="75" y="363" width="28" height="27"/>
+    <SubTexture name="res/nose" x="105" y="363" width="31" height="21"/>
+    <SubTexture name="tail2" x="284" y="165" width="99" height="66"/>
+    <SubTexture name="wandou" x="340" y="101" width="54" height="54"/>
+    <SubTexture name="xiong shen" x="340" y="2" width="61" height="97"/>
+    <SubTexture name="xiong shou" x="2" y="363" width="71" height="39" frameX="-1" frameY="-4" frameWidth="73" frameHeight="57"/>
+    <SubTexture name="xiongtou" x="175" y="2" width="163" height="161"/>
+    <SubTexture name="元件 56" x="2" y="258" width="301" height="103"/>
+</TextureAtlas>

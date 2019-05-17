@@ -1,0 +1,27 @@
+{
+	"image": "game_guide_panels_act.png",
+	"config": "game_guide_panels_act.plist",
+	"stageHeight": 4000,
+	"stageWidth": 7000,
+	"version": 1,
+	"groups": {
+		"export_ph_game_guide_panels_act": [
+			{
+				"x": 3,
+				"y": 3,
+				"width": 5,
+				"height": 5,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "export_ph_game_guide_panels_act_bg",
+				"image": "export_ph_game_guide_panels_act_bg",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

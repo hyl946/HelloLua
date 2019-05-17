@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0391159545500efcd4221d1a70acdea2:6d41fcd0836f79937dad9b5231057ddf:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="share_40_animation/__resource/MapHiddenNodeLevel4Open" x="202" y="625" width="139" height="167" frameX="-21" frameY="-6" frameWidth="165" frameHeight="191"/>
+    <SubTexture name="share_40_animation/__resource/sefrth" x="689" y="330" width="117" height="63" frameX="-4" frameY="0" frameWidth="121" frameHeight="63"/>
+    <SubTexture name="share_40_animation/__resource/sgtrhy" x="2" y="2" width="563" height="126" frameX="0" frameY="-1" frameWidth="567" frameHeight="130"/>
+    <SubTexture name="share_40_animation/__resource/txt" x="274" y="583" width="165" height="35" frameX="-2" frameY="-10" frameWidth="175" frameHeight="59"/>
+    <SubTexture name="share_40_animation/__resource/元件 14" x="570" y="671" width="113" height="120" frameX="-31" frameY="-23" frameWidth="159" frameHeight="160"/>
+    <SubTexture name="share_40_animation/__resource/元件 15" x="460" y="251" width="99" height="102" frameX="-11" frameY="-9" frameWidth="115" frameHeight="118"/>
+    <SubTexture name="share_40_animation/__resource/元件 16" x="161" y="251" width="73" height="72" frameX="-1" frameY="-1" frameWidth="77" frameHeight="74"/>
+    <SubTexture name="share_40_animation/__resource/元件 20" x="460" y="492" width="115" height="120" frameX="-7" frameY="-14" frameWidth="151" frameHeight="156"/>
+    <SubTexture name="share_40_animation/__resource/元件 23" x="370" y="251" width="46" height="44"/>
+    <SubTexture name="share_40_animation/__resource/元件 30" x="689" y="395" width="114" height="120" frameX="-16" frameY="-16" frameWidth="184" frameHeight="174"/>
+    <SubTexture name="share_40_animation/__resource/元件 32" x="573" y="330" width="114" height="120" frameX="-4" frameY="-4" frameWidth="136" frameHeight="132"/>
+    <SubTexture name="share_40_animation/__resource/元件 67" x="556" y="168" width="9" height="6"/>
+    <SubTexture name="share_40_animation/__resource/元件 68" x="541" y="130" width="19" height="11"/>
+    <SubTexture name="share_40_animation/__resource/元件 7" x="675" y="517" width="114" height="119" frameX="-2" frameY="0" frameWidth="116" frameHeight="121"/>
+    <SubTexture name="share_40_animation/__resource/元件 79" x="207" y="583" width="65" height="38"/>
+    <SubTexture name="share_40_animation/__resource/元件 84" x="685" y="638" width="57" height="105"/>
+    <SubTexture name="share_40_animation/__resource/光圈" x="343" y="620" width="145" height="145"/>
+    <SubTexture name="share_40_animation/__resource/加星闪光" x="207" y="330" width="251" height="251" frameX="-10" frameY="-10" frameWidth="271" frameHeight="271"/>
+    <SubTexture name="share_40_animation/__resource/渐变黄" x="577" y="452" width="96" height="96"/>
+    <SubTexture name="share_40_animation/__resource/补间 1" x="805" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="343" frameHeight="207"/>
+    <SubTexture name="share_40_animation/__resource/补间 31" x="541" y="182" width="13" height="12"/>
+    <SubTexture name="share_40_animation/__resource/补间 32" x="541" y="182" width="13" height="12"/>
+    <SubTexture name="share_40_animation/__resource/补间 33" x="541" y="209" width="13" height="11"/>
+    <SubTexture name="share_40_animation/__resource/补间 34" x="541" y="196" width="13" height="11"/>
+    <SubTexture name="share_40_animation/__resource/补间 38" x="744" y="638" width="46" height="43"/>
+    <SubTexture name="share_40_animation/__resource/补间 6" x="2" y="330" width="203" height="293" frameX="-5" frameY="-3" frameWidth="211" frameHeight="297"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/dfgv45th 副本 2" x="309" y="251" width="59" height="68" frameX="-3" frameY="-2" frameWidth="69" frameHeight="76"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/dfgv45th 副本 3" x="460" y="355" width="111" height="135" frameX="-5" frameY="-3" frameWidth="125" frameHeight="145"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/dfgv45th" x="490" y="614" width="78" height="99"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/hongdai 副本 3" x="2" y="130" width="537" height="119"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/元件 13" x="2" y="625" width="198" height="173" frameX="-3" frameY="0" frameWidth="210" frameHeight="177"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/元件 23 副本" x="82" y="251" width="77" height="76" frameX="-3" frameY="-3" frameWidth="85" frameHeight="84"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/元件 27" x="557" y="150" width="4" height="4"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/元件 28 副本" x="541" y="168" width="13" height="12"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/元件 8 副本 2" x="236" y="251" width="71" height="69"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/元件 84 副本" x="577" y="550" width="91" height="119" frameX="-2" frameY="-2" frameWidth="99" frameHeight="127"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/元件 84" x="490" y="715" width="58" height="87"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/星星旋转动画" x="541" y="143" width="14" height="23" frameX="0" frameY="-1" frameWidth="14" frameHeight="27"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/补间 20" x="557" y="143" width="6" height="5"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/补间 38" x="2" y="251" width="78" height="76" frameX="-2" frameY="-2" frameWidth="86" frameHeight="84"/>
+    <SubTexture name="share_40_animation/__resource/重复项目文件夹/补间 6" x="567" y="2" width="236" height="326" frameX="-1" frameY="-1" frameWidth="242" frameHeight="332"/>
+</TextureAtlas>

@@ -1,0 +1,1189 @@
+<dragonBones name="share_180_animation" frameRate="30" version="2.3">
+ <armature name="2019_share_180/share_180_animation">
+  <bone name="bg">
+   <transform x="344.35" y="488.9" skX="0" skY="0" scX="1.53" scY="1.53"/>
+  </bone>
+  <bone name="元件 97">
+   <transform x="339.45" y="409.4" skX="0" skY="0" scX="0.52" scY="0.52"/>
+  </bone>
+  <bone name="元件 18 副本 12">
+   <transform x="396.9" y="416.75" skX="46.7" skY="46.7" scX="2.33" scY="2.33"/>
+  </bone>
+  <bone name="元件 18 副本 12_0">
+   <transform x="370.65" y="365.35" skX="0" skY="0" scX="1.87" scY="1.87"/>
+  </bone>
+  <bone name="元件 18 副本 12_1">
+   <transform x="363.6" y="386.6" skX="9.5" skY="9.5" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="元件 18 副本 12_2">
+   <transform x="399.35" y="440.05" skX="0" skY="0" scX="1.87" scY="1.87"/>
+  </bone>
+  <bone name="元件 18 副本 12_3">
+   <transform x="334.45" y="435.85" skX="-34.96" skY="-34.96" scX="1.49" scY="1.49"/>
+  </bone>
+  <bone name="元件 18 副本 12_4">
+   <transform x="360.3" y="446.2" skX="-14.76" skY="-14.76" scX="1.17" scY="1.17"/>
+  </bone>
+  <bone name="元件 18 副本 12_5">
+   <transform x="358.1" y="434.7" skX="-34.96" skY="-34.96" scX="1.49" scY="1.49"/>
+  </bone>
+  <bone name="图层 3">
+   <transform x="344.85" y="444.45" skX="0" skY="0" scX="1.2" scY="1.2"/>
+  </bone>
+  <bone name="qrHolder">
+   <transform x="136.5" y="717.1" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="closeBtn">
+   <transform x="600.85" y="27.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="titleClone">
+   <transform x="316.4" y="88.2" skX="0" skY="0" scX="1.41" scY="1.41"/>
+  </bone>
+  <bone name="title">
+   <transform x="316.4" y="88.2" skX="0" skY="0" scX="1.41" scY="1.41"/>
+  </bone>
+  <bone name="元件 98">
+   <transform x="574.9" y="767.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="bg" parent="bg" z="0">
+    <display name="2019_share_180/static/元件 31" type="image">
+     <transform x="-300.2" y="-415.9" skX="0" skY="0" scX="1" scY="1" pX="12.85" pY="5.5"/>
+    </display>
+   </slot>
+   <slot name="元件 97" parent="元件 97" z="1">
+    <display name="2019_share_180/static/元件 32" type="image">
+     <transform x="-194.95" y="-199.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 12" parent="元件 18 副本 12" z="2">
+    <display name="2019_share_180/static/重复项目文件夹/元件 18 副本 12" type="image">
+     <transform x="-20.55" y="-19.65" skX="0" skY="0" scX="1" scY="1" pX="-5.1" pY="-5.2"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 12_0" parent="元件 18 副本 12_0" z="3">
+    <display name="2019_share_180/static/重复项目文件夹/元件 18 副本 12" type="image">
+     <transform x="-20.55" y="-19.65" skX="0" skY="0" scX="1" scY="1" pX="-5.1" pY="-5.2"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 12_1" parent="元件 18 副本 12_1" z="4">
+    <display name="2019_share_180/static/重复项目文件夹/元件 18 副本 12" type="image">
+     <transform x="-20.65" y="-19.55" skX="0" skY="0" scX="1" scY="1" pX="-5.1" pY="-5.2"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 12_2" parent="元件 18 副本 12_2" z="5">
+    <display name="2019_share_180/static/重复项目文件夹/元件 18 副本 12" type="image">
+     <transform x="-20.55" y="-19.65" skX="0" skY="0" scX="1" scY="1" pX="-5.1" pY="-5.2"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 12_3" parent="元件 18 副本 12_3" z="6">
+    <display name="2019_share_180/static/重复项目文件夹/元件 18 副本 12" type="image">
+     <transform x="-20.55" y="-19.6" skX="0" skY="0" scX="1" scY="1" pX="-5.1" pY="-5.2"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 12_4" parent="元件 18 副本 12_4" z="7">
+    <display name="2019_share_180/static/重复项目文件夹/元件 18 副本 12" type="image">
+     <transform x="-20.65" y="-19.6" skX="0" skY="0" scX="1" scY="1" pX="-5.1" pY="-5.2"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 12_5" parent="元件 18 副本 12_5" z="8">
+    <display name="2019_share_180/static/重复项目文件夹/元件 18 副本 12" type="image">
+     <transform x="-20.55" y="-19.5" skX="0" skY="0" scX="1" scY="1" pX="-5.1" pY="-5.2"/>
+    </display>
+   </slot>
+   <slot name="图层 3" parent="图层 3" z="9">
+    <display name="2019_share_180/static/元件 3" type="armature">
+     <transform x="-198.5" y="-232.4" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="qrHolder" parent="qrHolder" z="10">
+    <display name="2019_share_180/qrHolder" type="image">
+     <transform x="-66.45" y="-83.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="-6.05"/>
+    </display>
+   </slot>
+   <slot name="closeBtn" parent="closeBtn" z="11">
+    <display name="2019_share_180/closeBtn" type="image">
+     <transform x="-17.05" y="-17.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="titleClone" parent="titleClone" z="12">
+    <display name="2019_share_180/title" type="armature">
+     <transform x="-245.1" y="-64.85" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="title" parent="title" z="13">
+    <display name="2019_share_180/title" type="armature">
+     <transform x="-245.1" y="-64.85" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="元件 98" parent="元件 98" z="14">
+    <display name="__dbTextures/2019_share_180/share_180_animation/元件 98_34" type="image">
+     <transform x="-43.15" y="-45.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="__dbTextures/2019_share_180/share_180_animation/元件 98_37" type="image">
+     <transform x="-51.25" y="-52.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="2019_share_180/static/元件 98" type="image">
+     <transform x="-82" y="-16.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0.3" duration="60" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="bg" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="15">
+     <transform x="344.35" y="488.9" skX="0" skY="0" scX="1.53" scY="1.53" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" duration="12">
+     <transform x="344.35" y="488.9" skX="0" skY="0" scX="1.53" scY="1.53" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="-1" duration="7">
+     <transform x="344.35" y="488.9" skX="0" skY="0" scX="1.53" scY="1.53" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="26">
+     <transform x="344.4" y="415.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 97" scale="1" offset="0">
+    <frame duration="8" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="339.45" y="409.4" skX="0" skY="0" scX="0.52" scY="0.52" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="20">
+     <transform x="339.4" y="409.35" skX="90" skY="90" scX="1.73" scY="1.73" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="1" duration="26">
+     <transform x="339.4" y="409.35" skX="180" skY="180" scX="1.73" scY="1.73" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 12" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" tweenRotate="2" duration="11">
+     <transform x="396.9" y="416.75" skX="46.7" skY="46.7" scX="2.33" scY="2.33" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="5">
+     <transform x="616" y="178.1" skX="46.7" skY="46.7" scX="2.33" scY="2.33" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="6">
+     <transform x="589.3" y="204.85" skX="46.7" skY="46.7" scX="2.33" scY="2.33" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="2" duration="26">
+     <transform x="562.55" y="232.2" skX="46.7" skY="46.7" scX="2.08" scY="2.08" pX="0" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 12_0" scale="1" offset="0">
+    <frame duration="10" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" tweenRotate="2" duration="11">
+     <transform x="370.65" y="365.35" skX="0" skY="0" scX="1.87" scY="1.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="6">
+     <transform x="92.75" y="160.55" skX="0" skY="0" scX="1.87" scY="1.87" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="7">
+     <transform x="112.4" y="176.6" skX="0" skY="0" scX="1.87" scY="1.87" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="26">
+     <transform x="137.45" y="207.05" skX="0.01" skY="0.01" scX="1.66" scY="1.66" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 12_1" scale="1" offset="0">
+    <frame duration="11" displayIndex="-1"/>
+    <frame z="4" tweenEasing="0" tweenRotate="2" duration="11">
+     <transform x="363.6" y="386.6" skX="9.5" skY="9.5" scX="0.95" scY="0.95" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="5">
+     <transform x="37.65" y="256.6" skX="9.5" skY="9.5" scX="0.95" scY="0.95" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="7">
+     <transform x="48.3" y="258.35" skX="9.5" skY="9.5" scX="0.95" scY="0.95" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="4" duration="26">
+     <transform x="80.3" y="279.9" skX="9.5" skY="9.5" scX="0.85" scY="0.85" pX="0.05" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 12_2" scale="1" offset="0">
+    <frame duration="10" displayIndex="-1"/>
+    <frame z="5" tweenEasing="0" tweenRotate="2" duration="11">
+     <transform x="399.35" y="440.05" skX="0" skY="0" scX="1.87" scY="1.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="5">
+     <transform x="267.6" y="755.3" skX="0" skY="0" scX="1.87" scY="1.87" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="8">
+     <transform x="280.05" y="728.55" skX="0" skY="0" scX="1.87" scY="1.87" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="26">
+     <transform x="286.9" y="699.05" skX="0.01" skY="0.01" scX="1.66" scY="1.66" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 12_3" scale="1" offset="0">
+    <frame duration="11" displayIndex="-1"/>
+    <frame z="6" tweenEasing="0" tweenRotate="2" duration="11">
+     <transform x="334.45" y="435.85" skX="-34.96" skY="-34.96" scX="1.49" scY="1.49" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="5">
+     <transform x="60.2" y="573" skX="-34.96" skY="-34.96" scX="1.49" scY="1.49" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="7">
+     <transform x="83.35" y="549.85" skX="-34.96" skY="-34.96" scX="1.49" scY="1.49" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="6" duration="26">
+     <transform x="111.55" y="539.7" skX="-34.96" skY="-34.96" scX="1.33" scY="1.33" pX="-0.1" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 12_4" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="7" tweenEasing="0" tweenRotate="2" duration="11">
+     <transform x="360.3" y="446.2" skX="-14.76" skY="-14.76" scX="1.17" scY="1.17" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="6">
+     <transform x="200.05" y="715.05" skX="-14.76" skY="-14.76" scX="1.17" scY="1.17" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="5">
+     <transform x="223.25" y="674.15" skX="-14.76" skY="-14.76" scX="1.17" scY="1.17" pX="-0.05" pY="-0.1"/>
+    </frame>
+    <frame z="7" duration="26">
+     <transform x="236.25" y="650.5" skX="-14.76" skY="-14.76" scX="1.05" scY="1.05" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 12_5" scale="1" offset="0">
+    <frame duration="10" displayIndex="-1"/>
+    <frame z="8" tweenEasing="0" tweenRotate="2" duration="11">
+     <transform x="358.1" y="434.7" skX="-34.96" skY="-34.96" scX="1.49" scY="1.49" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="6">
+     <transform x="580.7" y="707.2" skX="-34.96" skY="-34.96" scX="1.49" scY="1.49" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="7">
+     <transform x="566.45" y="685.85" skX="-34.96" skY="-34.96" scX="1.49" scY="1.49" pX="0" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="8" duration="26">
+     <transform x="542.2" y="660.95" skX="-34.96" skY="-34.96" scX="1.33" scY="1.33" pX="-0.05" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="74" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 3" scale="1" offset="0">
+    <frame z="9" duration="27">
+     <transform x="344.85" y="444.45" skX="0" skY="0" scX="1.2" scY="1.2" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="-1" duration="7">
+     <transform x="344.85" y="444.45" skX="0" skY="0" scX="1.2" scY="1.2" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="26">
+     <transform x="344.85" y="444.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="qrHolder" scale="1" offset="0">
+    <frame duration="27" displayIndex="-1"/>
+    <frame z="10" tweenEasing="-1" duration="7">
+     <transform x="136.5" y="717.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="10" duration="26">
+     <transform x="136.5" y="717.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="closeBtn" scale="1" offset="0">
+    <frame duration="34" displayIndex="-1"/>
+    <frame z="11" duration="26">
+     <transform x="600.85" y="27.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="titleClone" scale="1" offset="0">
+    <frame duration="36" displayIndex="-1"/>
+    <frame z="12" tweenEasing="-0.48" duration="6">
+     <transform x="316.4" y="88.2" skX="0" skY="0" scX="1.41" scY="1.41" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="12" duration="18">
+     <transform x="316.4" y="88.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="title" scale="1" offset="0">
+    <frame duration="34" displayIndex="-1"/>
+    <frame z="13" tweenEasing="-0.48" duration="6">
+     <transform x="316.4" y="88.2" skX="0" skY="0" scX="1.41" scY="1.41" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="5">
+     <transform x="316.4" y="88.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="207" gO="207" bO="207" aM="100" rM="19" gM="19" bM="19"/>
+    </frame>
+    <frame z="13" duration="15">
+     <transform x="316.4" y="88.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 98" scale="1" offset="0">
+    <frame duration="34" displayIndex="-1"/>
+    <frame z="14" tweenEasing="NaN" duration="3">
+     <transform x="574.9" y="767.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="1" tweenEasing="NaN" duration="3">
+     <transform x="583.25" y="763.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="2" tweenEasing="0" duration="5">
+     <transform x="615.75" y="736" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="2" tweenEasing="0" duration="5">
+     <transform x="615.75" y="736" skX="6.35" skY="0.53" scX="0.88" scY="1.01" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="14" displayIndex="2" duration="10">
+     <transform x="615.75" y="736" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="2019_share_180/static/元件 3">
+  <bone name="元件 28">
+   <transform x="192.2" y="455.55" skX="0" skY="0" scX="0.22" scY="0.14"/>
+  </bone>
+  <bone name="元件 5 副本">
+   <transform x="202.55" y="420.2" skX="41.37" skY="8.07" scX="0.33" scY="0.17"/>
+  </bone>
+  <bone name="元件 10 副本">
+   <transform x="195.95" y="440.95" skX="0" skY="0" scX="0.35" scY="0.14"/>
+  </bone>
+  <bone name="元件 18 副本">
+   <transform x="192.75" y="437.4" skX="47.57" skY="9.99" scX="0.32" scY="0.19"/>
+  </bone>
+  <bone name="元件 2 副本">
+   <transform x="215.8" y="408.2" skX="37.61" skY="7.07" scX="0.33" scY="0.17"/>
+  </bone>
+  <bone name="盘子副本">
+   <transform x="156.25" y="428.45" skX="0" skY="0" scX="0.35" scY="0.14"/>
+  </bone>
+  <bone name="元件 12">
+   <transform x="205" y="445.4" skX="-150.12" skY="175.72" scX="0.33" scY="0.18"/>
+  </bone>
+  <bone name="元件 15">
+   <transform x="188.05" y="445.6" skX="20.11" skY="5.38" scX="0.16" scY="0.16"/>
+  </bone>
+  <bone name="元件 11">
+   <transform x="200.45" y="447.2" skX="52.09" skY="11.68" scX="0.31" scY="0.2"/>
+  </bone>
+  <bone name="元件 22">
+   <transform x="209.9" y="437.2" skX="-39.4" skY="-7.54" scX="0.33" scY="0.17"/>
+  </bone>
+  <bone name="元件 10">
+   <transform x="195.95" y="440.95" skX="0" skY="0" scX="0.35" scY="0.14"/>
+  </bone>
+  <bone name="元件 109">
+   <transform x="204.15" y="433.15" skX="0" skY="0" scX="0.32" scY="0.13"/>
+  </bone>
+  <bone name="元件 7">
+   <transform x="225.9" y="417.15" skX="35.55" skY="6.56" scX="0.33" scY="0.16"/>
+  </bone>
+  <bone name="元件 6">
+   <transform x="183.3" y="415.5" skX="-69.91" skY="-23.76" scX="0.25" scY="0.27"/>
+  </bone>
+  <bone name="元件 5">
+   <transform x="203.05" y="434.85" skX="41.37" skY="8.07" scX="0.33" scY="0.17"/>
+  </bone>
+  <bone name="元件 8">
+   <transform x="213.95" y="413.45" skX="0" skY="0" scX="0.35" scY="0.14"/>
+  </bone>
+  <bone name="元件 27 副本 6_0">
+   <transform x="230" y="422.9" skX="31.67" skY="7.23" scX="-0.37" scY="0.19"/>
+  </bone>
+  <bone name="元件 27 副本 6">
+   <transform x="190.5" y="420.75" skX="26.21" skY="4.53" scX="0.47" scY="0.21"/>
+  </bone>
+  <bone name="元件 18 副本 19_0">
+   <transform x="194.5" y="419.85" skX="0" skY="0" scX="0.35" scY="0.14"/>
+  </bone>
+  <bone name="元件 18 副本 19">
+   <transform x="227.5" y="421.75" skX="-11.31" skY="0" scX="0.28" scY="0.13"/>
+  </bone>
+  <bone name="元件 23 副本 19">
+   <transform x="213.65" y="423.85" skX="-13.62" skY="-2.21" scX="0.49" scY="0.19"/>
+  </bone>
+  <bone name="元件 22 副本 18">
+   <transform x="214.4" y="424.15" skX="-13.62" skY="-2.21" scX="0.49" scY="0.2"/>
+  </bone>
+  <bone name="元件 26">
+   <transform x="223.15" y="149.3" skX="-15.93" skY="-15.93" scX="0.7" scY="0.7"/>
+  </bone>
+  <bone name="元件 18">
+   <transform x="192.75" y="437.4" skX="45.49" skY="9.3" scX="0.32" scY="0.18"/>
+  </bone>
+  <bone name="元件 17">
+   <transform x="146.05" y="286.2" skX="-7.69" skY="-7.69" scX="1" scY="1"/>
+  </bone>
+  <bone name="元件 9">
+   <transform x="167.95" y="430" skX="0" skY="0" scX="0.35" scY="0.14"/>
+  </bone>
+  <bone name="元件 2">
+   <transform x="218.4" y="408.65" skX="38.19" skY="7.22" scX="0.33" scY="0.17"/>
+  </bone>
+  <skin name="default">
+   <slot name="元件 28" parent="元件 28" z="0">
+    <display name="2019_share_180/static/元件 28" type="image">
+     <transform x="-149.75" y="-16.95" skX="0" skY="0" scX="1" scY="1" pX="13" pY="7"/>
+    </display>
+   </slot>
+   <slot name="元件 5 副本" parent="元件 5 副本" z="1">
+    <display name="2019_share_180/static/元件 5 副本" type="image">
+     <transform x="-126" y="-111.8" skX="0" skY="0" scX="1" scY="1" pX="44" pY="44"/>
+    </display>
+   </slot>
+   <slot name="元件 10 副本" parent="元件 10 副本" z="2">
+    <display name="2019_share_180/static/元件 10 副本" type="image">
+     <transform x="-59" y="-64.5" skX="0" skY="0" scX="1" scY="1" pX="49.85" pY="39.45"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本" parent="元件 18 副本" z="3">
+    <display name="2019_share_180/static/元件 18 副本" type="image">
+     <transform x="-118.3" y="-21.6" skX="0" skY="0" scX="1" scY="1" pX="44" pY="44"/>
+    </display>
+   </slot>
+   <slot name="元件 2 副本" parent="元件 2 副本" z="4">
+    <display name="2019_share_180/static/元件 2 副本" type="image">
+     <transform x="-48.8" y="-98.1" skX="0" skY="0" scX="1" scY="1" pX="44" pY="44"/>
+    </display>
+   </slot>
+   <slot name="盘子副本" parent="盘子副本" z="5">
+    <display name="2019_share_180/static/元件 20" type="image">
+     <transform x="-85.45" y="-56.55" skX="0" skY="0" scX="1" scY="1" pX="41" pY="41"/>
+    </display>
+   </slot>
+   <slot name="元件 12" parent="元件 12" z="6">
+    <display name="2019_share_180/static/元件 12" type="image">
+     <transform x="-44.85" y="-84.15" skX="0" skY="0" scX="1" scY="1" pX="43.6" pY="43.8"/>
+    </display>
+   </slot>
+   <slot name="元件 15" parent="元件 15" z="7">
+    <display name="2019_share_180/static/元件 15" type="image">
+     <transform x="-26.55" y="-5.25" skX="0" skY="0" scX="1" scY="1" pX="44" pY="44"/>
+    </display>
+   </slot>
+   <slot name="元件 11" parent="元件 11" z="8">
+    <display name="2019_share_180/static/元件 11" type="image">
+     <transform x="-17.75" y="-15.15" skX="0" skY="0" scX="1" scY="1" pX="44" pY="44"/>
+    </display>
+   </slot>
+   <slot name="元件 22" parent="元件 22" z="9">
+    <display name="2019_share_180/static/元件 22" type="image">
+     <transform x="-23.8" y="-29.45" skX="0" skY="0" scX="1" scY="1" pX="44" pY="44"/>
+    </display>
+   </slot>
+   <slot name="元件 10" parent="元件 10" z="10">
+    <display name="2019_share_180/static/元件 10" type="image">
+     <transform x="-59" y="-64.5" skX="0" skY="0" scX="1" scY="1" pX="2.9" pY="-4.55"/>
+    </display>
+   </slot>
+   <slot name="元件 109" parent="元件 109" z="11">
+    <display name="2019_share_180/static/元件 109" type="image">
+     <transform x="-55.75" y="-33.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 7" parent="元件 7" z="12">
+    <display name="2019_share_180/static/元件 7" type="image">
+     <transform x="-57.9" y="-111.2" skX="0" skY="0" scX="1" scY="1" pX="44" pY="44"/>
+    </display>
+   </slot>
+   <slot name="元件 6" parent="元件 6" z="13">
+    <display name="2019_share_180/static/元件 6" type="image">
+     <transform x="-66.25" y="-127.7" skX="0" skY="0" scX="1" scY="1" pX="44" pY="44"/>
+    </display>
+   </slot>
+   <slot name="元件 5" parent="元件 5" z="14">
+    <display name="2019_share_180/static/元件 5" type="image">
+     <transform x="-162.6" y="-210.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 8" parent="元件 8" z="15">
+    <display name="2019_share_180/static/元件 8" type="image">
+     <transform x="-53.1" y="-18.35" skX="0" skY="0" scX="1" scY="1" pX="-0.8" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 27 副本 6_0" parent="元件 27 副本 6_0" z="16">
+    <display name="2019_share_180/static/重复项目文件夹/元件 27 副本 6" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="37.2" pY="35.15"/>
+    </display>
+   </slot>
+   <slot name="元件 27 副本 6" parent="元件 27 副本 6" z="17">
+    <display name="2019_share_180/static/重复项目文件夹/元件 27 副本 6" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="37.2" pY="35.15"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 19_0" parent="元件 18 副本 19_0" z="18">
+    <display name="2019_share_180/static/元件 29" type="image">
+     <transform x="-27" y="-26.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 18 副本 19" parent="元件 18 副本 19" z="19">
+    <display name="2019_share_180/static/元件 29" type="image">
+     <transform x="-27" y="-26.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 23 副本 19" parent="元件 23 副本 19" z="20">
+    <display name="2019_share_180/static/重复项目文件夹/元件 23 副本 19" type="image">
+     <transform x="-40.9" y="-15.4" skX="0" skY="0" scX="1" scY="1" pX="-18.25" pY="-5.05"/>
+    </display>
+   </slot>
+   <slot name="元件 22 副本 18" parent="元件 22 副本 18" z="21">
+    <display name="2019_share_180/static/重复项目文件夹/元件 22 副本 18" type="image">
+     <transform x="-31.1" y="-19.6" skX="0" skY="0" scX="1" scY="1" pX="-9.8" pY="2.85"/>
+    </display>
+   </slot>
+   <slot name="元件 26" parent="元件 26" z="22">
+    <display name="2019_share_180/static/元件 26" type="image">
+     <transform x="-36.85" y="-20" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 18" parent="元件 18" z="23">
+    <display name="2019_share_180/static/元件 18" type="image">
+     <transform x="-118.2" y="-21.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 17" parent="元件 17" z="24">
+    <display name="2019_share_180/static/元件 17" type="image">
+     <transform x="-52.75" y="-47.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 9" parent="元件 9" z="25">
+    <display name="2019_share_180/static/元件 9" type="image">
+     <transform x="-119.3" y="-67.75" skX="0" skY="0" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </display>
+   </slot>
+   <slot name="元件 2" parent="元件 2" z="26">
+    <display name="2019_share_180/static/元件 2" type="image">
+     <transform x="-56.75" y="-98.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0.3" duration="60" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="元件 28" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="192.2" y="455.55" skX="0" skY="0" scX="0.22" scY="0.14" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="189.4" y="448.7" skX="0" skY="0" scX="0.54" scY="1" pX="0.2" pY="-0.1"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="6">
+     <transform x="189.4" y="448.7" skX="0" skY="0" scX="0.95" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="189.4" y="448.7" skX="0" skY="0" scX="1.08" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="189.4" y="448.7" skX="0" skY="0" scX="1" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+    <frame z="0" duration="36">
+     <transform x="189.4" y="448.7" skX="0" skY="0" scX="1" scY="1" pX="0.15" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 5 副本" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="202.55" y="420.2" skX="41.37" skY="8.07" scX="0.33" scY="0.17" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="5">
+     <transform x="195.65" y="150" skX="12.51" skY="12.51" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="199.55" y="225.6" skX="15.74" skY="13.83" scX="1" scY="0.94" pX="-0.05" pY="-0.15"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="5">
+     <transform x="204.8" y="193.65" skX="15.98" skY="15.98" scX="1" scY="1" pX="-0.1" pY="-0.15"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="245.05" y="197" skX="25.66" skY="25.66" scX="1" scY="1" pX="-0.1" pY="-0.15"/>
+    </frame>
+    <frame z="1" duration="36">
+     <transform x="219.4" y="193.9" skX="19.46" skY="19.46" scX="1" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 10 副本" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="195.95" y="440.95" skX="0" skY="0" scX="0.35" scY="0.14" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="5">
+     <transform x="193" y="300.15" skX="-4.72" skY="-4.72" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="6">
+     <transform x="192.8" y="363.3" skX="-4.94" skY="-4.49" scX="1" scY="0.95" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="5">
+     <transform x="194.8" y="344.1" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="209.95" y="343.65" skX="6.2" skY="6.2" scX="1" scY="1" pX="0" pY="-0.2"/>
+    </frame>
+    <frame z="2" duration="36">
+     <transform x="200.3" y="343.5" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="192.75" y="437.4" skX="47.57" skY="9.99" scX="0.32" scY="0.19" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="5">
+     <transform x="181.6" y="272.1" skX="-3.26" skY="-3.26" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="6">
+     <transform x="181.45" y="342.95" skX="37.3" skY="35.62" scX="1" scY="0.96" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="5">
+     <transform x="183.95" y="319.05" skX="12.22" skY="12.22" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="203.1" y="317.35" skX="33.38" skY="33.38" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="3" duration="36">
+     <transform x="191" y="317.85" skX="23.71" skY="23.71" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 2 副本" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="5">
+     <transform x="215.8" y="408.2" skX="37.61" skY="7.07" scX="0.33" scY="0.17" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="5">
+     <transform x="223.2" y="59.6" skX="10.22" skY="10.22" scX="1" scY="0.84" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="6">
+     <transform x="210.8" y="64.55" skX="0.26" skY="0.26" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="4">
+     <transform x="237.75" y="105" skX="13.7" skY="13.7" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="4">
+     <transform x="292.5" y="115.15" skX="23.37" skY="23.37" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="4" duration="36">
+     <transform x="257.7" y="107.45" skX="17.18" skY="17.18" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="盘子副本" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="156.25" y="428.45" skX="0" skY="0" scX="0.35" scY="0.14" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="6">
+     <transform x="78.8" y="271.3" skX="-4.72" skY="-4.72" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="6">
+     <transform x="70.9" y="65.5" skX="4.26" skY="4.26" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="75.55" y="276.2" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="115.7" y="232.35" skX="13.92" skY="13.92" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="5" duration="36">
+     <transform x="85.4" y="253.3" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 12" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="4">
+     <transform x="205" y="445.4" skX="-150.12" skY="175.72" scX="0.33" scY="0.18" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="5">
+     <transform x="194.45" y="327.8" skX="158.07" skY="158.07" scX="1" scY="1" pX="0.05" pY="-0.5"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="6">
+     <transform x="221.55" y="389.85" skX="-33.19" skY="-33.19" scX="1" scY="1" pX="0.05" pY="-0.45"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="5">
+     <transform x="222.95" y="374.5" skX="24.77" skY="24.77" scX="1" scY="1" pX="-0.1" pY="-0.35"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="4">
+     <transform x="232.5" y="378.3" skX="12.18" skY="12.18" scX="1" scY="1" pX="-0.05" pY="-0.45"/>
+    </frame>
+    <frame z="6" duration="36">
+     <transform x="226.5" y="375.55" skX="20.23" skY="20.23" scX="1" scY="1" pX="-0.05" pY="-0.4"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 15" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="4">
+     <transform x="188.05" y="445.6" skX="20.11" skY="5.38" scX="0.16" scY="0.16" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="5">
+     <transform x="173" y="335.4" skX="-0.51" skY="-0.51" scX="1" scY="1" pX="0.1" pY="0.15"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="6">
+     <transform x="172.85" y="389.55" skX="-8.54" skY="-6.11" scX="1" scY="0.85" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="5">
+     <transform x="173.95" y="378.9" skX="65.44" skY="65.44" scX="1" scY="1" pX="0.15" pY="0.2"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="4">
+     <transform x="183.6" y="374.5" skX="69.89" skY="69.89" scX="1" scY="1" pX="0.2" pY="0.15"/>
+    </frame>
+    <frame z="7" duration="36">
+     <transform x="177.45" y="377" skX="63.7" skY="63.7" scX="1" scY="1" pX="0.1" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 11" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="4">
+     <transform x="200.45" y="447.2" skX="52.09" skY="11.68" scX="0.31" scY="0.2" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="5">
+     <transform x="209.75" y="343.9" skX="22.54" skY="22.54" scX="1" scY="1" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="6">
+     <transform x="209.55" y="396.65" skX="8.68" skY="6.22" scX="1" scY="0.85" pX="-0.1" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="5">
+     <transform x="213.25" y="388.45" skX="27.26" skY="23.19" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="4">
+     <transform x="218.05" y="389.8" skX="33.45" skY="22.18" scX="1.02" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="8" duration="36">
+     <transform x="213.35" y="388.5" skX="27.26" skY="27.26" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 22" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="4">
+     <transform x="209.9" y="437.2" skX="-39.4" skY="-7.54" scX="0.33" scY="0.17" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="5">
+     <transform x="231" y="269.95" skX="16.78" skY="16.78" scX="1" scY="1" pX="0.15" pY="-0.3"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="6">
+     <transform x="230.85" y="334.55" skX="-45.92" skY="-43.96" scX="0.99" scY="0.96" pX="0.1" pY="-0.35"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="5">
+     <transform x="233.4" y="314.75" skX="-11.23" skY="-11.23" scX="1" scY="1" pX="0.1" pY="-0.3"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="4">
+     <transform x="253" y="321.25" skX="4.95" skY="4.95" scX="1" scY="1" pX="0.2" pY="-0.35"/>
+    </frame>
+    <frame z="9" duration="36">
+     <transform x="240.65" y="316.55" skX="-18.24" skY="-18.24" scX="1" scY="1" pX="0.1" pY="-0.3"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 10" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="4">
+     <transform x="195.95" y="440.95" skX="0" skY="0" scX="0.35" scY="0.14" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="5">
+     <transform x="193" y="300.15" skX="-4.72" skY="-4.72" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="6">
+     <transform x="193.95" y="363.2" skX="-7.5" skY="-4.49" scX="1.1" scY="0.85" pX="-0.3" pY="-0.15"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="5">
+     <transform x="194.8" y="344.1" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="4">
+     <transform x="209.95" y="343.65" skX="6.2" skY="6.2" scX="1" scY="1" pX="0" pY="-0.2"/>
+    </frame>
+    <frame z="10" duration="36">
+     <transform x="200.3" y="343.5" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 109" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="4">
+     <transform x="204.15" y="433.15" skX="0" skY="0" scX="0.32" scY="0.13" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="48" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="5">
+     <transform x="212.05" y="242.15" skX="-4.72" skY="-4.72" scX="0.92" scY="0.92" pX="-0.15" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="48" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="6">
+     <transform x="211.85" y="308" skX="-4.94" skY="-4.49" scX="0.92" scY="0.88" pX="-0.15" pY="0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="48" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="5">
+     <transform x="215.1" y="286.5" skX="-3.48" skY="-3.48" scX="0.92" scY="0.92" pX="-0.15" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="48" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="4">
+     <transform x="239.65" y="290.3" skX="6.2" skY="6.2" scX="0.92" scY="0.92" pX="-0.15" pY="0.15"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="48" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="11" duration="36">
+     <transform x="224.05" y="287.25" skX="0" skY="0" scX="0.92" scY="0.92" pX="-0.1" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="48" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 7" scale="1" offset="0">
+    <frame z="12" tweenEasing="0" duration="4">
+     <transform x="225.9" y="417.15" skX="35.55" skY="6.56" scX="0.33" scY="0.16" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="5">
+     <transform x="260.05" y="119.85" skX="35.56" skY="32.52" scX="1" scY="1" pX="0.05" pY="0.25"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="6">
+     <transform x="265.15" y="199.55" skX="-9.75" skY="-8.05" scX="1" scY="1.05" pX="0.05" pY="0.4"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="5">
+     <transform x="270.85" y="167.45" skX="26.48" skY="26.48" scX="1" scY="1" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="4">
+     <transform x="314.6" y="182.3" skX="13.3" skY="13.3" scX="1" scY="1" pX="0.15" pY="0.2"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="4">
+     <transform x="286.95" y="171.8" skX="22.23" skY="22.23" scX="1" scY="1" pX="0.05" pY="0.1"/>
+    </frame>
+    <frame z="12" duration="32">
+     <transform x="286.95" y="171.8" skX="16" skY="16" scX="1" scY="1" pX="0.05" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 6" scale="1" offset="0">
+    <frame z="13" tweenEasing="0" duration="4">
+     <transform x="183.3" y="415.5" skX="-69.91" skY="-23.76" scX="0.25" scY="0.27" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="5">
+     <transform x="136.35" y="123.25" skX="-68.07" skY="-64.57" scX="1" scY="1" pX="0.25" pY="-0.05"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="6">
+     <transform x="143.85" y="208.25" skX="-27.93" skY="-38.36" scX="0.98" scY="1.04" pX="0.25" pY="-0.2"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="5">
+     <transform x="147.15" y="163.3" skX="-61.86" skY="-61.86" scX="1" scY="1" pX="0.2" pY="-0.1"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="4">
+     <transform x="193.35" y="157.45" skX="-32.7" skY="-37.96" scX="1" scY="1" pX="0.25" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="3">
+     <transform x="163.7" y="160.2" skX="-52.33" skY="-52.33" scX="1" scY="1" pX="0.2" pY="-0.15"/>
+    </frame>
+    <frame z="13" duration="33">
+     <transform x="163.7" y="160.15" skX="-47.65" skY="-47.65" scX="1" scY="1" pX="0.2" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 5" scale="1" offset="0">
+    <frame z="14" tweenEasing="0" duration="4">
+     <transform x="203.05" y="434.85" skX="41.37" skY="8.07" scX="0.33" scY="0.17" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="5">
+     <transform x="209.8" y="254.45" skX="12.51" skY="12.51" scX="1" scY="1" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="6">
+     <transform x="209.6" y="323.5" skX="15.74" skY="13.83" scX="1.01" scY="0.93" pX="0.1" pY="0.1"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="5">
+     <transform x="212.55" y="298.75" skX="15.98" skY="15.98" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="4">
+     <transform x="235.05" y="301.95" skX="25.66" skY="25.66" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="14" duration="36">
+     <transform x="220.75" y="299.3" skX="19.46" skY="19.46" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 8" scale="1" offset="0">
+    <frame z="15" tweenEasing="0" duration="4">
+     <transform x="213.95" y="413.45" skX="0" skY="0" scX="0.35" scY="0.14" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="5">
+     <transform x="222.55" y="101.75" skX="-6.95" skY="-6.95" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="6">
+     <transform x="228.4" y="185.6" skX="-5.03" skY="-4.4" scX="1" scY="0.93" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="5">
+     <transform x="234.7" y="143.1" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="4">
+     <transform x="283.1" y="152.25" skX="6.2" skY="6.2" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="15" duration="36">
+     <transform x="252.35" y="145.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="-0.1"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 27 副本 6_0" scale="1" offset="0">
+    <frame z="16" tweenEasing="0" duration="4">
+     <transform x="230" y="422.9" skX="31.67" skY="7.23" scX="-0.37" scY="0.19" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="5">
+     <transform x="276.85" y="159.7" skX="6.95" skY="10.58" scX="-1.12" scY="1.18" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="6">
+     <transform x="280.3" y="241.5" skX="9.83" skY="12.02" scX="-1.11" scY="1.11" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="5">
+     <transform x="284.8" y="208.2" skX="10.42" skY="14.06" scX="-1.12" scY="1.18" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="4">
+     <transform x="321.55" y="224.8" skX="20.1" skY="23.73" scX="-1.12" scY="1.18" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="36">
+     <transform x="298.4" y="213.3" skX="13.9" skY="17.54" scX="-1.12" scY="1.18" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 27 副本 6" scale="1" offset="0">
+    <frame z="17" tweenEasing="0" duration="4">
+     <transform x="190.5" y="420.75" skX="26.21" skY="4.53" scX="0.47" scY="0.21" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="5">
+     <transform x="161.5" y="158.15" skX="4.22" skY="4.22" scX="1.38" scY="1.38" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="6">
+     <transform x="165.15" y="235.8" skX="6.92" skY="6.05" scX="1.37" scY="1.29" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="5">
+     <transform x="170.15" y="199.65" skX="7.69" skY="7.69" scX="1.38" scY="1.38" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="4">
+     <transform x="209.95" y="197.1" skX="17.37" skY="17.37" scX="1.38" scY="1.38" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="36">
+     <transform x="184.5" y="197.8" skX="11.17" skY="11.17" scX="1.38" scY="1.38" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 19_0" scale="1" offset="0">
+    <frame z="18" tweenEasing="0" duration="4">
+     <transform x="194.5" y="419.85" skX="0" skY="0" scX="0.35" scY="0.14" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="5">
+     <transform x="172.25" y="153.25" skX="-6.95" skY="-6.95" scX="1" scY="0.37" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="6">
+     <transform x="176.15" y="231.2" skX="-5.03" skY="-4.4" scX="1" scY="0.33" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="5">
+     <transform x="181.4" y="192.4" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="4">
+     <transform x="222.25" y="191.85" skX="6.2" skY="6.2" scX="1" scY="1" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="3">
+     <transform x="196.15" y="191.25" skX="3.21" skY="3.21" scX="1" scY="0.41" pX="-0.05" pY="-0.15"/>
+    </frame>
+    <frame z="18" duration="33">
+     <transform x="196.15" y="191.25" skX="0" skY="0" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18 副本 19" scale="1" offset="0">
+    <frame z="19" tweenEasing="0" duration="4">
+     <transform x="227.5" y="421.75" skX="-11.31" skY="0" scX="0.28" scY="0.13" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="5">
+     <transform x="268.65" y="155.45" skX="1.68" skY="6.27" scX="0.8" scY="0.31" pX="0" pY="-0.2"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="6">
+     <transform x="272.35" y="234.4" skX="1.22" skY="6.32" scX="0.8" scY="0.3" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="5">
+     <transform x="277.45" y="200.4" skX="-8.07" skY="-3.48" scX="0.8" scY="0.91" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="4">
+     <transform x="315.6" y="216.6" skX="12.59" skY="17.19" scX="0.8" scY="0.88" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="3">
+     <transform x="291.55" y="205.1" skX="7.39" skY="11.98" scX="0.8" scY="0.38" pX="0" pY="-0.2"/>
+    </frame>
+    <frame z="19" duration="33">
+     <transform x="291.55" y="205.1" skX="-4.59" skY="0" scX="0.8" scY="0.91" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 23 副本 19" scale="1" offset="0">
+    <frame z="20" tweenEasing="0" duration="4">
+     <transform x="213.65" y="423.85" skX="-13.62" skY="-2.21" scX="0.49" scY="0.19" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" tweenEasing="0" duration="5">
+     <transform x="230.7" y="172.35" skX="-19.5" skY="-12.45" scX="1.43" scY="0.85" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="20" tweenEasing="0" duration="6">
+     <transform x="233.7" y="251.5" skX="-24.37" skY="-9.55" scX="1.43" scY="0.77" pX="-0.05" pY="0.1"/>
+    </frame>
+    <frame z="20" tweenEasing="0" duration="5">
+     <transform x="238.5" y="218.1" skX="-28.54" skY="-8.98" scX="1.43" scY="0.63" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="20" tweenEasing="0" duration="4">
+     <transform x="274.05" y="226.7" skX="1.04" skY="16.17" scX="1.43" scY="1.24" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="20" duration="36">
+     <transform x="251.4" y="220.3" skX="-5.55" skY="-5.5" scX="1.43" scY="1.33" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 22 副本 18" scale="1" offset="0">
+    <frame z="21" tweenEasing="0" duration="4">
+     <transform x="214.4" y="424.15" skX="-13.62" skY="-2.21" scX="0.49" scY="0.2" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="5">
+     <transform x="233" y="173.95" skX="-12.51" skY="-12.45" scX="1.43" scY="1.44" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="6">
+     <transform x="236" y="253.25" skX="-10.96" skY="-9.55" scX="1.43" scY="1.35" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="5">
+     <transform x="240.7" y="219.75" skX="-9.04" skY="-8.98" scX="1.43" scY="1.44" pX="-0.1" pY="0.15"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="4">
+     <transform x="276" y="228.8" skX="0.64" skY="0.7" scX="1.43" scY="1.44" pX="0.05" pY="0.2"/>
+    </frame>
+    <frame z="21" duration="36">
+     <transform x="253.6" y="222.2" skX="-5.55" skY="-5.5" scX="1.43" scY="1.44" pX="0" pY="0.2"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 26" scale="1" offset="0">
+    <frame duration="9" displayIndex="-1"/>
+    <frame z="22" tweenEasing="0" duration="6">
+     <transform x="223.15" y="149.3" skX="-15.93" skY="-15.93" scX="0.7" scY="0.7" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="82" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="5">
+     <transform x="248.4" y="117.65" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="4">
+     <transform x="300.85" y="129.45" skX="6.2" skY="6.2" scX="1" scY="1" pX="0.15" pY="-0.05"/>
+    </frame>
+    <frame z="22" duration="36">
+     <transform x="267.55" y="120.7" skX="0" skY="0" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 18" scale="1" offset="0">
+    <frame z="23" tweenEasing="0" duration="4">
+     <transform x="192.75" y="437.4" skX="45.49" skY="9.3" scX="0.32" scY="0.18" pX="0" pY="0"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="5">
+     <transform x="179.65" y="265.6" skX="-13.2" skY="-13.2" scX="1" scY="1" pX="-0.1" pY="-0.15"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="6">
+     <transform x="181.4" y="342.95" skX="37.5" skY="35.93" scX="1" scY="0.96" pX="-0.15" pY="-0.15"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="5">
+     <transform x="183.6" y="313.45" skX="5.23" skY="5.23" scX="1" scY="1" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="4">
+     <transform x="203.3" y="316.05" skX="32.93" skY="32.93" scX="1" scY="1" pX="-0.15" pY="-0.15"/>
+    </frame>
+    <frame z="23" duration="36">
+     <transform x="191" y="317.8" skX="22.2" skY="22.2" scX="1" scY="1" pX="-0.15" pY="-0.05"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 17" scale="1" offset="0">
+    <frame duration="15" displayIndex="-1"/>
+    <frame z="24" tweenEasing="0" duration="5">
+     <transform x="146.05" y="286.2" skX="-7.69" skY="-7.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="24" tweenEasing="0" duration="4">
+     <transform x="178.7" y="266.95" skX="9.71" skY="9.71" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="24" duration="36">
+     <transform x="155.2" y="274.75" skX="-4.21" skY="-4.21" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 9" scale="1" offset="0">
+    <frame z="25" tweenEasing="0" duration="4">
+     <transform x="167.95" y="430" skX="0" skY="0" scX="0.35" scY="0.14" pX="0" pY="0"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="6">
+     <transform x="113.5" y="279.7" skX="-4.72" skY="-4.72" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="6">
+     <transform x="103.8" y="79.2" skX="4.26" skY="4.26" scX="1" scY="1" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="4">
+     <transform x="110.05" y="285.4" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="4">
+     <transform x="145.85" y="251.4" skX="13.92" skY="13.92" scX="1" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="25" duration="36">
+     <transform x="119.25" y="264.55" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="元件 2" scale="1" offset="0">
+    <frame z="26" tweenEasing="0" duration="5">
+     <transform x="218.4" y="408.65" skX="38.19" skY="7.22" scX="0.33" scY="0.17" pX="0" pY="0"/>
+    </frame>
+    <frame z="26" tweenEasing="0" duration="5">
+     <transform x="231" y="61.85" skX="10.56" skY="10.56" scX="1" scY="0.86" pX="0.05" pY="-0.25"/>
+    </frame>
+    <frame z="26" tweenEasing="0" duration="6">
+     <transform x="218.85" y="65.45" skX="0.6" skY="0.6" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </frame>
+    <frame z="26" tweenEasing="0" duration="4">
+     <transform x="245.35" y="107.75" skX="14.04" skY="14.04" scX="1" scY="1" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="26" tweenEasing="0" duration="4">
+     <transform x="299.55" y="119.15" skX="23.71" skY="23.71" scX="1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame z="26" duration="36">
+     <transform x="265.15" y="110.65" skX="17.52" skY="17.52" scX="1" scY="1" pX="0.1" pY="-0.1"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="2019_share_180/title">
+  <bone name="playerName">
+   <transform x="52.05" y="128.2" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="avatar">
+   <transform x="49.4" y="67" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="avatarBorder">
+   <transform x="49.4" y="64.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="titleText2">
+   <transform x="325.8" y="101.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="titleText1">
+   <transform x="227.05" y="44.05" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="playerName" parent="playerName" z="0">
+    <display name="2019_share_180/playerName" type="image">
+     <transform x="-52.05" y="-15.2" skX="0" skY="0" scX="1" scY="1" pX="-2.25" pY="-5.45"/>
+    </display>
+   </slot>
+   <slot name="avatar" parent="avatar" z="1">
+    <display name="2019_share_180/avatar" type="image">
+     <transform x="-44.2" y="-44.65" skX="0" skY="0" scX="1" scY="1" pX="9.3" pY="10.25"/>
+    </display>
+   </slot>
+   <slot name="avatarBorder" parent="avatarBorder" z="2">
+    <display name="2019_share_180/avatarBorder" type="image">
+     <transform x="-48.15" y="-64.85" skX="0" skY="0" scX="1" scY="1" pX="32.35" pY="30.05"/>
+    </display>
+   </slot>
+   <slot name="titleText2" parent="titleText2" z="3">
+    <display name="2019_share_180/titleText2" type="image">
+     <transform x="-195.6" y="-23.5" skX="0" skY="0" scX="1" scY="1" pX="4" pY="4"/>
+    </display>
+   </slot>
+   <slot name="titleText1" parent="titleText1" z="4">
+    <display name="2019_share_180/titleText1" type="image">
+     <transform x="-96.85" y="-25.5" skX="0" skY="0" scX="1" scY="1" pX="4" pY="4"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="A" fadeInTime="0.3" duration="1" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="playerName" scale="1" offset="0">
+    <frame z="0" duration="1">
+     <transform x="52.05" y="128.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="avatar" scale="1" offset="0">
+    <frame z="1" duration="1">
+     <transform x="49.4" y="67" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="avatarBorder" scale="1" offset="0">
+    <frame z="2" duration="1">
+     <transform x="49.4" y="64.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="titleText2" scale="1" offset="0">
+    <frame z="3" duration="1">
+     <transform x="325.8" y="101.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="titleText1" scale="1" offset="0">
+    <frame z="4" duration="1">
+     <transform x="227.05" y="44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

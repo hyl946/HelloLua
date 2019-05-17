@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ffd1199e1719dc09607c721dc0960616:18315abf99e1023a20dc561ed4c2ffe8:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="2019_share_30/avatar" x="592" y="726" width="88" height="98" frameX="-9" frameY="0" frameWidth="108" frameHeight="110"/>
+    <SubTexture name="2019_share_30/avatarBorder" x="1654" y="393" width="114" height="114" frameX="-30" frameY="-33" frameWidth="162" frameHeight="190"/>
+    <SubTexture name="2019_share_30/closeBtn" x="921" y="689" width="35" height="35"/>
+    <SubTexture name="2019_share_30/playerName" x="958" y="689" width="100" height="20" frameX="0" frameY="0" frameWidth="100" frameHeight="22"/>
+    <SubTexture name="2019_share_30/qrPlaceHolderText" x="1325" y="542" width="215" height="39" frameX="-2" frameY="-11" frameWidth="225" frameHeight="57"/>
+    <SubTexture name="2019_share_30/static/placeHolder" x="1532" y="393" width="120" height="120"/>
+    <SubTexture name="2019_share_30/static/元件 36" x="970" y="336" width="151" height="24" frameX="0" frameY="0" frameWidth="153" frameHeight="26"/>
+    <SubTexture name="2019_share_30/static/元件 51" x="1150" y="336" width="173" height="257" frameX="-15" frameY="-12" frameWidth="213" frameHeight="279"/>
+    <SubTexture name="2019_share_30/static/元件 52" x="1238" y="595" width="137" height="228" frameX="0" frameY="-5" frameWidth="143" frameHeight="244"/>
+    <SubTexture name="2019_share_30/static/元件 53" x="1238" y="1" width="572" height="232" frameX="0" frameY="0" frameWidth="572" frameHeight="246"/>
+    <SubTexture name="2019_share_30/static/元件 54" x="1377" y="671" width="179" height="119" frameX="-2" frameY="-1" frameWidth="185" frameHeight="123"/>
+    <SubTexture name="2019_share_30/static/元件 56" x="921" y="374" width="227" height="313" frameX="-9" frameY="0" frameWidth="261" frameHeight="315"/>
+    <SubTexture name="2019_share_30/static/元件 57" x="1542" y="580" width="97" height="89" frameX="-7" frameY="-4" frameWidth="111" frameHeight="111"/>
+    <SubTexture name="2019_share_30/static/元件 60" x="1542" y="515" width="100" height="63" frameX="0" frameY="-6" frameWidth="104" frameHeight="79"/>
+    <SubTexture name="2019_share_30/static/元件 64" x="1232" y="235" width="89" height="97"/>
+    <SubTexture name="2019_share_30/static/元件 66" x="1" y="1" width="589" height="823" frameX="-14" frameY="-10" frameWidth="607" frameHeight="835"/>
+    <SubTexture name="2019_share_30/static/元件 75" x="592" y="374" width="327" height="350" frameX="-18" frameY="-1" frameWidth="375" frameHeight="366"/>
+    <SubTexture name="2019_share_30/static/元件 81" x="970" y="1" width="262" height="160" frameX="0" frameY="0" frameWidth="268" frameHeight="160"/>
+    <SubTexture name="2019_share_30/static/元件 82" x="1412" y="235" width="379" height="156" frameX="-2" frameY="-4" frameWidth="381" frameHeight="160"/>
+    <SubTexture name="2019_share_30/static/元件 83" x="970" y="163" width="260" height="171" frameX="-19" frameY="-10" frameWidth="282" frameHeight="183"/>
+    <SubTexture name="2019_share_30/static/重复项目文件夹/元件 2 副本 11" x="1325" y="393" width="205" height="147" frameX="-2" frameY="-19" frameWidth="225" frameHeight="179"/>
+    <SubTexture name="2019_share_30/static/重复项目文件夹/元件 32" x="592" y="1" width="376" height="371" frameX="-2" frameY="-17" frameWidth="390" frameHeight="399"/>
+    <SubTexture name="2019_share_30/titleText" x="682" y="726" width="416" height="97" frameX="-4" frameY="-5" frameWidth="438" frameHeight="109"/>
+    <SubTexture name="__dbTextures/2019_share_30/qrPlaceHolder/bg_0" x="1100" y="689" width="136" height="134"/>
+    <SubTexture name="__dbTextures/2019_share_30/share_30_animation/图层 1_39" x="1323" y="235" width="87" height="91"/>
+    <SubTexture name="__dbTextures/2019_share_30/share_30_animation/图层 1_42" x="1654" y="509" width="103" height="106"/>
+</TextureAtlas>

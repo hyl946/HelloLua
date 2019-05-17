@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3d22430891cb30f793af2473101db359:900403b8d22490a6755e019f1947e2eb:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/_/散开的云块" x="581" y="100" width="42" height="39"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/staranimaition" x="205" y="651" width="9" height="8" frameX="0" frameY="-1" frameWidth="9" frameHeight="10"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/txt" x="325" y="620" width="92" height="33"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/位图 12" x="2" y="123" width="265" height="393" frameX="-22" frameY="-21" frameWidth="307" frameHeight="437"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/元件 2" x="422" y="435" width="126" height="123" frameX="-10" frameY="-1" frameWidth="136" frameHeight="125"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/元件 42" x="269" y="435" width="151" height="94" frameX="-30" frameY="-45" frameWidth="209" frameHeight="206"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/元件 43" x="550" y="435" width="113" height="173" frameX="-38" frameY="-47" frameWidth="187" frameHeight="257"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/元件 44" x="2" y="518" width="201" height="149" frameX="-39" frameY="-83" frameWidth="321" frameHeight="321"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/元件 45" x="325" y="531" width="73" height="87" frameX="-34" frameY="-40" frameWidth="171" frameHeight="167"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/元件 46" x="419" y="611" width="41" height="44" frameX="-21" frameY="-14" frameWidth="95" frameHeight="90"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/元件 49" x="493" y="560" width="42" height="63"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/补间 9" x="400" y="560" width="91" height="49" frameX="-3" frameY="-8" frameWidth="103" frameHeight="71"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/重复项目文件夹/77star-li 副本 2" x="400" y="531" width="20" height="21" frameX="0" frameY="-1" frameWidth="20" frameHeight="23"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/重复项目文件夹/hongdai" x="2" y="2" width="560" height="119"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/重复项目文件夹/元件 27 副本" x="400" y="554" width="4" height="4"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/重复项目文件夹/元件 28 副本 2" x="205" y="518" width="10" height="10"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/重复项目文件夹/光圈" x="205" y="531" width="118" height="118"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/重复项目文件夹/加星闪光" x="269" y="123" width="310" height="310" frameX="-11" frameY="-11" frameWidth="332" frameHeight="332"/>
+    <SubTexture name="cdasfdhyd78cy7dsayufhds8ac976ds98fd77f6sgsdf/重复项目文件夹/渐变黄" x="564" y="2" width="96" height="96"/>
+</TextureAtlas>

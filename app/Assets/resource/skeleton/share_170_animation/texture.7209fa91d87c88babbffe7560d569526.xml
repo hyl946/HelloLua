@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ee5f32dff5b6781b7fba8c8458039fdf:13fcf4a70c0c2c33d9057871656c2ea3:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="share_170_animation/__resource/esgtghr" x="567" y="851" width="217" height="188" frameX="-13" frameY="-5" frameWidth="243" frameHeight="220"/>
+    <SubTexture name="share_170_animation/__resource/frgt" x="751" y="443" width="272" height="239" frameX="-30" frameY="-28" frameWidth="334" frameHeight="311"/>
+    <SubTexture name="share_170_animation/__resource/grhjyj 副本" x="751" y="2" width="336" height="439" frameX="-39" frameY="-19" frameWidth="406" frameHeight="479"/>
+    <SubTexture name="share_170_animation/__resource/grhjyj" x="2" y="468" width="432" height="439" frameX="-30" frameY="-19" frameWidth="490" frameHeight="479"/>
+    <SubTexture name="share_170_animation/__resource/handd" x="378" y="1037" width="47" height="40"/>
+    <SubTexture name="share_170_animation/__resource/rgththyr" x="469" y="2" width="280" height="726" frameX="-52" frameY="0" frameWidth="378" frameHeight="748"/>
+    <SubTexture name="share_170_animation/__resource/sefrth" x="786" y="979" width="117" height="63" frameX="-4" frameY="0" frameWidth="121" frameHeight="63"/>
+    <SubTexture name="share_170_animation/__resource/sgtheye" x="786" y="851" width="181" height="126" frameX="-18" frameY="-12" frameWidth="203" frameHeight="146"/>
+    <SubTexture name="share_170_animation/__resource/sgtrhy" x="2" y="909" width="563" height="126" frameX="0" frameY="-1" frameWidth="567" frameHeight="130"/>
+    <SubTexture name="share_170_animation/__resource/txt" x="2" y="1037" width="374" height="35"/>
+    <SubTexture name="share_170_animation/__resource/星星旋转动画" x="436" y="468" width="14" height="23" frameX="0" frameY="-1" frameWidth="14" frameHeight="27"/>
+    <SubTexture name="share_170_animation/__resource/渐变黄" x="969" y="851" width="96" height="96"/>
+    <SubTexture name="share_170_animation/__resource/重复项目文件夹/hongdai 副本 3" x="436" y="730" width="537" height="119"/>
+    <SubTexture name="share_170_animation/__resource/重复项目文件夹/htyjhyu" x="969" y="949" width="89" height="91" frameX="-7" frameY="-6" frameWidth="115" frameHeight="111"/>
+    <SubTexture name="share_170_animation/__resource/重复项目文件夹/位图 1 副本" x="2" y="2" width="465" height="464" frameX="-21" frameY="-22" frameWidth="511" frameHeight="512"/>
+    <SubTexture name="share_170_animation/__resource/重复项目文件夹/元件 26 副本 3" x="452" y="480" width="9" height="8" frameX="0" frameY="-1" frameWidth="9" frameHeight="10"/>
+    <SubTexture name="share_170_animation/__resource/重复项目文件夹/元件 27 副本 2" x="464" y="468" width="1" height="1" frameX="0" frameY="0" frameWidth="4" frameHeight="4"/>
+    <SubTexture name="share_170_animation/__resource/重复项目文件夹/元件 28 副本" x="452" y="468" width="10" height="10"/>
+</TextureAtlas>

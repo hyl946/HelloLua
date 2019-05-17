@@ -1,0 +1,4 @@
+"flg.send.gift.success" = "{num}个红包已成功发出！";
+"flg.send.pane.label" = "红包礼物免费提供，请安心发放";
+"recieve.panel.nointernet.tip" = "需联网才可拆红包呦~";
+"send.panel.nointernet.tip" = "需联网才可发红包呦~";

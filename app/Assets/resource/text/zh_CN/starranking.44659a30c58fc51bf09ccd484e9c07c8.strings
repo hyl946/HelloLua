@@ -1,0 +1,10 @@
+"starranking.nointernet.desc" = "网络未连接，请联网获得最新排行~";
+"xf.desc.panel.label.1" = "满星巅峰榜按照玩家达到满星的先后顺序排名";
+"xf.desc.panel.label.2" = "需要达到满星的关卡包括主线关、四星关及精英关";
+"xf.desc.panel.label.3" = "排行榜在新一批关卡解锁时刷新为新一轮";
+"xf.desc.panel.label.4" = "登上排行榜的玩家按照名次不同会获得不同数量的满星积分";
+"xf.desc.panel.label.5" = "前6名玩家可额外获得奖杯奖励，第7名到第500名玩家额外获得奖牌奖励";
+"xf.desc.panel.label.6" = "获得的奖励可在排行榜中点击玩家头像查看";
+"xf.desc.panel.label.7" = "前6名玩家还会获赠头像框，使用有效期截止到排行榜刷新时";
+"xf.rank.share.message" = "我登上了全国满星巅峰榜！想来挑战吗？";
+"xf.rank.share.title" = "星星大师！";

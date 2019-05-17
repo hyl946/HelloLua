@@ -1,0 +1,13 @@
+<TextureAtlas name="levelInfoNPCAnimation" imagePath="texture.png">
+ <SubTexture name="重复项目文件夹/元件 91" x="350" y="176" width="110" height="21"/>
+ <SubTexture name="重复项目文件夹/元件 115 副本" x="362" y="133" width="30" height="18"/>
+ <SubTexture name="重复项目文件夹/元件 86" x="362" y="72" width="45" height="60"/>
+ <SubTexture name="重复项目文件夹/元件 82" x="0" y="0" width="185" height="183"/>
+ <SubTexture name="重复项目文件夹/元件 85" x="362" y="0" width="73" height="71"/>
+ <SubTexture name="重复项目文件夹/元件 90" x="437" y="0" width="63" height="61"/>
+ <SubTexture name="重复项目文件夹/元件 3 副本 15" x="437" y="62" width="55" height="55"/>
+ <SubTexture name="重复项目文件夹/元件 84" x="186" y="160" width="163" height="90"/>
+ <SubTexture name="重复项目文件夹/元件 81" x="408" y="118" width="78" height="57"/>
+ <SubTexture name="重复项目文件夹/元件 80" x="186" y="0" width="175" height="159"/>
+ <SubTexture name="重复项目文件夹/元件 75" x="408" y="72" width="19" height="17"/>
+</TextureAtlas>

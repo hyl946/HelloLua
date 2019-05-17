@@ -1,0 +1,16 @@
+"privacy.policy.panel.btn.agree" = "同意";
+"privacy.policy.panel.btn.cancel" = "取消";
+"privacy.policy.panel.btn.continue" = "继续";
+"privacy.policy.panel.btn.disagree" = "不同意";
+"privacy.policy.panel.btn.think" = "再想想";
+"privacy.policy.panel.content.album" = "亲爱的玩家，为了上传图片修改头像，我们需要读取您的相册信息。我们承诺会严格限制使用范围或保密，请选择同意或不同意。";
+"privacy.policy.panel.content.camera" = "亲爱的玩家，为了上传图片修改头像，我们需要使用您的相机权限。我们承诺会严格限制使用范围或保密，请选择同意或不同意。";
+"privacy.policy.panel.content.contacts" = "亲爱的玩家，为了您方便添加通讯录好友，我们需要使用您的通讯录权限。我们承诺会严格限制使用范围或保密，请选择同意或不同意。";
+"privacy.policy.panel.content.default" = "亲爱的玩家，此操作可能会涉及到您的个人信息，但我们会对您所使用的内容予以严格保密，请您放心继续操作。点击继续才可以使用此功能。";
+"privacy.policy.panel.content.location" = "亲爱的玩家，为了方便个人信息的填写，我们需要使用您的位置权限。我们承诺会严格限制使用范围或保密，请选择同意或不同意。";
+"privacy.policy.panel.content.phone" = "亲爱的玩家，为了实现手机号登录，我们会做收集您的手机号，这个信息会拿来与消消乐号绑定，我们承诺会严格限制使用范围或保密，请选择同意或不同意。";
+"privacy.policy.panel.content.realreward" = "亲爱的玩家，为了方便给您发奖，我们需要收集您的姓名、电话、地址和身份证信息。我们承诺会严格限制使用范围或保密，请选择同意或不同意。";
+"privacy.policy.panel.content.summary" = "请放心，开心消消乐坚决保障您的信息安全，您的信息仅适用于为您提供服务或改善服务体验。如果您确实无法认同此政策，可点击“不同意”并退出游戏。";
+"privacy.policy.panel.title.1" = "隐私政策";
+"privacy.policy.panel.title.2" = "隐私保护提示";
+"privacy.policy.panel.title.3" = "政策说明";

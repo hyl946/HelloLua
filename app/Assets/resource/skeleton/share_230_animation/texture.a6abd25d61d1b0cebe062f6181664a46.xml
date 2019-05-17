@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:19552a7f9465200af400a33109f18698:6e740a6064a3e14b385a5092866d0ff5:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="share_230_animation/__resource/cdsafd7sa8cujdsa896f78ds6a78fdhsa7v86df7876gfdsgd/ffdd" x="2" y="2" width="550" height="548" frameX="-37" frameY="-44" frameWidth="628" frameHeight="616"/>
+    <SubTexture name="share_230_animation/__resource/cdsafd7sa8cujdsa896f78ds6a78fdhsa7v86df7876gfdsgd/vbnv" x="492" y="905" width="317" height="317" frameX="-25" frameY="-15" frameWidth="365" frameHeight="349"/>
+    <SubTexture name="share_230_animation/__resource/cdsafd7sa8cujdsa896f78ds6a78fdhsa7v86df7876gfdsgd/xingxing" x="2" y="1198" width="17" height="15"/>
+    <SubTexture name="share_230_animation/__resource/ge" x="2" y="552" width="488" height="486" frameX="0" frameY="-2" frameWidth="488" frameHeight="488"/>
+    <SubTexture name="share_230_animation/__resource/y" x="811" y="905" width="126" height="144" frameX="0" frameY="0" frameWidth="126" frameHeight="146"/>
+    <SubTexture name="share_230_animation/__resource/zsfghtf" x="554" y="2" width="394" height="523" frameX="-26" frameY="-2" frameWidth="456" frameHeight="539"/>
+    <SubTexture name="share_230_animation/__resource/元件 37" x="950" y="2" width="160" height="125" frameX="-2" frameY="0" frameWidth="162" frameHeight="137"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/hongdai 副本" x="554" y="527" width="537" height="119"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/l 副本 4" x="950" y="129" width="106" height="118" frameX="0" frameY="0" frameWidth="126" frameHeight="118"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/sefrth" x="811" y="1051" width="117" height="63" frameX="-4" frameY="0" frameWidth="121" frameHeight="63"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/sgtrhy" x="492" y="648" width="563" height="126" frameX="0" frameY="-1" frameWidth="567" frameHeight="130"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/txt" x="811" y="1116" width="374" height="35"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/元件 38 副本 2" x="2" y="1040" width="475" height="156" frameX="-2" frameY="0" frameWidth="479" frameHeight="160"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/元件 38 副本" x="492" y="776" width="503" height="127"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/元件 8" x="811" y="1153" width="71" height="69"/>
+    <SubTexture name="share_230_animation/__resource/重复项目文件夹/星星旋转动画" x="492" y="552" width="14" height="23" frameX="0" frameY="-1" frameWidth="14" frameHeight="27"/>
+</TextureAtlas>

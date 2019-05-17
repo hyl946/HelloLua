@@ -1,0 +1,5 @@
+"payment.delay.optimization.cancel" = "您确定要取消刷新吗？如果取消将不会立即获得购买的道具，若还遇到其他问题请联系客服。";
+"payment.delay.optimization.fail" = "很抱歉，本次支付失败，请将此问题页面截图反馈给客服，客服会帮您处理。";
+"payment.delay.optimization.network.problems" = "您目前的网络不太稳定，请您在网络情况良好时再次刷新重试~";
+"payment.delay.optimization.no.result" = "不好意思，本次尚未查询到支付结果，请您再次刷新~";
+"payment.delay.optimization.refresh" = "不好意思，您正在支付的订单未完成，如果您确认已扣费，请刷新重试~";

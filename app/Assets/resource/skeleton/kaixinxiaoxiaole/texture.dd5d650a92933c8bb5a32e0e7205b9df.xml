@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c712c77193a5d087b69bb73df2375ff8:0709cf6b04c4d5da12214ed8b62a243c:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="kxxxl/_res/元件 73 副本 2" x="524" y="496" width="51" height="49" frameX="-1" frameY="-1" frameWidth="61" frameHeight="59"/>
+    <SubTexture name="kxxxl/_res/元件 73 副本 3" x="640" y="445" width="41" height="39"/>
+    <SubTexture name="kxxxl/_res/元件 73 副本" x="524" y="445" width="61" height="49" frameX="0" frameY="-1" frameWidth="61" frameHeight="59"/>
+    <SubTexture name="kxxxl/_res/元件 73" x="587" y="445" width="51" height="49" frameX="-1" frameY="-1" frameWidth="57" frameHeight="55"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹 副本/元件 26 副本 4" x="524" y="547" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹 副本/元件 26 副本 5" x="641" y="526" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹 副本/元件 26 副本 6" x="577" y="528" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹 副本/元件 26 副本 7" x="609" y="526" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹 副本/元件 26 副本" x="577" y="496" width="30" height="30" frameX="-5" frameY="-7" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹/元件 2 副本 11" x="687" y="2" width="353" height="595" frameX="0" frameY="-41" frameWidth="355" frameHeight="675"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹/元件 70 副本" x="2" y="2" width="683" height="441" frameX="-5" frameY="-4" frameWidth="697" frameHeight="453"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹/元件 71 副本" x="640" y="486" width="36" height="38"/>
+    <SubTexture name="kxxxl/_res/重复项目文件夹/元件 77 副本 3" x="2" y="613" width="209" height="193" frameX="-2" frameY="-1" frameWidth="217" frameHeight="199"/>
+    <SubTexture name="kxxxl/transparent" x="683" y="445" width="1" height="1" frameX="0" frameY="0" frameWidth="17" frameHeight="17"/>
+    <SubTexture name="元件 4" x="2" y="445" width="520" height="166" frameX="-10" frameY="-13" frameWidth="550" frameHeight="220"/>
+</TextureAtlas>

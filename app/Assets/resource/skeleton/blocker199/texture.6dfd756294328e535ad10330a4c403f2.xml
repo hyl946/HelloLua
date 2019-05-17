@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5f5e0cf4fe5bd4e0026169fd05924adb:0930d64422417798fda3292ba3e21d43:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="caihong" x="2" y="2" width="244" height="105" frameX="0" frameY="0" frameWidth="248" frameHeight="107"/>
+    <SubTexture name="元件 1" x="73" y="241" width="64" height="14"/>
+    <SubTexture name="元件 28" x="147" y="109" width="71" height="68" frameX="-4" frameY="0" frameWidth="77" frameHeight="68"/>
+    <SubTexture name="元件 29" x="2" y="181" width="69" height="61" frameX="0" frameY="-2" frameWidth="69" frameHeight="65"/>
+    <SubTexture name="元件 3" x="148" y="223" width="66" height="40" frameX="0" frameY="0" frameWidth="70" frameHeight="44"/>
+    <SubTexture name="元件 4" x="220" y="109" width="56" height="56" frameX="0" frameY="0" frameWidth="58" frameHeight="58"/>
+    <SubTexture name="元件 5" x="148" y="179" width="70" height="42" frameX="0" frameY="-1" frameWidth="70" frameHeight="46"/>
+    <SubTexture name="元件 6" x="2" y="244" width="63" height="22" frameX="0" frameY="-3" frameWidth="63" frameHeight="28"/>
+    <SubTexture name="元件 7" x="74" y="180" width="72" height="59" frameX="-1" frameY="-2" frameWidth="76" frameHeight="63"/>
+    <SubTexture name="重复项目文件夹/xiaopao 副本" x="248" y="2" width="24" height="24"/>
+    <SubTexture name="重复项目文件夹/元件 11 副本 5" x="220" y="211" width="44" height="42" frameX="0" frameY="0" frameWidth="46" frameHeight="44"/>
+    <SubTexture name="重复项目文件夹/元件 15 副本" x="220" y="167" width="44" height="42" frameX="0" frameY="0" frameWidth="46" frameHeight="44"/>
+    <SubTexture name="重复项目文件夹/元件 2 副本 3" x="248" y="28" width="18" height="18"/>
+    <SubTexture name="重复项目文件夹/元件 26 副本 5" x="2" y="109" width="70" height="70"/>
+    <SubTexture name="重复项目文件夹/元件 8 副本 4" x="74" y="109" width="71" height="69"/>
+    <SubTexture name="重复项目文件夹/元件 9 副本" x="248" y="48" width="12" height="13"/>
+</TextureAtlas>

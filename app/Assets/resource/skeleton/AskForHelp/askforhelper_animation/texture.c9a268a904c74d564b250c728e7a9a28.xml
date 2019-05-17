@@ -1,0 +1,15 @@
+<TextureAtlas name="askforhelper_animation" imagePath="texture.png">
+ <SubTexture name="AskForHelp/res/AskForHelpButton/元件 46 副本" x="0" y="0" width="328" height="343"/>
+ <SubTexture name="AskForHelp/res/AskForHelpButton/元件 40" x="330" y="182" width="310" height="298"/>
+ <SubTexture name="AskForHelp/res/Guide/元件 2gg" x="330" y="0" width="468" height="181"/>
+ <SubTexture name="AskForHelp/res/Guide/元件 37" x="963" y="142" width="30" height="19"/>
+ <SubTexture name="AskForHelp/res/Guide/重复项目文件夹/元件 124 副本 5" x="963" y="99" width="32" height="42"/>
+ <SubTexture name="AskForHelp/res/Guide/元件 33" x="799" y="0" width="163" height="161"/>
+ <SubTexture name="AskForHelp/res/Guide/元件 22" x="641" y="182" width="83" height="82"/>
+ <SubTexture name="AskForHelp/res/Guide/元件 39" x="963" y="0" width="55" height="53"/>
+ <SubTexture name="AskForHelp/res/Guide/重复项目文件夹/元件 7 副本 6" x="998" y="55" width="20" height="9"/>
+ <SubTexture name="AskForHelp/res/Guide/元件 38" x="799" y="162" width="147" height="67"/>
+ <SubTexture name="AskForHelp/res/Guide/hh" x="963" y="55" width="34" height="43"/>
+ <SubTexture name="AskForHelp/res/Guide/b0" x="998" y="65" width="13" height="13"/>
+ <SubTexture name="AskForHelp/res/Guide/o1" x="1012" y="65" width="8" height="8"/>
+</TextureAtlas>

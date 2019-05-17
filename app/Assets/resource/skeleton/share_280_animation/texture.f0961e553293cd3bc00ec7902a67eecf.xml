@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:52e851da53bd82967509faec782671e3:5ca926265a7af2395fc47fd0857cf9e0:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="share_280/bg2" x="2" y="2" width="530" height="129" frameX="0" frameY="-14" frameWidth="530" frameHeight="143"/>
+    <SubTexture name="share_280/bvbnv" x="853" y="2" width="40" height="38" frameX="0" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="share_280/dfdf" x="468" y="321" width="306" height="393" frameX="-89" frameY="-43" frameWidth="460" frameHeight="483"/>
+    <SubTexture name="share_280/gu" x="2" y="133" width="464" height="464" frameX="-19" frameY="-19" frameWidth="502" frameHeight="502"/>
+    <SubTexture name="share_280/h" x="2" y="599" width="157" height="54" frameX="-36" frameY="-11" frameWidth="231" frameHeight="80"/>
+    <SubTexture name="share_280/tert 2" x="776" y="321" width="140" height="425" frameX="-7" frameY="0" frameWidth="158" frameHeight="435"/>
+    <SubTexture name="share_280/vbnv" x="534" y="2" width="317" height="317" frameX="-25" frameY="-15" frameWidth="365" frameHeight="349"/>
+    <SubTexture name="share_280/xingxing" x="895" y="2" width="17" height="15"/>
+    <SubTexture name="share_280/重复项目文件夹/探险图标2" x="2" y="748" width="129" height="155" frameX="-4" frameY="0" frameWidth="155" frameHeight="155"/>
+</TextureAtlas>

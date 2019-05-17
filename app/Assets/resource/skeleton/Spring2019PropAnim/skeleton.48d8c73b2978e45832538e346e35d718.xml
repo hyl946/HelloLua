@@ -1,0 +1,3646 @@
+<dragonBones name="Spring2019PropAnim" frameRate="24" version="2.3">
+ <armature name="Spring2019Anim/res/boomAnim">
+  <bone name="huang">
+   <transform x="-0.6" y="5.65" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="guang">
+   <transform x="-1.45" y="1" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="sdf">
+   <transform x="0.35" y="6.1" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="x">
+   <transform x="1.95" y="3.3" skX="0" skY="0" scX="0.76" scY="0.76"/>
+  </bone>
+  <bone name="x_0">
+   <transform x="-2.8" y="-4.55" skX="0" skY="0" scX="0.5" scY="0.5"/>
+  </bone>
+  <bone name="x_1">
+   <transform x="9.6" y="7.2" skX="0" skY="0" scX="0.57" scY="0.57"/>
+  </bone>
+  <bone name="x_2">
+   <transform x="3.6" y="10" skX="0" skY="0" scX="0.57" scY="0.57"/>
+  </bone>
+  <bone name="x_3">
+   <transform x="2.1" y="10.85" skX="0" skY="0" scX="0.74" scY="0.74"/>
+  </bone>
+  <bone name="x_4">
+   <transform x="-6.25" y="12.05" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="x_5">
+   <transform x="-0.5" y="17.55" skX="0" skY="0" scX="0.66" scY="0.66"/>
+  </bone>
+  <bone name="x_6">
+   <transform x="-0.05" y="13.75" skX="0" skY="0" scX="0.35" scY="0.35"/>
+  </bone>
+  <bone name="x_7">
+   <transform x="-7.8" y="3.75" skX="0" skY="0" scX="0.77" scY="0.77"/>
+  </bone>
+  <bone name="x_8">
+   <transform x="-9.95" y="2.95" skX="0" skY="0" scX="0.55" scY="0.55"/>
+  </bone>
+  <bone name="x_9">
+   <transform x="-5.55" y="5" skX="0" skY="0" scX="0.4" scY="0.4"/>
+  </bone>
+  <bone name="88">
+   <transform x="-2.15" y="2.9" skX="0" skY="0" scX="0.2" scY="0.2"/>
+  </bone>
+  <bone name="22">
+   <transform x="5.15" y="6.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="41">
+   <transform x="-0.1" y="7.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="huang" parent="huang" z="0">
+    <display name="Spring2019Anim/res/重复项目文件夹/渐变黄 副本" type="image">
+     <transform x="-236.5" y="-236.7" skX="0" skY="0" scX="1" scY="1" pX="-159.05" pY="-159.05"/>
+    </display>
+   </slot>
+   <slot name="guang" parent="guang" z="1">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 8 副本 2" type="image">
+     <transform x="-174.95" y="-167.85" skX="0" skY="0" scX="1" scY="1" pX="-78.2" pY="-78.2"/>
+    </display>
+   </slot>
+   <slot name="sdf" parent="sdf" z="2">
+    <display name="Spring2019Anim/res/重复项目文件夹/vbnv" type="image">
+     <transform x="-156" y="-155.85" skX="0" skY="0" scX="1" scY="1" pX="-100.9" pY="-100.9"/>
+    </display>
+   </slot>
+   <slot name="x" parent="x" z="3">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.75" y="-10.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_0" parent="x_0" z="4">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.85" y="-10.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_1" parent="x_1" z="5">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.6" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_2" parent="x_2" z="6">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.55" y="-10.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_3" parent="x_3" z="7">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.65" y="-10.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_4" parent="x_4" z="8">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.6" y="-10.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_5" parent="x_5" z="9">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.75" y="-10.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_6" parent="x_6" z="10">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.75" y="-10.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_7" parent="x_7" z="11">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.6" y="-10.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_8" parent="x_8" z="12">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.45" y="-10.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="x_9" parent="x_9" z="13">
+    <display name="Spring2019Anim/res/重复项目文件夹/xingxing" type="image">
+     <transform x="-3.75" y="-10.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="88" parent="88" z="14">
+    <display name="Spring2019Anim/res/重复项目文件夹/guang" type="image">
+     <transform x="-117.4" y="-134.9" skX="0" skY="0" scX="1" scY="1" pX="-54.85" pY="-71.05"/>
+    </display>
+   </slot>
+   <slot name="22" parent="22" z="15">
+    <display name="Spring2019Anim/res/重复项目文件夹/位图 1 副本 4" type="image">
+     <transform x="-49" y="-50" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/位图 6" type="image">
+     <transform x="-75.5" y="-76.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/重复项目文件夹/位图 9 副本" type="image">
+     <transform x="-132" y="-133.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/重复项目文件夹/位图 10 副本 2" type="image">
+     <transform x="-169" y="-144.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/位图 13" type="image">
+     <transform x="-158" y="-139" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="41" parent="41" z="16">
+    <display name="Spring2019Anim/res/位图 2" type="image">
+     <transform x="-30" y="-28" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/重复项目文件夹/位图 3" type="image">
+     <transform x="-45" y="-43" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/位图 4" type="image">
+     <transform x="-93.5" y="-87.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/位图 5" type="image">
+     <transform x="-119.5" y="-122" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/位图 7" type="image">
+     <transform x="-133.5" y="-140" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/位图 8" type="image">
+     <transform x="-126.5" y="-137.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/重复项目文件夹/位图 10" type="image">
+     <transform x="-135.5" y="-142.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/重复项目文件夹/位图 11" type="image">
+     <transform x="-126.5" y="-138.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="1" fadeInTime="0" duration="16" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="huang" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="-0.6" y="5.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="54" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="-0.95" y="5.35" skX="0" skY="0" scX="1.51" scY="1.51" pX="-0.15" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="54" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" duration="7">
+     <transform x="-1.15" y="5" skX="0" skY="0" scX="1.97" scY="1.97" pX="-0.3" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="guang" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="-1.45" y="1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="-1.45" y="0.95" skX="0" skY="0" scX="1.03" scY="1.03" pX="-0.2" pY="-0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="-1.5" y="1" skX="0" skY="0" scX="1.45" scY="1.45" pX="-0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="sdf" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="0.35" y="6.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="0.3" y="6.05" skX="0" skY="0" scX="2.2" scY="2.2" pX="0.1" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="62" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="0.3" y="6.05" skX="0" skY="0" scX="2.2" scY="2.2" pX="0.1" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="62" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" duration="7">
+     <transform x="0.25" y="6.1" skX="0" skY="0" scX="2.8" scY="2.8" pX="0.05" pY="-0.15"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="x" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="1.95" y="3.3" skX="0" skY="0" scX="0.76" scY="0.76" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="6">
+     <transform x="15.1" y="-10.2" skX="0" skY="0" scX="0.76" scY="0.76" pX="0.1" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="87.2" y="-57.95" skX="0" skY="0" scX="1.34" scY="1.34" pX="0" pY="0.1"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_0" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="-2.8" y="-4.55" skX="0" skY="0" scX="0.5" scY="0.5" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="6">
+     <transform x="-6.2" y="-26.35" skX="0" skY="0" scX="0.5" scY="0.5" pX="0.15" pY="-0.05"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="1">
+     <transform x="-89" y="-116.3" skX="0" skY="0" scX="0.5" scY="0.5" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_1" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="2">
+     <transform x="9.6" y="7.2" skX="0" skY="0" scX="0.57" scY="0.57" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="6">
+     <transform x="35.35" y="5.85" skX="0" skY="0" scX="0.56" scY="0.56" pX="-0.15" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="96.9" y="-5.55" skX="0" skY="0" scX="0.56" scY="0.56" pX="-0.35" pY="0"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_2" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="2">
+     <transform x="3.6" y="10" skX="0" skY="0" scX="0.57" scY="0.57" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="6">
+     <transform x="33.25" y="21.55" skX="0" skY="0" scX="0.44" scY="0.44" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="108.2" y="30.3" skX="0" skY="0" scX="0.39" scY="0.39" pX="-0.2" pY="-0.1"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_3" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="2">
+     <transform x="2.1" y="10.85" skX="0" skY="0" scX="0.74" scY="0.74" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="6">
+     <transform x="23.45" y="23.55" skX="0" skY="0" scX="0.7" scY="0.7" pX="-0.2" pY="0"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="95.1" y="67" skX="0" skY="0" scX="1.15" scY="1.15" pX="-0.15" pY="0.1"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_4" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="2">
+     <transform x="-6.25" y="12.05" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="6">
+     <transform x="-27.25" y="24.95" skX="0" skY="0" scX="1.23" scY="1.23" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="-107.55" y="60.9" skX="0" skY="0" scX="1.33" scY="1.33" pX="-0.2" pY="0.05"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_5" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="2">
+     <transform x="-0.5" y="17.55" skX="0" skY="0" scX="0.66" scY="0.66" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="6">
+     <transform x="0.8" y="42.6" skX="0" skY="0" scX="0.97" scY="0.97" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="1">
+     <transform x="5.05" y="104.8" skX="0" skY="0" scX="0.97" scY="0.97" pX="0" pY="-0.05"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_6" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="2">
+     <transform x="-0.05" y="13.75" skX="0" skY="0" scX="0.35" scY="0.35" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="6">
+     <transform x="3.25" y="27.1" skX="0" skY="0" scX="0.46" scY="0.46" pX="0" pY="0.2"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="1">
+     <transform x="27.35" y="99.4" skX="0" skY="0" scX="0.46" scY="0.46" pX="0.35" pY="0.1"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_7" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="2">
+     <transform x="-7.8" y="3.75" skX="0" skY="0" scX="0.77" scY="0.77" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="6">
+     <transform x="-27.95" y="-13.9" skX="0" skY="0" scX="1.08" scY="1.08" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="1">
+     <transform x="-87.3" y="-43.95" skX="0" skY="0" scX="1.08" scY="1.08" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_8" scale="1" offset="0">
+    <frame z="12" tweenEasing="0" duration="2">
+     <transform x="-9.95" y="2.95" skX="0" skY="0" scX="0.55" scY="0.55" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="6">
+     <transform x="-22.95" y="-7.7" skX="0" skY="0" scX="0.9" scY="0.9" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="1">
+     <transform x="-90.25" y="-19.45" skX="0" skY="0" scX="0.9" scY="0.9" pX="-0.05" pY="0.15"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="x_9" scale="1" offset="0">
+    <frame z="13" tweenEasing="0" duration="2">
+     <transform x="-5.55" y="5" skX="0" skY="0" scX="0.4" scY="0.4" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="6">
+     <transform x="-40.35" y="11.5" skX="0" skY="0" scX="0.47" scY="0.47" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="1">
+     <transform x="-74.05" y="25.7" skX="0" skY="0" scX="0.5" scY="0.5" pX="0.1" pY="-0.1"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="88" scale="1" offset="0">
+    <frame z="14" tweenEasing="0" duration="8">
+     <transform x="-2.15" y="2.9" skX="0" skY="0" scX="0.2" scY="0.2" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="5">
+     <transform x="-2.15" y="2.85" skX="0" skY="0" scX="0.47" scY="0.47" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="14" duration="3">
+     <transform x="-2.15" y="2.8" skX="0" skY="0" scX="0.28" scY="0.28" pX="0.1" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="22" scale="1" offset="0">
+    <frame z="15" duration="1">
+     <transform x="5.15" y="6.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" displayIndex="1" duration="1">
+     <transform x="5.95" y="7.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" displayIndex="2" duration="1">
+     <transform x="4.55" y="6.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" displayIndex="3" duration="1">
+     <transform x="-14.4" y="0.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" displayIndex="4" duration="1">
+     <transform x="0.45" y="-4.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="11" displayIndex="-1"/>
+   </timeline>
+   <timeline name="41" scale="1" offset="0">
+    <frame z="16" duration="2">
+     <transform x="-0.1" y="7.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="1" duration="1">
+     <transform x="8.1" y="1.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="2" duration="1">
+     <transform x="-0.9" y="7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="2" duration="2">
+     <transform x="-0.9" y="7" skX="0" skY="0" scX="1.19" scY="1.19" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="16" displayIndex="3" duration="2">
+     <transform x="-0.3" y="3.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="4" duration="2">
+     <transform x="-0.45" y="7.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="5" duration="2">
+     <transform x="-0.8" y="16.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="6" duration="2">
+     <transform x="-0.85" y="22.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="7" duration="1">
+     <transform x="4.55" y="28.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Spring2019Anim/res/i7">
+  <bone name="图层 2">
+   <transform x="0.45" y="-0.5" skX="0" skY="0" scX="0.91" scY="0.91"/>
+  </bone>
+  <bone name="ertert3">
+   <transform x="40.7" y="31.8" skX="0" skY="0" scX="0.74" scY="0.74"/>
+  </bone>
+  <bone name="ertert3_0">
+   <transform x="41.2" y="10.8" skX="0" skY="0" scX="0.4" scY="0.4"/>
+  </bone>
+  <bone name="ertert3_1">
+   <transform x="-44.7" y="16.4" skX="0" skY="0" scX="0.4" scY="0.4"/>
+  </bone>
+  <bone name="ertert3_2">
+   <transform x="-31.05" y="-39.65" skX="0" skY="0" scX="0.3" scY="0.3"/>
+  </bone>
+  <bone name="ertert3_3">
+   <transform x="38.9" y="-31.6" skX="0" skY="0" scX="0.52" scY="0.52"/>
+  </bone>
+  <bone name="ertert3_4">
+   <transform x="-43.1" y="-36.9" skX="0" skY="0" scX="0.47" scY="0.47"/>
+  </bone>
+  <bone name="ertert3_5">
+   <transform x="-40.3" y="26.65" skX="0" skY="0" scX="0.74" scY="0.74"/>
+  </bone>
+  <bone name="ertert3_6">
+   <transform x="-46.65" y="-12.3" skX="0" skY="0" scX="0.25" scY="0.25"/>
+  </bone>
+  <bone name="ertert3_7">
+   <transform x="25.55" y="-33.45" skX="0" skY="0" scX="0.4" scY="0.4"/>
+  </bone>
+  <bone name="ertert3_8">
+   <transform x="-0.25" y="45.8" skX="0" skY="0" scX="0.4" scY="0.4"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 2" parent="图层 2" z="0">
+    <display name="Spring2019Anim/res/重复项目文件夹/sdghy 副本 2" type="image">
+     <transform x="-51.15" y="-51.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="ertert3" parent="ertert3" z="1">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.45" y="-3.5" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_0" parent="ertert3_0" z="2">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.5" y="-3.5" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_1" parent="ertert3_1" z="3">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.5" y="-3.5" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_2" parent="ertert3_2" z="4">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.45" y="-3.5" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_3" parent="ertert3_3" z="5">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.4" y="-3.45" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_4" parent="ertert3_4" z="6">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.45" y="-3.45" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_5" parent="ertert3_5" z="7">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.45" y="-3.5" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_6" parent="ertert3_6" z="8">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.6" y="-3.6" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_7" parent="ertert3_7" z="9">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.5" y="-3.5" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+   <slot name="ertert3_8" parent="ertert3_8" z="10">
+    <display name="Spring2019Anim/res/ertert3" type="image">
+     <transform x="-3.5" y="-3.5" skX="0" skY="0" scX="1" scY="1" pX="9" pY="9"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="i7" fadeInTime="0" duration="20" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="7">
+     <transform x="0.45" y="-0.5" skX="0" skY="0" scX="0.91" scY="0.91" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="98" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="0.45" y="-0.5" skX="0" skY="0" scX="1.66" scY="1.66" pX="0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="12" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="6">
+     <transform x="40.7" y="31.8" skX="0" skY="0" scX="0.74" scY="0.74" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="12">
+     <transform x="59.75" y="38.75" skX="0" skY="0" scX="0.94" scY="0.94" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="70.9" y="42.2" skX="0" skY="0" scX="0.44" scY="0.44" pX="-0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_0" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="6">
+     <transform x="41.2" y="10.8" skX="0" skY="0" scX="0.4" scY="0.4" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="12">
+     <transform x="50.35" y="10.3" skX="0" skY="0" scX="0.51" scY="0.51" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="74.05" y="10.8" skX="0" skY="0" scX="0.24" scY="0.24" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_1" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="6">
+     <transform x="-44.7" y="16.4" skX="0" skY="0" scX="0.4" scY="0.4" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="12">
+     <transform x="-60.65" y="18.8" skX="0" skY="0" scX="0.51" scY="0.51" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="-77.05" y="21.3" skX="0" skY="0" scX="0.24" scY="0.24" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_2" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="6">
+     <transform x="-31.05" y="-39.65" skX="0" skY="0" scX="0.3" scY="0.3" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="12">
+     <transform x="-31.35" y="-50.15" skX="0" skY="0" scX="0.48" scY="0.48" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="-30.6" y="-58.55" skX="0" skY="0" scX="0.18" scY="0.18" pX="0.15" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_3" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="6">
+     <transform x="38.9" y="-31.6" skX="0" skY="0" scX="0.52" scY="0.52" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="12">
+     <transform x="58.85" y="-38.25" skX="0" skY="0" scX="0.84" scY="0.84" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="73.15" y="-42.95" skX="0" skY="0" scX="0.31" scY="0.31" pX="-0.1" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_4" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="6">
+     <transform x="-43.1" y="-36.9" skX="0" skY="0" scX="0.47" scY="0.47" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="12">
+     <transform x="-53.85" y="-48.95" skX="0" skY="0" scX="0.75" scY="0.75" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="-60.05" y="-56.4" skX="0" skY="0" scX="0.28" scY="0.28" pX="-0.15" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_5" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="6">
+     <transform x="-40.3" y="26.65" skX="0" skY="0" scX="0.74" scY="0.74" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="12">
+     <transform x="-68.75" y="35.15" skX="0" skY="0" scX="0.75" scY="0.75" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="-91.95" y="39.1" skX="0" skY="0" scX="0.44" scY="0.44" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_6" scale="1" offset="0">
+    <frame z="8" tweenEasing="0" duration="6">
+     <transform x="-46.65" y="-12.3" skX="0" skY="0" scX="0.25" scY="0.25" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="12">
+     <transform x="-64.85" y="-14.7" skX="0" skY="0" scX="0.5" scY="0.5" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="-81.65" y="-16.5" skX="0" skY="0" scX="0" scY="0" pX="-46" pY="3.6"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_7" scale="1" offset="0">
+    <frame z="9" tweenEasing="0" duration="6">
+     <transform x="25.55" y="-33.45" skX="0" skY="0" scX="0.4" scY="0.4" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="12">
+     <transform x="37.2" y="-50.7" skX="0" skY="0" scX="0.64" scY="0.64" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="45.1" y="-58.35" skX="0" skY="0" scX="0.24" scY="0.24" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ertert3_8" scale="1" offset="0">
+    <frame z="10" tweenEasing="0" duration="6">
+     <transform x="-0.25" y="45.8" skX="0" skY="0" scX="0.4" scY="0.4" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="12">
+     <transform x="-0.05" y="60.4" skX="0" skY="0" scX="0.64" scY="0.64" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="0.25" y="72.1" skX="0" skY="0" scX="0.24" scY="0.24" pX="0.15" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Spring2019Anim/Spring2019_Skill1Anim">
+  <bone name="bdsfe">
+   <transform x="159.15" y="107.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="788">
+   <transform x="4.7" y="145.65" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 5">
+   <transform x="168.35" y="108.4" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="ji">
+   <transform x="224.35" y="6.1" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="qingwa">
+   <transform x="22.85" y="40.35" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="qingwa_0">
+   <transform x="93.05" y="40.35" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="hema">
+   <transform x="49.75" y="107.15" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="qingwa_1">
+   <transform x="234.6" y="108.4" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="wer">
+   <transform x="153.05" y="176.4" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="tyt">
+   <transform x="174.75" y="148.3" skX="0" skY="0" scX="0.57" scY="0.57"/>
+  </bone>
+  <bone name="ji_0">
+   <transform x="191.2" y="38.2" skX="0" skY="0" scX="0.73" scY="0.73"/>
+  </bone>
+  <bone name="图层 7 复制">
+   <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73"/>
+  </bone>
+  <bone name="ji_0_0">
+   <transform x="118.7" y="107.15" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 9">
+   <transform x="189.4" y="67.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="werr">
+   <transform x="175" y="147.45" skX="0" skY="0" scX="0.57" scY="0.57"/>
+  </bone>
+  <bone name="add1">
+   <transform x="156.7" y="177.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="magic2_0">
+   <transform x="215.9" y="182.1" skX="0" skY="0" scX="0.83" scY="0.83"/>
+  </bone>
+  <bone name="图层 4">
+   <transform x="77.5" y="117.85" skX="0" skY="0" scX="1.08" scY="1.08"/>
+  </bone>
+  <bone name="gaoguang">
+   <transform x="154.7" y="86.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 15">
+   <transform x="154.8" y="165" skX="-85.77" skY="-85.77" scX="0.53" scY="1"/>
+  </bone>
+  <bone name="图层 3">
+   <transform x="158.65" y="107.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="bdsfe" parent="bdsfe" z="0">
+    <display name="Spring2019Anim/res/dj_tutorial_animation" type="image">
+     <transform x="-3.2" y="-2.6" skX="0" skY="0" scX="1" scY="1" pX="152.95" pY="105.3"/>
+    </display>
+   </slot>
+   <slot name="788" parent="788" z="1">
+    <display name="Spring2019Anim/res/dj bac_tutorial_animation" type="image">
+     <transform x="-3.2" y="-2.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="143.35"/>
+    </display>
+   </slot>
+   <slot name="图层 5" parent="图层 5" z="2">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-8.05" y="-26.05" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="ji" parent="ji" z="3">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="qingwa" parent="qingwa" z="4">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-8.05" y="-26.05" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="qingwa_0" parent="qingwa_0" z="5">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-8.05" y="-26.05" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="hema" parent="hema" z="6">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 31" type="image">
+     <transform x="-35.15" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="6.7" pY="2.25"/>
+    </display>
+   </slot>
+   <slot name="qingwa_1" parent="qingwa_1" z="7">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-8.05" y="-26.05" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="wer" parent="wer" z="8">
+    <display name="Spring2019Anim/res/whitecircle_tutorial_animation" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="34.8" pY="34.8"/>
+    </display>
+   </slot>
+   <slot name="tyt" parent="tyt" z="9">
+    <display name="Spring2019Anim/res/4344_tutorial_animation" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="19.8" pY="17.8"/>
+    </display>
+   </slot>
+   <slot name="ji_0" parent="ji_0" z="10">
+    <display name="Spring2019Anim/res/tutorial_animation_res/ji" type="image">
+     <transform x="-38.6" y="-38.6" skX="0" skY="0" scX="1" scY="1" pX="11.45" pY="12.9"/>
+    </display>
+   </slot>
+   <slot name="图层 7 复制" parent="图层 7 复制" z="11">
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0000.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0001.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0002.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0003.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0004.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0005.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0006.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0007.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0008.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0009.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0010.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0011.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0012.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0013.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0014.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0015.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0016.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0017.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0018.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0019.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0020.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0021.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0022.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0023.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0024.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0025.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0026.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0027.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0028.png 副本 2" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0029.png 副本" type="image">
+     <transform x="-59.5" y="-48.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="ji_0_0" parent="ji_0_0" z="12">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 31" type="image">
+     <transform x="-35.15" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="6.7" pY="2.25"/>
+    </display>
+   </slot>
+   <slot name="图层 9" parent="图层 9" z="13">
+    <display name="Spring2019Anim/res/i7" type="armature">
+     <transform x="-2.6" y="-23" skX="0" skY="0" scX="1" scY="1" pX="" pY=""/>
+    </display>
+   </slot>
+   <slot name="werr" parent="werr" z="14">
+    <display name="Spring2019Anim/res/sdbvyh_tutorial_animation" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="4.4" pY="9.65"/>
+    </display>
+   </slot>
+   <slot name="add1" parent="add1" z="15">
+    <display name="__dbTextures/Spring2019Anim/Spring2019_Skill1Anim/add1_0" type="image">
+     <transform x="-34.2" y="-25.7" skX="0" skY="0" scX="1" scY="1" pX="-3.75" pY="0"/>
+    </display>
+   </slot>
+   <slot name="magic2_0" parent="magic2_0" z="16">
+    <display name="Spring2019Anim/res/magic2" type="image">
+     <transform x="-45.35" y="-24.3" skX="0" skY="0" scX="1" scY="1" pX="20.6" pY="21.55"/>
+    </display>
+   </slot>
+   <slot name="图层 4" parent="图层 4" z="17">
+    <display name="Spring2019Anim/res/重复项目文件夹/vvf2 副本 3" type="image">
+     <transform x="-119" y="-134.85" skX="0" skY="0" scX="1" scY="1" pX="-44.8" pY="-22.35"/>
+    </display>
+   </slot>
+   <slot name="gaoguang" parent="gaoguang" z="18">
+    <display name="Spring2019Anim/res/gaoguang1 副本 2" type="image">
+     <transform x="-154" y="-86.85" skX="0" skY="0" scX="1" scY="1" pX="3" pY="2.65"/>
+    </display>
+   </slot>
+   <slot name="图层 15" parent="图层 15" z="19">
+    <display name="Spring2019Anim/res/重复项目文件夹/g 副本" type="image">
+     <transform x="-111.55" y="-5.7" skX="0" skY="0" scX="1" scY="1" pX="12" pY="18.95"/>
+    </display>
+   </slot>
+   <slot name="图层 3" parent="图层 3" z="20">
+    <display name="Spring2019Anim/res/元件 2" type="image">
+     <transform x="-154" y="-102.95" skX="0" skY="0" scX="1" scY="1" pX="5" pY="5"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="magic" fadeInTime="0.1" duration="42" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="bdsfe" scale="1" offset="0">
+    <frame z="0" duration="42">
+     <transform x="159.15" y="107.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="788" scale="1" offset="0">
+    <frame z="1" duration="42">
+     <transform x="4.7" y="145.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 5" scale="1" offset="0">
+    <frame z="2" duration="42">
+     <transform x="168.35" y="108.4" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="ji" scale="1" offset="0">
+    <frame z="3" duration="42">
+     <transform x="224.35" y="6.1" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="qingwa" scale="1" offset="0">
+    <frame z="4" duration="42">
+     <transform x="22.85" y="40.35" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="qingwa_0" scale="1" offset="0">
+    <frame z="5" duration="42">
+     <transform x="93.05" y="40.35" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="hema" scale="1" offset="0">
+    <frame z="6" duration="42">
+     <transform x="49.75" y="107.15" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="qingwa_1" scale="1" offset="0">
+    <frame z="7" duration="42">
+     <transform x="234.6" y="108.4" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="wer" scale="1" offset="0">
+    <frame z="8" duration="42">
+     <transform x="153.05" y="176.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="tyt" scale="1" offset="0">
+    <frame z="9" duration="42">
+     <transform x="174.75" y="148.3" skX="0" skY="0" scX="0.57" scY="0.57" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="ji_0" scale="1" offset="0">
+    <frame z="10" duration="12">
+     <transform x="191.2" y="38.2" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame duration="30" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 7 复制" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="11" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="1" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="2" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="3" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="4" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="5" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="6" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="7" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="8" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="9" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="10" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="11" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="12" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="13" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="14" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="15" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="16" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="17" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="18" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="19" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="20" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="21" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="22" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="23" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="24" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="25" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="26" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="27" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="28" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" displayIndex="29" duration="1">
+     <transform x="189.7" y="35.7" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="ji_0_0" scale="1" offset="0">
+    <frame z="12" duration="42">
+     <transform x="118.7" y="107.15" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 9" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="13" duration="19">
+     <transform x="189.4" y="67.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="11" displayIndex="-1"/>
+   </timeline>
+   <timeline name="werr" scale="1" offset="0">
+    <frame z="14" duration="42">
+     <transform x="175" y="147.45" skX="0" skY="0" scX="0.57" scY="0.57" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="add1" scale="1" offset="0">
+    <frame z="15" tweenEasing="NaN" duration="42">
+     <transform x="156.7" y="177.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="magic2_0" scale="1" offset="0">
+    <frame z="16" tweenEasing="0" duration="4">
+     <transform x="215.9" y="182.1" skX="0" skY="0" scX="0.83" scY="0.83" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="2">
+     <transform x="215.9" y="181.1" skX="12.71" skY="12.71" scX="0.83" scY="0.83" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="2">
+     <transform x="211.9" y="182.1" skX="-7.47" skY="-7.47" scX="0.83" scY="0.83" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="4">
+     <transform x="211.9" y="182.1" skX="-7.47" skY="-7.47" scX="0.83" scY="0.83" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="3">
+     <transform x="211.9" y="182.1" skX="-7.31" skY="-7.31" scX="0.83" scY="0.83" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="6">
+     <transform x="211.9" y="182.1" skX="-7.47" skY="-7.47" scX="0.83" scY="0.83" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="16" duration="1">
+     <transform x="244.95" y="206.1" skX="-7.47" skY="-7.47" scX="0.83" scY="0.83" pX="0" pY="0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="20" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 4" scale="1" offset="0">
+    <frame z="17" duration="42">
+     <transform x="77.5" y="117.85" skX="0" skY="0" scX="1.08" scY="1.08" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="40" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="gaoguang" scale="1" offset="0">
+    <frame z="18" duration="42">
+     <transform x="154.7" y="86.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 15" scale="1" offset="0">
+    <frame duration="7" displayIndex="-1"/>
+    <frame z="19" tweenEasing="0" duration="3">
+     <transform x="154.8" y="165" skX="-85.77" skY="-85.77" scX="0.53" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="4">
+     <transform x="162.75" y="116.75" skX="-76" skY="-76" scX="0.87" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="5">
+     <transform x="184.4" y="53.75" skX="-76.01" skY="-76.01" scX="1.15" scY="1" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="1">
+     <transform x="189.95" y="39.65" skX="-76.01" skY="-76.01" scX="0.23" scY="1" pX="-0.15" pY="0.05"/>
+    </frame>
+    <frame duration="22" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 3" scale="1" offset="0">
+    <frame z="20" duration="42">
+     <transform x="158.65" y="107.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Spring2019Anim/Spring2019_Skill2Anim">
+  <bone name="图层 8">
+   <transform x="152.25" y="85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="788">
+   <transform x="4.7" y="145.65" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 9">
+   <transform x="141.3" y="60.9" skX="0" skY="0" scX="0.99" scY="0.99"/>
+  </bone>
+  <bone name="图层 10">
+   <transform x="263.65" y="55.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 14">
+   <transform x="157.8" y="125.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 4">
+   <transform x="80" y="117.85" skX="0" skY="0" scX="1.07" scY="1.08"/>
+  </bone>
+  <bone name="gaoguang">
+   <transform x="154.7" y="86.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 11">
+   <transform x="158.65" y="107.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="whitecircle_tutorial_animation">
+   <transform x="153.05" y="176.4" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 28">
+   <transform x="154.3" y="174.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="bvnnbm">
+   <transform x="174.8" y="149.35" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 15">
+   <transform x="154.8" y="165" skX="-91.01" skY="-91.01" scX="0.53" scY="1"/>
+  </bone>
+  <bone name="magic2_0">
+   <transform x="215.9" y="182.1" skX="0" skY="0" scX="0.83" scY="0.83"/>
+  </bone>
+  <bone name="图层 13">
+   <transform x="87.3" y="77.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 8" parent="图层 8" z="0">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 2 副本" type="image">
+     <transform x="-156.15" y="-105.5" skX="0" skY="0" scX="1" scY="1" pX="-4.6" pY="-20.7"/>
+    </display>
+   </slot>
+   <slot name="788" parent="788" z="1">
+    <display name="Spring2019Anim/res/dj bac_tutorial_animation" type="image">
+     <transform x="-3.2" y="-2.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="143.35"/>
+    </display>
+   </slot>
+   <slot name="图层 9" parent="图层 9" z="2">
+    <display name="Spring2019Anim/res/元件 19" type="image">
+     <transform x="-160.55" y="-78.5" skX="0" skY="0" scX="1" scY="1" pX="291.8" pY="5"/>
+    </display>
+   </slot>
+   <slot name="图层 10" parent="图层 10" z="3">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 2 副本 3" type="image">
+     <transform x="-263.6" y="-75.85" skX="0" skY="0" scX="1" scY="1" pX="20.4" pY="18.05"/>
+    </display>
+   </slot>
+   <slot name="图层 14" parent="图层 14" z="4">
+    <display name="Spring2019Anim/res/i7" type="armature">
+     <transform x="-2.6" y="-23" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="图层 4" parent="图层 4" z="5">
+    <display name="Spring2019Anim/res/重复项目文件夹/vvf2 副本 3" type="image">
+     <transform x="-119.05" y="-134.85" skX="0" skY="0" scX="1" scY="1" pX="-44.8" pY="-22.35"/>
+    </display>
+   </slot>
+   <slot name="gaoguang" parent="gaoguang" z="6">
+    <display name="Spring2019Anim/res/gaoguang1 副本 2" type="image">
+     <transform x="-154" y="-86.85" skX="0" skY="0" scX="1" scY="1" pX="3" pY="2.65"/>
+    </display>
+   </slot>
+   <slot name="图层 11" parent="图层 11" z="7">
+    <display name="Spring2019Anim/res/元件 2" type="image">
+     <transform x="-154" y="-102.95" skX="0" skY="0" scX="1" scY="1" pX="5" pY="5"/>
+    </display>
+   </slot>
+   <slot name="whitecircle_tutorial_animation" parent="whitecircle_tutorial_animation" z="8">
+    <display name="Spring2019Anim/res/whitecircle_tutorial_animation" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="34.8" pY="34.8"/>
+    </display>
+   </slot>
+   <slot name="图层 28" parent="图层 28" z="9">
+    <display name="__dbTextures/Spring2019Anim/Spring2019_Skill2Anim/图层 28_0" type="image">
+     <transform x="-24.35" y="-19.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="1.2"/>
+    </display>
+   </slot>
+   <slot name="bvnnbm" parent="bvnnbm" z="10">
+    <display name="Spring2019Anim/res/bvnnbm" type="image">
+     <transform x="-11.25" y="-11.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 15" parent="图层 15" z="11">
+    <display name="Spring2019Anim/res/重复项目文件夹/g 副本" type="image">
+     <transform x="-111.65" y="-5.65" skX="0" skY="0" scX="1" scY="1" pX="12" pY="18.95"/>
+    </display>
+   </slot>
+   <slot name="magic2_0" parent="magic2_0" z="12">
+    <display name="Spring2019Anim/res/magic2" type="image">
+     <transform x="-45.35" y="-24.3" skX="0" skY="0" scX="1" scY="1" pX="20.6" pY="21.55"/>
+    </display>
+   </slot>
+   <slot name="图层 13" parent="图层 13" z="13">
+    <display name="Spring2019Anim/res/元件 26" type="image">
+     <transform x="-29.2" y="-18.3" skX="0" skY="0" scX="1" scY="1" pX="-5.45" pY="-10.45"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="back" fadeInTime="0" duration="60" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 8" scale="1" offset="0">
+    <frame z="0" duration="60">
+     <transform x="152.25" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="788" scale="1" offset="0">
+    <frame z="1" duration="60">
+     <transform x="4.7" y="145.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 9" scale="1" offset="0">
+    <frame z="2" duration="60">
+     <transform x="141.3" y="60.9" skX="0" skY="0" scX="0.99" scY="0.99" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 10" scale="1" offset="0">
+    <frame duration="25" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="263.65" y="55.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" duration="9">
+     <transform x="263.65" y="55.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="5">
+     <transform x="263.65" y="55.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="12">
+     <transform x="263.65" y="55.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="71" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="1">
+     <transform x="263.65" y="55.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="5" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 14" scale="1" offset="0">
+    <frame duration="23" displayIndex="-1"/>
+    <frame z="4" duration="20">
+     <transform x="157.8" y="125.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="17" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 4" scale="1" offset="0">
+    <frame z="5" duration="60">
+     <transform x="80" y="117.85" skX="0" skY="0" scX="1.07" scY="1.08" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="40" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="gaoguang" scale="1" offset="0">
+    <frame z="6" duration="60">
+     <transform x="154.7" y="86.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 11" scale="1" offset="0">
+    <frame z="7" duration="60">
+     <transform x="158.65" y="107.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="whitecircle_tutorial_animation" scale="1" offset="0">
+    <frame z="8" duration="60">
+     <transform x="153.05" y="176.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 28" scale="1" offset="0">
+    <frame z="9" tweenEasing="NaN" duration="60">
+     <transform x="154.3" y="174.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="bvnnbm" scale="1" offset="0">
+    <frame z="10" duration="60">
+     <transform x="174.8" y="149.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 15" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="11" tweenEasing="0" duration="3">
+     <transform x="154.8" y="165" skX="-91.01" skY="-91.01" scX="0.53" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="4">
+     <transform x="154.75" y="113.7" skX="-91" skY="-91" scX="1.19" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="5">
+     <transform x="154.8" y="109.8" skX="-91.01" skY="-91.01" scX="1.15" scY="1" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="154.75" y="99.05" skX="-91.01" skY="-91.01" scX="0.37" scY="1" pX="-0.05" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="35" displayIndex="-1"/>
+   </timeline>
+   <timeline name="magic2_0" scale="1" offset="0">
+    <frame z="12" tweenEasing="0" duration="4">
+     <transform x="215.9" y="182.1" skX="0" skY="0" scX="0.83" scY="0.83" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="2">
+     <transform x="215.9" y="181.1" skX="12.71" skY="12.71" scX="0.83" scY="0.83" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="2">
+     <transform x="211.9" y="182.1" skX="-7.47" skY="-7.47" scX="0.83" scY="0.83" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="4">
+     <transform x="211.9" y="182.1" skX="-7.47" skY="-7.47" scX="0.83" scY="0.83" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="3">
+     <transform x="211.9" y="182.1" skX="-7.31" skY="-7.31" scX="0.83" scY="0.83" pX="0" pY="0.15"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="6">
+     <transform x="211.9" y="182.1" skX="-7.47" skY="-7.47" scX="0.83" scY="0.83" pX="-0.05" pY="0.05"/>
+    </frame>
+    <frame z="12" duration="1">
+     <transform x="244.95" y="206.1" skX="-7.47" skY="-7.47" scX="0.83" scY="0.83" pX="0" pY="0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="38" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 13" scale="1" offset="0">
+    <frame duration="23" displayIndex="-1"/>
+    <frame z="13" tweenEasing="0" duration="8">
+     <transform x="87.3" y="77.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="16">
+     <transform x="87.3" y="72.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="4">
+     <transform x="87.3" y="54.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="9">
+     <transform x="87.3" y="46.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Spring2019Anim/Spring2019_Skill3Anim">
+  <bone name="bdsfe">
+   <transform x="159.15" y="107.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="788">
+   <transform x="260.35" y="108.75" skX="0" skY="0" scX="0.98" scY="0.98"/>
+  </bone>
+  <bone name="ji">
+   <transform x="14.15" y="74.7" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="qingwa">
+   <transform x="164.75" y="41.45" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="ji_1">
+   <transform x="120.7" y="37.6" skX="0" skY="0" scX="1.02" scY="1.02"/>
+  </bone>
+  <bone name="图层 9">
+   <transform x="119.15" y="107" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="ji_2">
+   <transform x="117.7" y="176.4" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 3">
+   <transform x="188.65" y="106.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 8">
+   <transform x="258.6" y="177.1" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="qingwa_0">
+   <transform x="46.45" y="176.4" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="hema">
+   <transform x="258.7" y="40.4" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="qingwa_1">
+   <transform x="164.75" y="177.3" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 14">
+   <transform x="50.1" y="106.75" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <bone name="图层 13">
+   <transform x="118" y="106.75" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <bone name="图层 10">
+   <transform x="118" y="174.1" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <bone name="图层 7">
+   <transform x="50.1" y="174.7" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <bone name="图层 18">
+   <transform x="189.9" y="41.05" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <bone name="图层 17">
+   <transform x="257.8" y="41.05" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <bone name="图层 16">
+   <transform x="257.8" y="108.4" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <bone name="图层 15">
+   <transform x="189.9" y="109" skX="0" skY="0" scX="0.87" scY="0.87"/>
+  </bone>
+  <bone name="图层 11">
+   <transform x="48.05" y="39.45" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 4">
+   <transform x="77.5" y="117.85" skX="0" skY="0" scX="1.08" scY="1.08"/>
+  </bone>
+  <bone name="gaoguang">
+   <transform x="154.7" y="86.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 12">
+   <transform x="159.15" y="107.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 5">
+   <transform x="258.6" y="177.1" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 5 复制">
+   <transform x="258.6" y="177.1" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 6">
+   <transform x="82.85" y="137.05" skX="0" skY="0" scX="0.57" scY="0.57"/>
+  </bone>
+  <bone name="图层 19">
+   <transform x="224" y="71.9" skX="0" skY="0" scX="0.57" scY="0.57"/>
+  </bone>
+  <skin name="default">
+   <slot name="bdsfe" parent="bdsfe" z="0">
+    <display name="Spring2019Anim/res/dj_tutorial_animation" type="image">
+     <transform x="-3.2" y="-2.6" skX="0" skY="0" scX="1" scY="1" pX="152.95" pY="105.3"/>
+    </display>
+   </slot>
+   <slot name="788" parent="788" z="1">
+    <display name="Spring2019Anim/res/tutorial_animation_res/owl无动画" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="35" pY="35"/>
+    </display>
+   </slot>
+   <slot name="ji" parent="ji" z="2">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="qingwa" parent="qingwa" z="3">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-8.05" y="-26.05" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="ji_1" parent="ji_1" z="4">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 6" type="image">
+     <transform x="-33.95" y="-33.95" skX="0" skY="0" scX="1" scY="1" pX="5.95" pY="3.6"/>
+    </display>
+   </slot>
+   <slot name="图层 9" parent="图层 9" z="5">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 31" type="image">
+     <transform x="-35.05" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="6.7" pY="2.25"/>
+    </display>
+   </slot>
+   <slot name="ji_2" parent="ji_2" z="6">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="-35.1" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="图层 3" parent="图层 3" z="7">
+    <display name="Spring2019Anim/res/重复项目文件夹/fox无动画" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="35" pY="35"/>
+    </display>
+   </slot>
+   <slot name="图层 8" parent="图层 8" z="8">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 31" type="image">
+     <transform x="-35.05" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="6.7" pY="2.25"/>
+    </display>
+   </slot>
+   <slot name="qingwa_0" parent="qingwa_0" z="9">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-30.2" y="-25.1" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="hema" parent="hema" z="10">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 31" type="image">
+     <transform x="-35.15" y="-35.15" skX="0" skY="0" scX="1" scY="1" pX="6.7" pY="2.25"/>
+    </display>
+   </slot>
+   <slot name="qingwa_1" parent="qingwa_1" z="11">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-8.05" y="-26.05" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="图层 14" parent="图层 14" z="12">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 4 副本 3" type="image">
+     <transform x="-38.25" y="-38.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 13" parent="图层 13" z="13">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 4 副本 3" type="image">
+     <transform x="-38.25" y="-38.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 10" parent="图层 10" z="14">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 4 副本 3" type="image">
+     <transform x="-38.25" y="-38.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 7" parent="图层 7" z="15">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 4 副本 3" type="image">
+     <transform x="-38.25" y="-38.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 18" parent="图层 18" z="16">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 4 副本 3" type="image">
+     <transform x="-38.3" y="-38.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 17" parent="图层 17" z="17">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 4 副本 3" type="image">
+     <transform x="-38.2" y="-38.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 16" parent="图层 16" z="18">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 4 副本 3" type="image">
+     <transform x="-38.2" y="-38.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 15" parent="图层 15" z="19">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 4 副本 3" type="image">
+     <transform x="-38.3" y="-38.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 11" parent="图层 11" z="20">
+    <display name="Spring2019Anim/res/重复项目文件夹/fox无动画" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="35" pY="35"/>
+    </display>
+   </slot>
+   <slot name="图层 4" parent="图层 4" z="21">
+    <display name="Spring2019Anim/res/重复项目文件夹/vvf2 副本 3" type="image">
+     <transform x="-119" y="-134.85" skX="0" skY="0" scX="1" scY="1" pX="-44.8" pY="-22.35"/>
+    </display>
+   </slot>
+   <slot name="gaoguang" parent="gaoguang" z="22">
+    <display name="Spring2019Anim/res/gaoguang1 副本 2" type="image">
+     <transform x="-154" y="-86.85" skX="0" skY="0" scX="1" scY="1" pX="3" pY="2.65"/>
+    </display>
+   </slot>
+   <slot name="图层 12" parent="图层 12" z="23">
+    <display name="Spring2019Anim/res/元件 2" type="image">
+     <transform x="-154" y="-102.95" skX="0" skY="0" scX="1" scY="1" pX="5" pY="5"/>
+    </display>
+   </slot>
+   <slot name="图层 5" parent="图层 5" z="24">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 15" type="image">
+     <transform x="-48.65" y="-47.1" skX="0" skY="0" scX="1" scY="1" pX="-5.2" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 5 复制" parent="图层 5 复制" z="25">
+    <display name="Spring2019Anim/res/重复项目文件夹/元件 15" type="image">
+     <transform x="-48.65" y="-47.1" skX="0" skY="0" scX="1" scY="1" pX="-5.2" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 6" parent="图层 6" z="26">
+    <display name="Spring2019Anim/res/boomAnim" type="armature">
+     <transform x="-0.8" y="-3.7" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="图层 19" parent="图层 19" z="27">
+    <display name="Spring2019Anim/res/boomAnim" type="armature">
+     <transform x="-0.8" y="-3.7" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="lineandboomb" fadeInTime="0.1" duration="75" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="bdsfe" scale="1" offset="0">
+    <frame z="0" duration="75">
+     <transform x="159.15" y="107.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="788" scale="1" offset="0">
+    <frame z="1" duration="24">
+     <transform x="260.35" y="108.75" skX="0" skY="0" scX="0.98" scY="0.98" pX="0" pY="0"/>
+    </frame>
+    <frame duration="51" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ji" scale="1" offset="0">
+    <frame z="2" duration="21">
+     <transform x="14.15" y="74.7" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="54" displayIndex="-1"/>
+   </timeline>
+   <timeline name="qingwa" scale="1" offset="0">
+    <frame z="3" duration="24">
+     <transform x="164.75" y="41.45" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="51" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ji_1" scale="1" offset="0">
+    <frame z="4" duration="75">
+     <transform x="120.7" y="37.6" skX="0" skY="0" scX="1.02" scY="1.02" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 9" scale="1" offset="0">
+    <frame z="5" duration="21">
+     <transform x="119.15" y="107" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="54" displayIndex="-1"/>
+   </timeline>
+   <timeline name="ji_2" scale="1" offset="0">
+    <frame z="6" duration="21">
+     <transform x="117.7" y="176.4" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="54" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 3" scale="1" offset="0">
+    <frame z="7" duration="24">
+     <transform x="188.65" y="106.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="51" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 8" scale="1" offset="0">
+    <frame z="8" duration="75">
+     <transform x="258.6" y="177.1" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="qingwa_0" scale="1" offset="0">
+    <frame z="9" duration="21">
+     <transform x="46.45" y="176.4" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="54" displayIndex="-1"/>
+   </timeline>
+   <timeline name="hema" scale="1" offset="0">
+    <frame z="10" duration="24">
+     <transform x="258.7" y="40.4" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="51" displayIndex="-1"/>
+   </timeline>
+   <timeline name="qingwa_1" scale="1" offset="0">
+    <frame z="11" duration="75">
+     <transform x="164.75" y="177.3" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 14" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="12" tweenEasing="0" duration="6">
+     <transform x="50.1" y="106.75" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="11">
+     <transform x="50.1" y="106.75" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="1">
+     <transform x="50.1" y="106.75" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="45" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 13" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="13" tweenEasing="0" duration="6">
+     <transform x="118" y="106.75" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="11">
+     <transform x="118" y="106.75" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="1">
+     <transform x="118" y="106.75" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="45" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 10" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="14" tweenEasing="0" duration="6">
+     <transform x="118" y="174.1" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="11">
+     <transform x="118" y="174.1" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="1">
+     <transform x="118" y="174.1" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="45" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 7" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="15" tweenEasing="0" duration="6">
+     <transform x="50.1" y="174.7" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="11">
+     <transform x="50.1" y="174.7" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="1">
+     <transform x="50.1" y="174.7" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="45" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 18" scale="1" offset="0">
+    <frame duration="15" displayIndex="-1"/>
+    <frame z="16" tweenEasing="0" duration="6">
+     <transform x="189.9" y="41.05" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="11">
+     <transform x="189.9" y="41.05" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="1">
+     <transform x="189.9" y="41.05" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="42" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 17" scale="1" offset="0">
+    <frame duration="15" displayIndex="-1"/>
+    <frame z="17" tweenEasing="0" duration="6">
+     <transform x="257.8" y="41.05" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="11">
+     <transform x="257.8" y="41.05" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="1">
+     <transform x="257.8" y="41.05" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="42" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 16" scale="1" offset="0">
+    <frame duration="15" displayIndex="-1"/>
+    <frame z="18" tweenEasing="0" duration="6">
+     <transform x="257.8" y="108.4" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="11">
+     <transform x="257.8" y="108.4" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="1">
+     <transform x="257.8" y="108.4" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="42" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 15" scale="1" offset="0">
+    <frame duration="15" displayIndex="-1"/>
+    <frame z="19" tweenEasing="0" duration="6">
+     <transform x="189.9" y="109" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="11">
+     <transform x="189.9" y="109" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="1">
+     <transform x="189.9" y="109" skX="0" skY="0" scX="0.87" scY="0.87" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="42" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 11" scale="1" offset="0">
+    <frame z="20" duration="75">
+     <transform x="48.05" y="39.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 4" scale="1" offset="0">
+    <frame z="21" duration="75">
+     <transform x="77.5" y="117.85" skX="0" skY="0" scX="1.08" scY="1.08" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="40" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="gaoguang" scale="1" offset="0">
+    <frame z="22" duration="75">
+     <transform x="154.7" y="86.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 12" scale="1" offset="0">
+    <frame z="23" duration="75">
+     <transform x="159.15" y="107.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 5" scale="1" offset="0">
+    <frame z="24" tweenEasing="0" duration="9">
+     <transform x="258.6" y="177.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="24" tweenEasing="0" duration="5">
+     <transform x="85.55" y="133.65" skX="55.94" skY="55.94" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="24" duration="1">
+     <transform x="85.6" y="133.7" skX="55.93" skY="55.93" scX="1.65" scY="1.65" pX="-0.05" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="60" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 5 复制" scale="1" offset="0">
+    <frame duration="3" displayIndex="-1"/>
+    <frame z="25" tweenEasing="0" duration="9">
+     <transform x="258.6" y="177.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="5">
+     <transform x="220.15" y="79.8" skX="55.94" skY="55.94" scX="1" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="25" duration="1">
+     <transform x="220.2" y="79.85" skX="55.93" skY="55.93" scX="1.65" scY="1.65" pX="-0.1" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="57" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 6" scale="1" offset="0">
+    <frame duration="14" displayIndex="-1"/>
+    <frame z="26" duration="61">
+     <transform x="82.85" y="137.05" skX="0" skY="0" scX="0.57" scY="0.57" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 19" scale="1" offset="0">
+    <frame duration="17" displayIndex="-1"/>
+    <frame z="27" duration="58">
+     <transform x="224" y="71.9" skX="0" skY="0" scX="0.57" scY="0.57" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Spring2019Anim/Spring2019_Skill4Anim">
+  <bone name="bdsfe">
+   <transform x="159.15" y="107.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="788">
+   <transform x="13.25" y="141.65" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 5 复制">
+   <transform x="256.65" y="38.1" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="ji">
+   <transform x="221.85" y="6.1" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="qingwa">
+   <transform x="114.8" y="108.65" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="ji_1">
+   <transform x="188.4" y="39" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 5 复制_0">
+   <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73"/>
+  </bone>
+  <bone name="图层 7">
+   <transform x="117.6" y="39.8" skX="0" skY="0" scX="0.98" scY="0.98"/>
+  </bone>
+  <bone name="ji_2">
+   <transform x="47.05" y="41.85" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 5 复制_1">
+   <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73"/>
+  </bone>
+  <bone name="图层 3">
+   <transform x="187.55" y="106.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 8">
+   <transform x="221.85" y="140.5" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="qingwa_0">
+   <transform x="112.7" y="173.35" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="hema">
+   <transform x="46.65" y="107.45" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 5">
+   <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73"/>
+  </bone>
+  <bone name="图层 6">
+   <transform x="154.3" y="141.65" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 5 复制_2">
+   <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73"/>
+  </bone>
+  <bone name="qingwa_1">
+   <transform x="232.1" y="108.4" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="图层 4">
+   <transform x="77.5" y="117.85" skX="0" skY="0" scX="1.08" scY="1.08"/>
+  </bone>
+  <bone name="gaoguang">
+   <transform x="154.7" y="86.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 5 复制_3">
+   <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73"/>
+  </bone>
+  <bone name="图层 12">
+   <transform x="159.15" y="107.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 15">
+   <transform x="154.55" y="104.9" skX="0" skY="0" scX="0.34" scY="0.34"/>
+  </bone>
+  <bone name="图层 11">
+   <transform x="257.85" y="157.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="图层 10">
+   <transform x="147.8" y="120.65" skX="143.98" skY="142.47" scX="0.1" scY="1"/>
+  </bone>
+  <bone name="图层 10  复制 2">
+   <transform x="142.65" y="101.65" skX="-152.57" skY="-154.08" scX="0.1" scY="1"/>
+  </bone>
+  <bone name="图层 10 复制">
+   <transform x="173.8" y="101.4" skX="151.3" skY="152.81" scX="-0.1" scY="1"/>
+  </bone>
+  <bone name="图层 10  复制 2_0">
+   <transform x="173.8" y="101.4" skX="112.83" skY="114.35" scX="-0.1" scY="1"/>
+  </bone>
+  <bone name="图层 10   复制 3">
+   <transform x="156.25" y="129.35" skX="-112.17" skY="-110.65" scX="-0.1" scY="1"/>
+  </bone>
+  <bone name="图层 10  复制 2_1">
+   <transform x="169.4" y="109.65" skX="-136.48" skY="-134.97" scX="-0.1" scY="1"/>
+  </bone>
+  <bone name="图层 2 复制">
+   <transform x="48.15" y="172.7" skX="0" skY="0" scX="0.45" scY="0.45"/>
+  </bone>
+  <bone name="图层 2  复制 2">
+   <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.45" scY="0.45"/>
+  </bone>
+  <bone name="图层 2   复制 3">
+   <transform x="47.25" y="38.1" skX="0" skY="0" scX="0.45" scY="0.45"/>
+  </bone>
+  <bone name="图层 2   复制 3_0">
+   <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.45" scY="0.45"/>
+  </bone>
+  <bone name="图层 2    复制 4">
+   <transform x="188.9" y="40.95" skX="0" skY="0" scX="0.45" scY="0.45"/>
+  </bone>
+  <bone name="图层 2     复制 5">
+   <transform x="188.75" y="174.1" skX="0" skY="0" scX="0.45" scY="0.45"/>
+  </bone>
+  <skin name="default">
+   <slot name="bdsfe" parent="bdsfe" z="0">
+    <display name="Spring2019Anim/res/dj_tutorial_animation" type="image">
+     <transform x="-3.2" y="-2.6" skX="0" skY="0" scX="1" scY="1" pX="152.95" pY="105.3"/>
+    </display>
+   </slot>
+   <slot name="788" parent="788" z="1">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="图层 5 复制" parent="图层 5 复制" z="2">
+    <display name="Spring2019Anim/res/元件 1" type="image">
+     <transform x="-34.65" y="-43.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0000.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0001.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0002.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0003.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0004.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0005.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0006.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0007.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0008.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0010.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0011.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0012.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0013.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0014.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0015.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0016.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0017.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0018.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0019.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0020.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0021.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0022.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0023.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0024.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0025.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0026.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0027.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0028.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0029.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0030.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="ji" parent="ji" z="3">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="qingwa" parent="qingwa" z="4">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="-35.1" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="ji_1" parent="ji_1" z="5">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="-35.1" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="图层 5 复制_0" parent="图层 5 复制_0" z="6">
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0000.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0001.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0002.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0003.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0004.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0005.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0006.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0007.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0008.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0010.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0011.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0012.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0013.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0014.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0015.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0016.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0017.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0018.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0019.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0020.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0021.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0022.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0023.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0024.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0025.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0026.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0027.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0028.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0029.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0030.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 7" parent="图层 7" z="7">
+    <display name="Spring2019Anim/res/tutorial_animation_res/owl无动画" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="35" pY="35"/>
+    </display>
+   </slot>
+   <slot name="ji_2" parent="ji_2" z="8">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="-35.15" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="图层 5 复制_1" parent="图层 5 复制_1" z="9">
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0000.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0001.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0002.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0003.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0004.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0005.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0006.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0007.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0008.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0010.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0011.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0012.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0013.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0014.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0015.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0016.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0017.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0018.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0019.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0020.png 副本 4" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0021.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0022.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0023.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0024.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0025.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0026.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0027.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0028.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0029.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0030.png" type="image">
+     <transform x="-47.45" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 3" parent="图层 3" z="10">
+    <display name="Spring2019Anim/res/重复项目文件夹/fox无动画" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="35" pY="35"/>
+    </display>
+   </slot>
+   <slot name="图层 8" parent="图层 8" z="11">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="qingwa_0" parent="qingwa_0" z="12">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-30.25" y="-25.1" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="hema" parent="hema" z="13">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 31" type="image">
+     <transform x="-35.15" y="-35.1" skX="0" skY="0" scX="1" scY="1" pX="6.7" pY="2.25"/>
+    </display>
+   </slot>
+   <slot name="图层 5" parent="图层 5" z="14">
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0000.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0001.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0002.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0003.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0004.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0005.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0006.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0007.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0008.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0010.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0011.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0012.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0013.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0014.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0015.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0016.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0017.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0018.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0019.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0020.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0021.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0022.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0023.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0024.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0025.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0026.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0027.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0028.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0029.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0030.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 6" parent="图层 6" z="15">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 28" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="-1.9" pY="2.1"/>
+    </display>
+   </slot>
+   <slot name="图层 5 复制_2" parent="图层 5 复制_2" z="16">
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0000.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0001.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0002.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0003.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0004.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0005.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0006.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0007.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0008.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0010.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0011.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0012.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0013.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0014.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0015.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0016.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0017.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0018.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0019.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0020.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0021.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0022.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0023.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0024.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0025.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0026.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0027.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0028.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0029.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0030.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="qingwa_1" parent="qingwa_1" z="17">
+    <display name="Spring2019Anim/res/tutorial_animation_res/元件 24" type="image">
+     <transform x="-8.05" y="-26.05" skX="0" skY="0" scX="1" scY="1" pX="1.75" pY="10.7"/>
+    </display>
+   </slot>
+   <slot name="图层 4" parent="图层 4" z="18">
+    <display name="Spring2019Anim/res/重复项目文件夹/vvf2 副本 3" type="image">
+     <transform x="-119" y="-134.85" skX="0" skY="0" scX="1" scY="1" pX="-44.8" pY="-22.35"/>
+    </display>
+   </slot>
+   <slot name="gaoguang" parent="gaoguang" z="19">
+    <display name="Spring2019Anim/res/gaoguang1 副本 2" type="image">
+     <transform x="-154" y="-86.85" skX="0" skY="0" scX="1" scY="1" pX="3" pY="2.65"/>
+    </display>
+   </slot>
+   <slot name="图层 5 复制_3" parent="图层 5 复制_3" z="20">
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0000.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0001.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0002.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0003.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0004.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0005.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0006.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0007.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0008.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0010.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0011.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0012.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0013.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0014.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0015.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0016.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0017.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0018.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0019.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0020.png 副本 4" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0021.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0022.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0023.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0024.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0025.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0026.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0027.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0028.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0029.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+    <display name="Spring2019Anim/res/tutorial_animation_res/frame_0030.png" type="image">
+     <transform x="-47.5" y="-60" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 12" parent="图层 12" z="21">
+    <display name="Spring2019Anim/res/元件 2" type="image">
+     <transform x="-154" y="-102.95" skX="0" skY="0" scX="1" scY="1" pX="5" pY="5"/>
+    </display>
+   </slot>
+   <slot name="图层 15" parent="图层 15" z="22">
+    <display name="Spring2019Anim/res/res/rqgwagfvw" type="image">
+     <transform x="-110" y="-106.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 11" parent="图层 11" z="23">
+    <display name="Spring2019Anim/res/元件 18" type="image">
+     <transform x="-48.85" y="-36.4" skX="0" skY="0" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+    </display>
+   </slot>
+   <slot name="图层 10" parent="图层 10" z="24" blendMode="add">
+    <display name="Spring2019Anim/res/res/eertertr 副本" type="image">
+     <transform x="-65.5" y="6.25" skX="0" skY="0" scX="1" scY="1" pX="187.7" pY="48.65"/>
+    </display>
+   </slot>
+   <slot name="图层 10  复制 2" parent="图层 10  复制 2" z="25" blendMode="add">
+    <display name="Spring2019Anim/res/res/eertertr 副本" type="image">
+     <transform x="-65.5" y="6.25" skX="0" skY="0" scX="1" scY="1" pX="187.7" pY="48.65"/>
+    </display>
+   </slot>
+   <slot name="图层 10 复制" parent="图层 10 复制" z="26" blendMode="add">
+    <display name="Spring2019Anim/res/res/eertertr 副本" type="image">
+     <transform x="-65.05" y="6.25" skX="0" skY="0" scX="1" scY="1" pX="187.7" pY="48.65"/>
+    </display>
+   </slot>
+   <slot name="图层 10  复制 2_0" parent="图层 10  复制 2_0" z="27" blendMode="add">
+    <display name="Spring2019Anim/res/res/eertertr 副本" type="image">
+     <transform x="-64.7" y="6.2" skX="0" skY="0" scX="1" scY="1" pX="187.7" pY="48.65"/>
+    </display>
+   </slot>
+   <slot name="图层 10   复制 3" parent="图层 10   复制 3" z="28" blendMode="add">
+    <display name="Spring2019Anim/res/res/eertertr 副本" type="image">
+     <transform x="-65" y="6.15" skX="0" skY="0" scX="1" scY="1" pX="187.7" pY="48.65"/>
+    </display>
+   </slot>
+   <slot name="图层 10  复制 2_1" parent="图层 10  复制 2_1" z="29" blendMode="add">
+    <display name="Spring2019Anim/res/res/eertertr 副本" type="image">
+     <transform x="-64.95" y="6.2" skX="0" skY="0" scX="1" scY="1" pX="187.7" pY="48.65"/>
+    </display>
+   </slot>
+   <slot name="图层 2 复制" parent="图层 2 复制" z="30">
+    <display name="Spring2019Anim/res/res/rqgwagfvw 副本" type="image">
+     <transform x="-110" y="-106.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 2  复制 2" parent="图层 2  复制 2" z="31">
+    <display name="Spring2019Anim/res/res/rqgwagfvw 副本" type="image">
+     <transform x="-110" y="-106.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 2   复制 3" parent="图层 2   复制 3" z="32">
+    <display name="Spring2019Anim/res/res/rqgwagfvw 副本" type="image">
+     <transform x="-110" y="-106.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 2   复制 3_0" parent="图层 2   复制 3_0" z="33">
+    <display name="Spring2019Anim/res/res/rqgwagfvw 副本" type="image">
+     <transform x="-110" y="-106.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 2    复制 4" parent="图层 2    复制 4" z="34">
+    <display name="Spring2019Anim/res/res/rqgwagfvw 副本" type="image">
+     <transform x="-110" y="-106.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="图层 2     复制 5" parent="图层 2     复制 5" z="35">
+    <display name="Spring2019Anim/res/res/rqgwagfvw 副本" type="image">
+     <transform x="-110" y="-106.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="moliniao" fadeInTime="0" duration="56" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="bdsfe" scale="1" offset="0">
+    <frame z="0" duration="56">
+     <transform x="159.15" y="107.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="788" scale="1" offset="0">
+    <frame z="1" duration="26">
+     <transform x="13.25" y="141.65" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="30" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 5 复制" scale="1" offset="0">
+    <frame z="2" duration="26">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" displayIndex="1" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="2" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="3" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="4" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="5" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="6" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="7" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="8" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="9" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="10" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="11" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="12" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="13" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="14" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="15" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="16" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="17" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="18" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="19" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="20" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="21" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="22" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="23" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="24" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="25" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="26" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="27" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="28" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="29" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" displayIndex="30" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="ji" scale="1" offset="0">
+    <frame z="3" duration="26">
+     <transform x="221.85" y="6.1" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="30" displayIndex="-1"/>
+   </timeline>
+   <timeline name="qingwa" scale="1" offset="0">
+    <frame z="4" duration="56">
+     <transform x="114.8" y="108.65" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="ji_1" scale="1" offset="0">
+    <frame z="5" duration="26">
+     <transform x="188.4" y="39" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="30" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 5 复制_0" scale="1" offset="0">
+    <frame duration="26" displayIndex="-1"/>
+    <frame z="6" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="1" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="2" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="3" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="4" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="5" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="6" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="7" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="8" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="9" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="10" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="11" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="12" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="13" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="14" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="15" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="16" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="17" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="18" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="19" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="20" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="21" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="22" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="23" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="24" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="25" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="26" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="27" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="28" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" displayIndex="29" duration="1">
+     <transform x="188.9" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 7" scale="1" offset="0">
+    <frame z="7" duration="56">
+     <transform x="117.6" y="39.8" skX="0" skY="0" scX="0.98" scY="0.98" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="ji_2" scale="1" offset="0">
+    <frame z="8" duration="26">
+     <transform x="47.05" y="41.85" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="30" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 5 复制_1" scale="1" offset="0">
+    <frame duration="26" displayIndex="-1"/>
+    <frame z="9" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="1" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="2" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="3" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="4" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="5" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="6" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="7" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="8" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="9" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="10" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="11" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="12" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="13" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="14" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="15" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="16" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="17" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="18" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="19" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="20" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="21" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="22" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="23" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="24" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="25" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="26" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="27" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="28" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" displayIndex="29" duration="1">
+     <transform x="47.85" y="38.1" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 3" scale="1" offset="0">
+    <frame z="10" duration="56">
+     <transform x="187.55" y="106.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 8" scale="1" offset="0">
+    <frame z="11" duration="26">
+     <transform x="221.85" y="140.5" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="30" displayIndex="-1"/>
+   </timeline>
+   <timeline name="qingwa_0" scale="1" offset="0">
+    <frame z="12" duration="56">
+     <transform x="112.7" y="173.35" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="hema" scale="1" offset="0">
+    <frame z="13" duration="56">
+     <transform x="46.65" y="107.45" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 5" scale="1" offset="0">
+    <frame duration="26" displayIndex="-1"/>
+    <frame z="14" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="1" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="2" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="3" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="4" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="5" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="6" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="7" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="8" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="9" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="10" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="11" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="12" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="13" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="14" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="15" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="16" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="17" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="18" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="19" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="20" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="21" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="22" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="23" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="24" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="25" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="26" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="27" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="28" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" displayIndex="29" duration="1">
+     <transform x="48.2" y="172.95" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 6" scale="1" offset="0">
+    <frame z="15" duration="26">
+     <transform x="154.3" y="141.65" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame duration="30" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 5 复制_2" scale="1" offset="0">
+    <frame duration="26" displayIndex="-1"/>
+    <frame z="16" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="1" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="2" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="3" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="4" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="5" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="6" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="7" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="8" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="9" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="10" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="11" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="12" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="13" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="14" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="15" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="16" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="17" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="18" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="19" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="20" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="21" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="22" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="23" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="24" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="25" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="26" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="27" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="28" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" displayIndex="29" duration="1">
+     <transform x="191.1" y="171.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="qingwa_1" scale="1" offset="0">
+    <frame z="17" duration="56">
+     <transform x="232.1" y="108.4" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 4" scale="1" offset="0">
+    <frame z="18" duration="56">
+     <transform x="77.5" y="117.85" skX="0" skY="0" scX="1.08" scY="1.08" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="40" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="gaoguang" scale="1" offset="0">
+    <frame z="19" duration="56">
+     <transform x="154.7" y="86.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 5 复制_3" scale="1" offset="0">
+    <frame duration="26" displayIndex="-1"/>
+    <frame z="20" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="1" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="2" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="3" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="4" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="5" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="6" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="7" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="8" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="9" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="10" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="11" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="12" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="13" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="14" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="15" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="16" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="17" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="18" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="19" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="20" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="21" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="22" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="23" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="24" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="25" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="26" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="27" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="28" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" displayIndex="29" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 12" scale="1" offset="0">
+    <frame z="21" duration="56">
+     <transform x="159.15" y="107.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="图层 15" scale="1" offset="0">
+    <frame z="22" tweenEasing="0" duration="15">
+     <transform x="154.55" y="104.9" skX="0" skY="0" scX="0.34" scY="0.34" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="1">
+     <transform x="154.55" y="104.9" skX="0" skY="0" scX="0.34" scY="0.34" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="6">
+     <transform x="154.55" y="104.9" skX="0" skY="0" scX="0.34" scY="0.34" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="34" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="22" duration="1">
+     <transform x="154.55" y="104.9" skX="0" skY="0" scX="0.69" scY="0.69" pX="0" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="33" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 11" scale="1" offset="0">
+    <frame z="23" tweenEasing="0" duration="6">
+     <transform x="257.85" y="157.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="2">
+     <transform x="157" y="98.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="2">
+     <transform x="157" y="98.25" skX="0" skY="0" scX="0.86" scY="0.86" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="23" duration="6">
+     <transform x="157" y="98.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="3">
+     <transform x="157" y="98.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="3">
+     <transform x="157" y="98.25" skX="0" skY="0" scX="1.25" scY="1.25" pX="0" pY="0"/>
+    </frame>
+    <frame z="23" duration="1">
+     <transform x="157" y="98.25" skX="0" skY="0" scX="0.88" scY="0.88" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="33" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 10" scale="1" offset="0">
+    <frame z="24" tweenEasing="0" duration="18">
+     <transform x="147.8" y="120.65" skX="143.98" skY="142.47" scX="0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="24" tweenEasing="0" duration="1">
+     <transform x="147.8" y="120.65" skX="143.98" skY="142.47" scX="0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="24" tweenEasing="0" duration="5">
+     <transform x="147.8" y="120.65" skX="143.98" skY="142.47" scX="0.1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="24" tweenEasing="0" duration="2">
+     <transform x="51.95" y="178.7" skX="149.68" skY="148.17" scX="0.56" scY="1" pX="-0.1" pY="-0.1"/>
+    </frame>
+    <frame z="24" tweenEasing="0" duration="1">
+     <transform x="47.4" y="181.15" skX="149.68" skY="148.13" scX="0.12" scY="1" pX="-0.25" pY="-0.15"/>
+    </frame>
+    <frame duration="29" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 10  复制 2" scale="1" offset="0">
+    <frame z="25" tweenEasing="0" duration="18">
+     <transform x="142.65" y="101.65" skX="-152.57" skY="-154.08" scX="0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="1">
+     <transform x="142.65" y="101.65" skX="-152.57" skY="-154.08" scX="0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="5">
+     <transform x="142.65" y="101.65" skX="-152.57" skY="-154.08" scX="0.1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="2">
+     <transform x="47.85" y="41.85" skX="-146.87" skY="-148.38" scX="0.56" scY="1" pX="-0.15" pY="-0.1"/>
+    </frame>
+    <frame z="25" tweenEasing="0" duration="1">
+     <transform x="43.65" y="38.9" skX="-146.87" skY="-148.42" scX="0.12" scY="1" pX="-0.3" pY="-0.15"/>
+    </frame>
+    <frame duration="29" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 10 复制" scale="1" offset="0">
+    <frame z="26" tweenEasing="0" duration="18">
+     <transform x="173.8" y="101.4" skX="151.3" skY="152.81" scX="-0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="26" tweenEasing="0" duration="1">
+     <transform x="173.8" y="101.4" skX="151.3" skY="152.81" scX="-0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="26" tweenEasing="0" duration="5">
+     <transform x="173.8" y="101.4" skX="151.3" skY="152.81" scX="-0.1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="26" tweenEasing="0" duration="2">
+     <transform x="267.25" y="39.45" skX="145.6" skY="147.11" scX="-0.56" scY="1" pX="-0.7" pY="-0.1"/>
+    </frame>
+    <frame z="26" tweenEasing="0" duration="1">
+     <transform x="271.4" y="36.45" skX="145.6" skY="147.15" scX="-0.12" scY="1" pX="-0.8" pY="-0.1"/>
+    </frame>
+    <frame duration="29" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 10  复制 2_0" scale="1" offset="0">
+    <frame z="27" tweenEasing="0" duration="18">
+     <transform x="173.8" y="101.4" skX="112.83" skY="114.35" scX="-0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="27" tweenEasing="0" duration="1">
+     <transform x="173.8" y="101.4" skX="112.83" skY="114.35" scX="-0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="27" tweenEasing="0" duration="5">
+     <transform x="173.8" y="101.4" skX="112.83" skY="114.35" scX="-0.1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="27" tweenEasing="0" duration="2">
+     <transform x="198.55" y="14" skX="107.13" skY="108.64" scX="-0.56" scY="1" pX="-1" pY="0"/>
+    </frame>
+    <frame z="27" tweenEasing="0" duration="1">
+     <transform x="190.75" y="29.9" skX="107.13" skY="108.68" scX="-0.12" scY="1" pX="-1.6" pY="0"/>
+    </frame>
+    <frame duration="29" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 10   复制 3" scale="1" offset="0">
+    <frame z="28" tweenEasing="0" duration="18">
+     <transform x="156.25" y="129.35" skX="-112.17" skY="-110.65" scX="-0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="28" tweenEasing="0" duration="1">
+     <transform x="156.25" y="129.35" skX="-112.17" skY="-110.65" scX="-0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="28" tweenEasing="0" duration="5">
+     <transform x="156.25" y="129.35" skX="-112.17" skY="-110.65" scX="-0.1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="28" tweenEasing="0" duration="2">
+     <transform x="200.55" y="208.65" skX="-117.87" skY="-116.36" scX="-0.56" scY="1" pX="-0.75" pY="0.1"/>
+    </frame>
+    <frame z="28" tweenEasing="0" duration="1">
+     <transform x="194.8" y="191.9" skX="-117.87" skY="-116.32" scX="-0.12" scY="1" pX="-1.2" pY="0.1"/>
+    </frame>
+    <frame duration="29" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 10  复制 2_1" scale="1" offset="0">
+    <frame z="29" tweenEasing="0" duration="18">
+     <transform x="169.4" y="109.65" skX="-136.48" skY="-134.97" scX="-0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="29" tweenEasing="0" duration="1">
+     <transform x="169.4" y="109.65" skX="-136.48" skY="-134.97" scX="-0.1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="29" tweenEasing="0" duration="5">
+     <transform x="169.4" y="109.65" skX="-136.48" skY="-134.97" scX="-0.1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="29" tweenEasing="0" duration="2">
+     <transform x="256.9" y="179.75" skX="-142.18" skY="-140.67" scX="-0.56" scY="1" pX="-0.85" pY="0"/>
+    </frame>
+    <frame z="29" tweenEasing="0" duration="1">
+     <transform x="261.05" y="182.8" skX="-142.18" skY="-140.63" scX="-0.12" scY="1" pX="-1.35" pY="-0.05"/>
+    </frame>
+    <frame duration="29" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2 复制" scale="1" offset="0">
+    <frame z="30" tweenEasing="0" duration="24">
+     <transform x="48.15" y="172.7" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="30" tweenEasing="0" duration="1">
+     <transform x="48.15" y="172.7" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="30" tweenEasing="0" duration="3">
+     <transform x="48.15" y="172.7" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="30" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="30" tweenEasing="0" duration="3">
+     <transform x="48.15" y="172.7" skX="0" skY="0" scX="0.27" scY="0.27" pX="0.15" pY="0.25"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="47" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="30" tweenEasing="0" duration="1">
+     <transform x="48.15" y="172.7" skX="0" skY="0" scX="0.09" scY="0.09" pX="0" pY="0.25"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2  复制 2" scale="1" offset="0">
+    <frame z="31" tweenEasing="0" duration="24">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="31" tweenEasing="0" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="31" tweenEasing="0" duration="3">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="30" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="31" tweenEasing="0" duration="3">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.27" scY="0.27" pX="0.2" pY="0.2"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="47" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="31" tweenEasing="0" duration="1">
+     <transform x="256.65" y="38.1" skX="0" skY="0" scX="0.09" scY="0.09" pX="0" pY="0.2"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2   复制 3" scale="1" offset="0">
+    <frame z="32" tweenEasing="0" duration="24">
+     <transform x="47.25" y="38.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="32" tweenEasing="0" duration="1">
+     <transform x="47.25" y="38.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="32" tweenEasing="0" duration="3">
+     <transform x="47.25" y="38.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="30" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="32" tweenEasing="0" duration="3">
+     <transform x="47.25" y="38.1" skX="0" skY="0" scX="0.27" scY="0.27" pX="0.2" pY="0.2"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="47" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="32" tweenEasing="0" duration="1">
+     <transform x="47.25" y="38.1" skX="0" skY="0" scX="0.09" scY="0.09" pX="0" pY="0.2"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2   复制 3_0" scale="1" offset="0">
+    <frame z="33" tweenEasing="0" duration="24">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="33" tweenEasing="0" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="33" tweenEasing="0" duration="3">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="30" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="33" tweenEasing="0" duration="3">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.27" scY="0.27" pX="0.2" pY="0.15"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="47" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="33" tweenEasing="0" duration="1">
+     <transform x="256.65" y="171.75" skX="0" skY="0" scX="0.09" scY="0.09" pX="0" pY="0.2"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2    复制 4" scale="1" offset="0">
+    <frame z="34" tweenEasing="0" duration="24">
+     <transform x="188.9" y="40.95" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="34" tweenEasing="0" duration="1">
+     <transform x="188.9" y="40.95" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="34" tweenEasing="0" duration="3">
+     <transform x="188.9" y="40.95" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="30" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="34" tweenEasing="0" duration="3">
+     <transform x="188.9" y="40.95" skX="0" skY="0" scX="0.27" scY="0.27" pX="0.2" pY="0.25"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="47" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="34" tweenEasing="0" duration="1">
+     <transform x="188.9" y="40.95" skX="0" skY="0" scX="0.09" scY="0.09" pX="0" pY="0.25"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2     复制 5" scale="1" offset="0">
+    <frame z="35" tweenEasing="0" duration="24">
+     <transform x="188.75" y="174.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="35" tweenEasing="0" duration="1">
+     <transform x="188.75" y="174.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="35" tweenEasing="0" duration="3">
+     <transform x="188.75" y="174.1" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="30" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="35" tweenEasing="0" duration="3">
+     <transform x="188.75" y="174.1" skX="0" skY="0" scX="0.27" scY="0.27" pX="0.2" pY="0.2"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="47" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="35" tweenEasing="0" duration="1">
+     <transform x="188.75" y="174.1" skX="0" skY="0" scX="0.09" scY="0.09" pX="0" pY="0.25"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

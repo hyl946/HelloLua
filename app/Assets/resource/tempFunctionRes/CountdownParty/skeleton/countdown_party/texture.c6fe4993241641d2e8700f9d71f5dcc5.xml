@@ -1,0 +1,79 @@
+<TextureAtlas name="countdown_party" imagePath="texture.png">
+ <SubTexture name="countdown_party_2017/others/元件 101" x="0" y="357" width="110" height="81"/>
+ <SubTexture name="countdown_party_2017/others/元件 100" x="727" y="467" width="31" height="22"/>
+ <SubTexture name="countdown_party_2017/others/元件 99" x="444" y="426" width="44" height="36"/>
+ <SubTexture name="countdown_party_2017/others/元件 102" x="953" y="132" width="62" height="65"/>
+ <SubTexture name="countdown_party_2017/others/元件 75" x="928" y="283" width="88" height="92"/>
+ <SubTexture name="countdown_party_2017/others/元件 72" x="501" y="283" width="88" height="106"/>
+ <SubTexture name="countdown_party_2017/others/元件 76" x="479" y="265" width="21" height="18"/>
+ <SubTexture name="countdown_party_2017/others/元件 89" x="797" y="150" width="138" height="107"/>
+ <SubTexture name="countdown_party_2017/others/元件 90" x="343" y="145" width="157" height="119"/>
+ <SubTexture name="countdown_party_2017/others/元件 88" x="444" y="360" width="53" height="65"/>
+ <SubTexture name="countdown_party_2017/others/元件 87" x="111" y="361" width="55" height="51"/>
+ <SubTexture name="countdown_party_2017/others/元件 86" x="297" y="406" width="33" height="32"/>
+ <SubTexture name="countdown_party_2017/others/元件 103" x="648" y="448" width="89" height="15"/>
+ <SubTexture name="countdown_party_2017/others/元件 81" x="140" y="172" width="39" height="52"/>
+ <SubTexture name="countdown_party_2017/others/元件 85" x="538" y="464" width="35" height="28"/>
+ <SubTexture name="countdown_party_2017/others/元件 71" x="648" y="464" width="40" height="21"/>
+ <SubTexture name="countdown_party_2017/others/元件 70" x="753" y="402" width="42" height="32"/>
+ <SubTexture name="countdown_party_2017/others/元件 68" x="297" y="439" width="33" height="32"/>
+ <SubTexture name="countdown_party_2017/others/元件 67" x="883" y="431" width="37" height="31"/>
+ <SubTexture name="countdown_party_2017/others/元件 28" x="753" y="435" width="40" height="31"/>
+ <SubTexture name="countdown_party_2017/others/元件 98" x="689" y="464" width="37" height="21"/>
+ <SubTexture name="countdown_party_2017/others/元件 97" x="312" y="239" width="27" height="26"/>
+ <SubTexture name="countdown_party_2017/others/元件 94" x="753" y="359" width="42" height="42"/>
+ <SubTexture name="countdown_party_2017/others/元件 94 副本" x="140" y="280" width="39" height="39"/>
+ <SubTexture name="countdown_party_2017/others/元件 123" x="616" y="268" width="44" height="49"/>
+ <SubTexture name="countdown_party_2017/others/元件 125" x="577" y="431" width="70" height="46"/>
+ <SubTexture name="countdown_party_2017/others/元件 127" x="664" y="0" width="148" height="145"/>
+ <SubTexture name="countdown_party_2017/others/元件 124" x="590" y="380" width="50" height="50"/>
+ <SubTexture name="countdown_party_2017/others/元件 129" x="331" y="436" width="86" height="46"/>
+ <SubTexture name="countdown_party_2017/others/元件 122" x="162" y="427" width="101" height="74"/>
+ <SubTexture name="countdown_party_2017/others/元件 121" x="340" y="265" width="138" height="94"/>
+ <SubTexture name="countdown_party_2017/重复项目文件夹/chicken_foot 副本" x="936" y="150" width="16" height="18"/>
+ <SubTexture name="countdown_party_2017/重复项目文件夹/chicken_wings2 副本" x="140" y="321" width="34" height="39"/>
+ <SubTexture name="countdown_party_2017/重复项目文件夹/chicken_body 副本 2" x="921" y="376" width="96" height="87"/>
+ <SubTexture name="countdown_party_2017/重复项目文件夹/chicken_hat 副本" x="264" y="427" width="32" height="33"/>
+ <SubTexture name="countdown_party_2017/重复项目文件夹/chicken_wings1 副本" x="312" y="205" width="28" height="33"/>
+ <SubTexture name="countdown_party_2017/重复项目文件夹/chicken_mouse 副本" x="86" y="455" width="63" height="34"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 12" x="501" y="148" width="114" height="134"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 14" x="797" y="258" width="89" height="145"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 16" x="664" y="146" width="132" height="117"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 17" x="796" y="404" width="86" height="62"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 22" x="616" y="208" width="46" height="59"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 20" x="887" y="359" width="33" height="35"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 19" x="887" y="395" width="33" height="35"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 25" x="506" y="0" width="157" height="147"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 65" x="953" y="0" width="66" height="68"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 7" x="167" y="370" width="129" height="55"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 62" x="653" y="359" width="99" height="88"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹/元件 28 副本" x="111" y="413" width="50" height="41"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 67" x="331" y="360" width="112" height="75"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 12 副本" x="180" y="143" width="131" height="146"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 14" x="813" y="0" width="139" height="149"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 16" x="344" y="0" width="161" height="144"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 17 副本" x="498" y="390" width="78" height="73"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 22 副本" x="616" y="148" width="46" height="59"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 19" x="297" y="370" width="33" height="35"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 25" x="0" y="0" width="179" height="170"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 7 副本" x="180" y="290" width="150" height="79"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 62" x="663" y="264" width="113" height="93"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 28 副本" x="883" y="463" width="37" height="29"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/重复项目文件夹 副本/元件 67" x="0" y="272" width="139" height="84"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 68" x="0" y="172" width="139" height="99"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 70" x="887" y="315" width="32" height="43"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 71" x="312" y="143" width="30" height="61"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 72" x="463" y="463" width="31" height="25"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 72 副本" x="495" y="464" width="42" height="26"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 75" x="965" y="464" width="38" height="16"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 75 副本" x="921" y="464" width="43" height="15"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 76" x="887" y="258" width="40" height="56"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 121" x="0" y="440" width="85" height="38"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 81" x="590" y="318" width="61" height="61"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 82" x="936" y="199" width="83" height="83"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 91" x="953" y="69" width="68" height="62"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 86" x="180" y="0" width="163" height="142"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 130" x="140" y="225" width="34" height="54"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 87" x="264" y="461" width="32" height="24"/>
+ <SubTexture name="countdown_party_2018/tankginvingres/元件 88" x="418" y="463" width="44" height="31"/>
+</TextureAtlas>

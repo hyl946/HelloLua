@@ -1,0 +1,92 @@
+<dragonBones name="LadybugFourStarAnimation" frameRate="24" version="2.3">
+ <armature name="dgdfh">
+  <bone name="图层 4">
+   <transform x="471.05" y="-99.6" skX="0" skY="0" scX="0.257202" scY="0.257202"/>
+  </bone>
+  <bone name="元件 12">
+   <transform x="507.15" y="-101.4" skX="-71.71" skY="-71.71" scX="1.276947" scY="1.276947"/>
+  </bone>
+  <bone name="图层 6">
+   <transform x="897" y="92.6" skX="-43.84" skY="-43.84" scX="1.276871" scY="1.276871"/>
+  </bone>
+  <bone name="图层 2">
+   <transform x="496.3" y="-98.4" skX="-42.04" skY="-42.04" scX="1.276825" scY="1.276825"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 4" parent="图层 4" z="0">
+    <display name="nn" type="image">
+     <transform x="-139" y="-27.2" skX="0" skY="0" scX="1" scY="1" pX="-10.75" pY="21.7"/>
+    </display>
+   </slot>
+   <slot name="元件 12" parent="元件 12" z="1">
+    <display name="重复项目文件夹/元件 12 副本 2" type="image">
+     <transform x="-21.45" y="-26.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="-0.15"/>
+    </display>
+   </slot>
+   <slot name="图层 6" parent="图层 6" z="2">
+    <display name="元件 12 副本 2" type="image">
+     <transform x="-21.35" y="-26.4" skX="0" skY="0" scX="1" scY="1" pX="8.05" pY="-0.15"/>
+    </display>
+   </slot>
+   <slot name="图层 2" parent="图层 2" z="3">
+    <display name="元件 12 副本 2" type="image">
+     <transform x="-21.3" y="-26.4" skX="0" skY="0" scX="1" scY="1" pX="8.05" pY="-0.15"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="ui" fadeInTime="0" duration="100" scale="1" loop="1" autoTween="1" tweenEasing="NaN">
+   <timeline name="图层 4" scale="1" offset="0">
+    <frame duration="12" displayIndex="-1"/>
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="471.05" y="-99.6" skX="0" skY="0" scX="0.257202" scY="0.257202" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="7" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="380" y="-49.65" skX="0" skY="0" scX="1.070618" scY="1.070618" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="388" y="-56.65" skX="0" skY="0" scX="0.949234" scY="0.949234" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame z="0" duration="47">
+     <transform x="388" y="-56.65" skX="0" skY="0" scX="1" scY="1" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="5">
+     <transform x="388" y="-56.65" skX="0" skY="0" scX="1" scY="1" pX="0.15" pY="0.1"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="471.05" y="-99.6" skX="0" skY="0" scX="0.257202" scY="0.257202" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="7" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="25" displayIndex="-1"/>
+   </timeline>
+   <timeline name="元件 12" scale="1" offset="0">
+    <frame duration="10" displayIndex="-1"/>
+    <frame z="1" duration="66">
+     <transform x="507.15" y="-101.4" skX="-71.71" skY="-71.71" scX="1.276947" scY="1.276947" pX="0" pY="0"/>
+    </frame>
+    <frame duration="24" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 6" scale="1" offset="0">
+    <frame z="2" tweenEasing="0.4" duration="9">
+     <transform x="897" y="92.6" skX="-43.84" skY="-43.84" scX="1.276871" scY="1.276871" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="546.7" y="-88" skX="-62.93" skY="-62.93" scX="1.274841" scY="1.274841" pX="0.05" pY="0.05"/>
+    </frame>
+    <frame duration="90" displayIndex="-1"/>
+   </timeline>
+   <timeline name="图层 2" scale="1" offset="0">
+    <frame duration="76" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0" duration="10">
+     <transform x="496.3" y="-98.4" skX="-42.04" skY="-42.04" scX="1.276825" scY="1.276825" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="13">
+     <transform x="423.5" y="-236.6" skX="20.71" skY="20.71" scX="1.276825" scY="1.276825" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="871.15" y="-470.95" skX="82.64" skY="82.64" scX="1.276825" scY="1.276825" pX="-0.05" pY="-0.05"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

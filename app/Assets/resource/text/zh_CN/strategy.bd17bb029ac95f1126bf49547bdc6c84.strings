@@ -1,0 +1,14 @@
+"strategy.playback1" = "重新播放";
+"strategy.playback10" = "过关回放播放出错啦~";
+"strategy.playback11" = "无法获取过关回放，请连接网络";
+"strategy.playback12" = "过关失败了么，去看看村长怎么通过关卡的吧，通过关卡回放页面可以看到村长过关的视频。";
+"strategy.playback13" = "其他关卡失败多次后，也会出现村长的过关回放，关卡回放有助于通过关卡，不要错过哦。";
+"strategy.playback14" = "点击任意处继续";
+"strategy.playback2" = "关闭回放";
+"strategy.playback3" = "过关回放播放完毕啦~{n}请选择…";
+"strategy.playback4" = "播放完毕";
+"strategy.playback5" = "再看一遍";
+"strategy.playback6" = "去闯关";
+"strategy.playback7" = "关闭";
+"strategy.playback8" = "观看村长的过关回放{n}可以更容易的过关哦，{n}过关回放不会消耗您{n}的流量。";
+"strategy.playback9" = "关卡回放获取失败，村长正在努力过关，请稍后再试！";

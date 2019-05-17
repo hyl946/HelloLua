@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>energy.act.2018.local/res/eeee/ss0000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,229},{210,210}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{210,210}}</string>
+                <key>sourceSize</key>
+                <string>{210,210}</string>
+            </dict>
+            <key>energy.act.2018.local/res/vit-test/未命名文件夹 1/元件 70000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{234,12},{215,71}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{215,71}}</string>
+                <key>sourceSize</key>
+                <string>{215,71}</string>
+            </dict>
+            <key>energy.act.2018.local/res/vit-test/未命名文件夹 1/重复项目文件夹/ui_fontsize_rect 副本0000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{431,2},{8,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{8,8}}</string>
+                <key>sourceSize</key>
+                <string>{8,8}</string>
+            </dict>
+            <key>energy.act.2018.local/未命名文件夹 1/ewqewq/999999999990000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{230,225}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{230,225}}</string>
+                <key>sourceSize</key>
+                <string>{230,225}</string>
+            </dict>
+            <key>energy.act.2018.local/未命名文件夹 1/ewqewq/元件 20000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{214,229},{215,71}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{215,71}}</string>
+                <key>sourceSize</key>
+                <string>{215,71}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>panels.png</string>
+            <key>size</key>
+            <string>{441,441}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:fb21e1f21f2df8c677cf233be2a17add:703350f8ed59ccb7477c3d7db8e2b174:2c276546641a88c0ad916f0eb2df467c$</string>
+            <key>textureFileName</key>
+            <string>panels.png</string>
+        </dict>
+    </dict>
+</plist>

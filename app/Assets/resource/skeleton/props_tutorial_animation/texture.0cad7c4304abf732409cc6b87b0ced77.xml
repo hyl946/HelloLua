@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ab9604268280a9dacfae1eb47aeb6c16:930f57d120efc3496ee3fd4919f5d7af:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="55ttt" x="187" y="646" width="10" height="6"/>
+    <SubTexture name="Z-mx" x="561" y="615" width="36" height="36"/>
+    <SubTexture name="Z-xxx" x="99" y="395" width="57" height="57"/>
+    <SubTexture name="chicken-unlike-mouth" x="560" y="111" width="12" height="9"/>
+    <SubTexture name="export/direction/heng" x="476" y="563" width="34" height="20"/>
+    <SubTexture name="g" x="580" y="76" width="70" height="70"/>
+    <SubTexture name="hamer1" x="552" y="448" width="102" height="109"/>
+    <SubTexture name="hamer2" x="453" y="444" width="97" height="117"/>
+    <SubTexture name="props_tutorial_animation_res/dfg" x="451" y="563" width="23" height="22"/>
+    <SubTexture name="props_tutorial_animation_res/di" x="1" y="1" width="332" height="199"/>
+    <SubTexture name="props_tutorial_animation_res/di2 副本" x="335" y="80" width="223" height="191"/>
+    <SubTexture name="props_tutorial_animation_res/di2" x="1" y="202" width="323" height="191"/>
+    <SubTexture name="props_tutorial_animation_res/gsgf4643" x="335" y="1" width="243" height="77"/>
+    <SubTexture name="props_tutorial_animation_res/ji" x="1" y="395" width="96" height="96"/>
+    <SubTexture name="props_tutorial_animation_res/magic2" x="1" y="563" width="104" height="86"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/fdafhgf 副本" x="326" y="273" width="138" height="114"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/grthy 副本 2" x="643" y="583" width="10" height="10"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/grthy 副本" x="643" y="571" width="10" height="10"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/guang2" x="160" y="443" width="22" height="46"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/hema" x="466" y="361" width="82" height="73"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/ji 副本" x="187" y="563" width="79" height="81"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/qingwa" x="580" y="1" width="73" height="73"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/rgeth 副本 2" x="424" y="587" width="64" height="64"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/rgeth 副本 3" x="424" y="587" width="64" height="64"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/rgeth 副本" x="424" y="587" width="64" height="64"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/shou 副本" x="397" y="496" width="51" height="63"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/shou2" x="158" y="395" width="57" height="46"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/元件 28 副本 2" x="643" y="559" width="10" height="10"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/元件 28 副本" x="453" y="413" width="10" height="10"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/元件 3 副本 2" x="573" y="122" width="3" height="3"/>
+    <SubTexture name="props_tutorial_animation_res/重复项目文件夹/元件 3 副本" x="575" y="107" width="3" height="3"/>
+    <SubTexture name="s" x="553" y="324" width="101" height="122"/>
+    <SubTexture name="s35g_tutorial_animation/snow" x="490" y="585" width="69" height="68"/>
+    <SubTexture name="square_tutorial_animation 副本" x="466" y="273" width="85" height="86"/>
+    <SubTexture name="square_tutorial_animation" x="560" y="236" width="85" height="86"/>
+    <SubTexture name="x" x="326" y="389" width="125" height="105"/>
+    <SubTexture name="元件 14" x="560" y="122" width="11" height="10"/>
+    <SubTexture name="元件 61" x="579" y="559" width="62" height="54"/>
+    <SubTexture name="元件 62" x="346" y="563" width="76" height="80"/>
+    <SubTexture name="元件 8" x="326" y="202" width="7" height="6"/>
+    <SubTexture name="重复项目文件夹/chcken-high ligeht 副本 2" x="533" y="563" width="19" height="17"/>
+    <SubTexture name="重复项目文件夹/chcken-high ligeht 副本" x="533" y="563" width="19" height="17"/>
+    <SubTexture name="重复项目文件夹/chicken-eye 副本 2" x="453" y="401" width="10" height="10"/>
+    <SubTexture name="重复项目文件夹/chicken-eye 副本" x="453" y="401" width="10" height="10"/>
+    <SubTexture name="重复项目文件夹/chicken-mouthshadow 副本 2" x="453" y="425" width="10" height="8"/>
+    <SubTexture name="重复项目文件夹/chicken-mouthshadow 副本" x="453" y="425" width="10" height="8"/>
+    <SubTexture name="重复项目文件夹/chicken-red 副本 2" x="554" y="559" width="23" height="15"/>
+    <SubTexture name="重复项目文件夹/chicken-red 副本" x="554" y="559" width="23" height="15"/>
+    <SubTexture name="重复项目文件夹/chiken-eyebrow 副本 2" x="574" y="117" width="4" height="3"/>
+    <SubTexture name="重复项目文件夹/chiken-eyebrow 副本" x="574" y="112" width="4" height="3"/>
+    <SubTexture name="重复项目文件夹/chiken-hair 副本 2" x="560" y="80" width="16" height="20"/>
+    <SubTexture name="重复项目文件夹/chiken-hair 副本 3" x="560" y="80" width="16" height="20"/>
+    <SubTexture name="重复项目文件夹/chiken-hair 副本 4" x="130" y="454" width="28" height="30"/>
+    <SubTexture name="重复项目文件夹/chiken-hair 副本" x="99" y="454" width="29" height="32"/>
+    <SubTexture name="重复项目文件夹/eertertr 副本" x="453" y="436" width="98" height="6"/>
+    <SubTexture name="重复项目文件夹/eertertr" x="453" y="436" width="98" height="6"/>
+    <SubTexture name="重复项目文件夹/fox无动画 副本" x="268" y="563" width="76" height="80"/>
+    <SubTexture name="重复项目文件夹/fox无动画" x="268" y="563" width="76" height="80"/>
+    <SubTexture name="重复项目文件夹/grthy 副本 3" x="453" y="389" width="10" height="10"/>
+    <SubTexture name="重复项目文件夹/grthy 副本" x="512" y="563" width="19" height="19"/>
+    <SubTexture name="重复项目文件夹/heng" x="476" y="563" width="34" height="20"/>
+    <SubTexture name="重复项目文件夹/magic2_tutorial_animation" x="107" y="563" width="78" height="84"/>
+    <SubTexture name="重复项目文件夹/元件 1 副本 5" x="331" y="496" width="64" height="64"/>
+    <SubTexture name="重复项目文件夹/元件 13" x="560" y="102" width="13" height="7"/>
+    <SubTexture name="重复项目文件夹/元件 2 副本" x="265" y="496" width="64" height="64"/>
+    <SubTexture name="重复项目文件夹/元件 23" x="560" y="148" width="93" height="86"/>
+    <SubTexture name="重复项目文件夹/元件 28 副本 3" x="560" y="134" width="10" height="10"/>
+    <SubTexture name="重复项目文件夹/元件 28 副本" x="424" y="561" width="25" height="24"/>
+    <SubTexture name="重复项目文件夹/元件 3 副本 2" x="643" y="595" width="9" height="10"/>
+    <SubTexture name="重复项目文件夹/元件 3 副本 3" x="575" y="102" width="3" height="3"/>
+    <SubTexture name="重复项目文件夹/元件 3 副本 4" x="643" y="595" width="9" height="10"/>
+    <SubTexture name="重复项目文件夹/元件 3 副本 7" x="199" y="496" width="64" height="64"/>
+    <SubTexture name="重复项目文件夹/元件 3 副本" x="599" y="615" width="35" height="35"/>
+    <SubTexture name="重复项目文件夹/元件 4 副本 2" x="133" y="496" width="64" height="64"/>
+    <SubTexture name="重复项目文件夹/元件 5" x="67" y="496" width="64" height="64"/>
+    <SubTexture name="重复项目文件夹/元件 6 副本 4" x="1" y="496" width="64" height="64"/>
+    <SubTexture name="重复项目文件夹/元件 8 副本" x="326" y="202" width="7" height="6"/>
+    <SubTexture name="重复项目文件夹/元件 9" x="217" y="395" width="76" height="12"/>
+</TextureAtlas>

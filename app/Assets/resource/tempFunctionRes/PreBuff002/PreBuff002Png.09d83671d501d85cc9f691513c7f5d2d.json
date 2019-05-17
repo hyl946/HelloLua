@@ -1,0 +1,91 @@
+{
+	"image": "PreBuff002Png.png",
+	"config": "PreBuff002Png.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"PreBuff002Png/layer": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 81,
+				"height": 55,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "png1",
+				"image": "PreBuff002Png/png1",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 100,
+				"y": 0,
+				"width": 84,
+				"height": 61,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 1,
+				"id": "png2",
+				"image": "PreBuff002Png/png2",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 200,
+				"y": 0,
+				"width": 93,
+				"height": 63,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 2,
+				"id": "png3",
+				"image": "PreBuff002Png/png3",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 2,
+				"y": 102,
+				"width": 93,
+				"height": 67,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 3,
+				"id": "png4",
+				"image": "PreBuff002Png/png4",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 108,
+				"y": 104,
+				"width": 92,
+				"height": 67,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 4,
+				"id": "png5",
+				"image": "PreBuff002Png/png5",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

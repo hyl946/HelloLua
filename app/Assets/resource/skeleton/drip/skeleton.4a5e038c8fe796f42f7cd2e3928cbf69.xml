@@ -1,0 +1,1058 @@
+<dragonBones name="drip" frameRate="24" version="2.3">
+ <armature name="Drip/dirp_eff_explode_1">
+  <bone name="xiaopao24">
+   <transform x="36.95" y="0.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="xiaopao23">
+   <transform x="35.8" y="-9.9" skX="0" skY="0" scX="0.93" scY="0.93"/>
+  </bone>
+  <bone name="xiaopao22">
+   <transform x="24.7" y="-29.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="xiaopao21">
+   <transform x="25.1" y="20.75" skX="0" skY="0" scX="0.93" scY="0.93"/>
+  </bone>
+  <bone name="xiaopao20">
+   <transform x="-35.75" y="0.25" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="xiaopao19">
+   <transform x="-34.6" y="-9.9" skX="0" skY="0" scX="-0.93" scY="0.93"/>
+  </bone>
+  <bone name="xiaopao18">
+   <transform x="-23.5" y="-29.25" skX="0" skY="0" scX="-1" scY="1"/>
+  </bone>
+  <bone name="xiaopao17">
+   <transform x="-23.9" y="20.75" skX="0" skY="0" scX="-0.93" scY="0.93"/>
+  </bone>
+  <bone name="xiaopao16">
+   <transform x="39" y="-17.4" skX="-26.73" skY="-26.73" scX="0.58" scY="0.58"/>
+  </bone>
+  <bone name="xiaopao15">
+   <transform x="30.25" y="-27.3" skX="-26.73" skY="-26.73" scX="0.54" scY="0.54"/>
+  </bone>
+  <bone name="xiaopao14">
+   <transform x="14.5" y="-32.55" skX="-26.73" skY="-26.73" scX="0.58" scY="0.58"/>
+  </bone>
+  <bone name="xiaopao13">
+   <transform x="29.65" y="-2.75" skX="-26.73" skY="-26.73" scX="0.54" scY="0.54"/>
+  </bone>
+  <bone name="xiaopao12">
+   <transform x="-37.7" y="-17.4" skX="26.73" skY="26.73" scX="-0.58" scY="0.58"/>
+  </bone>
+  <bone name="xiaopao11">
+   <transform x="-28.95" y="-27.3" skX="26.73" skY="26.73" scX="-0.54" scY="0.54"/>
+  </bone>
+  <bone name="xiaopao10">
+   <transform x="-13.2" y="-32.55" skX="26.73" skY="26.73" scX="-0.58" scY="0.58"/>
+  </bone>
+  <bone name="xiaopao9">
+   <transform x="-28.35" y="-2.75" skX="26.73" skY="26.73" scX="-0.54" scY="0.54"/>
+  </bone>
+  <bone name="xiaopao8">
+   <transform x="26.85" y="7.95" skX="0" skY="0" scX="0.95" scY="0.95"/>
+  </bone>
+  <bone name="xiaopao7">
+   <transform x="23.5" y="-4.2" skX="0" skY="0" scX="0.9" scY="0.9"/>
+  </bone>
+  <bone name="xiaopao6">
+   <transform x="2.55" y="-21.25" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="xiaopao5">
+   <transform x="2.95" y="28.75" skX="0" skY="0" scX="0.93" scY="0.93"/>
+  </bone>
+  <bone name="xiaopao4">
+   <transform x="-36.9" y="10.1" skX="1.26" skY="1.26" scX="-0.86" scY="0.86"/>
+  </bone>
+  <bone name="xiaopao3">
+   <transform x="-29.65" y="-5.45" skX="1.26" skY="1.26" scX="-0.84" scY="0.84"/>
+  </bone>
+  <bone name="xiaopao2">
+   <transform x="-3.05" y="-19.9" skX="1.26" skY="1.26" scX="-0.93" scY="0.93"/>
+  </bone>
+  <bone name="xiaopao1">
+   <transform x="-13.9" y="29.8" skX="1.26" skY="1.26" scX="-0.83" scY="0.83"/>
+  </bone>
+  <skin name="default">
+   <slot name="xiaopao24" parent="xiaopao24" z="0">
+    <display name="dripeff/xiaopao3" type="image">
+     <transform x="-10.75" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao23" parent="xiaopao23" z="1">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.5" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao22" parent="xiaopao22" z="2">
+    <display name="dripeff/xiaopao1" type="image">
+     <transform x="-10.75" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao21" parent="xiaopao21" z="3">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.55" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao20" parent="xiaopao20" z="4">
+    <display name="dripeff/xiaopao3" type="image">
+     <transform x="-10.75" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao19" parent="xiaopao19" z="5">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.55" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao18" parent="xiaopao18" z="6">
+    <display name="dripeff/xiaopao1" type="image">
+     <transform x="-10.75" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao17" parent="xiaopao17" z="7">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.55" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao16" parent="xiaopao16" z="8">
+    <display name="dripeff/xiaopao3" type="image">
+     <transform x="-10.75" y="-11" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao15" parent="xiaopao15" z="9">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.6" y="-10.3" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao14" parent="xiaopao14" z="10">
+    <display name="dripeff/xiaopao1" type="image">
+     <transform x="-10.7" y="-10.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao13" parent="xiaopao13" z="11">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.25" y="-10.15" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao12" parent="xiaopao12" z="12">
+    <display name="dripeff/xiaopao3" type="image">
+     <transform x="-10.75" y="-11" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao11" parent="xiaopao11" z="13">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.55" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao10" parent="xiaopao10" z="14">
+    <display name="dripeff/xiaopao1" type="image">
+     <transform x="-10.7" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao9" parent="xiaopao9" z="15">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.2" y="-10.15" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao8" parent="xiaopao8" z="16">
+    <display name="dripeff/xiaopao3" type="image">
+     <transform x="-10.7" y="-10.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao7" parent="xiaopao7" z="17">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.5" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao6" parent="xiaopao6" z="18">
+    <display name="dripeff/xiaopao1" type="image">
+     <transform x="-10.75" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao5" parent="xiaopao5" z="19">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.5" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao4" parent="xiaopao4" z="20">
+    <display name="dripeff/xiaopao3" type="image">
+     <transform x="-10.65" y="-10.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao3" parent="xiaopao3" z="21">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.55" y="-10.3" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao2" parent="xiaopao2" z="22">
+    <display name="dripeff/xiaopao1" type="image">
+     <transform x="-10.75" y="-10.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao1" parent="xiaopao1" z="23">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.5" y="-10.3" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="dirp_eff_explode_1" fadeInTime="0" duration="20" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="xiaopao24" scale="1" offset="0">
+    <frame z="0" tweenEasing="0.33" duration="7">
+     <transform x="36.95" y="0.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="102.8" y="-1.4" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="130.35" y="-0.6" skX="0" skY="0" scX="0.47" scY="0.47" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao23" scale="1" offset="0">
+    <frame z="1" tweenEasing="0.33" duration="8">
+     <transform x="35.8" y="-9.9" skX="0" skY="0" scX="0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="97.25" y="-24.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="118.9" y="-29.1" skX="0" skY="0" scX="0.65" scY="0.65" pX="-0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao22" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="2" tweenEasing="0.33" duration="6">
+     <transform x="24.7" y="-29.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="84.05" y="-38.65" skX="0" skY="0" scX="0.68" scY="0.68" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="117.1" y="-44.85" skX="0" skY="0" scX="0.47" scY="0.47" pX="0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao21" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="3" tweenEasing="0.33" duration="8">
+     <transform x="25.1" y="20.75" skX="0" skY="0" scX="0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="95.45" y="13.65" skX="0" skY="0" scX="0.6" scY="0.6" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="120.15" y="11.15" skX="0" skY="0" scX="0.48" scY="0.48" pX="-0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao20" scale="1" offset="0">
+    <frame z="4" tweenEasing="0.33" duration="7">
+     <transform x="-35.75" y="0.25" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="4">
+     <transform x="-101.6" y="-1.4" skX="0" skY="0" scX="-0.73" scY="0.73" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="-129.15" y="-0.6" skX="0" skY="0" scX="-0.47" scY="0.47" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao19" scale="1" offset="0">
+    <frame z="5" tweenEasing="0.33" duration="8">
+     <transform x="-34.6" y="-9.9" skX="0" skY="0" scX="-0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="4">
+     <transform x="-96.05" y="-24.05" skX="0" skY="0" scX="-0.73" scY="0.73" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="-117.7" y="-29.1" skX="0" skY="0" scX="-0.65" scY="0.65" pX="0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao18" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="6" tweenEasing="0.33" duration="6">
+     <transform x="-23.5" y="-29.25" skX="0" skY="0" scX="-1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="4">
+     <transform x="-82.85" y="-38.65" skX="0" skY="0" scX="-0.68" scY="0.68" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="-115.9" y="-44.85" skX="0" skY="0" scX="-0.47" scY="0.47" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao17" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="7" tweenEasing="0.33" duration="8">
+     <transform x="-23.9" y="20.75" skX="0" skY="0" scX="-0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="4">
+     <transform x="-94.25" y="13.65" skX="0" skY="0" scX="-0.6" scY="0.6" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="-118.95" y="11.15" skX="0" skY="0" scX="-0.48" scY="0.48" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao16" scale="1" offset="0">
+    <frame z="8" tweenEasing="0.33" duration="2">
+     <transform x="39" y="-17.4" skX="-26.73" skY="-26.73" scX="0.58" scY="0.58" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" tweenEasing="0" duration="4">
+     <transform x="47.2" y="-21.1" skX="-26.73" skY="-26.73" scX="0.42" scY="0.42" pX="-0.05" pY="0.35"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="79.9" y="-45.8" skX="-26.73" skY="-26.73" scX="0.27" scY="0.27" pX="0.65" pY="0.5"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="13" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao15" scale="1" offset="0">
+    <frame z="9" tweenEasing="0.33" duration="3">
+     <transform x="30.25" y="-27.3" skX="-26.73" skY="-26.73" scX="0.54" scY="0.54" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" tweenEasing="0" duration="4">
+     <transform x="40.75" y="-33.95" skX="-26.73" skY="-26.73" scX="0.42" scY="0.42" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="66.65" y="-57.5" skX="-26.73" skY="-26.73" scX="0.38" scY="0.38" pX="0.2" pY="0.3"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="12" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao14" scale="1" offset="0">
+    <frame z="10" tweenEasing="0.33" duration="3">
+     <transform x="14.5" y="-32.55" skX="-26.73" skY="-26.73" scX="0.58" scY="0.58" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" tweenEasing="0" duration="4">
+     <transform x="29.45" y="-39.45" skX="-26.73" skY="-26.73" scX="0.39" scY="0.39" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="61.6" y="-65.25" skX="-26.74" skY="-26.74" scX="0.27" scY="0.27" pX="0.05" pY="0.8"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="12" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao13" scale="1" offset="0">
+    <frame z="11" tweenEasing="0.33" duration="4">
+     <transform x="29.65" y="-2.75" skX="-26.73" skY="-26.73" scX="0.54" scY="0.54" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="4">
+     <transform x="65.55" y="-29.3" skX="-26.73" skY="-26.73" scX="0.35" scY="0.35" pX="0.65" pY="-0.2"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="77.85" y="-37.1" skX="-26.73" skY="-26.73" scX="0.28" scY="0.28" pX="-0.2" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="11" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao12" scale="1" offset="0">
+    <frame z="12" tweenEasing="0.33" duration="2">
+     <transform x="-37.7" y="-17.4" skX="26.73" skY="26.73" scX="-0.58" scY="0.58" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" tweenEasing="0" duration="4">
+     <transform x="-45.9" y="-21.1" skX="26.73" skY="26.73" scX="-0.42" scY="0.42" pX="-0.05" pY="0.35"/>
+    </frame>
+    <frame z="12" duration="1">
+     <transform x="-78.6" y="-45.8" skX="26.73" skY="26.73" scX="-0.27" scY="0.27" pX="0.6" pY="0.5"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="13" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao11" scale="1" offset="0">
+    <frame z="13" tweenEasing="0.33" duration="3">
+     <transform x="-28.95" y="-27.3" skX="26.73" skY="26.73" scX="-0.54" scY="0.54" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" tweenEasing="0" duration="4">
+     <transform x="-39.45" y="-33.95" skX="26.73" skY="26.73" scX="-0.42" scY="0.42" pX="-0.15" pY="-0.05"/>
+    </frame>
+    <frame z="13" duration="1">
+     <transform x="-65.35" y="-57.5" skX="26.73" skY="26.73" scX="-0.38" scY="0.38" pX="0.1" pY="0.25"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="12" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao10" scale="1" offset="0">
+    <frame z="14" tweenEasing="0.33" duration="3">
+     <transform x="-13.2" y="-32.55" skX="26.73" skY="26.73" scX="-0.58" scY="0.58" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="4">
+     <transform x="-28.15" y="-39.45" skX="26.73" skY="26.73" scX="-0.39" scY="0.39" pX="0" pY="-0.1"/>
+    </frame>
+    <frame z="14" duration="1">
+     <transform x="-60.3" y="-65.25" skX="26.74" skY="26.74" scX="-0.27" scY="0.27" pX="0.1" pY="0.9"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="12" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao9" scale="1" offset="0">
+    <frame z="15" tweenEasing="0.33" duration="4">
+     <transform x="-28.35" y="-2.75" skX="26.73" skY="26.73" scX="-0.54" scY="0.54" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" tweenEasing="0" duration="4">
+     <transform x="-64.25" y="-29.3" skX="26.73" skY="26.73" scX="-0.35" scY="0.35" pX="0.6" pY="-0.2"/>
+    </frame>
+    <frame z="15" duration="1">
+     <transform x="-76.55" y="-37.1" skX="26.73" skY="26.73" scX="-0.28" scY="0.28" pX="-0.25" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="11" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao8" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="16" tweenEasing="0" duration="6">
+     <transform x="26.85" y="7.95" skX="0" skY="0" scX="0.95" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" tweenEasing="0" duration="4">
+     <transform x="80.65" y="6.6" skX="0" skY="0" scX="0.73" scY="0.73" pX="-0.05" pY="-0.05"/>
+    </frame>
+    <frame z="16" duration="1">
+     <transform x="108.2" y="7.4" skX="0" skY="0" scX="0.47" scY="0.47" pX="-0.1" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao7" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="17" tweenEasing="0" duration="7">
+     <transform x="23.5" y="-4.2" skX="0" skY="0" scX="0.9" scY="0.9" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="4">
+     <transform x="75.1" y="-16.05" skX="0" skY="0" scX="0.73" scY="0.73" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="17" duration="1">
+     <transform x="96.75" y="-21.1" skX="0" skY="0" scX="0.65" scY="0.65" pX="0" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao6" scale="1" offset="0">
+    <frame duration="3" displayIndex="-1"/>
+    <frame z="18" tweenEasing="0.33" duration="6">
+     <transform x="2.55" y="-21.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" tweenEasing="0" duration="4">
+     <transform x="61.9" y="-30.65" skX="0" skY="0" scX="0.68" scY="0.68" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="1">
+     <transform x="94.95" y="-36.85" skX="0" skY="0" scX="0.47" scY="0.47" pX="0.05" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao5" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="19" tweenEasing="0.33" duration="8">
+     <transform x="2.95" y="28.75" skX="0" skY="0" scX="0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" tweenEasing="0" duration="4">
+     <transform x="73.3" y="21.65" skX="0" skY="0" scX="0.6" scY="0.6" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="1">
+     <transform x="98" y="19.15" skX="0" skY="0" scX="0.48" scY="0.48" pX="-0.05" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="5" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao4" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="20" tweenEasing="0" duration="4">
+     <transform x="-36.9" y="10.1" skX="1.26" skY="1.26" scX="-0.86" scY="0.86" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" tweenEasing="0" duration="4">
+     <transform x="-69.25" y="8.5" skX="1.26" skY="1.26" scX="-0.73" scY="0.73" pX="-0.2" pY="0.1"/>
+    </frame>
+    <frame z="20" duration="1">
+     <transform x="-96.75" y="8.7" skX="1.26" skY="1.26" scX="-0.47" scY="0.47" pX="-0.2" pY="0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="9" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao3" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="21" tweenEasing="0" duration="5">
+     <transform x="-29.65" y="-5.45" skX="1.26" skY="1.26" scX="-0.84" scY="0.84" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" tweenEasing="0" duration="4">
+     <transform x="-63.1" y="-14" skX="1.26" skY="1.26" scX="-0.73" scY="0.73" pX="0.05" pY="0.15"/>
+    </frame>
+    <frame z="21" duration="1">
+     <transform x="-84.65" y="-19.45" skX="1.26" skY="1.26" scX="-0.65" scY="0.65" pX="0" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao2" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="22" tweenEasing="0" duration="5">
+     <transform x="-3.05" y="-19.9" skX="1.26" skY="1.26" scX="-0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" tweenEasing="0" duration="4">
+     <transform x="-49.65" y="-28.3" skX="1.26" skY="1.26" scX="-0.68" scY="0.68" pX="0.05" pY="-0.1"/>
+    </frame>
+    <frame z="22" duration="1">
+     <transform x="-82.55" y="-35.25" skX="1.26" skY="1.26" scX="-0.47" scY="0.47" pX="-0.05" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="3" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao1" scale="1" offset="0">
+    <frame duration="2" displayIndex="-1"/>
+    <frame z="23" tweenEasing="0" duration="6">
+     <transform x="-13.9" y="29.8" skX="1.26" skY="1.26" scX="-0.83" scY="0.83" pX="0" pY="0"/>
+    </frame>
+    <frame z="23" tweenEasing="0" duration="4">
+     <transform x="-62.15" y="23.7" skX="1.26" skY="1.26" scX="-0.6" scY="0.6" pX="-0.1" pY="0.1"/>
+    </frame>
+    <frame z="23" duration="1">
+     <transform x="-86.8" y="20.65" skX="1.26" skY="1.26" scX="-0.48" scY="0.48" pX="-0.2" pY="0.35"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="20" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Drip/dirp_eff_explode_2">
+  <bone name="xiaopao13">
+   <transform x="21.15" y="-14.45" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="xiaopao12">
+   <transform x="25.15" y="10.35" skX="0" skY="0" scX="0.92" scY="0.92"/>
+  </bone>
+  <bone name="xiaopao11">
+   <transform x="4.8" y="24.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="xiaopao10">
+   <transform x="-19.25" y="15.85" skX="0" skY="0" scX="0.92" scY="0.92"/>
+  </bone>
+  <bone name="xiaopao9">
+   <transform x="-20.35" y="-9.65" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="xiaopao8">
+   <transform x="-0.2" y="-22.85" skX="0" skY="0" scX="0.92" scY="0.92"/>
+  </bone>
+  <bone name="paopao7">
+   <transform x="11.85" y="-18.25" skX="0" skY="0" scX="0.93" scY="0.93"/>
+  </bone>
+  <bone name="paopao6">
+   <transform x="-8" y="-18.25" skX="0" skY="0" scX="0.93" scY="0.93"/>
+  </bone>
+  <bone name="paopao5">
+   <transform x="-16.2" y="0.9" skX="0" skY="0" scX="0.93" scY="0.93"/>
+  </bone>
+  <bone name="paopao4">
+   <transform x="-8" y="17.15" skX="0" skY="0" scX="0.93" scY="0.93"/>
+  </bone>
+  <bone name="paopao3">
+   <transform x="18.15" y="-0.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="paopao2">
+   <transform x="13.5" y="14.4" skX="0" skY="0" scX="0.93" scY="0.93"/>
+  </bone>
+  <bone name="paopaoduo">
+   <transform x="2.3" y="-2.05" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="paoduo1">
+   <transform x="1.6" y="-4.35" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="xiaopao13" parent="xiaopao13" z="0">
+    <display name="dripeff/xiaopao2" type="image">
+     <transform x="-10.75" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao12" parent="xiaopao12" z="1">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.55" y="-10.15" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao11" parent="xiaopao11" z="2">
+    <display name="dripeff/xiaopao3" type="image">
+     <transform x="-10.75" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao10" parent="xiaopao10" z="3">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.45" y="-10.2" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="xiaopao9" parent="xiaopao9" z="4">
+    <display name="dripeff/xiaopao1" type="image">
+     <transform x="-10.75" y="-10.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="xiaopao8" parent="xiaopao8" z="5">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.55" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="paopao7" parent="paopao7" z="6">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.45" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="paopao6" parent="paopao6" z="7">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.5" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="paopao5" parent="paopao5" z="8">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.5" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="paopao4" parent="paopao4" z="9">
+    <display name="dripeff/xiaopao2" type="image">
+     <transform x="-11.5" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="paopao3" parent="paopao3" z="10">
+    <display name="dripeff/xiaopao4" type="image">
+     <transform x="-10.9" y="-10.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="paopao2" parent="paopao2" z="11">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.55" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="paopaoduo" parent="paopaoduo" z="12">
+    <display name="dripeff/paopaoduo" type="image">
+     <transform x="-54.15" y="-52.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="paoduo1" parent="paoduo1" z="13">
+    <display name="dripeff/paoduo" type="image">
+     <transform x="-65.8" y="-57.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="dirp_eff_explode_2" fadeInTime="0" duration="15" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="xiaopao13" scale="1" offset="0">
+    <frame z="0" tweenEasing="0.74" duration="6">
+     <transform x="21.15" y="-14.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="44.25" y="-23.05" skX="0" skY="0" scX="0.77" scY="0.77" pX="0" pY="0"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao12" scale="1" offset="0">
+    <frame z="1" tweenEasing="0.74" duration="6">
+     <transform x="25.15" y="10.35" skX="0" skY="0" scX="0.92" scY="0.92" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="45.95" y="17.65" skX="0" skY="0" scX="0.73" scY="0.73" pX="0.05" pY="-0.15"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao11" scale="1" offset="0">
+    <frame z="2" tweenEasing="0.74" duration="6">
+     <transform x="4.8" y="24.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="1.45" y="42.15" skX="0" skY="0" scX="0.88" scY="0.88" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao10" scale="1" offset="0">
+    <frame z="3" tweenEasing="0.74" duration="6">
+     <transform x="-19.25" y="15.85" skX="0" skY="0" scX="0.92" scY="0.92" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="-41.4" y="22.85" skX="0" skY="0" scX="0.57" scY="0.57" pX="-0.15" pY="0"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao9" scale="1" offset="0">
+    <frame z="4" tweenEasing="0.74" duration="6">
+     <transform x="-20.35" y="-9.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="-39.7" y="-24.65" skX="0" skY="0" scX="0.8" scY="0.8" pX="0" pY="0"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="xiaopao8" scale="1" offset="0">
+    <frame z="5" tweenEasing="0.74" duration="6">
+     <transform x="-0.2" y="-22.85" skX="0" skY="0" scX="0.92" scY="0.92" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="0.15" y="-44.85" skX="0" skY="0" scX="0.68" scY="0.68" pX="0.1" pY="0.05"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="paopao7" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="6" tweenEasing="0.74" duration="6">
+     <transform x="11.85" y="-18.25" skX="0" skY="0" scX="0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="32.65" y="-52.2" skX="0" skY="0" scX="0.45" scY="0.45" pX="-0.1" pY="0.05"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="paopao6" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="7" tweenEasing="0.74" duration="6">
+     <transform x="-8" y="-18.25" skX="0" skY="0" scX="0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="-29.2" y="-50.65" skX="0" skY="0" scX="0.62" scY="0.62" pX="0" pY="-0.05"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="paopao5" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="8" tweenEasing="0.74" duration="6">
+     <transform x="-16.2" y="0.9" skX="0" skY="0" scX="0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="-54.15" y="-3.2" skX="0" skY="0" scX="0.51" scY="0.51" pX="0.05" pY="-0.05"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="paopao4" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="9" tweenEasing="0.74" duration="6">
+     <transform x="-8" y="17.15" skX="0" skY="0" scX="0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="-14.25" y="41.9" skX="0" skY="0" scX="0.66" scY="0.66" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="paopao3" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="10" tweenEasing="0.74" duration="6">
+     <transform x="18.15" y="-0.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="57.05" y="0.45" skX="0" skY="0" scX="0.52" scY="0.52" pX="0" pY="0"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="paopao2" scale="1" offset="0">
+    <frame duration="1" displayIndex="-1"/>
+    <frame z="11" tweenEasing="0.74" duration="6">
+     <transform x="13.5" y="14.4" skX="0" skY="0" scX="0.93" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="31.2" y="42.95" skX="0" skY="0" scX="0.56" scY="0.56" pX="0.15" pY="0.05"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="paopaoduo" scale="1" offset="0">
+    <frame duration="7" displayIndex="-1"/>
+    <frame z="12" duration="1">
+     <transform x="2.3" y="-2.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="7" displayIndex="-1"/>
+   </timeline>
+   <timeline name="paoduo1" scale="1" offset="0">
+    <frame duration="8" displayIndex="-1"/>
+    <frame z="13" duration="1">
+     <transform x="1.6" y="-4.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Drip/dirp_explode">
+  <bone name="shuishen2">
+   <transform x="27.8" y="62.35" skX="0" skY="0" scX="1" scY="1.18"/>
+  </bone>
+  <bone name="shuishen">
+   <transform x="30.35" y="64.4" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="saihong shui">
+   <transform x="9.55" y="49.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="saihong shui_0">
+   <transform x="50.15" y="49.85" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="shui yanjing">
+   <transform x="19.05" y="40.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="shuishen3">
+   <transform x="16.5" y="9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="shuishen2" parent="shuishen2" z="0">
+    <display name="dashuidi" type="image">
+     <transform x="-44.65" y="-72.95" skX="0" skY="0" scX="1" scY="1" pX="-1" pY="0"/>
+    </display>
+   </slot>
+   <slot name="shuishen" parent="shuishen" z="1">
+    <display name="shuishen" type="image">
+     <transform x="-30.3" y="-64.4" skX="0" skY="0" scX="1" scY="1" pX="5.2" pY="-3.55"/>
+    </display>
+   </slot>
+   <slot name="saihong shui" parent="saihong shui" z="2">
+    <display name="saihong shui" type="image">
+     <transform x="-7.2" y="-6.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="saihong shui_0" parent="saihong shui_0" z="3">
+    <display name="saihong shui" type="image">
+     <transform x="-7.2" y="-6.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="shui yanjing" parent="shui yanjing" z="4">
+    <display name="shui yanjing" type="image">
+     <transform x="-10.65" y="-5.75" skX="0" skY="0" scX="1" scY="1" pX="-3.75" pY="-0.3"/>
+    </display>
+   </slot>
+   <slot name="shuishen3" parent="shuishen3" z="5">
+    <display name="dripeff/faguang shuidi" type="image">
+     <transform x="-43.5" y="-38.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="dirp_explode" fadeInTime="0" duration="18" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="shuishen2" scale="1" offset="0">
+    <frame duration="5" displayIndex="-1"/>
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="27.8" y="62.35" skX="0" skY="0" scX="1" scY="1.18" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="27.8" y="62.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="2">
+     <transform x="27.8" y="62.35" skX="0" skY="0" scX="0.93" scY="1.04" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="27.8" y="62.35" skX="0" skY="0" scX="0.93" scY="1" pX="-0.05" pY="0"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+   <timeline name="shuishen" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="30.35" y="64.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="30.45" y="66.35" skX="0" skY="0" scX="1.38" scY="1.28" pX="-0.1" pY="-0.05"/>
+    </frame>
+    <frame duration="13" displayIndex="-1"/>
+   </timeline>
+   <timeline name="saihong shui" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="5">
+     <transform x="9.55" y="49.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="3">
+     <transform x="-0.75" y="30.2" skX="0" skY="0" scX="1.44" scY="1.44" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="-2.8" y="45.55" skX="0" skY="0" scX="1.54" scY="1.38" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="2">
+     <transform x="2.5" y="41.4" skX="0" skY="0" scX="1.37" scY="1.37" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="2.2" y="44.95" skX="0" skY="0" scX="1.37" scY="1.37" pX="-0.05" pY="0"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+   <timeline name="saihong shui_0" scale="1" offset="0">
+    <frame z="3" tweenEasing="0" duration="5">
+     <transform x="50.15" y="49.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="3">
+     <transform x="60.45" y="30.2" skX="0" skY="0" scX="1.44" scY="1.44" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="62.6" y="45.55" skX="0" skY="0" scX="1.54" scY="1.38" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="2">
+     <transform x="59.2" y="41.4" skX="0" skY="0" scX="1.37" scY="1.37" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="58.9" y="44.95" skX="0" skY="0" scX="1.37" scY="1.37" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+   <timeline name="shui yanjing" scale="1" offset="0">
+    <frame z="4" tweenEasing="0" duration="5">
+     <transform x="19.05" y="40.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="3">
+     <transform x="12.95" y="17.1" skX="0" skY="0" scX="1.44" scY="1.44" pX="0.05" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="11.8" y="33" skX="0" skY="0" scX="1.54" scY="1.38" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" tweenEasing="0" duration="2">
+     <transform x="15.5" y="28.95" skX="0" skY="0" scX="1.37" scY="1.37" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="15.15" y="32.5" skX="0" skY="0" scX="1.37" scY="1.37" pX="0.05" pY="0"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+   <timeline name="shuishen3" scale="1" offset="0">
+    <frame z="5" tweenEasing="0" duration="5">
+     <transform x="16.5" y="9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="7">
+     <transform x="16.5" y="9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="2">
+     <transform x="16.5" y="9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="5" tweenEasing="0" duration="2">
+     <transform x="15.3" y="8.35" skX="0" skY="0" scX="1.08" scY="1.08" pX="0" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="79" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="24.25" y="20.4" skX="0" skY="0" scX="0.37" scY="0.37" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="75" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Drip/dirp_move">
+  <bone name="shuidi">
+   <transform x="30.3" y="31.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="default">
+   <slot name="shuidi" parent="shuidi" z="0">
+    <display name="Drip/dirp_explode222222" type="image">
+     <transform x="-30.3" y="-31.75" skX="0" skY="0" scX="1" scY="1" pX="27" pY="29.55"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="dirp_move" fadeInTime="0" duration="7" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="shuidi" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="3">
+     <transform x="30.3" y="31.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="30.3" y="31.8" skX="0" skY="0" scX="1.18" scY="0.76" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="30.2" y="31.8" skX="0" skY="0" scX="1.1" scY="0.85" pX="-0.05" pY="-0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="50" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="30.15" y="31.75" skX="0" skY="0" scX="1" scY="1" pX="-0.05" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="40" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="Drip/drip_eff_fly">
+  <bone name="dapao4">
+   <transform x="-36.05" y="-2.6" skX="0" skY="0" scX="0.65" scY="0.65"/>
+  </bone>
+  <bone name="dapao3">
+   <transform x="-33.15" y="20.9" skX="0" skY="0" scX="0.65" scY="0.65"/>
+  </bone>
+  <bone name="dapao2">
+   <transform x="-21.05" y="5.2" skX="0" skY="0" scX="0.92" scY="0.92"/>
+  </bone>
+  <bone name="dapao1">
+   <transform x="1.25" y="0.35" skX="0" skY="0" scX="0.49" scY="0.49"/>
+  </bone>
+  <skin name="default">
+   <slot name="dapao4" parent="dapao4" z="0">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.45" y="-10.2" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="dapao3" parent="dapao3" z="1">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.45" y="-10.25" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="dapao2" parent="dapao2" z="2">
+    <display name="dripeff/xiaopao" type="image">
+     <transform x="-11.45" y="-10.15" skX="0" skY="0" scX="1" scY="1" pX="0.05" pY="1.7"/>
+    </display>
+   </slot>
+   <slot name="dapao1" parent="dapao1" z="3">
+    <display name="dripeff/faguang shuidi" type="image">
+     <transform x="-43.5" y="-38.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="drip_eff_fly" fadeInTime="0" duration="22" scale="1" loop="1" autoTween="0" tweenEasing="NaN">
+   <timeline name="dapao4" scale="1" offset="0">
+    <frame duration="3" displayIndex="-1"/>
+    <frame z="0" tweenEasing="0.82" duration="3">
+     <transform x="-36.05" y="-2.6" skX="0" skY="0" scX="0.65" scY="0.65" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="10">
+     <transform x="-15.75" y="-12.2" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="4">
+     <transform x="-0.65" y="9.5" skX="0" skY="0" scX="0.44" scY="0.44" pX="-0.15" pY="0.05"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="0.55" y="0.1" skX="0" skY="0" scX="0.92" scY="0.92" pX="0" pY="0.05"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="dapao3" scale="1" offset="0">
+    <frame duration="3" displayIndex="-1"/>
+    <frame z="1" tweenEasing="0.82" duration="3">
+     <transform x="-33.15" y="20.9" skX="0" skY="0" scX="0.65" scY="0.65" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="10">
+     <transform x="-19.9" y="15.25" skX="0" skY="0" scX="0.45" scY="0.45" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="4">
+     <transform x="-7.85" y="7.1" skX="0" skY="0" scX="0.44" scY="0.44" pX="-0.15" pY="0.1"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="1">
+     <transform x="0.55" y="0.1" skX="0" skY="0" scX="0.92" scY="0.92" pX="0" pY="0.1"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+   <timeline name="dapao2" scale="1" offset="0">
+    <frame z="2" tweenEasing="0.82" duration="14">
+     <transform x="-21.05" y="5.2" skX="0" skY="0" scX="0.92" scY="0.92" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="4">
+     <transform x="0.5" y="0.35" skX="0" skY="0" scX="0.65" scY="0.65" pX="-0.05" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="1">
+     <transform x="0.55" y="0.1" skX="0" skY="0" scX="0.92" scY="0.92" pX="0" pY="0"/>
+    </frame>
+    <frame duration="3" displayIndex="-1"/>
+   </timeline>
+   <timeline name="dapao1" scale="1" offset="0">
+    <frame z="3" tweenEasing="0.82" duration="12">
+     <transform x="1.25" y="0.35" skX="0" skY="0" scX="0.49" scY="0.49" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="85" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="1.1" y="0.6" skX="0" skY="0" scX="0.5" scY="0.5" pX="0" pY="0.1"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="85" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" tweenEasing="0" duration="4">
+     <transform x="1.1" y="0.6" skX="0" skY="0" scX="0.9" scY="0.9" pX="0" pY="0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="77" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="1.1" y="0.6" skX="0" skY="0" scX="0.44" scY="0.44" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="68" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="1" displayIndex="-1"/>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

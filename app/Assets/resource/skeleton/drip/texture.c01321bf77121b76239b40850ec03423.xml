@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:66719ff0c1c46aa272c9f13844e82041:6f07bf1008bc4c067fee9e79b6ad3b53:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="Drip/dirp_explode222222" x="2" y="119" width="99" height="83" frameX="0" frameY="-32" frameWidth="123" frameHeight="115"/>
+    <SubTexture name="dashuidi" x="2" y="204" width="94" height="78"/>
+    <SubTexture name="dripeff/faguang shuidi" x="136" y="2" width="115" height="105" frameX="0" frameY="-4" frameWidth="123" frameHeight="115"/>
+    <SubTexture name="dripeff/paoduo" x="2" y="2" width="132" height="115"/>
+    <SubTexture name="dripeff/paopaoduo" x="136" y="109" width="109" height="106"/>
+    <SubTexture name="dripeff/xiaopao" x="253" y="2" width="24" height="24"/>
+    <SubTexture name="dripeff/xiaopao1" x="253" y="100" width="22" height="22"/>
+    <SubTexture name="dripeff/xiaopao2" x="253" y="76" width="22" height="22"/>
+    <SubTexture name="dripeff/xiaopao3" x="253" y="52" width="22" height="22"/>
+    <SubTexture name="dripeff/xiaopao4" x="253" y="28" width="22" height="22"/>
+    <SubTexture name="saihong shui" x="247" y="140" width="13" height="11" frameX="-1" frameY="-1" frameWidth="15" frameHeight="13"/>
+    <SubTexture name="shui yanjing" x="247" y="124" width="36" height="14"/>
+    <SubTexture name="shuishen" x="98" y="217" width="77" height="70"/>
+</TextureAtlas>

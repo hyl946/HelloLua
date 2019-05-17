@@ -1,0 +1,43 @@
+{
+	"image": "black_radial.png",
+	"config": "black_radial.plist",
+	"stageHeight": 400,
+	"stageWidth": 550,
+	"version": 1,
+	"groups": {
+		"blackRadial/black_radial": [
+			{
+				"x": 0,
+				"y": 0,
+				"width": 822.4,
+				"height": 334.25,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 0,
+				"skewY": 0,
+				"rotation": 0,
+				"index": 0,
+				"id": "top",
+				"image": "blackRadial/black_part",
+				"type": 0,
+				"scalingGrid": false
+			},
+			{
+				"x": 0,
+				"y": 1358,
+				"width": 822.4,
+				"height": 334.25,
+				"scaleX": 1,
+				"scaleY": 1,
+				"skewX": 180,
+				"skewY": 0,
+				"rotation": null,
+				"index": 1,
+				"id": "btm",
+				"image": "blackRadial/black_part",
+				"type": 0,
+				"scalingGrid": false
+			}
+		]
+	}
+}

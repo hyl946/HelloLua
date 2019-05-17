@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b31f68589ad081e887f0613e4138a51c:0443ba94316517b591f60b640f99ddeb:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="pig-act-pkg-anim/res/_assets/pig.year.act.anim/res-1/ssss/重复项目文件夹/元件 18 副本" x="143" y="66" width="139" height="139" frameX="-6" frameY="-6" frameWidth="151" frameHeight="151"/>
+    <SubTexture name="pig-act-pkg-anim/res/res/重复项目文件夹/元件 18 副本 6" x="2" y="66" width="139" height="139" frameX="-7" frameY="-6" frameWidth="151" frameHeight="151"/>
+    <SubTexture name="pig-act-pkg-anim/res/res/重复项目文件夹/元件 45" x="236" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="107" frameHeight="111"/>
+    <SubTexture name="pig-act-pkg-anim/res/元件 42" x="2" y="2" width="222" height="62" frameX="-6" frameY="-4" frameWidth="232" frameHeight="74"/>
+    <SubTexture name="pig-act-pkg-anim/res/重复项目文件夹/ui_fontsize_rect 副本" x="226" y="2" width="8" height="8"/>
+</TextureAtlas>

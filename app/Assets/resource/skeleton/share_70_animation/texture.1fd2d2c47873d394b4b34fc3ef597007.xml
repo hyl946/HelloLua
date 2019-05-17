@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a514107307d46539c5739a92b8b1d4f1:39663b12361d7ff0fc0aa4175be1fb6c:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="HHOK" x="2" y="354" width="522" height="167" frameX="-2" frameY="-47" frameWidth="528" frameHeight="235"/>
+    <SubTexture name="__dbTextures/shdin51/1_0" x="2" y="2" width="336" height="350"/>
+    <SubTexture name="dfdf__uk__1" x="2" y="523" width="262" height="223" frameX="-8" frameY="-12" frameWidth="270" frameHeight="237"/>
+    <SubTexture name="vbnv__uk__3" x="340" y="2" width="317" height="317" frameX="-25" frameY="-15" frameWidth="365" frameHeight="349"/>
+    <SubTexture name="vnoo" x="659" y="73" width="59" height="55" frameX="-6" frameY="-7" frameWidth="73" frameHeight="73"/>
+    <SubTexture name="vud" x="526" y="321" width="195" height="265" frameX="-28" frameY="0" frameWidth="241" frameHeight="273"/>
+    <SubTexture name="xingguang" x="659" y="2" width="71" height="69"/>
+    <SubTexture name="xingxing__uk__12" x="340" y="321" width="17" height="15"/>
+</TextureAtlas>

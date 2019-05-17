@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:45cab3a5efea11ea00ad9627d6e0a4ea:8a2c8c499b562cd1fefbd096cea80660:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/area_icon_8" x="469" y="384" width="102" height="88" frameX="-4" frameY="-16" frameWidth="112" frameHeight="112"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/cloud" x="2" y="136" width="559" height="246" frameX="-10" frameY="-4" frameWidth="583" frameHeight="268"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/guanqiahuab" x="599" y="2" width="376" height="384" frameX="-24" frameY="-12" frameWidth="420" frameHeight="412"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/huanxiong" x="469" y="474" width="468" height="449" frameX="-22" frameY="-25" frameWidth="520" frameHeight="505"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/txt" x="100" y="925" width="92" height="33"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/xingguang" x="573" y="388" width="71" height="69"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/渐变黄" x="2" y="854" width="96" height="96"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/重复项目文件夹/hongdai 副本 2" x="2" y="2" width="595" height="132"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/重复项目文件夹/位图 1" x="2" y="388" width="465" height="464" frameX="-21" frameY="-22" frameWidth="511" frameHeight="512"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/重复项目文件夹/元件 26 副本 3" x="575" y="136" width="9" height="8" frameX="0" frameY="-1" frameWidth="9" frameHeight="10"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/重复项目文件夹/元件 27 副本 2" x="586" y="136" width="4" height="4"/>
+    <SubTexture name="dsacdsuya7f88sdhc7sa6f896dsa78gcd78sa6fds/重复项目文件夹/元件 28 副本" x="563" y="136" width="10" height="10"/>
+</TextureAtlas>

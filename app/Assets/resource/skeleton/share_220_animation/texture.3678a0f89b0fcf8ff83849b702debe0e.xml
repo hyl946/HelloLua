@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:74639b2fc7551cf1d90d3feda01336f9:895945e6418cb25b020a1c73c92a04ae:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="__dbTextures/share_220_animation/vnn_0" x="2" y="424" width="336" height="350"/>
+    <SubTexture name="share_animation/bvbnv" x="561" y="377" width="40" height="38" frameX="0" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="share_animation/dfdf" x="476" y="2" width="282" height="373" frameX="-7" frameY="-3" frameWidth="304" frameHeight="385"/>
+    <SubTexture name="share_animation/r55nb" x="2" y="259" width="451" height="163" frameX="-6" frameY="-16" frameWidth="471" frameHeight="189"/>
+    <SubTexture name="share_animation/sfhjj" x="2" y="2" width="472" height="255" frameX="-26" frameY="-28" frameWidth="556" frameHeight="333"/>
+    <SubTexture name="share_animation/vnbs" x="340" y="424" width="79" height="80" frameX="0" frameY="0" frameWidth="81" frameHeight="80"/>
+    <SubTexture name="share_animation/vnsa" x="455" y="377" width="104" height="98" frameX="-16" frameY="-24" frameWidth="130" frameHeight="126"/>
+    <SubTexture name="share_animation/xingxing" x="455" y="259" width="17" height="15"/>
+</TextureAtlas>

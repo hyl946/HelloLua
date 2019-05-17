@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d8b68b5cd755f6d4681333ce387a8bae:f6dfc7613ced9423f50e9317d936e5be:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="update_version_47/PVP连胜领奖连胜弹窗/star2" x="191" y="188" width="66" height="65"/>
+    <SubTexture name="update_version_47/quan" x="572" y="144" width="17" height="17"/>
+    <SubTexture name="update_version_47/xingguang" x="519" y="73" width="71" height="69"/>
+    <SubTexture name="update_version_47/yy" x="2" y="2" width="515" height="77" frameX="-16" frameY="0" frameWidth="531" frameHeight="77"/>
+    <SubTexture name="update_version_47/元件 13" x="2" y="160" width="276" height="26"/>
+    <SubTexture name="update_version_47/元件 14 副本" x="503" y="144" width="67" height="66" frameX="-10" frameY="-7" frameWidth="83" frameHeight="84"/>
+    <SubTexture name="update_version_47/元件 14" x="191" y="390" width="231" height="213"/>
+    <SubTexture name="update_version_47/元件 17" x="2" y="509" width="102" height="66" frameX="0" frameY="-1" frameWidth="104" frameHeight="70"/>
+    <SubTexture name="update_version_47/元件 18" x="469" y="281" width="120" height="69" frameX="-6" frameY="-5" frameWidth="126" frameHeight="75"/>
+    <SubTexture name="update_version_47/元件 19" x="469" y="212" width="122" height="67" frameX="-1" frameY="-2" frameWidth="124" frameHeight="71"/>
+    <SubTexture name="update_version_47/元件 3" x="424" y="390" width="178" height="175" frameX="0" frameY="0" frameWidth="186" frameHeight="181"/>
+    <SubTexture name="update_version_47/元件 4" x="2" y="442" width="187" height="65" frameX="-4" frameY="-8" frameWidth="197" frameHeight="99"/>
+    <SubTexture name="update_version_47/重复项目文件夹/gfh 副本 2" x="280" y="160" width="187" height="228" frameX="-10" frameY="-12" frameWidth="207" frameHeight="252"/>
+    <SubTexture name="update_version_47/重复项目文件夹/gfh 副本" x="2" y="212" width="187" height="228" frameX="-10" frameY="-12" frameWidth="207" frameHeight="252"/>
+    <SubTexture name="update_version_47/重复项目文件夹/quan" x="572" y="144" width="17" height="17"/>
+    <SubTexture name="update_version_47/重复项目文件夹/star2" x="191" y="188" width="66" height="65"/>
+    <SubTexture name="update_version_47/重复项目文件夹/xingguang" x="519" y="2" width="71" height="69"/>
+    <SubTexture name="update_version_47/重复项目文件夹/yy" x="2" y="81" width="499" height="77" frameX="-16" frameY="0" frameWidth="531" frameHeight="77"/>
+    <SubTexture name="update_version_47/重复项目文件夹/元件 3" x="592" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="529" frameHeight="166"/>
+</TextureAtlas>

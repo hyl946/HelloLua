@@ -1,0 +1,10 @@
+"payfail.choose.payment.set" = "将此支付方式设为优先支付方式";
+"payfail.choose.payment.text" = "试试其它支付方式：";
+"payfail.choose.payment.title" = "支付失败";
+"payfail.neednet1.1" = "当前";
+"payfail.neednet1.2" = "没有联网";
+"payfail.neednet1.3" = "，不能使用";
+"payfail.neednet1.4" = "哦！";
+"payfail.neednet2.1" = "该功能";
+"payfail.neednet2.2" = "需要联网";
+"payfail.neednet2.3" = "请检查您的网络状态。";

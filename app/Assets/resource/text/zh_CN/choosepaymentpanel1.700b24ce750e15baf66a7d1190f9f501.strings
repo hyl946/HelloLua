@@ -1,0 +1,15 @@
+"panel.choosepayment.alipay" = "支付宝支付";
+"panel.choosepayment.alipay.kuaifu" = "开通支付宝免密支付";
+"panel.choosepayment.alipay.kuaifu1" = "开通支付宝免密支付";
+"panel.choosepayment.alipay.ykt" = "通过支付宝免密支付";
+"panel.choosepayment.answer.0" = "开通支付宝免密支付后，每次小额支付时不再需要反复输入密码，方便安全。";
+"panel.choosepayment.answer.1" = "1.安全保障，仅限小额支付";
+"panel.choosepayment.answer.2" = "2.此操作仅授权给开心消消乐";
+"panel.choosepayment.button" = "开通";
+"panel.choosepayment.payments.huawei" = "华为支付";
+"panel.choosepayment.payments.qqwallet" = "QQ钱包";
+"panel.choosepayment.quest" = "支付宝免密支付是？";
+"panel.choosepayment.set" = "优先支付方式";
+"panel.choosepayment.title1" = "选择支付方式";
+"panel.choosepayment.wechat" = "微信支付";
+"panel.choosepayment.wechatfri" = "好友代付";

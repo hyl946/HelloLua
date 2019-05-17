@@ -1,0 +1,457 @@
+<dragonBones name="area_task_liusha" frameRate="24" version="2.3">
+ <armature name="area_task.liusha/anim">
+  <bone name="图层 5">
+   <transform x="35.5" y="16.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="PointUp">
+   <transform x="37.6" y="-10.2" skX="180" skY="-180" scX="-0.305435" scY="0.305435"/>
+  </bone>
+  <bone name="PointUp_0">
+   <transform x="34.5" y="-15.8" skX="180" skY="-180" scX="-0.305435" scY="0.305435"/>
+  </bone>
+  <bone name="PointUp_1">
+   <transform x="33.1" y="-3.55" skX="180" skY="-180" scX="-1.322144" scY="1.322144"/>
+  </bone>
+  <bone name="PointUp2">
+   <transform x="35.45" y="22.9" skX="180" skY="-180" scX="-0.958481" scY="0.958481"/>
+  </bone>
+  <bone name="PointUp_2">
+   <transform x="37.05" y="23.1" skX="180" skY="-180" scX="-1.013062" scY="1.013062"/>
+  </bone>
+  <bone name="PointUp2_0">
+   <transform x="35.7" y="9.15" skX="180" skY="-180" scX="-0.305435" scY="0.305435"/>
+  </bone>
+  <bone name="PointUp2_1">
+   <transform x="35.7" y="-1" skX="180" skY="-180" scX="-0.305435" scY="0.305435"/>
+  </bone>
+  <bone name="PointUp2_2">
+   <transform x="35.35" y="2" skX="180" skY="-180" scX="-1.061707" scY="1.061707"/>
+  </bone>
+  <bone name="PointUp_3">
+   <transform x="33.35" y="10.55" skX="180" skY="-180" scX="-0.79335" scY="0.79335"/>
+  </bone>
+  <bone name="PointUp_4">
+   <transform x="43.55" y="-4.4" skX="180" skY="-180" scX="-0.871948" scY="0.871948"/>
+  </bone>
+  <bone name="PointUp_5">
+   <transform x="34.3" y="-14.85" skX="180" skY="-180" scX="-0.384827" scY="0.384827"/>
+  </bone>
+  <bone name="PointUp_6">
+   <transform x="28.35" y="0.45" skX="180" skY="-180" scX="-1.638245" scY="1.638245"/>
+  </bone>
+  <bone name="PointUp2_3">
+   <transform x="30.95" y="8" skX="180" skY="-180" scX="-2.184326" scY="2.184326"/>
+  </bone>
+  <bone name="PointUp_7">
+   <transform x="36.1" y="-16.25" skX="180" skY="-180" scX="-0.368179" scY="0.368179"/>
+  </bone>
+  <bone name="PointUp2_4">
+   <transform x="46.35" y="1.45" skX="180" skY="-180" scX="-1.344208" scY="1.344208"/>
+  </bone>
+  <bone name="PointUp2_5">
+   <transform x="39.3" y="-4.25" skX="180" skY="-180" scX="-1.568237" scY="1.568237"/>
+  </bone>
+  <bone name="PointUp2_6">
+   <transform x="35.7" y="-14.9" skX="180" skY="-180" scX="-0.305435" scY="0.305435"/>
+  </bone>
+  <bone name="PointUp_8">
+   <transform x="31.2" y="-11.2" skX="180" skY="-180" scX="-0.968475" scY="0.968475"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 5" parent="图层 5" z="0">
+    <display name="area_task.liusha/元件 2" type="image">
+     <transform x="-5.2" y="-33.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </display>
+   </slot>
+   <slot name="PointUp" parent="PointUp" z="1" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.4" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+   <slot name="PointUp_0" parent="PointUp_0" z="2" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.4" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+   <slot name="PointUp_1" parent="PointUp_1" z="3">
+    <display name="area_task.liusha/PointUp" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp2" parent="PointUp2" z="4">
+    <display name="area_task.liusha/PointUp2" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp_2" parent="PointUp_2" z="5">
+    <display name="area_task.liusha/PointUp" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp2_0" parent="PointUp2_0" z="6" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.45" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+   <slot name="PointUp2_1" parent="PointUp2_1" z="7" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.45" y="-4.05" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+   <slot name="PointUp2_2" parent="PointUp2_2" z="8">
+    <display name="area_task.liusha/PointUp2" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp_3" parent="PointUp_3" z="9">
+    <display name="area_task.liusha/PointUp" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp_4" parent="PointUp_4" z="10">
+    <display name="area_task.liusha/重复项目文件夹/PointUp" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp_5" parent="PointUp_5" z="11" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.45" y="-4.15" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+   <slot name="PointUp_6" parent="PointUp_6" z="12">
+    <display name="area_task.liusha/重复项目文件夹/PointUp" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp2_3" parent="PointUp2_3" z="13">
+    <display name="area_task.liusha/重复项目文件夹/PointUp2" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp_7" parent="PointUp_7" z="14" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.5" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+   <slot name="PointUp2_4" parent="PointUp2_4" z="15">
+    <display name="area_task.liusha/重复项目文件夹/PointUp2" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp2_5" parent="PointUp2_5" z="16">
+    <display name="area_task.liusha/重复项目文件夹/PointUp2" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+   <slot name="PointUp2_6" parent="PointUp2_6" z="17" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.45" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+   <slot name="PointUp_8" parent="PointUp_8" z="18">
+    <display name="area_task.liusha/重复项目文件夹/PointUp" type="armature">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="1" fadeInTime="0" duration="30" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 5" scale="1" offset="0">
+    <frame z="0" duration="30">
+     <transform x="35.5" y="16.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp" scale="1" offset="0">
+    <frame z="1" tweenEasing="0" duration="10">
+     <transform x="37.6" y="-10.2" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" tweenEasing="0" duration="10">
+     <transform x="37.6" y="-2.45" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0.05"/>
+    </frame>
+    <frame z="1" duration="4">
+     <transform x="37.6" y="5.3" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="6" displayIndex="-1"/>
+   </timeline>
+   <timeline name="PointUp_0" scale="1" offset="0">
+    <frame z="2" tweenEasing="0" duration="6">
+     <transform x="34.5" y="-15.8" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="33" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="10">
+     <transform x="34.5" y="-11.15" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" tweenEasing="0" duration="10">
+     <transform x="34.5" y="-3.4" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="34.5" y="4.35" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="2" displayIndex="-1"/>
+   </timeline>
+   <timeline name="PointUp_1" scale="1" offset="0">
+    <frame z="3" duration="30">
+     <transform x="33.1" y="-3.55" skX="180" skY="-180" scX="-1.322144" scY="1.322144" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp2" scale="1" offset="0">
+    <frame z="4" duration="30">
+     <transform x="35.45" y="22.9" skX="180" skY="-180" scX="-0.958481" scY="0.958481" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp_2" scale="1" offset="0">
+    <frame z="5" duration="30">
+     <transform x="37.05" y="23.1" skX="180" skY="-180" scX="-1.013062" scY="1.013062" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp2_0" scale="1" offset="0">
+    <frame z="6" tweenEasing="0" duration="3">
+     <transform x="35.7" y="9.15" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="67" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="10">
+     <transform x="35.7" y="11.5" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" tweenEasing="0" duration="10">
+     <transform x="35.7" y="19.25" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="7">
+     <transform x="35.7" y="27" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp2_1" scale="1" offset="0">
+    <frame z="7" tweenEasing="0" duration="5">
+     <transform x="35.7" y="-1" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="45" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="10">
+     <transform x="35.7" y="2.9" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="7" tweenEasing="0" duration="10">
+     <transform x="35.7" y="10.65" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="-0.05"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="35.7" y="18.4" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="-0.05"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame duration="4" displayIndex="-1"/>
+   </timeline>
+   <timeline name="PointUp2_2" scale="1" offset="0">
+    <frame z="8" duration="30">
+     <transform x="35.35" y="2" skX="180" skY="-180" scX="-1.061707" scY="1.061707" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp_3" scale="1" offset="0">
+    <frame z="9" duration="30">
+     <transform x="33.35" y="10.55" skX="180" skY="-180" scX="-0.79335" scY="0.79335" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp_4" scale="1" offset="0">
+    <frame z="10" duration="30">
+     <transform x="43.55" y="-4.4" skX="180" skY="-180" scX="-0.871948" scY="0.871948" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp_5" scale="1" offset="0">
+    <frame z="11" tweenEasing="0" duration="5">
+     <transform x="34.3" y="-14.85" skX="180" skY="-180" scX="-0.384827" scY="0.384827" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="45" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="10">
+     <transform x="34.3" y="-9.95" skX="180" skY="-180" scX="-0.384827" scY="0.384827" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" tweenEasing="0" duration="10">
+     <transform x="34.3" y="-0.15" skX="180" skY="-180" scX="-0.384827" scY="0.384827" pX="0" pY="0.1"/>
+    </frame>
+    <frame z="11" duration="5">
+     <transform x="34.3" y="9.6" skX="180" skY="-180" scX="-0.384827" scY="0.384827" pX="0" pY="0.15"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp_6" scale="1" offset="0">
+    <frame z="12" duration="30">
+     <transform x="28.35" y="0.45" skX="180" skY="-180" scX="-1.638245" scY="1.638245" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp2_3" scale="1" offset="0">
+    <frame z="13" duration="30">
+     <transform x="30.95" y="8" skX="180" skY="-180" scX="-2.184326" scY="2.184326" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp_7" scale="1" offset="0">
+    <frame z="14" tweenEasing="0" duration="9">
+     <transform x="36.1" y="-16.25" skX="180" skY="-180" scX="-0.368179" scY="0.368179" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="10">
+     <transform x="36.1" y="-7.8" skX="180" skY="-180" scX="-0.368179" scY="0.368179" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" tweenEasing="0" duration="10">
+     <transform x="36.1" y="1.55" skX="180" skY="-180" scX="-0.368179" scY="0.368179" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="1">
+     <transform x="36.1" y="10.9" skX="180" skY="-180" scX="-0.368179" scY="0.368179" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp2_4" scale="1" offset="0">
+    <frame z="15" duration="30">
+     <transform x="46.35" y="1.45" skX="180" skY="-180" scX="-1.344208" scY="1.344208" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp2_5" scale="1" offset="0">
+    <frame z="16" duration="30">
+     <transform x="39.3" y="-4.25" skX="180" skY="-180" scX="-1.568237" scY="1.568237" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp2_6" scale="1" offset="0">
+    <frame z="17" tweenEasing="0" duration="9">
+     <transform x="35.7" y="-14.9" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="10">
+     <transform x="35.7" y="-7.9" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" tweenEasing="0" duration="10">
+     <transform x="35.7" y="-0.15" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="1">
+     <transform x="35.7" y="7.6" skX="180" skY="-180" scX="-0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+   <timeline name="PointUp_8" scale="1" offset="0">
+    <frame z="18" duration="30">
+     <transform x="31.2" y="-11.2" skX="180" skY="-180" scX="-0.968475" scY="0.968475" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="area_task.liusha/PointUp">
+  <bone name="图层 1">
+   <transform x="0.15" y="9.3" skX="0" skY="0" scX="0.305435" scY="0.305435"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="area_task.liusha/元件 15023 副本" type="image">
+     <transform x="-4.45" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="5.1" pY="5.95"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="30" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="9">
+     <transform x="0.15" y="9.3" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="10">
+     <transform x="0.15" y="2.3" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="10">
+     <transform x="0.15" y="-5.45" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="0.15" y="-13.2" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="area_task.liusha/重复项目文件夹/PointUp">
+  <bone name="图层 1">
+   <transform x="0.15" y="9.3" skX="0" skY="0" scX="0.305435" scY="0.305435"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.45" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="unnamed" fadeInTime="0" duration="30" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="9">
+     <transform x="0.15" y="9.3" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="10">
+     <transform x="0.15" y="2.3" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="10">
+     <transform x="0.15" y="-5.45" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="0.15" y="-13.2" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="area_task.liusha/重复项目文件夹/PointUp2">
+  <bone name="图层 1">
+   <transform x="0.15" y="1.75" skX="0" skY="0" scX="0.305435" scY="0.305435"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0" blendMode="add">
+    <display name="area_task.liusha/重复项目文件夹/元件 15023 副本" type="image">
+     <transform x="-4.45" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="1.45" pY="1.45"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="1" fadeInTime="0" duration="30" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="9">
+     <transform x="0.15" y="1.75" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="10">
+     <transform x="0.15" y="-4.6" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="0.15" y="-11.5" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="9">
+     <transform x="0.15" y="9.3" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="0.15" y="2.5" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+ <armature name="area_task.liusha/PointUp2">
+  <bone name="图层 1">
+   <transform x="0.15" y="1.75" skX="0" skY="0" scX="0.305435" scY="0.305435"/>
+  </bone>
+  <skin name="default">
+   <slot name="图层 1" parent="图层 1" z="0">
+    <display name="area_task.liusha/元件 15023 副本" type="image">
+     <transform x="-4.45" y="-4.1" skX="0" skY="0" scX="1" scY="1" pX="5.1" pY="5.95"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="1" fadeInTime="0" duration="30" scale="1" loop="0" autoTween="0" tweenEasing="NaN">
+   <timeline name="图层 1" scale="1" offset="0">
+    <frame z="0" tweenEasing="0" duration="9">
+     <transform x="0.15" y="1.75" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="10">
+     <transform x="0.15" y="-4.6" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="0.15" y="-11.5" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="9">
+     <transform x="0.15" y="9.3" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+     <colorTransform aO="0" rO="0" gO="0" bO="0" aM="0" rM="100" gM="100" bM="100"/>
+    </frame>
+    <frame z="0" tweenEasing="0" duration="1">
+     <transform x="0.15" y="2.5" skX="0" skY="0" scX="0.305435" scY="0.305435" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>

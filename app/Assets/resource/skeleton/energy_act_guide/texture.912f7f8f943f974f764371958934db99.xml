@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8ffdbe859a6a339f216ff756f1c86f0b:750f558907c4940dae461163e0ed9155:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="energy_act_guide/res/元件 15" x="2" y="452" width="58" height="36" frameX="-1" frameY="0" frameWidth="60" frameHeight="36"/>
+    <SubTexture name="energy_act_guide/res/元件 17 副本" x="186" y="333" width="79" height="76" frameX="-5" frameY="-11" frameWidth="97" frameHeight="98"/>
+    <SubTexture name="energy_act_guide/res/元件 18" x="150" y="450" width="38" height="38" frameX="-3" frameY="-2" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="energy_act_guide/res/元件 19" x="267" y="332" width="68" height="57" frameX="-1" frameY="-5" frameWidth="72" frameHeight="69"/>
+    <SubTexture name="energy_act_guide/res/元件 20" x="312" y="437" width="44" height="20" frameX="0" frameY="0" frameWidth="44" frameHeight="22"/>
+    <SubTexture name="energy_act_guide/res/元件 23" x="269" y="391" width="38" height="57" frameX="-10" frameY="-5" frameWidth="54" frameHeight="65"/>
+    <SubTexture name="energy_act_guide/res/元件 24" x="2" y="204" width="176" height="141" frameX="-16" frameY="-22" frameWidth="198" frameHeight="187"/>
+    <SubTexture name="energy_act_guide/res/元件 27" x="2" y="347" width="83" height="103" frameX="-5" frameY="-3" frameWidth="99" frameHeight="121"/>
+    <SubTexture name="energy_act_guide/res/元件 31" x="62" y="452" width="86" height="32"/>
+    <SubTexture name="energy_act_guide/res/元件 32" x="273" y="306" width="96" height="23"/>
+    <SubTexture name="energy_act_guide/res/重复项目文件夹/b 副本 5" x="269" y="450" width="41" height="23"/>
+    <SubTexture name="energy_act_guide/res/重复项目文件夹/元件 16 副本" x="309" y="391" width="57" height="44" frameX="-3" frameY="-5" frameWidth="63" frameHeight="52"/>
+    <SubTexture name="energy_act_guide/res/重复项目文件夹/元件 21 副本 2" x="180" y="306" width="48" height="25" frameX="0" frameY="0" frameWidth="48" frameHeight="31"/>
+    <SubTexture name="energy_act_guide/res/重复项目文件夹/元件 22 副本 2" x="230" y="306" width="41" height="24" frameX="0" frameY="-6" frameWidth="45" frameHeight="38"/>
+    <SubTexture name="energy_act_guide/res/重复项目文件夹/元件 25 副本 4" x="190" y="411" width="77" height="72" frameX="-4" frameY="-5" frameWidth="85" frameHeight="86"/>
+    <SubTexture name="energy_act_guide/res/重复项目文件夹/元件 26 副本 4" x="180" y="204" width="94" height="100" frameX="-15" frameY="-3" frameWidth="118" frameHeight="120"/>
+    <SubTexture name="energy_act_guide/res/重复项目文件夹/元件 28" x="87" y="347" width="97" height="101" frameX="-21" frameY="-11" frameWidth="145" frameHeight="135"/>
+    <SubTexture name="energy_act_guide/res/重复项目文件夹/元件 39 副本 3" x="2" y="2" width="486" height="200" frameX="-46" frameY="-54" frameWidth="572" frameHeight="254"/>
+</TextureAtlas>

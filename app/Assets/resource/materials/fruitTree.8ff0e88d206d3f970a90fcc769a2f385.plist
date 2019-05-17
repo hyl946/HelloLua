@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fruitTree</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{960,1480}}</string>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{960,1480}</string>
+			<key>spriteSourceSize</key>
+			<string>{960,1480}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0,0},{960,1480}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{960,1480}</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>fruitTree.png</string>
+			<key>textureFileName</key>
+			<string>fruitTree</string>
+			<key>textureFileExtension</key>
+			<string>png</string>
+			<key>premultipliedAlpha</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

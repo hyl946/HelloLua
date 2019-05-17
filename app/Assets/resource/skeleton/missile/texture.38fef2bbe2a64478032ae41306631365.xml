@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0366850aab831433f86701505771b7f0:d9bfcc2a0f35a2720add70ed8a61b06d:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="__dbTextures/out/stand0/图层 4_0" x="86" y="76" width="71" height="38" frameX="-2" frameY="0" frameWidth="83" frameHeight="48"/>
+    <SubTexture name="__dbTextures/out/stand1/图层 3_0" x="85" y="158" width="71" height="39" frameX="-2" frameY="0" frameWidth="83" frameHeight="49"/>
+    <SubTexture name="__dbTextures/out/stand2/图层 2_0" x="85" y="116" width="71" height="40" frameX="-2" frameY="0" frameWidth="83" frameHeight="50"/>
+    <SubTexture name="he_animal_1_12_1010441045338" x="2" y="164" width="66" height="70" frameX="-1" frameY="-3" frameWidth="76" frameHeight="82"/>
+    <SubTexture name="he_animal_1_13_9210441045346" x="229" y="2" width="16" height="101"/>
+    <SubTexture name="he_animal_1_17_8410441045380" x="158" y="128" width="61" height="61"/>
+    <SubTexture name="he_animal_1_18_6710441045387" x="162" y="2" width="65" height="64" frameX="-4" frameY="0" frameWidth="73" frameHeight="68"/>
+    <SubTexture name="he_animal_1_19_2810441045397" x="86" y="2" width="74" height="72" frameX="-1" frameY="0" frameWidth="76" frameHeight="74"/>
+    <SubTexture name="he_animal_1_20_4210441045405" x="2" y="86" width="81" height="76" frameX="-1" frameY="-1" frameWidth="83" frameHeight="78"/>
+    <SubTexture name="he_animal_1_22_2810441045423" x="70" y="199" width="41" height="40" frameX="0" frameY="-1" frameWidth="43" frameHeight="42"/>
+    <SubTexture name="he_animal_1_25_2410441045452" x="70" y="164" width="11" height="11"/>
+    <SubTexture name="重复项目文件夹/he_animal_1_27_2710441045472" x="113" y="199" width="32" height="32"/>
+    <SubTexture name="重复项目文件夹/he_animal_1_39_6110441045573" x="2" y="2" width="82" height="82"/>
+    <SubTexture name="重复项目文件夹/he_animal_1_45_3410441045623" x="220" y="191" width="28" height="41" frameX="0" frameY="-1" frameWidth="28" frameHeight="43"/>
+    <SubTexture name="重复项目文件夹/he_animal_1_53_5410441045694" x="162" y="68" width="64" height="58" frameX="0" frameY="0" frameWidth="64" frameHeight="60"/>
+    <SubTexture name="重复项目文件夹/he_animal_1_54_8510441045703" x="158" y="191" width="60" height="56" frameX="-5" frameY="0" frameWidth="70" frameHeight="62"/>
+    <SubTexture name="重复项目文件夹/he_animal_1_56_4310441045719" x="220" y="234" width="11" height="11"/>
+</TextureAtlas>

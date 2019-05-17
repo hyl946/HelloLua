@@ -1,0 +1,10 @@
+"panel.choosepayment.ali.quickpay" = "支付宝免密";
+"panel.choosepayment.other" = "其他方式";
+"panel.choosepayment.payment.360" = "360支付";
+"panel.choosepayment.payments.jp_msdk" = "腾讯支付";
+"panel.choosepayment.payments.mi" = "小米支付";
+"panel.choosepayment.payments.qq" = "微信支付";
+"panel.choosepayment.payments.wdj" = "豌豆荚";
+"panel.choosepayment.title" = "请选择您的支付方式";
+"panel.choosepayment.unsupport.onlycmcc.tips" = "非常抱歉，暂不支持您当前的运营商话费支付。";
+"panel.choosepayment.unsupport.tips" = "非常抱歉，暂不支持您当前的运营商话费支付，您可以选择其他付费方式支付~";

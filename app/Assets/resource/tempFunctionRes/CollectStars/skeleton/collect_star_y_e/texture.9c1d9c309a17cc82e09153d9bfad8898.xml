@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:538ad62d3e973ece9eae1db77aa93f8d:3312359ab507983736f551b3d0b8de20:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<TextureAtlas imagePath="texture.png">
+    <SubTexture name="collect_star_y_e_ani/res/ertert3" x="2" y="461" width="19" height="19" frameX="-3" frameY="-3" frameWidth="29" frameHeight="29"/>
+    <SubTexture name="collect_star_y_e_ani/res/sdghy 副本 2" x="2" y="359" width="100" height="100"/>
+    <SubTexture name="collect_star_y_e_ani/res/元件 15" x="2" y="145" width="172" height="212" frameX="-22" frameY="-6" frameWidth="222" frameHeight="244"/>
+    <SubTexture name="collect_star_y_e_ani/res/元件 17" x="176" y="145" width="204" height="204"/>
+    <SubTexture name="collect_star_y_e_ani/res/重复项目文件夹/元件 2 副本 2" x="2" y="2" width="559" height="141" frameX="-3" frameY="-46" frameWidth="601" frameHeight="201"/>
+    <SubTexture name="collect_star_y_e_ani/res/重复项目文件夹/元件 27 副本 10" x="2" y="505" width="6" height="6"/>
+    <SubTexture name="collect_star_y_e_ani/res/重复项目文件夹/元件 28 副本 10" x="2" y="482" width="11" height="10"/>
+    <SubTexture name="collect_star_y_e_ani/res/重复项目文件夹/元件 8 副本 10" x="2" y="494" width="10" height="9"/>
+</TextureAtlas>
